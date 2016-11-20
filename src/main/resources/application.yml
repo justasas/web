@@ -1,0 +1,14 @@
+website:
+  url: http://localhost:8080/
+
+repository:
+  type: DATABASE
+
+database:
+   driver: org.postgresql.Driver
+   url: jdbc:postgresql://localhost:5432/movies
+   username: justas
+   password: slaptazodis
+
+logging.level.org.springframework.web: DEBUG
+logging.level.org.springframework.security: DEBUG

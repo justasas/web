@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorator="layout">
+<head>
+<link rel="stylesheet" th:href="@{/css/portfolio-item.css}" />
+<link rel="stylesheet" th:href="@{/css/tooltip.css}" />
+<link rel="stylesheet" th:href="@{/css/bootstrap-full-screen-select/bootstrap-fullscreen-select.css}" />
+
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script th:src="@{/js/jquery.lettering.js}"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script th:src="@{/js/tooltip.js}"></script>
+<script th:src="@{/js/bootstrap-full-screen-select/bootstrap-fullscreen-select.js}"></script>
+<script th:src="@{/js/movie.js}"></script>
+<script th:src="@{/js/subtitles.js}"></script>
+<script th:src="@{/js/translations.js}"></script>
+
+<title>Portfolio Item - Start Bootstrap Template</title>
+</head>
+<body>
+	<!-- Page Content -->
+	<div layout:fragment="content">
+		<!-- Portfolio Item Heading -->
+		<div class="row">
+			<div class="col-lg-12">
+				<h1 class="page-header">
+					Portfolio Item
+					<small>Translate subtitles to:</small>
+					
+					<small> <select id="selectLang" data-theme="holo" data-triggerOn="#customdiv" name="transTo"
+						onchange="selectLang(this.value)">
+							<option value=""></option>
+							<option value="AR">Arabic</option>
+							<option value="CS">Czech</option>
+							<option value="DU">Dutch</option>
+							<option value="DA">Danish</option>
+							<option value="EL">Greek</option>
+							<option value="ES">Spanish</option>
+							<option value="FR">French</option>
+							<option value="FA">Persian</option>
+							<option value="RU">Russian</option>
+							<option value="JA">Japanese</option>
+							<option value="ZH">Chinese</option>
+							<option value="POR">Portuguese</option>
+							<option value="IT">Italian</option>
+							<option value="PL">Polish</option>
+							<option value="TR">Turkish</option>
+							<option value="SV">Swedish</option>
+							<option value="LT">Lithuanian</option>
+							<option value="ID">Indonesian</option>
+							<option value="KO">Korean</option>
+							<option value="VI">Vietnamese</option>
+							<option value="RO">Romanian</option>
+							<option value="HU">Hungarian</option>
+							<option value="TH">Thai</option>
+							<option value="SK">Slovak</option>
+							<option value="BG">Bulgarian</option>
+							<option value="NO">Norwegian</option>
+							<option value="IW">Hebrew</option>
+							<option value="HR">Croatian</option>
+							<option value="UK">Ukrainian</option>
+							<option value="SR">Serbian</option>
+							<option value="SL">Slovenian</option>
+					</select>
+					</small>
+				</h1>
+			</div>
+		</div>
+		<!-- /.row -->
+
+		<div class="row">
+
+			<div class="col-md-12">
+			    <div id="customdiv"></div>
+				<div id="videoAndSubsContainer">
+					<!--<img class="img-responsive" src="http://placehold.it/1130x500" alt="" /> -->
+					<div class="playerContainer">
+						<div id="player"></div>
+					</div>
+					<div class="subs-block">aaaaaaaaaaaaaaa</div>
+				</div>
+			</div>
+		</div>
+		<!-- /.row -->
+
+
+		<hr></hr>
+
+	</div>
+
+</body>
+
+</html>

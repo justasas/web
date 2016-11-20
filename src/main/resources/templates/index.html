@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorator="layout">
+<head>
+	<link rel="stylesheet" th:href="@{/css/2-col-portfolio.css}" />
+</head>
+<body>
+	<div layout:fragment="content">
+
+		<!-- Page Header -->
+		<div class="row">
+			<div class="col-lg-12">
+				<h1 class="page-header">
+					Learn English by watching movies with subtitles <small>and built-in translator</small>
+				</h1>
+			</div>
+		</div>
+		<!-- /.row -->
+								
+		<!-- Projects Row -->
+		<div class="row" th:each="row : ${rows}">
+			<div th:each="movie : ${row}" class="col-md-6 portfolio-item">
+				<a th:href="@{/movie/{id}(id=${movie.id})}"> <img class="img-responsive"
+					src="http://placehold.it/700x400" alt=""></img>
+				</a>
+				<h3>
+					<a th:href="@{/movie/{id}(id=${movie.id})}" th:text="${movie.name}">Movie Name</a>
+				</h3>
+			</div>
+		</div>
+		<!-- /.row -->
+
+		<hr></hr>
+	</div>
+
+</body>
+</html>
