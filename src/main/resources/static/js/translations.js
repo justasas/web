@@ -6,8 +6,7 @@ $(document).on("mouseover", ".word", function() {
 	// var result = getTrans();
 	// getTrans($(this).text());
 	if (document.getElementById('selectLang').value == "")
-		$("#customdiv").click();
-	else {
+		$("#customdiv").click();else {
 		setTimeout(function() {
 			tooltip.pop(subs, 'loading...');
 			// + "\n" + "Definition: "+ result['definition'] );
@@ -28,19 +27,9 @@ $(document).on("mouseleave", ".word", function() {
 	player.playVideo();
 });
 
-$(document).ajaxComplete(function(event, xhr, settings) {
-	// alert(settings.url+'{{path('getTranslations')}}');
-	if (settings.url.indexOf('{{path(getTranslation') > -1)
-		setTimeout(function() {
-			tooltip.pop(subs, result['word'] + ' ' + result['translation']);
-			// $(".mcTooltipInner").text(result['word'] + ' ' +
-			// result['translation']);
-		}, 400);
-});
-
 function getTrans(word) {
-	$.get('http://localhost:8080/getTranslation/' + language + '/' + word, function(data,
-			status) {
+	$.get('/getTranslation/' + language + '/' + word, function(data,
+		status) {
 		result['word'] = data['word'];
 		result['translation'] = data['translation'].replace('\n', '<br/>');
 	}, "json");
@@ -48,9 +37,50 @@ function getTrans(word) {
 
 function selectLang(lang) {
 	language = lang;
+	if (typeof (Storage) !== "undefined") {
+		localStorage.setItem('transLang', lang);
+	}
 }
 
 
 $(document).ready(function() {
 	$('#selectLang').mobileSelect();
+	if (typeof (Storage) !== "undefined") {
+		if (localStorage.getItem('transLang') != null) {
+			$('#selectLang').val(localStorage.getItem("transLang")).change();
+		}
+	}
 }, 'text');
+
+function doGet(sourceText, sourceLang) {
+	var targetLang = 'lt';
+
+	var url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl="
+	+ sourceLang + "&tl=" + targetLang + "&dt=t&q=" + encodeURI(sourceText);
+
+	var result;
+	var json;
+	$.get(url, function(data,
+		status) {
+//		result['word'] = data['word'];
+//		result['translation'] = data['translation'].replace('\n', '<br/>');
+		
+		var result = JSON.parse(data);
+		 
+		var translatedText = result[0][0][0];
+
+		json = {
+			'sourceText' : sourceText,
+			'translatedText' : translatedText
+		};
+		
+		setTimeout(function() {
+			tooltip.pop(subs, result['word'] + ' ' + result['translation']);
+		// $(".mcTooltipInner").text(result['word'] + ' ' +
+		// result['translation']);
+		}, 400);
+	}, "text");
+
+	// return JSONP
+	return json;
+}

@@ -32,3 +32,8 @@ footer {
 #selectTranslations {
 	float: left;
 }
+#mcTooltip {
+    -webkit-box-sizing: initial;
+    -moz-box-sizing: initial;
+    box-sizing:content-box;
+}

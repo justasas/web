@@ -52,7 +52,7 @@ public class HomeController {
 	}
 	
 	@RequestMapping(value="/getTranslation/{language}/{word}", method = RequestMethod.GET)
-	public @ResponseBody String getShopInJSON(@PathVariable String language, @PathVariable String word) {
+	public @ResponseBody String getTranslation(@PathVariable String language, @PathVariable String word) {
 
 		String translation = "HAHA";
 
