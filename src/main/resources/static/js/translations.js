@@ -51,12 +51,12 @@ $(document).ready(function() {
 		}
 	}
 }, 'text');
-
+// http://stackoverflow.com/questions/26714426/what-is-the-meaning-of-google-translate-query-params
 function doGet(sourceText, sourceLang) {
 	var targetLang = 'lt';
 
 	var url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl="
-	+ sourceLang + "&tl=" + targetLang + "&dt=t&q=" + encodeURI(sourceText);
+	+ sourceLang + "&tl=" + targetLang + "&dt=bd&q=" + encodeURI(sourceText);
 
 	var result;
 	var json;
