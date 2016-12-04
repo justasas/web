@@ -20,10 +20,58 @@ convertSMPTEtoSeconds = function(SMPTE) {
 }
 
 var entries = {
+		id : [],
 		text : [],
 		timeStart : [],
 		timeEnd : []
 	};
+
+function readSubtitlesToVariable(myContentFile)
+{
+	var lines = myContentFile.split(/\r?\n/);
+
+	var pattern_identifier = /^([a-zA-z]+-)?[0-9]+$/;
+	var pattern_timecode = /^([0-9]{2}:[0-9]{2}:[0-9]{2}([,.][0-9]{1,3})?) --\> ([0-9]{2}:[0-9]{2}:[0-9]{2}([,.][0-9]{3})?)(.*)$/;
+	var text, timecode;
+
+	for (var i = 0; i < lines.length; i++) {
+		// check for the line number
+		var lineNumber = pattern_identifier.exec(lines[i]);
+		if (lineNumber) {
+			// skip to the next line where the start --> end
+			// time code should be
+			i++;
+			timecode = pattern_timecode.exec(lines[i]);
+			if (timecode && i < lines.length) {
+				i++;
+				// grab all the (possibly multi-line) text
+				// that follows
+				text = lines[i];
+				i++;
+				while (lines[i] !== '' && i < lines.length) {
+					text = text + '\n' + lines[i];
+					i++;
+				}
+				// ////////text =
+				// $.trim(text).replace(/(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig,
+				// "<a href='$1' target='_blank'>$1</a>");
+				// Text is in a different array so I can use
+				// .join
+				text = text.replace(/(\r\n|\n|\r)/gm, " ");
+				entries.id.push(lineNumber)
+				entries.text.push(text);
+				entries.timeStart
+						.push((convertSMPTEtoSeconds(timecode[1]) == 0) ? 0.200
+								: convertSMPTEtoSeconds(timecode[1]));
+				entries.timeEnd
+						.push(convertSMPTEtoSeconds(timecode[3]));
+			}
+			;
+		}
+		;
+	}
+	;	
+}
 
 function readFromFile(movieId) {
 
@@ -33,55 +81,15 @@ function readFromFile(movieId) {
 			.get(
 					src,
 					function(myContentFile, status) {
-						var lines = myContentFile.split(/\r?\n/);
-
-						pattern_identifier = /^([a-zA-z]+-)?[0-9]+$/;
-						pattern_timecode = /^([0-9]{2}:[0-9]{2}:[0-9]{2}([,.][0-9]{1,3})?) --\> ([0-9]{2}:[0-9]{2}:[0-9]{2}([,.][0-9]{3})?)(.*)$/;
-						var text, timecode;
-
-						for (var i = 0; i < lines.length; i++) {
-							// check for the line number
-							if (pattern_identifier.exec(lines[i])) {
-								// skip to the next line where the start --> end
-								// time code should be
-								i++;
-								timecode = pattern_timecode.exec(lines[i]);
-								if (timecode && i < lines.length) {
-									i++;
-									// grab all the (possibly multi-line) text
-									// that follows
-									text = lines[i];
-									i++;
-									while (lines[i] !== '' && i < lines.length) {
-										text = text + '\n' + lines[i];
-										i++;
-									}
-									// ////////text =
-									// $.trim(text).replace(/(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig,
-									// "<a href='$1' target='_blank'>$1</a>");
-									// Text is in a different array so I can use
-									// .join
-									text = text.replace(/(\r\n|\n|\r)/gm, " ");
-									entries.text.push(text);
-									entries.timeStart
-											.push((convertSMPTEtoSeconds(timecode[1]) == 0) ? 0.200
-													: convertSMPTEtoSeconds(timecode[1]));
-									entries.timeEnd
-											.push(convertSMPTEtoSeconds(timecode[3]));
-								}
-								;
-							}
-							;
-						}
-						;
+						readSubtitlesToVariable(myContentFile)
 					});
 }
 
 $(document).ready(function() {
-	var select = document.getElementById('subsSelectLang');
-	var movieUri = window.location.href.split('/');
-	var movieId = movieUri[movieUri.length - 1];
-	readFromFile(movieId);
+// var select = document.getElementById('subsSelectLang');
+// var movieUri = window.location.href.split('/');
+// var movieId = movieUri[movieUri.length - 1];
+// readFromFile(movieId);
 }, 'text');
 
 function getCurrentSubNr() {
@@ -111,9 +119,60 @@ function getCurrentSubNr() {
 
 var prev = -1;
 
+//function onPlayerStateChange(newState) {
+//	if (newState.data == 1 && newState.data != -1) {
+//		var interval = setInterval(function() {
+//			var i = getCurrentSubNr();
+//			if (prev == i)
+//				return;
+//			prev = i;
+//			if (i != false) {
+//				$('.subs-block').html(entries.text[i]);
+//				$(".subs-block").lettering('words');
+//			}
+//		}, 1000);
+//	}
+//	if (newState.data != 1) {
+//		clearInterval(interval);
+//	}
+//}
+
+function getSubtitles()
+{
+	$.get(window.location.href + "/subtitles/" + player.getCurrentTime() * 1000, function(data,
+			status) {
+		if(data.length != 0)
+			readSubtitlesToVariable(data);
+	}, "text");
+}
+
+function getSubtitlesForce()
+{
+	$.get(window.location.href + "/subtitlesF/" + player.getCurrentTime() * 1000, function(data,
+			status) {
+		if(data.length != 0)
+			readSubtitlesToVariable(data);
+	}, "text");
+}
+// pradeda grot, issiunciu requesta 10 pirmu subtitle gaut,
+// imu paskutinio subtitle laiko ir dabartinio payerio laiko
+// skirtuma ir tikrinu ar maziau nei 3 sekundes
+// jei maziau, tai siunciu requesta 10 kitu subtitle gaut
+// jei persoka 
 function onPlayerStateChange(newState) {
-	if (newState.data == 1 && newState.data != -1) {
+	if (YT.PlayerState.PLAYING == newState.data) { 
+		getSubtitlesForce();
 		var interval = setInterval(function() {
+			
+			if(entries.timeStart.length != 0)
+			{
+				var timeStart = entries.timeStart;
+				if((timeStart[timeStart.length-1] - Number(player.getCurrentTime()) < 3))
+				{
+					getSubtitles();
+				}
+			}
+			
 			var i = getCurrentSubNr();
 			if (prev == i)
 				return;
@@ -124,9 +183,22 @@ function onPlayerStateChange(newState) {
 			}
 		}, 1000);
 	}
-	if (newState.data != 1) {
+
+	if (newState.data == YT.PlayerState.ENDED || newState.data == YT.PlayerState.PAUSED) {
 		clearInterval(interval);
 	}
+}
+
+function getCurrentSubNr() {
+	var time = Number(player.getCurrentTime());
+	for (i = 0; i < entries.timeStart.length; i++) {
+		if (time >= entries.timeStart[i] && time <= entries.timeEnd[i]) {
+			return i;
+			if (i == 0)
+				console.log("1111111");
+		}
+	}
+	return false;
 }
 
 function putSubtitle(i) {
@@ -153,17 +225,17 @@ function shiftSubsPositions(milli) {
 	// entries.timeEnd
 }
 
-var subsCount;
+//var subsCount;
 
-function getSubtitles(movieId) {
-	var src = '/subtitles/' + movieId + '.srt';
-
-	$.get(src, function(myContentFile, status) {
-		subsCount = ((myContentFile.match(/srt/g) || []).length) / 2;
-
-		for (i = 0; i < subsCount; i++) {
-			var select = document.getElementById("subsSelectLang");
-			select.options[select.options.length] = new Option(i + 1, i);
-		}
-	});
-}
+//function getSubtitles(movieId) {
+//	var src = '/subtitles/' + movieId + '.srt';
+//
+//	$.get(src, function(myContentFile, status) {
+//		subsCount = ((myContentFile.match(/srt/g) || []).length) / 2;
+//
+//		for (i = 0; i < subsCount; i++) {
+//			var select = document.getElementById("subsSelectLang");
+//			select.options[select.options.length] = new Option(i + 1, i);
+//		}
+//	});
+//}
