@@ -6,18 +6,48 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.nio.channels.FileChannel;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
 public class SubtitlesUtils {
+
+	public static Map<String, List<Subtitle>> getSubtitles() {
+		Map<String, List<Subtitle>> ret = new HashMap<String, List<Subtitle>>();
+
+		ApplicationContext appContext = new ClassPathXmlApplicationContext();
+
+		for (int i = 0; i < 1; i++) {
+			try {
+				org.springframework.core.io.Resource resource = appContext
+						.getResource("classpath:/static/subtitles/" + 1 + ".srt");
+
+				InputStream is;
+				is = resource.getInputStream();
+				BufferedReader br = new BufferedReader(new InputStreamReader(is));
+
+				ret.put(String.valueOf(i + 1), SubtitlesUtils.parseSubtitles(br));
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		}
+
+		return ret;
+	}
 
 	public static List<Subtitle> parseSubtitles(BufferedReader reader) throws IOException {
 
