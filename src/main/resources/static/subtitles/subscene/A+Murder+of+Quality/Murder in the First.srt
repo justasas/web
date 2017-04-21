@@ -1,0 +1,7894 @@
+1
+00:00:13,013 --> 00:00:14,306
+<i>They're coming!</i>
+
+2
+00:00:17,768 --> 00:00:20,729
+<i>-Let's go to the water!
+- They're heading for the beach!</i>
+
+3
+00:00:20,812 --> 00:00:22,314
+<i>Down by the beach!</i>
+
+4
+00:00:22,523 --> 00:00:23,607
+<i>-Run!
+-Look out!</i>
+
+5
+00:00:23,690 --> 00:00:25,734
+<i>Run, Doc! No! Doc, no!</i>
+
+6
+00:00:26,610 --> 00:00:27,986
+<i>Don't stop moving!</i>
+
+7
+00:00:28,028 --> 00:00:29,780
+<i>They're down there!</i>
+
+8
+00:00:29,905 --> 00:00:31,698
+<i>There they go! Okay.</i>
+
+9
+00:00:31,865 --> 00:00:35,035
+<i>Lay down! Lay down!
+Lay down or I'll shoot you, goddamn it!</i>
+
+10
+00:00:35,118 --> 00:00:36,578
+<i>-Hurry up!
+-Lay down!</i>
+
+11
+00:00:38,539 --> 00:00:40,332
+<i>That's right, shoot them!</i>
+
+12
+00:00:47,381 --> 00:00:49,466
+<i>I give up, Mr. Glenn. Please!</i>
+
+13
+00:00:49,842 --> 00:00:52,719
+<i>-Shut up, Henri!
+-Please, don't hit me! Please!</i>
+
+14
+00:00:53,387 --> 00:00:56,807
+<i>Clean him up! Take him to the hole!
+And call the press!</i>
+
+15
+00:00:57,933 --> 00:00:59,852
+<i>Dateline: San Francisco.</i>
+
+16
+00:00:59,935 --> 00:01:03,522
+<i>Alcatraz was the scene last night
+of a dramatic escape attempt.</i>
+
+17
+00:01:03,730 --> 00:01:05,899
+<i>Four desperate prisoners
+were apprehended...</i>
+
+18
+00:01:05,941 --> 00:01:07,985
+<i>...on the rocky beach below the prison.</i>
+
+19
+00:01:08,068 --> 00:01:11,613
+<i>The recently completed
+Golden Gate Bridge serves as a backdrop.</i>
+
+20
+00:01:11,864 --> 00:01:14,157
+<i>So near, yet so far from freedom...</i>
+
+21
+00:01:14,366 --> 00:01:18,912
+<i>...the surviving escapees, Henri Young
+and Rufus McCain are escorted back...</i>
+
+22
+00:01:19,663 --> 00:01:23,333
+<i>...while their less fortunate cohorts
+are destined for the morgue.</i>
+
+23
+00:01:23,876 --> 00:01:28,088
+<i>The body of Doc Barker,
+son of the infamous Ma Barker...</i>
+
+24
+00:01:28,255 --> 00:01:31,341
+<i>...lies bullet-riddled,
+cooling on a steel gurney...</i>
+
+25
+00:01:31,508 --> 00:01:33,677
+<i>...attended by a triumphant guard.</i>
+
+26
+00:01:34,928 --> 00:01:38,473
+<i>The jubilant correctional officers
+who foiled the escape...</i>
+
+27
+00:01:38,682 --> 00:01:42,519
+<i>...congratulate each other
+and reluctantly show their battle scars.</i>
+
+28
+00:01:43,395 --> 00:01:46,982
+<i>A proud Warden Humson,
+supervisor of three penitentiaries...</i>
+
+29
+00:01:47,191 --> 00:01:51,612
+<i>...Folsom, San Quentin and Alcatraz,
+and confidant of J. Edgar Hoover...</i>
+
+30
+00:01:51,904 --> 00:01:53,780
+<i>...congratulates his troops.</i>
+
+31
+00:01:56,909 --> 00:01:58,577
+<i>Humson returns to his duties...</i>
+
+32
+00:01:58,619 --> 00:02:01,455
+<i>...as the inmates are sent
+through metal detectors...</i>
+
+33
+00:02:01,538 --> 00:02:04,583
+<i>...cells are searched,
+extra guards are called up...</i>
+
+34
+00:02:04,791 --> 00:02:09,546
+<i>...and Alcatraz goes on full alert
+to forestall any additional trouble.</i>
+
+35
+00:02:10,631 --> 00:02:12,758
+<i>As public interest reached a frenzy...</i>
+
+36
+00:02:13,133 --> 00:02:15,719
+<i>...Warden Humson
+and Associate Warden Glenn...</i>
+
+37
+00:02:15,802 --> 00:02:18,597
+<i>...left the island in the bay
+for a press conference...</i>
+
+38
+00:02:18,639 --> 00:02:21,433
+<i>...headed for the San Francisco City Hall...</i>
+
+39
+00:02:21,475 --> 00:02:26,271
+<i>...which was inundated with a plethora
+of reporters from around the globe...</i>
+
+40
+00:02:26,647 --> 00:02:29,691
+<i>...all gathered to hear the official reaction.</i>
+
+41
+00:02:30,234 --> 00:02:32,569
+<i>Associate Warden Milton Glenn...</i>
+
+42
+00:02:32,653 --> 00:02:35,030
+<i>...introduces Warden John Humson.</i>
+
+43
+00:02:35,822 --> 00:02:39,159
+Warden Humson will now make
+a brief statement and...
+
+44
+00:02:39,743 --> 00:02:42,955
+...if you please, no questions at the end.
+Thank you.
+
+45
+00:02:43,664 --> 00:02:46,166
+l just want to reassure
+the American people that...
+
+46
+00:02:47,251 --> 00:02:49,837
+...Alcatraz is an escape-proof prison.
+
+47
+00:02:50,587 --> 00:02:52,589
+They have nothing to fear.
+
+48
+00:02:53,423 --> 00:02:55,884
+<i>The inmates, McCain and Young...</i>
+
+49
+00:02:56,760 --> 00:02:59,221
+<i>...will be brought up on escape charges.</i>
+
+50
+00:02:59,513 --> 00:03:02,182
+<i>There will be time in solitary confinement.</i>
+
+51
+00:03:02,349 --> 00:03:04,977
+<i>Privileges will be taken away from them.</i>
+
+52
+00:03:05,352 --> 00:03:08,814
+And the whole rehabilitation process
+will begin.
+
+53
+00:03:32,087 --> 00:03:34,131
+<i>Definition of rehabilitate:</i>
+
+54
+00:03:34,798 --> 00:03:36,925
+<i>''To restore to a state of physical...</i>
+
+55
+00:03:37,050 --> 00:03:40,387
+<i>''...mental and moral health
+through treatment and training.''</i>
+
+56
+00:03:47,978 --> 00:03:48,896
+Hello.
+
+57
+00:03:49,313 --> 00:03:51,231
+Hello, hello, hello.
+
+58
+00:03:55,319 --> 00:03:56,778
+Eleven times 1 1 ...
+
+59
+00:03:58,655 --> 00:03:59,823
+...121 .
+
+60
+00:04:02,534 --> 00:04:03,911
+Twelve times 12...
+
+61
+00:04:05,579 --> 00:04:06,622
+...144.
+
+62
+00:04:09,541 --> 00:04:11,293
+Thirteen times 13...
+
+63
+00:04:14,588 --> 00:04:15,631
+...169.
+
+64
+00:04:18,759 --> 00:04:20,260
+Fourteen times 14....
+
+65
+00:04:21,678 --> 00:04:24,139
+<i>When Henri Young began
+his rehabilitation...</i>
+
+66
+00:04:24,306 --> 00:04:27,392
+<i>...I was in my first year of law school
+at Harvard.</i>
+
+67
+00:04:43,534 --> 00:04:44,785
+How long?
+
+68
+00:05:11,103 --> 00:05:15,190
+<i>Alcatraz was opened as
+a federal penitentiary in the spring of 1934.</i>
+
+69
+00:05:16,149 --> 00:05:18,360
+<i>In the era of the gangster...</i>
+
+70
+00:05:18,569 --> 00:05:21,989
+<i>...it was opened more for
+the publicity value than the incarceration.</i>
+
+71
+00:05:22,114 --> 00:05:25,325
+<i>Alcatraz was the most feared prison
+in the world...</i>
+
+72
+00:05:25,409 --> 00:05:27,119
+<i>...and the most expensive.</i>
+
+73
+00:05:27,202 --> 00:05:30,163
+<i>There were only so many Al Capones
+and Machine Gun Kellys...</i>
+
+74
+00:05:30,998 --> 00:05:33,125
+<i>...so the prison had empty cells.</i>
+
+75
+00:05:33,500 --> 00:05:38,130
+<i>To justify the costs, the government took
+incorrigibles from other prisons...</i>
+
+76
+00:05:38,422 --> 00:05:41,466
+<i>...men that had committed smaller,
+more petty crimes...</i>
+
+77
+00:05:42,217 --> 00:05:43,969
+<i>...men like Henri Young.</i>
+
+78
+00:05:47,055 --> 00:05:49,308
+''Our Father who art in heaven.
+
+79
+00:05:50,142 --> 00:05:52,102
+''Hallowing be Thy name.''
+
+80
+00:05:53,687 --> 00:05:56,940
+<i>Prior to 1938, there had been
+five escape attempts.</i>
+
+81
+00:05:57,524 --> 00:05:58,775
+<i>No one had made it.</i>
+
+82
+00:05:58,859 --> 00:06:02,279
+<i>The reputation of Alcatraz as being
+unescapable was secure.</i>
+
+83
+00:06:02,946 --> 00:06:04,656
+<i>Six inmates had died.</i>
+
+84
+00:06:05,157 --> 00:06:07,993
+<i>The ones who didn't die
+sometimes wished they had.</i>
+
+85
+00:06:20,255 --> 00:06:23,509
+<i>The federal guideline regarding
+solitary confinement states...</i>
+
+86
+00:06:23,550 --> 00:06:27,513
+<i>...that the maximum stay for an inmate
+shall not exceed 19 days.</i>
+
+87
+00:06:39,483 --> 00:06:41,693
+<i>''Our Father who art in heaven.</i>
+
+88
+00:06:42,736 --> 00:06:44,530
+<i>''Hallowed be Thy name.</i>
+
+89
+00:06:45,072 --> 00:06:48,075
+<i>''Thy kingdom come. Thy will be done...</i>
+
+90
+00:06:49,076 --> 00:06:51,203
+<i>''...on earth, as it is in heaven.</i>
+
+91
+00:06:52,079 --> 00:06:54,540
+''Give us this day our daily bread.
+
+92
+00:06:55,249 --> 00:06:57,835
+''And forgive us for our trespasses...
+
+93
+00:06:58,168 --> 00:07:01,213
+''...as we forgive those
+who trespass against us.
+
+94
+00:07:02,089 --> 00:07:04,591
+''And lead us not into temptation...
+
+95
+00:07:04,842 --> 00:07:07,010
+''...but deliver us from evil.
+
+96
+00:07:07,594 --> 00:07:08,762
+''Amen.''
+
+97
+00:07:09,930 --> 00:07:11,473
+Thank you, gentlemen.
+
+98
+00:07:36,290 --> 00:07:39,751
+<i>Alcatraz is a half-mile
+off the coast of San Francisco.</i>
+
+99
+00:07:39,877 --> 00:07:43,297
+<i>There were 276 inmates,
+1 10 guards with their wives...</i>
+
+100
+00:07:43,463 --> 00:07:45,883
+<i>...and children stationed on the island.</i>
+
+101
+00:07:46,300 --> 00:07:48,760
+<i>And the Associate Warden, Mr. Glenn.</i>
+
+102
+00:07:52,764 --> 00:07:55,434
+<i>This is the story of Henri Young
+as I know it.</i>
+
+103
+00:08:00,355 --> 00:08:01,440
+1936:
+
+104
+00:08:01,982 --> 00:08:05,485
+American League Yankees visiting
+National League Giants.
+
+105
+00:08:07,946 --> 00:08:10,365
+The Yankees score 18 runs...
+
+106
+00:08:10,657 --> 00:08:14,703
+...a series record and every single man
+in that lineup hits at least once.
+
+107
+00:08:15,579 --> 00:08:19,458
+Every single man in that lineup scores
+at least one run.
+
+108
+00:08:51,698 --> 00:08:52,824
+Daddy!
+
+109
+00:08:53,408 --> 00:08:54,409
+Hello.
+
+110
+00:08:54,701 --> 00:08:56,286
+Have you been a good boy?
+
+111
+00:08:56,370 --> 00:08:58,121
+Take Daddy's lunchbox.
+
+112
+00:08:58,539 --> 00:09:00,040
+We'll go see Mommy.
+
+113
+00:11:01,245 --> 00:11:02,663
+Good news, Henri.
+
+114
+00:11:02,829 --> 00:11:04,957
+lt's over. You're out of the hole.
+
+115
+00:11:05,082 --> 00:11:06,542
+You stink, boy.
+
+116
+00:11:21,515 --> 00:11:23,016
+l did it. l made it.
+
+117
+00:11:24,101 --> 00:11:25,143
+Come on.
+
+118
+00:11:26,103 --> 00:11:27,604
+-Did good.
+-l made it.
+
+119
+00:11:27,980 --> 00:11:29,940
+l did it. l did it. l did it.
+
+120
+00:11:30,107 --> 00:11:32,317
+They were fucking killing you.
+
+121
+00:11:33,026 --> 00:11:34,152
+You did good.
+
+122
+00:11:34,278 --> 00:11:37,823
+<i>The only other survivor
+of the escape attempt was Rufus McCain.</i>
+
+123
+00:11:38,115 --> 00:11:41,994
+<i>He had betrayed his fellow inmates
+by tipping off the associate warden.</i>
+
+124
+00:11:42,119 --> 00:11:45,539
+<i>McCain was rewarded
+and left in the general population.</i>
+
+125
+00:11:45,998 --> 00:11:47,791
+<i>Henri Young was sent to solitary.</i>
+
+126
+00:11:48,542 --> 00:11:49,543
+Come on.
+
+127
+00:11:53,297 --> 00:11:54,339
+<i>Henri.</i>
+
+128
+00:11:58,135 --> 00:12:00,304
+Some men are broken...
+
+129
+00:12:01,138 --> 00:12:03,182
+...by the laws that they break...
+
+130
+00:12:04,892 --> 00:12:06,727
+...unable to resist...
+
+131
+00:12:07,561 --> 00:12:10,063
+...the forces that are pulling them down.
+
+132
+00:12:11,231 --> 00:12:12,566
+Other men...
+
+133
+00:12:13,233 --> 00:12:15,152
+...live by the rules...
+
+134
+00:12:15,402 --> 00:12:17,487
+...that society has set down.
+
+135
+00:12:26,872 --> 00:12:28,624
+You're not one of them.
+
+136
+00:12:35,380 --> 00:12:37,549
+Henri, l have a job to do here at Alcatraz.
+
+137
+00:12:37,633 --> 00:12:39,384
+Do you know what that is?
+
+138
+00:12:39,635 --> 00:12:41,261
+To protect you...
+
+139
+00:12:41,762 --> 00:12:43,305
+...from yourself.
+
+140
+00:12:45,057 --> 00:12:47,267
+You were among the selected sinners...
+
+141
+00:12:47,351 --> 00:12:50,437
+...the state set apart
+so that you could simmer in scum.
+
+142
+00:12:51,104 --> 00:12:54,441
+The good people of the United States
+have decided...
+
+143
+00:12:54,942 --> 00:12:56,944
+...that you are better off here.
+
+144
+00:12:58,195 --> 00:13:00,656
+l had nothing to do with that decision.
+
+145
+00:13:02,950 --> 00:13:07,287
+But where l play a part in your life is
+to make sure that you stay here.
+
+146
+00:13:08,664 --> 00:13:10,749
+That you rehabilitate yourself...
+
+147
+00:13:11,375 --> 00:13:13,293
+...become a model prisoner...
+
+148
+00:13:13,794 --> 00:13:15,462
+...a better human being.
+
+149
+00:13:16,797 --> 00:13:18,590
+That's my job, Henri.
+
+150
+00:13:19,299 --> 00:13:20,801
+You too have a job.
+
+151
+00:13:22,386 --> 00:13:24,304
+And trying to escape...
+
+152
+00:13:24,596 --> 00:13:28,100
+...is not one of the duties
+of your job description. Understand?
+
+153
+00:13:28,308 --> 00:13:29,643
+ln life...
+
+154
+00:13:32,229 --> 00:13:34,106
+...for every action...
+
+155
+00:13:35,482 --> 00:13:39,319
+...there is a definite and distinct reaction.
+
+156
+00:13:41,238 --> 00:13:42,114
+Action...
+
+157
+00:13:46,827 --> 00:13:47,786
+...reaction.
+
+158
+00:13:47,828 --> 00:13:51,081
+-Yes, Mr. Glenn.
+-Now, if you escape, action:
+
+159
+00:13:51,665 --> 00:13:53,667
+l lose my job.
+
+160
+00:13:54,334 --> 00:13:56,503
+Reaction: l have a family...
+
+161
+00:13:56,837 --> 00:13:59,673
+...that l will not be able to provide for!
+
+162
+00:14:00,674 --> 00:14:02,301
+l'm not done yet.
+
+163
+00:14:03,510 --> 00:14:05,512
+Now, knowing this information...
+
+164
+00:14:05,679 --> 00:14:07,431
+...can you tell me...
+
+165
+00:14:07,639 --> 00:14:10,851
+...why you would possibly
+want to escape...
+
+166
+00:14:11,435 --> 00:14:13,896
+...and jeopardize my family?
+
+167
+00:14:21,278 --> 00:14:23,780
+l've done nothing to you but my job.
+
+168
+00:14:25,365 --> 00:14:27,492
+And instead of letting you learn...
+
+169
+00:14:27,743 --> 00:14:31,205
+...by breaking the rules,
+l feel l need to show you how to...
+
+170
+00:14:31,371 --> 00:14:32,623
+...obey them.
+
+171
+00:14:33,373 --> 00:14:34,416
+Tolerance.
+
+172
+00:14:35,042 --> 00:14:36,752
+Tolerance for pain.
+
+173
+00:14:38,295 --> 00:14:40,047
+My tolerance of you.
+
+174
+00:14:40,756 --> 00:14:43,425
+But tolerance can be mistaken
+for kindness.
+
+175
+00:14:44,510 --> 00:14:47,304
+And kindness can be mistaken
+for weakness.
+
+176
+00:14:48,222 --> 00:14:51,016
+And we can't have weakness,
+can we, Henri?
+
+177
+00:14:51,391 --> 00:14:53,936
+l understand. l will be good.
+
+178
+00:14:54,311 --> 00:14:56,188
+l'm not gonna try and run again.
+
+179
+00:14:56,230 --> 00:14:57,523
+No, you won't.
+
+180
+00:14:57,564 --> 00:14:59,691
+Action, reaction, Mr. Glenn.
+
+181
+00:14:59,900 --> 00:15:02,027
+Action, reaction, Mr. Glenn.
+
+182
+00:15:02,319 --> 00:15:04,112
+Action, reaction, Mr. Glenn.
+
+183
+00:15:04,488 --> 00:15:06,573
+Action, reaction.
+
+184
+00:15:08,784 --> 00:15:09,785
+Good.
+
+185
+00:15:11,078 --> 00:15:12,079
+Good.
+
+186
+00:15:15,749 --> 00:15:16,792
+Good.
+
+187
+00:15:24,800 --> 00:15:27,261
+Clean him up, take him to the hole.
+
+188
+00:15:27,594 --> 00:15:31,056
+<i>Christmas, 1939,
+I celebrated visiting with my brother.</i>
+
+189
+00:15:32,015 --> 00:15:34,142
+<i>Henri Young celebrated in Alcatraz.</i>
+
+190
+00:15:37,521 --> 00:15:39,439
+<i>''Let nothing you dismay</i>
+
+191
+00:15:40,357 --> 00:15:43,735
+<i>''Remember Christ our Savior
+Was born on Christmas day</i>
+
+192
+00:15:46,363 --> 00:15:50,075
+<i>''To save us all from Satan's power
+When we were gone astray</i>
+
+193
+00:15:51,285 --> 00:15:53,662
+<i>''Oh, tidings of comfort and joy''</i>
+
+194
+00:16:12,806 --> 00:16:13,849
+Stop it!
+
+195
+00:16:14,308 --> 00:16:15,601
+Get in there!
+
+196
+00:16:15,642 --> 00:16:18,687
+Please, no, no! Please, don't put me back!
+
+197
+00:16:19,229 --> 00:16:20,647
+Please, don't put me back!
+
+198
+00:16:20,689 --> 00:16:22,441
+Please, don't put me back!
+
+199
+00:16:23,483 --> 00:16:26,486
+l don't want to! l don't want to! No!
+
+200
+00:16:31,992 --> 00:16:33,535
+They sound great.
+
+201
+00:16:33,785 --> 00:16:35,329
+Merry Christmas.
+
+202
+00:16:38,081 --> 00:16:41,877
+''Standing 'round a flagpole
+And he caught himself a head cold''
+
+203
+00:16:42,794 --> 00:16:45,631
+He sings it over and over.
+l can't get him to shut up.
+
+204
+00:16:45,672 --> 00:16:47,132
+lt gets on your nerves.
+
+205
+00:16:47,174 --> 00:16:50,302
+<i>In January of 1941,
+I had passed the bar exam.</i>
+
+206
+00:16:51,428 --> 00:16:54,473
+<i>Henri Young was in his third year
+of rehabilitation.</i>
+
+207
+00:16:58,435 --> 00:17:00,729
+<i>Welcome to Alcatraz, gentlemen.</i>
+
+208
+00:17:00,812 --> 00:17:02,648
+<i>Step off the boat and onto the dock.</i>
+
+209
+00:17:05,526 --> 00:17:07,903
+<i>Eyes straight ahead at all times.</i>
+
+210
+00:17:09,696 --> 00:17:11,907
+<i>There was a boat
+named after Warden Humson...</i>
+
+211
+00:17:12,032 --> 00:17:14,826
+<i>...which handled the traffic
+to and from Alcatraz.</i>
+
+212
+00:17:14,910 --> 00:17:19,831
+<i>In the morning and afternoon, it shuttled
+the children to San Francisco for classes.</i>
+
+213
+00:17:20,207 --> 00:17:23,460
+<i>It was also used to transport prisoners
+to the island.</i>
+
+214
+00:17:23,585 --> 00:17:26,421
+<i>When possible, having children
+and prisoners on the boat...</i>
+
+215
+00:17:26,505 --> 00:17:28,549
+<i>...at the same time was avoided.</i>
+
+216
+00:17:30,217 --> 00:17:32,010
+<i>Don't look at the children.</i>
+
+217
+00:17:33,220 --> 00:17:35,305
+l'll take the kids to the city.
+
+218
+00:17:35,472 --> 00:17:36,890
+We'll go shopping.
+
+219
+00:17:37,474 --> 00:17:39,518
+Honey, can l call you back?
+
+220
+00:17:39,852 --> 00:17:41,228
+The warden's here.
+
+221
+00:17:43,689 --> 00:17:44,898
+Good morning, Warden.
+
+222
+00:17:44,940 --> 00:17:46,191
+Good morning.
+
+223
+00:17:47,651 --> 00:17:50,529
+-When did you arrive on the island?
+-About 20 minutes ago.
+
+224
+00:17:50,571 --> 00:17:51,280
+Good.
+
+225
+00:17:51,363 --> 00:17:52,823
+-Sit down.
+-Thank you.
+
+226
+00:17:54,908 --> 00:17:56,243
+Mr. Glenn...
+
+227
+00:17:56,410 --> 00:17:59,121
+...l've been going over
+the rotation figures...
+
+228
+00:17:59,913 --> 00:18:02,040
+...in the solitary-confinement cells.
+
+229
+00:18:02,165 --> 00:18:04,084
+ls there something wrong?
+
+230
+00:18:04,168 --> 00:18:07,129
+Well, l don't know.
+l don't think this can be right.
+
+231
+00:18:07,421 --> 00:18:08,547
+What's that?
+
+232
+00:18:08,755 --> 00:18:10,382
+Here, 244.
+
+233
+00:18:11,341 --> 00:18:14,887
+According to this, he's been in there
+since March of '38.
+
+234
+00:18:15,095 --> 00:18:19,224
+l don't believe there's been
+an attitude change with regard to 244.
+
+235
+00:18:19,600 --> 00:18:21,935
+He's not like the other inmates.
+
+236
+00:18:22,269 --> 00:18:23,687
+That's over three years!
+
+237
+00:18:23,770 --> 00:18:26,398
+He masterminded
+the escape attempt in '38.
+
+238
+00:18:26,523 --> 00:18:28,442
+There hasn't been one since.
+
+239
+00:18:28,609 --> 00:18:32,321
+<i>If you let those animals believe
+that escape is possible...</i>
+
+240
+00:18:33,197 --> 00:18:36,116
+<i>...you might as well stick in
+a revolving door.</i>
+
+241
+00:18:36,325 --> 00:18:38,577
+<i>I think he has learned his lesson.</i>
+
+242
+00:18:42,414 --> 00:18:44,374
+Come on, Henri. Let's go.
+
+243
+00:18:49,129 --> 00:18:51,423
+<i>Henri Young had been rehabilitated.</i>
+
+244
+00:18:51,507 --> 00:18:55,761
+<i>I was now a public defender
+in San Francisco. We'd meet in three days.</i>
+
+245
+00:18:56,595 --> 00:18:57,679
+Eat, Young!
+
+246
+00:18:58,388 --> 00:19:01,808
+You know the rules!
+You don't eat, you go to solitary!
+
+247
+00:19:03,977 --> 00:19:05,354
+Now, get with it!
+
+248
+00:19:07,773 --> 00:19:09,608
+<i>Two times two is four.</i>
+
+249
+00:19:10,234 --> 00:19:11,818
+<i>Two times three is six.</i>
+
+250
+00:19:12,152 --> 00:19:14,154
+<i>Two times four is eight.</i>
+
+251
+00:19:14,780 --> 00:19:15,906
+<i>Eight.</i>
+
+252
+00:19:16,365 --> 00:19:17,908
+<i>Two times five...</i>
+
+253
+00:19:18,242 --> 00:19:19,034
+<i>...ten.</i>
+
+254
+00:19:20,285 --> 00:19:21,620
+<i>Twelve times...</i>
+
+255
+00:19:21,870 --> 00:19:22,955
+<i>...eight...</i>
+
+256
+00:19:24,790 --> 00:19:26,041
+<i>...ninety-six.</i>
+
+257
+00:19:30,170 --> 00:19:32,840
+<i>Maybe, maybe, maybe, maybe,
+maybe more--</i>
+
+258
+00:19:38,804 --> 00:19:41,390
+Henri, McCain, he put you in the hole.
+
+259
+00:19:41,640 --> 00:19:43,141
+Put you in the hole.
+
+260
+00:19:43,392 --> 00:19:45,352
+McCain's still here. Look!
+
+261
+00:19:45,602 --> 00:19:48,313
+<i>McCain put you in the hole!
+Put you in the hole!</i>
+
+262
+00:19:48,689 --> 00:19:51,942
+<i>McCain, he put you in the hole.
+Put you in the hole!</i>
+
+263
+00:20:31,356 --> 00:20:32,816
+Get them back!
+
+264
+00:20:33,358 --> 00:20:35,819
+Get them back against the wall now!
+
+265
+00:20:36,028 --> 00:20:37,362
+Do it now!
+
+266
+00:20:38,363 --> 00:20:39,531
+What happened?
+
+267
+00:20:39,740 --> 00:20:41,241
+l don't know.
+
+268
+00:21:15,734 --> 00:21:18,529
+<i>The United States of America
+vs. Henri Young.</i>
+
+269
+00:21:18,987 --> 00:21:21,240
+<i>Charged with murder in the first degree.</i>
+
+270
+00:21:21,281 --> 00:21:22,407
+<i>Approach the bench.</i>
+
+271
+00:21:23,992 --> 00:21:26,537
+Charged with murder in the first degree.
+
+272
+00:21:28,163 --> 00:21:31,750
+''Henri Young, Rufus McCain...
+and there, striking and wounding...
+
+273
+00:21:31,834 --> 00:21:34,586
+''...sharp steel instrument...
+to wit, a spoon.''
+
+274
+00:21:35,504 --> 00:21:37,172
+No, this can't be right.
+
+275
+00:21:38,257 --> 00:21:39,174
+lt's right.
+
+276
+00:21:39,258 --> 00:21:40,509
+lf you say so.
+
+277
+00:21:40,634 --> 00:21:43,512
+''To wit, a spoon
+about four inches in length...
+
+278
+00:21:43,637 --> 00:21:46,849
+''...which, striking and wounding,
+described as foresaid...
+
+279
+00:21:46,932 --> 00:21:49,852
+''...caused the said Rufus McCain
+thereafter, to wit...
+
+280
+00:21:49,935 --> 00:21:52,896
+''...on June 1 1, 1941 to die.''
+
+281
+00:21:54,147 --> 00:21:56,984
+Trial set one week from Thursday, June 22.
+
+282
+00:21:57,943 --> 00:21:59,570
+This court stands adjourned.
+
+283
+00:22:13,292 --> 00:22:15,085
+l know you can do it!
+
+284
+00:22:17,880 --> 00:22:19,047
+Come on, boy!
+
+285
+00:22:19,173 --> 00:22:21,967
+You can do it! You've got four furlongs!
+
+286
+00:22:22,134 --> 00:22:24,052
+Don't be cursing this street!
+
+287
+00:22:24,178 --> 00:22:28,140
+Pick them up and lay them down!
+Let those legs pump like pistons!
+
+288
+00:22:28,307 --> 00:22:32,269
+Yes! Come on! The spirit is willing!
+l can see it in your eyes.
+
+289
+00:22:33,103 --> 00:22:34,313
+Come on!
+
+290
+00:22:35,105 --> 00:22:36,356
+Pump it! Go!
+
+291
+00:22:36,565 --> 00:22:39,026
+Remember Jesse Owens
+at the '36 Olympics?
+
+292
+00:22:40,944 --> 00:22:42,654
+Maybe tomorrow, sonny boy!
+
+293
+00:23:07,179 --> 00:23:08,722
+Watch it, buster!
+
+294
+00:23:28,116 --> 00:23:29,451
+Sorry, Counselor!
+
+295
+00:23:29,910 --> 00:23:31,453
+You're all right?
+
+296
+00:23:32,037 --> 00:23:33,497
+Mary, l'm sorry.
+
+297
+00:23:34,373 --> 00:23:36,375
+l'm sorry. Mary, you okay?
+
+298
+00:23:36,625 --> 00:23:38,710
+-Stop that!
+-Okay, l'm sorry!
+
+299
+00:23:38,877 --> 00:23:42,256
+lf Henkin saw us, he wouldn't think twice
+about suspending us.
+
+300
+00:23:42,297 --> 00:23:43,757
+-All right.
+-Fix your tie.
+
+301
+00:23:43,841 --> 00:23:44,800
+Why?
+
+302
+00:23:45,717 --> 00:23:47,761
+You need to look good
+when you thank Henkin.
+
+303
+00:23:47,886 --> 00:23:50,889
+What do l want to thank Henkin for?
+The man's a cretin.
+
+304
+00:23:51,139 --> 00:23:54,184
+-He's given you a case.
+-Case of what? Scotch?
+
+305
+00:23:54,434 --> 00:23:56,603
+Yes, James, a case of Scotch.
+
+306
+00:23:56,770 --> 00:23:59,523
+An actual case where l stand
+in front of a jury?
+
+307
+00:24:00,148 --> 00:24:02,985
+-Federal murder one, no less.
+-Henri Young.
+
+308
+00:24:03,277 --> 00:24:07,239
+He's a convict who killed another convict
+in front of 200 witnesses.
+
+309
+00:24:08,949 --> 00:24:10,450
+Was it self-defense?
+
+310
+00:24:10,576 --> 00:24:11,743
+With a spoon.
+
+311
+00:24:11,827 --> 00:24:13,161
+What with a spoon?
+
+312
+00:24:13,245 --> 00:24:16,498
+That was the murder weapon.
+He used a spoon to kill the man.
+
+313
+00:24:16,582 --> 00:24:19,001
+Weren't any forks or knives available?
+
+314
+00:24:19,084 --> 00:24:21,003
+My first case l can't possibly win.
+
+315
+00:24:21,086 --> 00:24:25,007
+Do this one for the experience, for the next
+time, when maybe your guy didn't do it.
+
+316
+00:24:25,132 --> 00:24:26,425
+You could learn a lot.
+
+317
+00:24:26,466 --> 00:24:28,594
+Go see your client
+and make nice to Henkin.
+
+318
+00:24:28,719 --> 00:24:30,888
+-l'll see you tonight?
+-Maybe.
+
+319
+00:24:33,307 --> 00:24:36,393
+Thank you for your confidence in me
+in getting this case.
+
+320
+00:24:36,476 --> 00:24:39,688
+l don't have any confidence in you.
+The guy is guilty.
+
+321
+00:24:39,813 --> 00:24:43,108
+A monkey could try this case
+and not make it any worse.
+
+322
+00:24:43,192 --> 00:24:45,068
+-l see.
+-Remember that.
+
+323
+00:24:45,277 --> 00:24:46,987
+-Thank you, sir.
+-A monkey.
+
+324
+00:24:49,198 --> 00:24:50,782
+l guess l'm a monkey.
+
+325
+00:25:10,302 --> 00:25:14,056
+-James Stamphill to see Henri Young.
+-l need you to sign the release.
+
+326
+00:25:17,643 --> 00:25:19,853
+-lt's a nice day.
+-Yeah, great.
+
+327
+00:25:51,510 --> 00:25:52,928
+Where are you going?
+
+328
+00:25:53,011 --> 00:25:54,763
+To the cell, talk to my client.
+
+329
+00:25:54,847 --> 00:25:56,265
+What, are you nuts?
+
+330
+00:25:56,348 --> 00:25:58,517
+l want to speak to him face to face.
+
+331
+00:25:59,726 --> 00:26:00,686
+Well....
+
+332
+00:26:02,896 --> 00:26:05,023
+You've already signed the release.
+
+333
+00:26:10,612 --> 00:26:11,947
+lt's your life.
+
+334
+00:26:16,702 --> 00:26:17,661
+Hi.
+
+335
+00:26:18,871 --> 00:26:20,914
+So, then, Mr. Young, is it?
+
+336
+00:26:23,208 --> 00:26:25,335
+You're Mr. Young, is that correct?
+
+337
+00:26:27,212 --> 00:26:29,339
+Mr. Young, that is your name, isn't it?
+
+338
+00:26:29,423 --> 00:26:30,549
+Henri Young?
+
+339
+00:26:33,343 --> 00:26:37,222
+l'll just assume that's your name
+until you tell me differently.
+
+340
+00:26:37,598 --> 00:26:40,475
+Mr. Young, l will be acting
+as your defense attorney.
+
+341
+00:26:40,559 --> 00:26:43,103
+l'm James Stamphill
+and anything you tell me...
+
+342
+00:26:43,228 --> 00:26:46,815
+...will be protected under the rules
+of confidentiality...
+
+343
+00:26:46,940 --> 00:26:50,068
+...of the attorney-client relationship.
+So feel completely free...
+
+344
+00:26:50,194 --> 00:26:53,488
+...to answer my questions
+in an honest and forthright fashion.
+
+345
+00:26:53,572 --> 00:26:56,867
+Just for the record,
+your name is Henri Young, right?
+
+346
+00:27:01,163 --> 00:27:04,499
+This isn't an admission of guilt.
+lt's just your name.
+
+347
+00:27:06,376 --> 00:27:07,753
+You speak English?
+
+348
+00:27:09,630 --> 00:27:13,217
+Yeah, you do speak English.
+lt says so right here in the file.
+
+349
+00:27:19,932 --> 00:27:21,099
+Mr. Young...
+
+350
+00:27:22,809 --> 00:27:27,481
+...l am your attorney but l can't provide you
+with much of a defense if one of us is...
+
+351
+00:27:27,981 --> 00:27:29,191
+...catatonic.
+
+352
+00:27:30,108 --> 00:27:31,276
+You see...
+
+353
+00:27:31,693 --> 00:27:35,656
+...we both have to be able and willing
+to answer when our name is called.
+
+354
+00:27:39,368 --> 00:27:40,827
+Can you hear?
+
+355
+00:27:58,387 --> 00:27:59,638
+Mr. Young?
+
+356
+00:28:01,640 --> 00:28:03,141
+You okay, Mr. Young?
+
+357
+00:28:03,350 --> 00:28:05,978
+<i>Henri Young was born in Kansas in 1913.</i>
+
+358
+00:28:07,646 --> 00:28:09,982
+<i>His parents died ten years later...</i>
+
+359
+00:28:10,023 --> 00:28:12,317
+<i>...leaving Henri to raise his younger sister.</i>
+
+360
+00:28:13,569 --> 00:28:17,281
+<i>At the age of 17, Henri went into
+a local store to try to get a job.</i>
+
+361
+00:28:19,074 --> 00:28:20,826
+<i>He was refused work.</i>
+
+362
+00:28:22,202 --> 00:28:26,123
+<i>Out of desperation he reached
+into the cash register and took $5.</i>
+
+363
+00:28:27,416 --> 00:28:30,502
+<i>The store also doubled
+as the town's post office.</i>
+
+364
+00:28:31,920 --> 00:28:35,883
+<i>Henri was tried and convicted
+of the federal crime of mail robbery.</i>
+
+365
+00:28:37,509 --> 00:28:40,387
+<i>Henri's sister was taken
+to live in an orphanage.</i>
+
+366
+00:28:42,306 --> 00:28:44,183
+<i>He would never see her again.</i>
+
+367
+00:28:45,893 --> 00:28:48,812
+<i>Eleven years later,
+Henri would kill Rufus McCain.</i>
+
+368
+00:29:16,048 --> 00:29:17,341
+Mr. Young...
+
+369
+00:29:17,758 --> 00:29:19,718
+...you killed a guy, so...
+
+370
+00:29:20,302 --> 00:29:22,221
+...you're not catatonic.
+
+371
+00:29:24,515 --> 00:29:26,475
+l know that you can talk.
+
+372
+00:29:27,476 --> 00:29:28,936
+l don't know...
+
+373
+00:29:29,937 --> 00:29:32,397
+...maybe you could write something.
+
+374
+00:29:35,025 --> 00:29:37,528
+You want to write something? Write here.
+
+375
+00:29:40,656 --> 00:29:42,324
+Something. Just....
+
+376
+00:29:43,408 --> 00:29:45,452
+Look, you want to give it a try?
+
+377
+00:29:45,619 --> 00:29:47,204
+You want to write?
+
+378
+00:29:51,750 --> 00:29:53,085
+Something...
+
+379
+00:29:53,252 --> 00:29:54,461
+...please.
+
+380
+00:29:56,505 --> 00:29:58,757
+Mr. Young, you're looking at me.
+
+381
+00:29:59,091 --> 00:30:00,926
+You hear me, don't you?
+
+382
+00:30:03,428 --> 00:30:07,099
+lf you won't answer my questions,
+maybe we can start with something else.
+
+383
+00:30:07,224 --> 00:30:09,977
+What do you want?
+There has to be something.
+
+384
+00:30:10,060 --> 00:30:14,064
+Can't be to sit there, because if you do,
+they'll just stick you in the gas chamber.
+
+385
+00:30:14,147 --> 00:30:15,774
+Do you understand that?
+
+386
+00:30:29,121 --> 00:30:30,080
+Look...
+
+387
+00:30:32,165 --> 00:30:34,293
+...Mr. Young, l've read your file.
+
+388
+00:30:35,711 --> 00:30:37,713
+l am trying to help you.
+
+389
+00:30:38,505 --> 00:30:41,466
+That's all l'm trying to do.
+l just want to help you.
+
+390
+00:30:42,134 --> 00:30:43,552
+Maybe there are...
+
+391
+00:30:44,094 --> 00:30:46,638
+...extenuating circumstances in your case.
+
+392
+00:30:48,724 --> 00:30:51,476
+Getting sentenced to Leavenworth
+for stealing...
+
+393
+00:30:51,643 --> 00:30:53,604
+...$500, that's extenuating.
+
+394
+00:30:58,692 --> 00:31:01,278
+You have to understand, l'm on your side.
+
+395
+00:31:01,570 --> 00:31:02,404
+$5.
+
+396
+00:31:02,487 --> 00:31:03,822
+What, Mr. Young?
+
+397
+00:31:05,866 --> 00:31:07,826
+lt was $5, not $500.
+
+398
+00:31:08,952 --> 00:31:12,831
+l knew you had it in you. Now, come on.
+Why did you kill Rufus McCain?
+
+399
+00:31:13,749 --> 00:31:16,251
+You just talked. Don't do this again.
+
+400
+00:31:16,960 --> 00:31:20,130
+Come on, don't quit now.
+Come on, you just talked!
+
+401
+00:31:20,672 --> 00:31:22,299
+Why did you kill McCain?
+
+402
+00:31:28,597 --> 00:31:29,556
+What?
+
+403
+00:31:30,516 --> 00:31:32,351
+-What are you saying?
+-How....
+
+404
+00:31:32,392 --> 00:31:33,936
+How? How? How?
+
+405
+00:31:34,728 --> 00:31:36,188
+Are you saying ''how''?
+
+406
+00:31:36,230 --> 00:31:37,272
+How.
+
+407
+00:31:37,898 --> 00:31:38,857
+How?
+
+408
+00:31:39,525 --> 00:31:40,526
+How.
+
+409
+00:31:42,027 --> 00:31:45,948
+How. What are you, a fucking lndian?
+Don't quit now. How what?
+
+410
+00:31:46,073 --> 00:31:46,907
+How is....
+
+411
+00:31:46,990 --> 00:31:50,619
+You want to know how somebody is?
+l'll find out immediately.
+
+412
+00:31:51,036 --> 00:31:52,037
+How is....
+
+413
+00:31:52,663 --> 00:31:53,455
+Who?
+
+414
+00:31:53,539 --> 00:31:54,706
+DiMaggio.
+
+415
+00:31:55,123 --> 00:31:56,667
+How is DiMaggio?
+
+416
+00:31:57,125 --> 00:31:59,211
+ls he a prisoner over at Alcatraz?
+
+417
+00:31:59,878 --> 00:32:00,879
+How is...
+
+418
+00:32:01,129 --> 00:32:02,422
+...DiMaggio...
+
+419
+00:32:02,631 --> 00:32:04,091
+...doing this year?
+
+420
+00:32:05,884 --> 00:32:08,095
+DiMaggio, the baseball player?
+
+421
+00:32:08,637 --> 00:32:09,596
+Yeah.
+
+422
+00:32:11,139 --> 00:32:15,686
+How is Joe DiMaggio, the baseball player,
+doing? That's what you're asking?
+
+423
+00:32:22,776 --> 00:32:24,152
+Mr. Young...
+
+424
+00:32:27,739 --> 00:32:29,575
+...l don't really follow baseball.
+
+425
+00:32:31,076 --> 00:32:32,119
+You know.
+
+426
+00:32:42,337 --> 00:32:45,007
+<i>Excuse me, Mr. McNeil,
+I'm James Stamphill.</i>
+
+427
+00:32:46,175 --> 00:32:48,135
+-Counsel for Henri Young.
+-Yes.
+
+428
+00:32:48,218 --> 00:32:51,180
+l was wondering if l could talk to you
+about continuance?
+
+429
+00:32:51,263 --> 00:32:52,222
+No.
+
+430
+00:32:52,306 --> 00:32:55,100
+You don't understand.
+He just sits there and won't speak.
+
+431
+00:32:55,184 --> 00:32:59,146
+Maybe he's practicing for the gas chamber.
+Tell him to take deep breaths.
+
+432
+00:32:59,271 --> 00:33:02,941
+You won't even consider a joint motion
+in the interest of justice?
+
+433
+00:33:03,442 --> 00:33:06,361
+-Are you old enough to be a lawyer?
+-Yes, sir, l am.
+
+434
+00:33:06,445 --> 00:33:08,822
+No joint motion for a continuance.
+
+435
+00:33:08,989 --> 00:33:12,034
+No psychiatrist.
+And trust me, pal, no plea bargain.
+
+436
+00:33:12,201 --> 00:33:13,869
+Your boy's gonna suck the pipe.
+
+437
+00:33:14,453 --> 00:33:17,998
+l don't know who you pissed off
+to get this shit case and l don't care.
+
+438
+00:33:18,123 --> 00:33:19,082
+No breaks.
+
+439
+00:33:29,259 --> 00:33:32,012
+Mr. Young, DiMaggio is having
+a great year.
+
+440
+00:33:32,262 --> 00:33:35,766
+Last year he was the American League
+batting champ with a .352 average...
+
+441
+00:33:35,849 --> 00:33:40,145
+...which was just a bit off the year before
+when he had a .381 average.
+
+442
+00:33:40,312 --> 00:33:42,648
+The Yankees, they too had a good year.
+
+443
+00:33:43,106 --> 00:33:45,234
+New York defeated Chicago 4-0...
+
+444
+00:33:45,984 --> 00:33:48,737
+...led by jolting Joe DiMaggio hitting 400.
+
+445
+00:33:49,655 --> 00:33:51,740
+400, that's pretty good, isn't it?
+
+446
+00:33:53,659 --> 00:33:55,410
+June 1 7, 1941 ...
+
+447
+00:33:56,036 --> 00:33:59,498
+...our friend DiMaggio hits safely
+in 32 straight games.
+
+448
+00:34:00,040 --> 00:34:03,335
+Twelve more and he will tie
+Wee Willie Keeler's all-time record...
+
+449
+00:34:03,377 --> 00:34:06,713
+...who set the mark in 1897
+for the Baltimore Orioles.
+
+450
+00:34:07,047 --> 00:34:11,510
+Joe Louis was the victor in what some
+consider the toughest win of his career.
+
+451
+00:34:17,933 --> 00:34:20,561
+Here we go.
+Here's some entertainment news.
+
+452
+00:34:20,686 --> 00:34:21,854
+Betty Grable.
+
+453
+00:34:22,020 --> 00:34:23,021
+See?
+
+454
+00:34:25,691 --> 00:34:27,484
+Says here she's just--
+
+455
+00:34:28,569 --> 00:34:29,736
+How old are you?
+
+456
+00:34:29,862 --> 00:34:31,196
+What, Mr. Young?
+
+457
+00:34:32,281 --> 00:34:33,740
+How old are you?
+
+458
+00:34:35,367 --> 00:34:36,702
+l'm 24.
+
+459
+00:34:40,581 --> 00:34:41,915
+l think...
+
+460
+00:34:42,708 --> 00:34:44,042
+...l am too.
+
+461
+00:34:46,879 --> 00:34:48,046
+No, you're...
+
+462
+00:34:49,089 --> 00:34:50,591
+...you're 28.
+
+463
+00:35:04,938 --> 00:35:07,733
+Would you like me to keep reading to you?
+
+464
+00:35:17,075 --> 00:35:20,162
+This ought to make you
+a little bit more comfortable.
+
+465
+00:35:35,677 --> 00:35:39,640
+The defense requests a new jury.
+Having been eliminated from this process--
+
+466
+00:35:39,765 --> 00:35:41,141
+Three new members.
+
+467
+00:35:41,266 --> 00:35:42,601
+And that's it.
+
+468
+00:35:43,101 --> 00:35:44,061
+Next.
+
+469
+00:35:45,312 --> 00:35:48,273
+The defense requests a continuance
+of 60 days...
+
+470
+00:35:48,315 --> 00:35:50,192
+...so l may confer with my client--
+
+471
+00:35:50,442 --> 00:35:52,402
+He doesn't need 60 days.
+
+472
+00:35:52,653 --> 00:35:55,656
+The facts in this case are so clear,
+six minutes should do it.
+
+473
+00:35:55,781 --> 00:35:58,033
+My client has been almost catatonic.
+
+474
+00:35:58,158 --> 00:36:01,036
+-Yesterday was the first day--
+-He wasn't so catatonic...
+
+475
+00:36:01,119 --> 00:36:05,457
+...that he couldn't walk over and slit
+a guy's throat in front of 200 witnesses.
+
+476
+00:36:06,291 --> 00:36:09,711
+ls it your contention
+that the defendant is insane?
+
+477
+00:36:09,962 --> 00:36:12,339
+ls that what you mean by ''catatonic''?
+
+478
+00:36:13,674 --> 00:36:15,676
+Approach the bench, Counselor.
+
+479
+00:36:18,637 --> 00:36:20,305
+ls this laying the groundwork...
+
+480
+00:36:20,430 --> 00:36:23,100
+...for a not-guilty by reason
+of insanity plea?
+
+481
+00:36:23,809 --> 00:36:27,271
+l don't know yet. l haven't even spoken
+to him about the case--
+
+482
+00:36:27,855 --> 00:36:29,439
+One week, Counselor.
+
+483
+00:36:29,523 --> 00:36:32,985
+Then you will either tell me
+you are ready for the trial...
+
+484
+00:36:33,151 --> 00:36:37,114
+...or you will come in here with a request
+for a competency hearing.
+
+485
+00:36:37,322 --> 00:36:38,532
+One week.
+
+486
+00:36:40,826 --> 00:36:42,786
+This court is in recess.
+
+487
+00:36:58,677 --> 00:37:01,305
+Mr. Young, you and me,
+we've got to talk now.
+
+488
+00:37:02,014 --> 00:37:03,849
+Would you like a cigarette?
+
+489
+00:37:03,932 --> 00:37:05,309
+No, thanks.
+
+490
+00:37:05,684 --> 00:37:07,436
+That shit will kill you.
+
+491
+00:37:08,854 --> 00:37:09,897
+That's...
+
+492
+00:37:10,063 --> 00:37:11,523
+...kind of funny.
+
+493
+00:37:12,191 --> 00:37:13,859
+''That shit'll kill you.''
+
+494
+00:37:14,234 --> 00:37:17,696
+l'll die in that gas chamber anyway,
+so that's kind of a joke.
+
+495
+00:37:17,863 --> 00:37:20,324
+What's this about Nazis? We at war?
+
+496
+00:37:20,657 --> 00:37:22,534
+No, not yet, Mr. Young.
+
+497
+00:37:22,868 --> 00:37:24,203
+-lt's brand new.
+-What?
+
+498
+00:37:24,244 --> 00:37:26,413
+-Mr. Glenn told me.
+-The associate warden?
+
+499
+00:37:26,538 --> 00:37:30,042
+He says it's brand new.
+He said they're gonna try it out on me.
+
+500
+00:37:34,254 --> 00:37:35,255
+No.
+
+501
+00:37:37,090 --> 00:37:38,884
+You only have a week.
+
+502
+00:37:39,218 --> 00:37:41,345
+You've got to talk to me. Okay?
+
+503
+00:37:42,095 --> 00:37:44,097
+Why did you kill Rufus McCain?
+
+504
+00:37:45,766 --> 00:37:47,976
+Why did you kill Rufus McCain?
+
+505
+00:37:52,064 --> 00:37:54,608
+How could you not know about baseball?
+
+506
+00:37:56,902 --> 00:37:59,238
+You said, ''l don't follow baseball.''
+
+507
+00:37:59,279 --> 00:38:01,281
+-How could you not?
+-Why'd you kill him?
+
+508
+00:38:01,406 --> 00:38:04,952
+Over and over, it must have been
+maybe a year, l don't know.
+
+509
+00:38:05,077 --> 00:38:07,037
+All l did was hear them in my head.
+
+510
+00:38:07,120 --> 00:38:10,499
+What are you talking about?
+Are you talking about McCain?
+
+511
+00:38:10,624 --> 00:38:14,086
+l'm talking about baseball.
+The great American pastime.
+
+512
+00:38:14,586 --> 00:38:17,548
+l went over every game
+l ever heard on the radio.
+
+513
+00:38:18,257 --> 00:38:22,261
+l went over every game l ever heard.
+Just playing them over in my head.
+
+514
+00:38:24,096 --> 00:38:26,056
+You had all those games to go to...
+
+515
+00:38:26,139 --> 00:38:28,225
+...and you didn't even care.
+
+516
+00:38:28,433 --> 00:38:30,394
+l'm talking about Rufus McCain.
+
+517
+00:38:30,519 --> 00:38:34,106
+l'm talking about three fucking years
+they had me in that bucket!
+
+518
+00:38:34,481 --> 00:38:36,066
+Three fucking years!
+
+519
+00:38:36,316 --> 00:38:40,279
+Without any fucking light!
+You had all those games to listen to!
+
+520
+00:38:41,446 --> 00:38:44,491
+You didn't even know
+what DiMaggio hit this year.
+
+521
+00:38:46,451 --> 00:38:48,328
+What kind of asshole are you?
+
+522
+00:38:49,955 --> 00:38:51,415
+Calm down, boy!
+
+523
+00:38:53,876 --> 00:38:57,212
+You know the average length of time
+an inmate would be in solitary?
+
+524
+00:38:57,296 --> 00:38:58,297
+Nineteen days.
+
+525
+00:38:58,839 --> 00:39:00,966
+l understand, but he killed a man.
+
+526
+00:39:01,049 --> 00:39:04,052
+Henry did three years in total darkness.
+ln a black hole.
+
+527
+00:39:04,178 --> 00:39:07,764
+That's tragic, but he took a life.
+Your brother will tell you what l did.
+
+528
+00:39:07,848 --> 00:39:10,726
+-You won't get him off.
+-He's the best lawyer l know.
+
+529
+00:39:10,809 --> 00:39:14,855
+He can tell me if we've got a chance
+for some kind of insanity plea.
+
+530
+00:39:14,980 --> 00:39:16,940
+Your brother won't give a damn.
+
+531
+00:39:17,024 --> 00:39:18,984
+<i>Your client is a two-time loser.</i>
+
+532
+00:39:19,193 --> 00:39:22,779
+This case is much more
+about you than him.
+
+533
+00:39:23,405 --> 00:39:24,948
+He has no future.
+
+534
+00:39:25,616 --> 00:39:29,161
+This is your first time in the spotlight.
+lt's what you worked for.
+
+535
+00:39:29,494 --> 00:39:31,580
+This case is a lost cause...
+
+536
+00:39:31,872 --> 00:39:34,750
+...so you must handle it like a lost cause.
+
+537
+00:39:41,590 --> 00:39:45,093
+Maybe you're right,
+but the guy's not exactly Al Capone.
+
+538
+00:39:45,761 --> 00:39:47,095
+No, he isn't.
+
+539
+00:39:48,055 --> 00:39:51,475
+All they had him on was
+income tax evasion. Your boy...
+
+540
+00:39:52,434 --> 00:39:54,269
+...they got on murder one.
+
+541
+00:39:55,229 --> 00:39:55,979
+Hi.
+
+542
+00:39:56,104 --> 00:39:57,231
+How are you?
+
+543
+00:39:57,981 --> 00:39:58,982
+Hi, Henri.
+
+544
+00:39:59,233 --> 00:40:00,359
+Listen.
+
+545
+00:40:00,567 --> 00:40:03,612
+You're not mad at me
+for blowing up at you yesterday?
+
+546
+00:40:03,737 --> 00:40:05,239
+Nobody talks back.
+
+547
+00:40:05,364 --> 00:40:06,907
+No, l'm not mad at you.
+
+548
+00:40:07,074 --> 00:40:08,492
+l'll get the hang of it.
+
+549
+00:40:08,575 --> 00:40:10,035
+l got a sense of humor.
+
+550
+00:40:10,118 --> 00:40:12,704
+We gonna have some good times
+before this is through.
+
+551
+00:40:12,788 --> 00:40:15,457
+You know how to play cards?
+Could you get some?
+
+552
+00:40:15,958 --> 00:40:17,709
+l set this up for you. Sit down.
+
+553
+00:40:17,793 --> 00:40:20,671
+How much light got into the cell
+you spent three years in?
+
+554
+00:40:20,754 --> 00:40:24,174
+-Like when you offered me a cigarette.
+-l want to get that straight.
+
+555
+00:40:24,258 --> 00:40:25,676
+That was pretty good, huh?
+
+556
+00:40:26,301 --> 00:40:28,720
+You gotta help me if l'm going
+to defend you now.
+
+557
+00:40:28,804 --> 00:40:30,389
+Yeah, sure, sure.
+
+558
+00:40:31,807 --> 00:40:33,225
+Have a look here.
+
+559
+00:40:35,143 --> 00:40:37,896
+Did you kill this man here? Rufus McCain?
+
+560
+00:40:39,439 --> 00:40:41,233
+l must have. l'm here.
+
+561
+00:40:41,733 --> 00:40:44,653
+l don't remember it,
+but everybody saw me, so, yeah.
+
+562
+00:40:44,903 --> 00:40:46,989
+-But you don't remember it?
+-No. So what?
+
+563
+00:40:47,114 --> 00:40:48,323
+Did you want to?
+
+564
+00:40:48,448 --> 00:40:51,493
+Once there was this spider
+that crawled over me.
+
+565
+00:40:51,785 --> 00:40:53,287
+lt was like having company.
+
+566
+00:40:53,412 --> 00:40:56,331
+l looked for him again, couldn't find him.
+He had a way out.
+
+567
+00:40:56,456 --> 00:40:58,709
+McCain landed you in the bucket, right?
+
+568
+00:40:58,792 --> 00:41:00,919
+142 times 93. Ask me that one.
+
+569
+00:41:01,003 --> 00:41:04,298
+-How long after you came out--
+-13,206.
+
+570
+00:41:05,174 --> 00:41:08,135
+13,000? You mean, days?
+What are you talking about?
+
+571
+00:41:08,343 --> 00:41:10,929
+No, that's the answer. 142 times 93.
+
+572
+00:41:11,013 --> 00:41:14,057
+-Concentrate on what l'm saying!
+-l know what you're saying.
+
+573
+00:41:14,141 --> 00:41:17,352
+-How long was it?
+-l don't know! l don't remember!
+
+574
+00:41:18,478 --> 00:41:21,273
+Who's the new girl l've seen in the papers?
+lngrid Berger?
+
+575
+00:41:21,356 --> 00:41:23,692
+She's a looker. You seen her movies?
+
+576
+00:41:23,859 --> 00:41:25,277
+l want you to think!
+
+577
+00:41:25,360 --> 00:41:26,904
+l don't want to think!
+
+578
+00:41:27,112 --> 00:41:29,948
+l spent three goddamn years in the dark...
+
+579
+00:41:30,199 --> 00:41:32,326
+...smelling my own shit and piss...
+
+580
+00:41:32,534 --> 00:41:34,286
+...doing nothing but thinking!
+
+581
+00:41:34,369 --> 00:41:35,829
+l hate thinking!
+
+582
+00:41:42,794 --> 00:41:44,379
+l'm sorry, Henri.
+
+583
+00:41:49,885 --> 00:41:51,220
+l'm sorry.
+
+584
+00:41:52,679 --> 00:41:54,556
+l'm just trying to help you.
+
+585
+00:41:55,933 --> 00:41:57,351
+You got a girl, right?
+
+586
+00:41:58,852 --> 00:42:00,312
+Take your jacket off.
+
+587
+00:42:00,854 --> 00:42:02,564
+-What?
+-Let me smell it.
+
+588
+00:42:03,023 --> 00:42:05,317
+You were easier to understand catatonic.
+
+589
+00:42:05,400 --> 00:42:06,693
+What's she like?
+
+590
+00:42:06,777 --> 00:42:08,654
+-Who?
+-Your girl. That's perfume.
+
+591
+00:42:08,695 --> 00:42:10,364
+Let me smell your jacket.
+
+592
+00:42:12,574 --> 00:42:14,076
+l'll make you a deal.
+
+593
+00:42:14,201 --> 00:42:17,621
+l'll give my jacket, my pants,
+whatever you want. Sports, girls....
+
+594
+00:42:17,704 --> 00:42:20,749
+But you gotta tell me just one memory
+about something l ask.
+
+595
+00:42:21,083 --> 00:42:22,125
+Deal?
+
+596
+00:42:22,709 --> 00:42:23,710
+Sure.
+
+597
+00:42:31,927 --> 00:42:33,762
+l've never been with a girl.
+
+598
+00:42:41,228 --> 00:42:42,688
+Let me try it on.
+
+599
+00:42:43,772 --> 00:42:46,233
+How long was it you went
+without any daylight?
+
+600
+00:42:46,358 --> 00:42:49,027
+<i>Did they ever let you out for any exercise?</i>
+
+601
+00:42:49,444 --> 00:42:51,780
+-Merry Christmas.
+-Please, don't hit me.
+
+602
+00:42:51,947 --> 00:42:54,700
+-Get the tear gas.
+-How long l been in here?
+
+603
+00:42:54,908 --> 00:42:57,786
+-You're out of the hole.
+-l made it! l did it!
+
+604
+00:42:57,953 --> 00:42:59,496
+lt's Christmas, 1940.
+
+605
+00:42:59,746 --> 00:43:01,748
+You've been down there two years.
+
+606
+00:43:03,083 --> 00:43:04,251
+Two years!
+
+607
+00:43:05,085 --> 00:43:06,253
+l did it.
+
+608
+00:43:07,629 --> 00:43:09,089
+Two fucking years.
+
+609
+00:43:10,090 --> 00:43:12,050
+l made it. l made it.
+
+610
+00:43:12,926 --> 00:43:14,678
+l'm not too crazy, am l?
+
+611
+00:43:15,470 --> 00:43:17,264
+l did it! lt's over!
+
+612
+00:43:17,639 --> 00:43:19,349
+Nothing's over, Henri.
+
+613
+00:43:19,433 --> 00:43:21,977
+Thirty minutes exercise, that's all you get.
+
+614
+00:43:22,978 --> 00:43:23,979
+No!
+
+615
+00:43:28,483 --> 00:43:30,485
+You don't want it, we take you back.
+
+616
+00:43:30,569 --> 00:43:31,528
+No!
+
+617
+00:43:31,945 --> 00:43:32,988
+l want it!
+
+618
+00:43:33,197 --> 00:43:34,489
+l want it.
+
+619
+00:43:35,991 --> 00:43:38,285
+l'll be good. l'll be good.
+
+620
+00:43:46,835 --> 00:43:49,171
+<i>Ladies and gentlemen of the jury:</i>
+
+621
+00:43:49,463 --> 00:43:51,465
+<i>The defendant, Henri Young...</i>
+
+622
+00:43:51,507 --> 00:43:54,468
+<i>...is accused of murder in the first degree.</i>
+
+623
+00:43:54,968 --> 00:43:58,555
+<i>It is your responsibility,
+as a juror, to deal with truth.</i>
+
+624
+00:43:59,515 --> 00:44:01,141
+<i>Rufus McCain was murdered...</i>
+
+625
+00:44:02,309 --> 00:44:03,936
+<i>...by Henri Young.</i>
+
+626
+00:44:04,019 --> 00:44:05,562
+<i>Mr. Stamphill...</i>
+
+627
+00:44:05,979 --> 00:44:07,314
+<i>...public defender...</i>
+
+628
+00:44:07,397 --> 00:44:11,360
+<i>...will play upon your sympathies.
+He'll use every trick in the book.</i>
+
+629
+00:44:11,485 --> 00:44:12,486
+<i>Why?</i>
+
+630
+00:44:13,403 --> 00:44:15,239
+<i>To avoid the gas chamber.</i>
+
+631
+00:44:15,822 --> 00:44:18,283
+<i>The United States of America
+will demand...</i>
+
+632
+00:44:18,492 --> 00:44:20,911
+<i>...that you return a verdict of guilty...</i>
+
+633
+00:44:20,994 --> 00:44:22,621
+<i>...so that this...</i>
+
+634
+00:44:22,996 --> 00:44:24,540
+<i>...this animal...</i>
+
+635
+00:44:24,706 --> 00:44:27,918
+<i>...will receive the punishment
+commanded by the Bible.</i>
+
+636
+00:44:28,210 --> 00:44:29,837
+<i>''An eye for an eye.''</i>
+
+637
+00:44:30,712 --> 00:44:32,339
+<i>A life for a life.</i>
+
+638
+00:44:32,464 --> 00:44:35,425
+<i>For if ever there was a man
+guilty of murder...</i>
+
+639
+00:44:36,885 --> 00:44:38,428
+...it is Henri Young.
+
+640
+00:44:39,680 --> 00:44:42,933
+And if ever a man deserved
+to die for that crime...
+
+641
+00:44:44,184 --> 00:44:45,978
+...it is the accused.
+
+642
+00:44:49,815 --> 00:44:52,150
+Thank you very much, Mr. McNeil.
+
+643
+00:44:54,903 --> 00:44:58,824
+Mr. Stamphill, are you prepared
+to make your opening statement?
+
+644
+00:44:59,533 --> 00:45:00,701
+Your Honor...
+
+645
+00:45:01,034 --> 00:45:03,161
+...ladies and gentlemen of the jury:
+
+646
+00:45:04,705 --> 00:45:08,542
+When l was a kid, my heroes
+weren't Babe Ruth or Lou Gehrig...
+
+647
+00:45:09,126 --> 00:45:11,253
+...they were Clarence Darrow
+and Émile Zola.
+
+648
+00:45:11,378 --> 00:45:14,298
+ln other words, l have waited
+for this moment all my life.
+
+649
+00:45:14,381 --> 00:45:17,509
+To stand, like l am, in front of a jury
+of 12 good people...
+
+650
+00:45:17,593 --> 00:45:21,263
+...to plead the case of an innocent man
+who's been unjustly accused.
+
+651
+00:45:21,388 --> 00:45:23,348
+The only problem is he did it.
+
+652
+00:45:24,057 --> 00:45:26,852
+l know it, the prosecutor, Mr. McNeil,
+knows it.
+
+653
+00:45:27,060 --> 00:45:31,398
+Henri doesn't know it 'cause he can't
+remember it, but he won't deny he did it.
+
+654
+00:45:31,523 --> 00:45:34,860
+All those witnesses the prosecutor
+will bring forth will tell you...
+
+655
+00:45:34,943 --> 00:45:37,362
+...Henri Young killed Rufus McCain.
+
+656
+00:45:38,447 --> 00:45:41,909
+Now that we all know that,
+why don't we find the man guilty...
+
+657
+00:45:41,950 --> 00:45:45,204
+...and gas him because that's
+what we all know is going to happen?
+
+658
+00:45:45,287 --> 00:45:46,455
+Right, Henri?
+
+659
+00:45:46,580 --> 00:45:47,539
+What?
+
+660
+00:45:48,874 --> 00:45:53,337
+There's only one problem that'll keep us
+from wrapping this up in record time.
+
+661
+00:45:53,629 --> 00:45:57,508
+Henri Young did not act alone.
+They haven't caught all the killers.
+
+662
+00:45:57,591 --> 00:46:02,346
+There was a co-conspirator. Because of
+this co-conspirator, whom we shall name...
+
+663
+00:46:02,596 --> 00:46:05,390
+...Henri Young is innocent
+of the crime of murder.
+
+664
+00:46:05,474 --> 00:46:06,517
+What?
+
+665
+00:46:06,642 --> 00:46:09,102
+Objection, Your Honor! l must protest!
+
+666
+00:46:09,269 --> 00:46:10,729
+l figured you would.
+
+667
+00:46:10,812 --> 00:46:12,481
+This is absurd.
+
+668
+00:46:12,856 --> 00:46:16,818
+Before the counselor is allowed to waste
+this court's time and this jury's time...
+
+669
+00:46:16,944 --> 00:46:21,490
+...l'd request that he supply some proof
+or evidence of this co-conspirator.
+
+670
+00:46:21,823 --> 00:46:25,953
+Can you bring forward evidence
+of the existence of a co-conspirator?
+
+671
+00:46:26,328 --> 00:46:30,332
+Not at this time, but it is my intention
+to do so during the course of the trial.
+
+672
+00:46:30,457 --> 00:46:34,253
+He's not going to provide such proof
+because no proof exists.
+
+673
+00:46:34,461 --> 00:46:37,631
+This man spent three years
+in solitary confinement...
+
+674
+00:46:37,840 --> 00:46:40,801
+...during which time no one had
+any influence over him...
+
+675
+00:46:40,884 --> 00:46:43,512
+...because no one had
+any contact with him.
+
+676
+00:46:44,137 --> 00:46:47,099
+He came out of solitary.
+He went directly to a shower.
+
+677
+00:46:47,182 --> 00:46:51,562
+Then he went directly to a haircut.
+Then he went directly to the dining hall...
+
+678
+00:46:51,645 --> 00:46:54,606
+...where one convict had said
+one sentence to him.
+
+679
+00:46:54,815 --> 00:46:57,276
+This does not a co-conspirator make.
+
+680
+00:46:57,484 --> 00:47:00,362
+l'm inclined to agree with the prosecution.
+
+681
+00:47:00,988 --> 00:47:03,282
+Unless you can justify
+that line of defense...
+
+682
+00:47:03,365 --> 00:47:06,118
+...l will sustain the prosecution's objection.
+
+683
+00:47:06,326 --> 00:47:10,330
+The district attorney, with his own words,
+has just made my case for me.
+
+684
+00:47:10,539 --> 00:47:11,999
+That'll be the day.
+
+685
+00:47:12,666 --> 00:47:13,834
+Your Honor...
+
+686
+00:47:14,543 --> 00:47:17,671
+...for three years,
+three long, tortuous years...
+
+687
+00:47:18,046 --> 00:47:21,717
+...no one and nothing had any influence
+whatsoever over Henri Young.
+
+688
+00:47:22,009 --> 00:47:23,510
+No one and nothing.
+
+689
+00:47:23,719 --> 00:47:27,514
+This was a man whose only crime was
+to steal $5 from a local post office...
+
+690
+00:47:27,598 --> 00:47:29,558
+...to feed his starving sister.
+
+691
+00:47:29,683 --> 00:47:33,353
+He came to Alcatraz a petty criminal
+who had never harmed...
+
+692
+00:47:33,478 --> 00:47:36,315
+...or attempted to harm
+another human being in his life.
+
+693
+00:47:36,356 --> 00:47:39,943
+He came out of the dungeon a vicious,
+barbaric, maniacal murderer.
+
+694
+00:47:40,360 --> 00:47:42,821
+A man who had been put
+into a psychological coma.
+
+695
+00:47:42,905 --> 00:47:45,407
+Within an hour of coming out
+of that hell hole...
+
+696
+00:47:45,532 --> 00:47:48,827
+...he did what would've been unthinkable
+to him three years before.
+
+697
+00:47:48,911 --> 00:47:50,162
+Unthinkable!
+
+698
+00:47:50,370 --> 00:47:53,665
+His only thought was murder!
+His only instinct was murder.
+
+699
+00:47:53,874 --> 00:47:55,542
+His first act was murder!
+
+700
+00:47:55,709 --> 00:47:59,338
+He himself was a murder weapon,
+but the hand that held that weapon...
+
+701
+00:47:59,421 --> 00:48:02,966
+...and plunged it into the throat of McCain
+belonged to someone else.
+
+702
+00:48:03,091 --> 00:48:05,344
+l point to Associate Warden, Mr. Glenn...
+
+703
+00:48:05,427 --> 00:48:09,556
+...Warden Humson and the institution
+known as Alcatraz and say, ''l accuse! ''
+
+704
+00:48:09,765 --> 00:48:12,768
+-Objection!
+-l accuse them individually and collectively.
+
+705
+00:48:12,893 --> 00:48:16,146
+l accuse Alcatraz of the torture
+of Henri Young!
+
+706
+00:48:16,438 --> 00:48:19,358
+-l accuse Alcatraz of McCain's murder!
+-Come to order!
+
+707
+00:48:19,441 --> 00:48:22,152
+Silence! This court will come to order!
+
+708
+00:48:25,113 --> 00:48:28,158
+Henri Young is not going to be
+the only defendant here!
+
+709
+00:48:28,408 --> 00:48:30,035
+Alcatraz is on trial!
+
+710
+00:48:30,327 --> 00:48:33,038
+<i>I will address your objection
+tomorrow morning!</i>
+
+711
+00:48:33,580 --> 00:48:37,876
+<i>Henri Young, on trial for his life, is seen
+leaving the San Francisco courthouse...</i>
+
+712
+00:48:37,960 --> 00:48:42,214
+<i>...followed by his young and now very
+popular public defender, James Stamphill.</i>
+
+713
+00:48:42,297 --> 00:48:46,426
+<i>Stamphill has accused the infamous Rock
+of torture, using the tag line...</i>
+
+714
+00:48:46,635 --> 00:48:48,512
+<i>...''crimes against humanity.''</i>
+
+715
+00:48:48,595 --> 00:48:51,890
+<i>He has turned the once quiet trial
+of a convict killing...</i>
+
+716
+00:48:52,057 --> 00:48:53,934
+<i>...into a media circus.</i>
+
+717
+00:48:54,142 --> 00:48:56,562
+ln most cases, they do get better.
+
+718
+00:48:58,313 --> 00:49:00,315
+ln the case of Henri Young...
+
+719
+00:49:01,149 --> 00:49:03,318
+...this happens not to be true.
+
+720
+00:49:03,610 --> 00:49:04,820
+Young is a...
+
+721
+00:49:05,153 --> 00:49:06,363
+...noisemaker.
+
+722
+00:49:06,655 --> 00:49:09,700
+Some prisoners have a problem
+when they're in...
+
+723
+00:49:10,993 --> 00:49:12,202
+...solitary.
+
+724
+00:49:12,786 --> 00:49:15,914
+All we do is try to discourage misconduct.
+
+725
+00:49:17,457 --> 00:49:20,752
+<i>This is the first verbal attack
+on the jewel of the prison system.</i>
+
+726
+00:49:20,836 --> 00:49:24,840
+<i>This bastion that houses evil
+opened in 1934.</i>
+
+727
+00:49:25,465 --> 00:49:27,467
+<i>It brought gangsters like Capone...</i>
+
+728
+00:49:27,593 --> 00:49:32,347
+<i>...Machine Gun Kelly and Henri Young
+close to the magical city by the bay...</i>
+
+729
+00:49:32,681 --> 00:49:36,310
+<i>...less than one half-mile
+from the world-famous Fisherman's Wharf.</i>
+
+730
+00:49:36,518 --> 00:49:39,354
+<i>We went to the streets
+to find out public opinion.</i>
+
+731
+00:49:39,479 --> 00:49:42,482
+You can't put a place on trial.
+lt's a prison for prisoners.
+
+732
+00:49:42,608 --> 00:49:46,236
+Now the murderers are accusing
+the wardens of this and that.
+
+733
+00:49:46,320 --> 00:49:47,905
+Doesn't make a lot of sense.
+
+734
+00:49:47,988 --> 00:49:50,073
+Humson seems like a good guy.
+
+735
+00:49:50,199 --> 00:49:52,451
+lf Alcatraz wasn't here l wouldn't live here.
+
+736
+00:49:52,534 --> 00:49:55,287
+-You think it's too close?
+-l think it's perfect.
+
+737
+00:49:55,495 --> 00:49:57,456
+He's innocent until proven guilty.
+
+738
+00:49:57,581 --> 00:50:00,792
+He'll get a fair trial, but, nonetheless,
+he's a murderer.
+
+739
+00:50:01,043 --> 00:50:03,504
+<i>This grizzly evidence bears mute witness...</i>
+
+740
+00:50:03,587 --> 00:50:06,757
+<i>...to the brutal crime
+perpetrated by Henri Young.</i>
+
+741
+00:50:07,341 --> 00:50:08,800
+<i>Note the spoon.</i>
+
+742
+00:50:09,343 --> 00:50:11,345
+<i>Can a prison be put on trial?</i>
+
+743
+00:50:11,470 --> 00:50:14,389
+<i>Judge Clawson's ruling tomorrow
+may clear the way...</i>
+
+744
+00:50:14,473 --> 00:50:16,558
+<i>...to put Alcatraz on trial.</i>
+
+745
+00:50:16,892 --> 00:50:20,646
+''The warden can be relied upon
+to carry out the instructions...
+
+746
+00:50:20,854 --> 00:50:23,482
+''...of the Bureau, that no brutality...
+
+747
+00:50:24,191 --> 00:50:26,568
+''...or inhumanity shall be practiced.
+
+748
+00:50:26,902 --> 00:50:30,113
+''Sustained food and medical attention
+shall be given.''
+
+749
+00:50:30,280 --> 00:50:33,534
+We have wholeheartedly followed
+those instructions.
+
+750
+00:50:33,867 --> 00:50:34,868
+Thank you.
+
+751
+00:50:35,202 --> 00:50:37,371
+<i>So many opinions being expressed.</i>
+
+752
+00:50:37,579 --> 00:50:40,832
+<i>We attempted to get a statement
+from the recent Harvard graduate...</i>
+
+753
+00:50:40,916 --> 00:50:43,335
+<i>...assigned to defend Henri Young.</i>
+
+754
+00:50:43,794 --> 00:50:46,964
+Why don't we keep the trial
+in the courtroom? Thank you.
+
+755
+00:50:48,090 --> 00:50:51,718
+l would like to address a few words
+to the counsel for the defense.
+
+756
+00:50:51,885 --> 00:50:54,513
+Mr. Stamphill, you are hereby
+put on notice...
+
+757
+00:50:54,721 --> 00:50:57,683
+...that this court has no interest
+in newspaper headlines...
+
+758
+00:50:57,766 --> 00:50:59,893
+...and will not be swayed by them.
+
+759
+00:51:00,686 --> 00:51:05,524
+l further admonish that counsel's attempts
+to try this case in the press...
+
+760
+00:51:05,607 --> 00:51:09,361
+...and not before this court,
+will put him in the utmost peril.
+
+761
+00:51:11,572 --> 00:51:13,490
+ls that clear, Mr. Stamphill?
+
+762
+00:51:13,740 --> 00:51:15,117
+Yes, Your Honor.
+
+763
+00:51:15,450 --> 00:51:16,493
+Good.
+
+764
+00:51:17,202 --> 00:51:19,079
+Bailiff, approach the bench.
+
+765
+00:51:19,580 --> 00:51:23,083
+Before l hand down my ruling
+on Mr. McNeil's objection...
+
+766
+00:51:23,584 --> 00:51:27,212
+...l'd like to address a few words
+to the counsel for the defense.
+
+767
+00:51:27,296 --> 00:51:31,550
+While l cannot give legal advice
+and sit on the bench at the same time...
+
+768
+00:51:31,758 --> 00:51:35,429
+...l will express grave concern
+with the defense's strategy.
+
+769
+00:51:36,430 --> 00:51:39,516
+Counselor, l strongly recommend
+you walk a straight line...
+
+770
+00:51:39,641 --> 00:51:41,393
+...in terms of your defense.
+
+771
+00:51:41,476 --> 00:51:46,023
+Anything you state in this courtroom
+will be evaluated not only by the jury...
+
+772
+00:51:46,273 --> 00:51:50,444
+...but very closely scrutinized by myself.
+ls that understood, Mr. Stamphill?
+
+773
+00:51:50,986 --> 00:51:52,112
+Yes, Your Honor.
+
+774
+00:51:52,571 --> 00:51:53,697
+Very well.
+
+775
+00:51:55,365 --> 00:51:57,409
+Prosecution's objection is overruled.
+
+776
+00:51:58,327 --> 00:52:00,913
+You may pursue your line of defense...
+
+777
+00:52:01,163 --> 00:52:03,415
+...concerning the penitentiary at Alcatraz...
+
+778
+00:52:03,498 --> 00:52:07,044
+...and l will rule on any objections
+on a point-by-point basis.
+
+779
+00:52:07,294 --> 00:52:08,462
+Exception.
+
+780
+00:52:08,629 --> 00:52:09,671
+Noted.
+
+781
+00:52:09,796 --> 00:52:12,299
+Mr. McNeil, you may call
+your first witness.
+
+782
+00:52:12,508 --> 00:52:14,968
+Prosecution calls Terrence Swenson.
+
+783
+00:52:16,470 --> 00:52:17,763
+Terrence Swenson.
+
+784
+00:52:26,897 --> 00:52:29,858
+Witness shall remain standing
+until sworn in.
+
+785
+00:52:31,193 --> 00:52:32,945
+Put your hand on the Bible.
+
+786
+00:52:33,028 --> 00:52:34,279
+Cut it out.
+
+787
+00:52:34,363 --> 00:52:37,324
+Do you swear to tell the truth
+and nothing but the truth...
+
+788
+00:52:37,824 --> 00:52:39,284
+...so help you God?
+
+789
+00:52:39,451 --> 00:52:40,786
+So help me God.
+
+790
+00:52:40,869 --> 00:52:42,287
+You may be seated.
+
+791
+00:52:43,330 --> 00:52:47,459
+Mr. Swenson, as a guard at Alcatraz,
+did you know Henri Young?
+
+792
+00:52:48,043 --> 00:52:48,794
+Yes, sir.
+
+793
+00:52:48,877 --> 00:52:51,171
+Could you point him out for us?
+
+794
+00:52:52,381 --> 00:52:54,424
+That's him right over there, sir.
+
+795
+00:52:54,967 --> 00:52:56,593
+Thank you, Mr. Whitney.
+
+796
+00:52:57,219 --> 00:52:58,136
+Thank you.
+
+797
+00:52:58,178 --> 00:53:01,515
+Now, on the morning of June 1 1, 1941,
+where were you?
+
+798
+00:53:02,182 --> 00:53:04,560
+l was on duty in the dining hall.
+
+799
+00:53:04,893 --> 00:53:06,436
+Everything was normal.
+
+800
+00:53:06,854 --> 00:53:08,772
+And l saw the defendant--
+
+801
+00:53:08,897 --> 00:53:09,940
+Henri Young.
+
+802
+00:53:10,065 --> 00:53:11,400
+That's correct.
+
+803
+00:53:11,733 --> 00:53:13,986
+l saw him standing over Rufus McCain.
+
+804
+00:53:14,236 --> 00:53:16,280
+He lifted up his chin and....
+
+805
+00:53:16,947 --> 00:53:18,991
+-Excuse me, l'm nervous.
+-lt's all right.
+
+806
+00:53:19,074 --> 00:53:21,577
+And he plunged a metal object...
+
+807
+00:53:22,494 --> 00:53:24,621
+...which l later learned was a spoon...
+
+808
+00:53:24,746 --> 00:53:26,415
+...into McCain's throat.
+
+809
+00:53:27,207 --> 00:53:29,001
+He then ripped it open.
+
+810
+00:53:30,419 --> 00:53:32,838
+Did the defendant ever appear
+to be ranting...
+
+811
+00:53:32,921 --> 00:53:33,881
+...or raving?
+
+812
+00:53:34,006 --> 00:53:35,132
+No, sir.
+
+813
+00:53:35,299 --> 00:53:37,801
+Mr. McKeon, was he frothing
+at the mouth?
+
+814
+00:53:38,177 --> 00:53:39,094
+No, sir.
+
+815
+00:53:39,720 --> 00:53:43,140
+Did he in any way give the impression
+of one who was insane?
+
+816
+00:53:43,432 --> 00:53:46,560
+Objection. This man is not
+a qualified psychiatrist.
+
+817
+00:53:46,685 --> 00:53:47,728
+Sustained.
+
+818
+00:53:47,936 --> 00:53:51,899
+So, it appeared to you that it was a cool,
+calculated and deliberate act?
+
+819
+00:53:52,274 --> 00:53:54,026
+-Objection!
+-Overruled.
+
+820
+00:53:54,234 --> 00:53:56,570
+The witness may answer the question.
+
+821
+00:53:56,695 --> 00:53:59,823
+Yes, sir. Young did it,
+just as cool as a cucumber.
+
+822
+00:54:00,073 --> 00:54:01,200
+Thank you.
+
+823
+00:54:01,491 --> 00:54:02,868
+No further questions.
+
+824
+00:54:03,285 --> 00:54:06,246
+This court will reconvene
+after the holiday...
+
+825
+00:54:06,330 --> 00:54:07,956
+...9:00 a.m., July 5.
+
+826
+00:54:08,123 --> 00:54:09,208
+All rise.
+
+827
+00:54:09,333 --> 00:54:11,668
+You should have played cards with me.
+
+828
+00:54:12,252 --> 00:54:13,462
+Alcatraz.
+
+829
+00:54:13,962 --> 00:54:16,924
+lt was built by the military
+during the Civil War.
+
+830
+00:54:18,091 --> 00:54:21,470
+ln May of '33, the War Department
+abandoned the island.
+
+831
+00:54:22,471 --> 00:54:26,725
+lt was leveled, all except for the lower
+floor which is now used for storage.
+
+832
+00:54:27,100 --> 00:54:30,145
+Note to myself:
+Get access to the lower level...
+
+833
+00:54:30,270 --> 00:54:33,524
+...because that's where the dungeons have
+gotta be located.
+
+834
+00:54:33,649 --> 00:54:36,276
+The only guard on record to be fired...
+
+835
+00:54:36,401 --> 00:54:40,030
+...or dismissed during Henri's solitary time
+was Derek Simpson.
+
+836
+00:54:40,572 --> 00:54:42,032
+Locate Simpson.
+
+837
+00:54:42,324 --> 00:54:45,702
+The prison opened in June of '34
+under Warden Humson.
+
+838
+00:54:46,578 --> 00:54:49,540
+He insisted on a high level
+of guards to prisoners.
+
+839
+00:54:49,581 --> 00:54:51,583
+Glenn was the first appointee.
+
+840
+00:54:53,335 --> 00:54:54,461
+Mr. Henkin.
+
+841
+00:54:54,795 --> 00:54:57,256
+Two things: First of all, you work for me.
+
+842
+00:54:57,464 --> 00:54:58,924
+Let me finish!
+
+843
+00:55:00,008 --> 00:55:03,554
+You work for me, which means
+when l call you, you drop everything.
+
+844
+00:55:03,679 --> 00:55:06,390
+Return my call or you will cease
+to work for me.
+
+845
+00:55:06,682 --> 00:55:08,976
+l don't care if you're with Rita Hayworth!
+
+846
+00:55:09,351 --> 00:55:10,435
+Understand?
+
+847
+00:55:10,769 --> 00:55:12,187
+-Yes, sir.
+-Good.
+
+848
+00:55:15,315 --> 00:55:17,609
+What the hell are you doing with this trial?
+
+849
+00:55:17,693 --> 00:55:18,944
+Defending my client.
+
+850
+00:55:19,027 --> 00:55:21,572
+Then why don't you defend him
+for Christ's sake?
+
+851
+00:55:21,655 --> 00:55:24,908
+Try to knock down the charges
+as a crime of passion or figure out...
+
+852
+00:55:24,992 --> 00:55:27,452
+...how you'll cross-examine
+the witnesses...
+
+853
+00:55:27,536 --> 00:55:32,165
+...instead of this ''psychological coma'' crap
+that doesn't mean anything in court!
+
+854
+00:55:32,374 --> 00:55:34,543
+l think it does. As long as it's my case--
+
+855
+00:55:34,626 --> 00:55:39,089
+Fair enough. l tried to talk reasonably
+to you, but you're not going for it, so...
+
+856
+00:55:39,840 --> 00:55:42,801
+...you're not handling this case anymore.
+lt's done.
+
+857
+00:55:43,010 --> 00:55:44,303
+Mr. Henkin...
+
+858
+00:55:45,220 --> 00:55:48,974
+...they're printing my opening statement
+in 250 newspapers across the country.
+
+859
+00:55:49,057 --> 00:55:52,477
+lf you want me off the case because
+you're afraid of taking on Alcatraz...
+
+860
+00:55:52,603 --> 00:55:54,146
+...that's your choice.
+
+861
+00:55:54,229 --> 00:55:57,774
+But l'll just go to Jerry Hoolihan
+and tell my side of the story.
+
+862
+00:55:58,400 --> 00:56:01,945
+lf you want to play hardball, sir,
+l'll play hardball too.
+
+863
+00:56:07,910 --> 00:56:09,620
+l'm trying to be your friend.
+
+864
+00:56:10,412 --> 00:56:12,414
+You know who the warden of Alcatraz is?
+
+865
+00:56:12,539 --> 00:56:16,835
+He's the most highly respected warden
+in the US dealing with hardened criminals.
+
+866
+00:56:17,836 --> 00:56:20,506
+lf you try to make Humson
+look like a Nazi...
+
+867
+00:56:21,048 --> 00:56:23,217
+...they will eat you for breakfast.
+
+868
+00:56:32,226 --> 00:56:35,646
+You'll die if l can't get corroboration
+about what goes on over there.
+
+869
+00:56:35,771 --> 00:56:38,732
+l need names! Names of men
+who'll come and testify.
+
+870
+00:56:39,149 --> 00:56:42,277
+What made you think
+these men will come and testify?
+
+871
+00:56:42,402 --> 00:56:45,072
+Maybe you got some friends
+you don't know about.
+
+872
+00:56:45,781 --> 00:56:49,201
+-You want to play cards?
+-l'll make them testify with a court order!
+
+873
+00:56:49,284 --> 00:56:52,371
+What about when they're back
+on the Rock with Mr. Glenn?
+
+874
+00:56:52,538 --> 00:56:54,373
+They'll kill them, that's what.
+
+875
+00:56:54,456 --> 00:56:57,501
+This is our only chance.
+We're talking about your life.
+
+876
+00:56:57,626 --> 00:57:01,547
+For a smart guy, you're awfully slow.
+l'm already dead. l told you that.
+
+877
+00:57:01,797 --> 00:57:04,049
+You can't change Alcatraz.
+
+878
+00:57:04,466 --> 00:57:05,634
+lt just is.
+
+879
+00:57:05,717 --> 00:57:07,094
+So why fight it?
+
+880
+00:57:07,261 --> 00:57:11,265
+You stand in court preaching. l don't
+even know what you're talking about.
+
+881
+00:57:11,431 --> 00:57:13,642
+Justice. l'm talking about justice.
+
+882
+00:57:13,976 --> 00:57:16,854
+l killed him, they saw it,
+they're going to kill me.
+
+883
+00:57:16,895 --> 00:57:18,772
+Nothing you say will change that.
+
+884
+00:57:18,856 --> 00:57:21,358
+So l don't see what you're
+so excited about.
+
+885
+00:57:21,650 --> 00:57:25,487
+This trial doesn't interest you at all?
+You don't care about it a bit?
+
+886
+00:57:26,613 --> 00:57:29,616
+You look like you're having
+a good time, so....
+
+887
+00:57:30,325 --> 00:57:31,910
+No, l don't care.
+
+888
+00:57:32,327 --> 00:57:36,373
+Main thing is, l got a friend my age
+to talk to until they gas me.
+
+889
+00:57:37,165 --> 00:57:41,628
+l'm not your friend, l'm your attorney.
+l'm trying to save your life. Guard!
+
+890
+00:57:41,920 --> 00:57:44,339
+You know, l have a sister, but...
+
+891
+00:57:45,340 --> 00:57:47,885
+...l ain't seen her since they put me in jail.
+
+892
+00:57:47,968 --> 00:57:50,137
+l got nothing. l got nobody.
+
+893
+00:57:50,345 --> 00:57:53,015
+l don't need a lawyer. l need a friend.
+
+894
+00:57:53,682 --> 00:57:58,228
+You're doing all this to prove something
+to a guy named Darryl, not for me.
+
+895
+00:57:58,854 --> 00:58:00,981
+You want to do something for me?
+
+896
+00:58:01,857 --> 00:58:03,442
+Let's play cards.
+
+897
+00:58:06,361 --> 00:58:08,739
+Go ahead and play cards.
+l got a case to try.
+
+898
+00:58:08,780 --> 00:58:11,283
+Hold it, Jim. Where are you going?
+
+899
+00:58:11,950 --> 00:58:13,493
+Where are you going?
+
+900
+00:58:23,128 --> 00:58:26,173
+<i>I'm Henri Young's attorney.
+I'd like to ask you a few questions.</i>
+
+901
+00:58:26,381 --> 00:58:30,135
+<i>I'm going to call prisoners to the stand
+to testify about life on Alcatraz.</i>
+
+902
+00:58:30,219 --> 00:58:31,970
+<i>Where are the dungeons?</i>
+
+903
+00:58:32,054 --> 00:58:34,306
+<i>What is solitary time
+in those dungeons like?</i>
+
+904
+00:58:34,389 --> 00:58:36,558
+<i>I want the jury to know and understand.</i>
+
+905
+00:58:36,683 --> 00:58:39,645
+<i>You tell them to get caught
+robbing a bank. They'll find out.</i>
+
+906
+00:58:40,521 --> 00:58:42,105
+l'm done talking.
+
+907
+00:58:56,745 --> 00:58:57,788
+Mr. Murphy...
+
+908
+00:58:57,913 --> 00:59:02,376
+...if we can get decent treatment for you,
+it makes it possible for everyone.
+
+909
+00:59:02,584 --> 00:59:07,047
+lf we ignore cruelty in one place,
+it makes it more acceptable everywhere.
+
+910
+00:59:07,381 --> 00:59:09,258
+l ain't gonna do shit for you.
+
+911
+00:59:09,925 --> 00:59:12,678
+You can't get me no good time
+knocked off.
+
+912
+00:59:12,928 --> 00:59:14,805
+You can't get me no privileges.
+
+913
+00:59:14,847 --> 00:59:18,809
+You can't even get me seconds at dessert.
+lf l testify for anybody...
+
+914
+00:59:19,017 --> 00:59:22,145
+...l testify for the DA.
+He's got some juice here.
+
+915
+00:59:26,650 --> 00:59:30,028
+<i>Mr. Baker, could you tell me anything
+about Henri Young?</i>
+
+916
+00:59:30,279 --> 00:59:31,905
+Don't know Henri Young.
+
+917
+00:59:33,031 --> 00:59:35,534
+Could you tell us anything
+about Mr. Glenn?
+
+918
+00:59:37,870 --> 00:59:39,872
+Warden Glenn has always been
+good to me.
+
+919
+00:59:42,958 --> 00:59:45,210
+Have you ever been in the dungeons?
+
+920
+00:59:45,752 --> 00:59:48,130
+l don't know nothing about no dungeons.
+
+921
+00:59:48,797 --> 00:59:50,215
+That's all, ma'am.
+
+922
+00:59:50,632 --> 00:59:52,092
+l gotta go now.
+
+923
+00:59:56,221 --> 00:59:57,472
+Fuck you.
+
+924
+00:59:58,140 --> 01:00:01,059
+Did Mr. Glenn tell you
+not to cooperate with me?
+
+925
+01:00:01,560 --> 01:00:02,769
+Fuck you.
+
+926
+01:00:02,978 --> 01:00:05,230
+Where are the dungeons located?
+
+927
+01:00:05,606 --> 01:00:07,816
+Don't take my fucking picture!
+
+928
+01:00:12,196 --> 01:00:15,032
+You know l can get
+a writ of habeas corpus testificandum...
+
+929
+01:00:15,073 --> 01:00:17,701
+...and force you to come
+and testify in court?
+
+930
+01:00:17,826 --> 01:00:19,077
+Fuck you!
+
+931
+01:00:20,579 --> 01:00:22,748
+Thank you very much for your time.
+
+932
+01:00:22,873 --> 01:00:24,416
+Don't mention it.
+
+933
+01:00:26,251 --> 01:00:28,045
+And you, sweetheart....
+
+934
+01:00:28,504 --> 01:00:30,255
+l'd like to fuck you.
+
+935
+01:00:47,105 --> 01:00:49,525
+<i>I hope your day has been fruitful.</i>
+
+936
+01:00:50,984 --> 01:00:54,655
+l don't see your photographer.
+ls he still taking pictures?
+
+937
+01:00:54,863 --> 01:00:56,365
+He's trying to.
+
+938
+01:00:56,949 --> 01:00:59,451
+We're not receiving a great deal
+of cooperation.
+
+939
+01:00:59,535 --> 01:01:03,205
+lt almost seems as though someone told
+the prisoners not to talk to us.
+
+940
+01:01:03,288 --> 01:01:04,873
+There's no conspiracy.
+
+941
+01:01:05,207 --> 01:01:06,667
+No one talked to them.
+
+942
+01:01:06,792 --> 01:01:09,920
+Maybe it's because they are
+dangerous people who belong here...
+
+943
+01:01:10,003 --> 01:01:12,047
+...with no interest in you or your case.
+
+944
+01:01:12,130 --> 01:01:15,259
+-l'd like to see the dungeons.
+-l'm sorry? Dungeons?
+
+945
+01:01:15,968 --> 01:01:18,220
+The old citadel, the sub-level of the prison.
+
+946
+01:01:18,303 --> 01:01:20,180
+That's mostly storage...
+
+947
+01:01:20,264 --> 01:01:22,140
+...a few solitary cells.
+
+948
+01:01:22,182 --> 01:01:23,100
+No dungeons.
+
+949
+01:01:23,141 --> 01:01:26,395
+l would like to see
+the solitary-confinement cells.
+
+950
+01:01:26,562 --> 01:01:29,106
+l would love to show those cells to you,
+but l can't.
+
+951
+01:01:29,189 --> 01:01:33,694
+lt's an insurance risk to visitors during a
+riot. lf you're there, we can't protect you.
+
+952
+01:01:33,819 --> 01:01:35,529
+Thank you for your concern.
+
+953
+01:01:35,988 --> 01:01:38,282
+l could show you the exercise yard.
+
+954
+01:01:40,409 --> 01:01:41,785
+You have papers.
+
+955
+01:01:42,202 --> 01:01:45,122
+l have papers, so you can cut
+the good-guy act.
+
+956
+01:01:46,498 --> 01:01:49,168
+l do consider myself
+as one of the good guys...
+
+957
+01:01:49,334 --> 01:01:51,503
+...and perhaps more than you...
+
+958
+01:01:51,795 --> 01:01:53,839
+...l know what the bad guys are like.
+
+959
+01:01:53,964 --> 01:01:56,008
+l'd like to read them. Please.
+
+960
+01:01:57,342 --> 01:01:58,468
+Thank you.
+
+961
+01:02:00,470 --> 01:02:01,805
+That's a court order...
+
+962
+01:02:01,889 --> 01:02:05,434
+<i>...instructing you to permit us access
+to the solitary-confinement cells.</i>
+
+963
+01:02:05,517 --> 01:02:08,604
+<i>And to allow the photographer
+to take pictures of the same...</i>
+
+964
+01:02:08,729 --> 01:02:11,732
+<i>...to be used as exhibits in the trial
+of The People vs. Young.</i>
+
+965
+01:02:11,857 --> 01:02:14,067
+<i>You are also instructed
+to hand over to us...</i>
+
+966
+01:02:14,193 --> 01:02:17,696
+<i>...the complete medical
+and disciplinary files as to therein.</i>
+
+967
+01:02:18,030 --> 01:02:19,698
+<i>If you refuse to do so...</i>
+
+968
+01:02:19,823 --> 01:02:22,868
+<i>...you'll have to appear in court
+and show just cause.</i>
+
+969
+01:02:29,583 --> 01:02:32,169
+Why don't you take Miss McCasslin
+out for some air?
+
+970
+01:02:32,252 --> 01:02:34,046
+l was told not to leave you alone.
+
+971
+01:02:34,171 --> 01:02:38,342
+l don't care. You may be used to
+these conditions but obviously she's not.
+
+972
+01:02:39,259 --> 01:02:43,722
+We've been searched. Take her outside,
+or we'll discuss this with Mr. Glenn.
+
+973
+01:02:43,847 --> 01:02:45,182
+All right.
+
+974
+01:02:45,390 --> 01:02:46,725
+No more photos.
+
+975
+01:02:47,893 --> 01:02:49,102
+You all right?
+
+976
+01:02:49,603 --> 01:02:50,604
+Thanks.
+
+977
+01:02:50,812 --> 01:02:52,439
+l just need some air.
+
+978
+01:03:15,629 --> 01:03:16,797
+My God!
+
+979
+01:03:38,110 --> 01:03:41,488
+My name's James Stamphill.
+l'm Henri Young's attorney.
+
+980
+01:03:41,572 --> 01:03:44,116
+l can force them to let you out
+so you can testify...
+
+981
+01:03:44,241 --> 01:03:46,201
+<i>...in San Francisco in a court of law.</i>
+
+982
+01:03:46,285 --> 01:03:50,330
+<i>You just have to give me your name.
+I promise I will do what I said for you.</i>
+
+983
+01:04:05,137 --> 01:04:07,598
+James, she's okay. Just needed some air.
+
+984
+01:04:11,476 --> 01:04:12,519
+Can we go now?
+
+985
+01:04:12,644 --> 01:04:14,104
+Feeling any better?
+
+986
+01:04:15,480 --> 01:04:17,149
+l guess l'll make it.
+
+987
+01:04:20,652 --> 01:04:23,197
+-Did you get anything?
+-l got three names.
+
+988
+01:04:24,823 --> 01:04:25,866
+Let's go.
+
+989
+01:04:27,451 --> 01:04:30,245
+<i>Where did Stamphill get
+the three names on this list?</i>
+
+990
+01:04:33,832 --> 01:04:35,209
+l don't know.
+
+991
+01:04:35,292 --> 01:04:39,755
+Can you trust these cons? They're smart
+enough to look after their own interests.
+
+992
+01:04:39,838 --> 01:04:41,006
+They told Glenn...
+
+993
+01:04:41,131 --> 01:04:45,385
+<i>...James said he'd get them out of solitary
+if they would testify for the defense...</i>
+
+994
+01:04:45,469 --> 01:04:47,471
+<i>-...and lie on the stand!
+- That's a lie.</i>
+
+995
+01:04:47,596 --> 01:04:51,934
+<i>-He wanted to find one convict willing--
+-Jesus, this is goddamn bribery.</i>
+
+996
+01:04:51,975 --> 01:04:55,938
+<i>It's prejudicing a witness.
+You could get disbarred. It's gone too far.</i>
+
+997
+01:04:56,104 --> 01:04:58,357
+<i>Fire him. I don't care how you do it.</i>
+
+998
+01:04:58,482 --> 01:05:00,859
+Why do you have to make it be like this?
+
+999
+01:05:00,984 --> 01:05:03,779
+Henri Young's my client.
+lt's my job to defend him !
+
+1000
+01:05:03,862 --> 01:05:04,821
+Not anymore.
+
+1001
+01:05:04,947 --> 01:05:05,906
+What?
+
+1002
+01:05:05,989 --> 01:05:08,951
+He's been notified that Henkin
+wants you off the case.
+
+1003
+01:05:09,326 --> 01:05:10,786
+Henri will never go for it.
+
+1004
+01:05:10,827 --> 01:05:13,747
+-He did. He's been assigned a new lawyer.
+-Who?
+
+1005
+01:05:15,374 --> 01:05:16,333
+Me.
+
+1006
+01:05:18,544 --> 01:05:19,127
+Me.
+
+1007
+01:05:19,253 --> 01:05:23,173
+Henkin assigned me to the case.
+l could take it or be fired. l had no choice.
+
+1008
+01:05:23,549 --> 01:05:25,133
+You stabbed me in the back?
+
+1009
+01:05:25,217 --> 01:05:28,136
+l'm not stabbing you!
+l'm trying to save your job and mine!
+
+1010
+01:05:28,178 --> 01:05:32,099
+What about Henri's life?
+lsn't that more important than profit?
+
+1011
+01:05:32,182 --> 01:05:34,977
+l don't have a brother who's a partner
+in a big law firm.
+
+1012
+01:05:35,060 --> 01:05:39,106
+There aren't any other jobs
+waiting out there for a woman attorney.
+
+1013
+01:05:39,189 --> 01:05:41,900
+The only option l had was to do
+what he told me to do.
+
+1014
+01:05:42,025 --> 01:05:43,485
+What could l have done?
+
+1015
+01:05:43,527 --> 01:05:44,987
+l'll see you.
+
+1016
+01:06:05,883 --> 01:06:08,510
+What we need to do is establish exactly....
+
+1017
+01:06:08,635 --> 01:06:11,680
+We have a lot of work to get to today,
+if you don't mind.
+
+1018
+01:06:11,763 --> 01:06:12,848
+Stop that.
+
+1019
+01:06:13,223 --> 01:06:15,767
+Jesus Christ, all l was doing was looking.
+
+1020
+01:06:16,185 --> 01:06:17,811
+l want to set you straight--
+
+1021
+01:06:17,895 --> 01:06:20,689
+You set me straight
+the minute you walked in.
+
+1022
+01:06:21,023 --> 01:06:23,442
+-Mr. Young--
+-Please, call me Henri. Please.
+
+1023
+01:06:23,525 --> 01:06:27,696
+Mr. Young, l am not here to satisfy
+any sexual fantasies that you may have.
+
+1024
+01:06:30,949 --> 01:06:31,909
+You're not?
+
+1025
+01:06:32,743 --> 01:06:34,620
+No, l'm your attorney.
+
+1026
+01:06:34,912 --> 01:06:36,622
+They're gonna kill me anyway.
+
+1027
+01:06:37,497 --> 01:06:41,251
+You won't do me any good as an attorney.
+You may as well be good for something.
+
+1028
+01:06:41,376 --> 01:06:44,880
+-Mr. Young, l can't--
+-Please, call me Henri, can't you?
+
+1029
+01:06:45,714 --> 01:06:48,425
+l just want to hear a lady call me Henri.
+
+1030
+01:06:48,550 --> 01:06:49,927
+Can't you, please?
+
+1031
+01:06:50,469 --> 01:06:51,720
+Just once.
+
+1032
+01:06:52,554 --> 01:06:53,597
+Please.
+
+1033
+01:06:55,974 --> 01:06:57,601
+Henri, listen, we have so--
+
+1034
+01:06:57,726 --> 01:07:00,187
+Yeah, yeah. That's it. That's it.
+
+1035
+01:07:02,564 --> 01:07:04,650
+l'm gonna touch you just a little bit.
+
+1036
+01:07:04,942 --> 01:07:05,901
+Just a little.
+
+1037
+01:07:06,026 --> 01:07:07,486
+Are you crazy?
+
+1038
+01:07:07,945 --> 01:07:10,447
+Yeah, sure. lt won't hurt you
+to let me touch you.
+
+1039
+01:07:10,822 --> 01:07:13,742
+Don't make me call the guard.
+We're running late on....
+
+1040
+01:07:14,576 --> 01:07:15,536
+Stop that.
+
+1041
+01:07:17,329 --> 01:07:18,247
+Stop.
+
+1042
+01:07:18,413 --> 01:07:20,249
+Stop that! Stop that!
+
+1043
+01:07:20,499 --> 01:07:22,751
+l'm not touching you. l'm touching me.
+
+1044
+01:07:24,294 --> 01:07:25,420
+Guard!
+
+1045
+01:07:29,591 --> 01:07:31,009
+You have a problem?
+
+1046
+01:07:34,012 --> 01:07:35,556
+Did he do anything?
+
+1047
+01:07:38,517 --> 01:07:39,518
+No.
+
+1048
+01:07:39,893 --> 01:07:41,395
+Let me know if he does.
+
+1049
+01:07:41,478 --> 01:07:43,313
+No, l'd like to leave now.
+
+1050
+01:08:00,956 --> 01:08:03,250
+-He wants to see you in there.
+-What?
+
+1051
+01:08:05,544 --> 01:08:07,462
+He wants to see you in there.
+
+1052
+01:08:36,909 --> 01:08:39,870
+So, why'd you want to meet here?
+Neutral territory?
+
+1053
+01:08:43,832 --> 01:08:45,876
+Want to be my lawyer again?
+
+1054
+01:08:48,504 --> 01:08:50,214
+What happened to the other one?
+
+1055
+01:08:50,339 --> 01:08:52,382
+l don't know if l want her.
+
+1056
+01:08:52,674 --> 01:08:54,593
+Since l had her, l mean.
+
+1057
+01:08:56,345 --> 01:08:57,888
+She was good, though.
+
+1058
+01:08:58,430 --> 01:09:01,892
+She was everything l wanted
+my first experience to be.
+
+1059
+01:09:02,100 --> 01:09:04,561
+l was just talking and she came over.
+
+1060
+01:09:04,645 --> 01:09:07,856
+-She started touching me--
+-That's great. That's great.
+
+1061
+01:09:12,277 --> 01:09:14,363
+Jim, l'm just playing a joke on you.
+
+1062
+01:09:17,908 --> 01:09:19,868
+l know she was your girlfriend.
+
+1063
+01:09:20,244 --> 01:09:23,330
+l remember from the smell of the perfume
+on your jacket.
+
+1064
+01:09:28,961 --> 01:09:30,295
+So, Lawyer...
+
+1065
+01:09:32,130 --> 01:09:33,841
+...you want to come back?
+
+1066
+01:09:35,133 --> 01:09:36,260
+l resigned.
+
+1067
+01:09:38,220 --> 01:09:41,056
+l guess that means
+l'm in private practice now.
+
+1068
+01:09:42,432 --> 01:09:44,142
+l could've had her though.
+
+1069
+01:09:45,477 --> 01:09:46,603
+Of course...
+
+1070
+01:09:47,437 --> 01:09:49,398
+...she don't play cards.
+
+1071
+01:09:57,072 --> 01:09:59,074
+<i>After I got arrested, they...</i>
+
+1072
+01:09:59,533 --> 01:10:00,993
+<i>...took my sister away.</i>
+
+1073
+01:10:01,827 --> 01:10:02,870
+<i>They...</i>
+
+1074
+01:10:03,412 --> 01:10:06,081
+<i>...put her in a home or orphanage and...</i>
+
+1075
+01:10:07,082 --> 01:10:08,542
+<i>...I don't know....</i>
+
+1076
+01:10:09,710 --> 01:10:12,921
+<i>I don't know what happened to her.
+Never saw her again.</i>
+
+1077
+01:10:13,005 --> 01:10:15,174
+<i>My parents died when I was 7.</i>
+
+1078
+01:10:15,465 --> 01:10:19,761
+<i>It was just me and my brother, and he
+didn't know anything about raising a child.</i>
+
+1079
+01:10:20,429 --> 01:10:22,598
+<i>He sent me off to boarding school.</i>
+
+1080
+01:10:22,681 --> 01:10:25,017
+<i>I did get to come home on holidays.</i>
+
+1081
+01:10:26,435 --> 01:10:28,312
+He put me through law school...
+
+1082
+01:10:28,395 --> 01:10:31,607
+...then got me the job
+at the public defender's office.
+
+1083
+01:10:33,859 --> 01:10:35,777
+He wanted me to do well.
+
+1084
+01:10:37,779 --> 01:10:41,200
+We had a plan until you came along
+and messed everything up.
+
+1085
+01:10:41,700 --> 01:10:44,828
+l wish l had been able to take care
+of my little sister.
+
+1086
+01:10:45,704 --> 01:10:46,830
+l mean...
+
+1087
+01:10:46,997 --> 01:10:48,790
+...family's family, right?
+
+1088
+01:10:50,542 --> 01:10:52,586
+Henri, l'm sorry you're here.
+
+1089
+01:10:54,463 --> 01:10:57,049
+This here's paradise
+compared to my last home.
+
+1090
+01:10:59,301 --> 01:11:02,513
+How about the case?
+Do you want to talk about it a bit now?
+
+1091
+01:11:02,638 --> 01:11:04,431
+You never give up, do you?
+
+1092
+01:11:08,727 --> 01:11:10,062
+How about the Redskins?
+
+1093
+01:11:10,145 --> 01:11:13,315
+How do you think they'll do
+against the Yankees this year?
+
+1094
+01:11:14,483 --> 01:11:16,527
+Redskins are a football team.
+
+1095
+01:11:16,652 --> 01:11:18,654
+Yankees are a baseball team.
+
+1096
+01:11:19,238 --> 01:11:22,741
+Personally, l think the Redskins
+will kick the shit out of them.
+
+1097
+01:11:25,410 --> 01:11:27,037
+Henri, l'm trying.
+
+1098
+01:11:28,247 --> 01:11:29,289
+l know.
+
+1099
+01:11:29,540 --> 01:11:32,543
+This is going to be
+a private conversation, Byron.
+
+1100
+01:11:33,168 --> 01:11:35,337
+lt never took place, all right?
+
+1101
+01:11:35,629 --> 01:11:38,340
+-ls that all right, Thurgood?
+-l suggested it.
+
+1102
+01:11:39,424 --> 01:11:42,886
+That brother of yours is making
+quite a little name for himself.
+
+1103
+01:11:43,011 --> 01:11:44,972
+We even heard his name in Washington.
+
+1104
+01:11:45,055 --> 01:11:47,307
+My brother has resigned from the case.
+
+1105
+01:11:47,474 --> 01:11:50,227
+Well, he was hired back again last night.
+
+1106
+01:11:50,519 --> 01:11:52,646
+What do you mean he was hired back?
+
+1107
+01:11:56,775 --> 01:12:00,028
+Your work here has been stellar.
+l'd hate to see anything--
+
+1108
+01:12:00,112 --> 01:12:01,864
+What exactly are you saying?
+
+1109
+01:12:01,947 --> 01:12:04,825
+This administration is not going to allow...
+
+1110
+01:12:04,908 --> 01:12:07,995
+...public attention to be diverted
+from all the good it's done...
+
+1111
+01:12:08,078 --> 01:12:11,039
+...by some kind of a witch hunt
+in the Justice Department.
+
+1112
+01:12:11,123 --> 01:12:13,584
+l'm just telling you what the score is.
+
+1113
+01:12:13,834 --> 01:12:15,961
+lt's up to you to take care of him.
+
+1114
+01:12:18,380 --> 01:12:21,258
+Why would J. Edgar Hoover care
+about what happens to Henri?
+
+1115
+01:12:21,341 --> 01:12:24,761
+Grow up. He doesn't care
+about what happens to Henri.
+
+1116
+01:12:24,845 --> 01:12:26,305
+He cares about...
+
+1117
+01:12:26,889 --> 01:12:29,141
+...Alcatraz, the Justice Department...
+
+1118
+01:12:30,100 --> 01:12:31,852
+...Humson, the Administration.
+
+1119
+01:12:31,935 --> 01:12:34,563
+He can't have some kid from the P.D.'s--
+
+1120
+01:12:34,646 --> 01:12:36,732
+l'm not a public defender anymore.
+
+1121
+01:12:37,107 --> 01:12:38,734
+You know the point.
+
+1122
+01:12:39,151 --> 01:12:43,197
+The point is l'm trying to do what's right.
+l'm talking about justice here.
+
+1123
+01:12:43,363 --> 01:12:46,575
+You're disgusted about what happened
+on Alcatraz. So am l.
+
+1124
+01:12:47,618 --> 01:12:50,245
+But if you tear the whole system down...
+
+1125
+01:12:50,495 --> 01:12:52,664
+...what does that say about America?
+
+1126
+01:12:53,165 --> 01:12:54,333
+We're wrong.
+
+1127
+01:12:55,626 --> 01:12:57,085
+We can't be wrong.
+
+1128
+01:12:57,836 --> 01:13:02,257
+The world is fighting right now
+to preserve our system, our way of life.
+
+1129
+01:13:02,841 --> 01:13:04,801
+You can't attack it blindly.
+
+1130
+01:13:04,968 --> 01:13:08,430
+We're talking about one man here.
+lt's not that big of a deal.
+
+1131
+01:13:09,640 --> 01:13:11,934
+-You're under surveillance.
+-What?
+
+1132
+01:13:12,809 --> 01:13:16,396
+Everyone is watching you.
+Tell me how you plan to continue.
+
+1133
+01:13:17,856 --> 01:13:21,944
+You have to realize, no one will talk.
+Everyone has been gotten to.
+
+1134
+01:13:23,654 --> 01:13:25,030
+l have somebody.
+
+1135
+01:13:25,781 --> 01:13:26,740
+Who?
+
+1136
+01:13:28,909 --> 01:13:30,285
+l can't tell you.
+
+1137
+01:13:31,495 --> 01:13:33,163
+So, now you don't trust me?
+
+1138
+01:13:33,288 --> 01:13:35,332
+You're my brother. l love you.
+
+1139
+01:13:35,832 --> 01:13:37,417
+l need your help.
+
+1140
+01:13:44,967 --> 01:13:47,052
+l can't do it. l'm sorry...
+
+1141
+01:13:47,469 --> 01:13:48,720
+...but l can't.
+
+1142
+01:13:50,472 --> 01:13:51,515
+l can't.
+
+1143
+01:14:04,236 --> 01:14:06,613
+James, as a consolation...
+
+1144
+01:14:07,406 --> 01:14:10,033
+...please don't put Humson on the stand.
+
+1145
+01:14:11,785 --> 01:14:12,744
+Why?
+
+1146
+01:14:14,162 --> 01:14:16,123
+Humson was handpicked by Hoover.
+
+1147
+01:14:16,206 --> 01:14:20,085
+lt would save a lot of embarrassment
+if you were to avoid Humson.
+
+1148
+01:14:22,921 --> 01:14:24,381
+l'll think about it.
+
+1149
+01:14:26,175 --> 01:14:27,217
+Thank you.
+
+1150
+01:14:30,721 --> 01:14:32,181
+l'm sorry, Byron.
+
+1151
+01:14:47,905 --> 01:14:48,989
+Yeah?
+
+1152
+01:14:50,490 --> 01:14:51,909
+<i>Mr. Stamphill?</i>
+
+1153
+01:14:52,075 --> 01:14:53,702
+<i>This is James Stamphill.</i>
+
+1154
+01:14:53,911 --> 01:14:56,914
+<i>This is Derek Simpson.
+Remember we talked before?</i>
+
+1155
+01:14:56,955 --> 01:15:00,626
+<i>Right. Of course, I remember.
+Have you made your decision?</i>
+
+1156
+01:15:01,960 --> 01:15:06,590
+<i>I've been thinking about what we were
+talking about and I'd like to be a witness.</i>
+
+1157
+01:15:07,216 --> 01:15:08,258
+<i>Wonderful.</i>
+
+1158
+01:15:08,634 --> 01:15:11,470
+<i>You do understand you must testify
+in court under oath...</i>
+
+1159
+01:15:11,553 --> 01:15:14,056
+<i>...about the brutality you witnessed
+at Alcatraz.</i>
+
+1160
+01:15:14,181 --> 01:15:15,307
+<i>I know that.</i>
+
+1161
+01:15:15,432 --> 01:15:17,935
+<i>Particularly in reference to Henri Young.</i>
+
+1162
+01:15:18,936 --> 01:15:20,646
+<i>I know some things.</i>
+
+1163
+01:15:21,688 --> 01:15:23,690
+<i>Do you hold any sort of grudge...</i>
+
+1164
+01:15:23,815 --> 01:15:26,276
+<i>...against Warden Humson
+or Associate Warden Glenn?</i>
+
+1165
+01:15:26,360 --> 01:15:27,361
+<i>No.</i>
+
+1166
+01:15:28,487 --> 01:15:30,781
+<i>I'll come over and we can speak in person.</i>
+
+1167
+01:15:30,906 --> 01:15:32,908
+<i>Yes. I'm in Chinatown.</i>
+
+1168
+01:15:33,909 --> 01:15:37,246
+<i>It's an alley called Scotland Court.
+The number there is 964.</i>
+
+1169
+01:15:49,299 --> 01:15:51,260
+Mr. Simpson, are you in here?
+
+1170
+01:15:55,264 --> 01:15:57,474
+Mr. Simpson, are you all right?
+
+1171
+01:16:10,112 --> 01:16:11,446
+You all right?
+
+1172
+01:16:12,823 --> 01:16:14,950
+Do you still want to be a witness?
+
+1173
+01:16:27,880 --> 01:16:28,839
+Who's she?
+
+1174
+01:16:29,464 --> 01:16:31,300
+She's a court reporter.
+
+1175
+01:16:31,675 --> 01:16:33,177
+What happened to your face?
+
+1176
+01:16:33,302 --> 01:16:36,180
+My face had a little accident this morning.
+
+1177
+01:16:36,263 --> 01:16:38,473
+We need to get one more deposition...
+
+1178
+01:16:38,807 --> 01:16:39,433
+No.
+
+1179
+01:16:39,516 --> 01:16:42,978
+...regarding the beatings you received.
+Your eye, your leg....
+
+1180
+01:16:44,521 --> 01:16:47,774
+Remember when you told me
+you'd never been with a woman before?
+
+1181
+01:16:47,858 --> 01:16:50,527
+Henri, this is Blanche.
+Blanche, this is Henri.
+
+1182
+01:16:50,819 --> 01:16:52,112
+Nice to meet you.
+
+1183
+01:16:52,196 --> 01:16:55,908
+You got about four minutes before
+the next guard arrives, so you gotta hurry.
+
+1184
+01:16:56,033 --> 01:17:00,078
+l can't leave the room. l'm just going
+to be over here. l'll turn my back.
+
+1185
+01:17:00,829 --> 01:17:02,372
+We can get acquainted.
+
+1186
+01:17:09,004 --> 01:17:11,423
+Come on, honey, we don't have all night.
+
+1187
+01:17:12,508 --> 01:17:13,717
+Thanks, Jim.
+
+1188
+01:17:14,259 --> 01:17:15,761
+You're a good friend.
+
+1189
+01:17:17,429 --> 01:17:18,514
+Oh, boy.
+
+1190
+01:17:26,939 --> 01:17:28,565
+Thanks. Hi, Charlie.
+
+1191
+01:17:30,234 --> 01:17:31,360
+What's the story?
+
+1192
+01:17:31,485 --> 01:17:34,446
+The attorney and a reporter inside
+with the prisoner.
+
+1193
+01:17:34,571 --> 01:17:37,824
+-ls he shackled?
+-Yeah. Otherwise, it's pretty quiet.
+
+1194
+01:17:42,788 --> 01:17:43,872
+Sweetie...
+
+1195
+01:17:44,164 --> 01:17:48,585
+...you have to get it up first. That's like
+sticking an oyster into a slot machine.
+
+1196
+01:17:48,669 --> 01:17:50,087
+Give me that.
+
+1197
+01:17:57,135 --> 01:17:58,595
+-l can't.
+-You can.
+
+1198
+01:17:59,096 --> 01:18:00,472
+Yeah, you can.
+
+1199
+01:18:00,556 --> 01:18:02,516
+l can't, sorry. l'm sorry.
+
+1200
+01:18:02,599 --> 01:18:05,185
+-Except for the $5 you owe me.
+-For what?
+
+1201
+01:18:05,394 --> 01:18:08,939
+What, you didn't listen?
+Louis knocks Nova out in the sixth round.
+
+1202
+01:18:09,481 --> 01:18:10,691
+That bum.
+
+1203
+01:18:11,400 --> 01:18:12,693
+Give me the money.
+
+1204
+01:18:12,776 --> 01:18:14,278
+-l can't.
+-Yeah, you can.
+
+1205
+01:18:14,403 --> 01:18:16,029
+l can't. l can't.
+
+1206
+01:18:16,446 --> 01:18:17,865
+-You can.
+-l can't!
+
+1207
+01:18:24,913 --> 01:18:26,373
+<i>Adíos, Charlie.</i>
+
+1208
+01:18:30,794 --> 01:18:32,045
+You know what?
+
+1209
+01:18:35,424 --> 01:18:37,259
+lt's gonna cost extra, you know.
+
+1210
+01:18:38,093 --> 01:18:40,012
+Just do what you have to do.
+
+1211
+01:19:14,296 --> 01:19:15,422
+l can't.
+
+1212
+01:19:17,716 --> 01:19:18,884
+l'm sorry.
+
+1213
+01:19:23,805 --> 01:19:24,765
+l can't.
+
+1214
+01:19:35,234 --> 01:19:37,194
+Hey, we only had a few minutes.
+
+1215
+01:19:38,070 --> 01:19:40,656
+You got another guy in the room.
+That's okay.
+
+1216
+01:19:51,750 --> 01:19:52,960
+Shh, baby.
+
+1217
+01:19:58,173 --> 01:20:02,010
+Your Honor, the defense calls
+Associate Warden, Mr. Milton Glenn.
+
+1218
+01:20:18,151 --> 01:20:21,321
+Do you swear to tell the truth
+and nothing but the truth?
+
+1219
+01:20:21,405 --> 01:20:23,532
+-So help me God.
+-You may be seated.
+
+1220
+01:20:34,251 --> 01:20:38,839
+As associate warden, you are responsible
+for the day-to-day running of the prison?
+
+1221
+01:20:39,006 --> 01:20:40,132
+You could say that.
+
+1222
+01:20:40,257 --> 01:20:42,843
+Then you must be familiar
+with the dungeons.
+
+1223
+01:20:43,385 --> 01:20:44,970
+l'm sure you've heard of them.
+
+1224
+01:20:45,095 --> 01:20:47,848
+Some prisoners refer
+to the lower levels as dungeons.
+
+1225
+01:20:48,182 --> 01:20:51,143
+They refer to bread and water
+as piss and punk.
+
+1226
+01:20:51,894 --> 01:20:55,314
+The dictionary definition of a dungeon is:
+''A close, dark prison...
+
+1227
+01:20:55,439 --> 01:20:57,900
+''...or vault, commonly underground.''
+
+1228
+01:20:58,609 --> 01:21:02,529
+The walls of those cells are 6 feet by 9,
+and the roof 5 to 6 feet tall.
+
+1229
+01:21:02,613 --> 01:21:05,240
+-Would you call that close?
+-ln my opinion, no.
+
+1230
+01:21:05,449 --> 01:21:08,410
+-Are there any light fixtures?
+-No, but there aren't any books.
+
+1231
+01:21:08,535 --> 01:21:09,494
+Your Honor...
+
+1232
+01:21:10,037 --> 01:21:13,790
+...the defense offers these photographs
+as defense exhibits B, C, D, E and F.
+
+1233
+01:21:13,916 --> 01:21:17,127
+How much light is in these cells
+with no window and the door closed?
+
+1234
+01:21:17,252 --> 01:21:20,339
+-Not much.
+-How long was Henri held in such a cell?
+
+1235
+01:21:20,714 --> 01:21:22,007
+l don't know exactly.
+
+1236
+01:21:22,132 --> 01:21:25,385
+Three years and two months!
+l have the records, if you'd like to see.
+
+1237
+01:21:25,802 --> 01:21:28,138
+-That sounds right.
+-Three years and two months.
+
+1238
+01:21:28,222 --> 01:21:32,100
+ln that time, how often was Henri Young
+allowed outside for exercise?
+
+1239
+01:21:32,392 --> 01:21:36,688
+Mr. Stamphill, l do not believe that
+the exercise time of an inmate is relevant.
+
+1240
+01:21:36,897 --> 01:21:38,357
+l do. Answer the question.
+
+1241
+01:21:38,440 --> 01:21:40,275
+-Objection!
+-Objection overruled!
+
+1242
+01:21:40,359 --> 01:21:42,152
+Henri Young tried to escape.
+
+1243
+01:21:42,277 --> 01:21:45,697
+When a criminal escapes from prison,
+he doesn't go job-hunting.
+
+1244
+01:21:45,781 --> 01:21:49,368
+He robs somebody or kills somebody.
+We do all we can to discourage escape.
+
+1245
+01:21:49,493 --> 01:21:53,413
+ln three years and two months, how often
+was Henri allowed outside for exercise?
+
+1246
+01:21:53,997 --> 01:21:56,625
+-Men sentenced to Alcatraz--
+-Answer the question!
+
+1247
+01:21:56,750 --> 01:22:00,045
+How often was he allowed
+outside for exercise?
+
+1248
+01:22:00,212 --> 01:22:03,382
+-Objection! He's badgering the witness.
+-Objection overruled.
+
+1249
+01:22:03,507 --> 01:22:05,926
+Mr. Glenn, you will answer that question.
+
+1250
+01:22:07,261 --> 01:22:08,971
+Young man, l do not recall.
+
+1251
+01:22:09,680 --> 01:22:10,973
+You don't know?
+
+1252
+01:22:11,098 --> 01:22:15,143
+Surely a half hour a year isn't
+too difficult to recall, now, is it?
+
+1253
+01:22:16,061 --> 01:22:18,522
+-There is no place in my court for sarcasm.
+-Sorry.
+
+1254
+01:22:18,605 --> 01:22:21,108
+l have here a list with 32 names on it.
+
+1255
+01:22:21,275 --> 01:22:25,237
+These are men who were prisoners
+at Alcatraz during your tenure. Correct?
+
+1256
+01:22:25,362 --> 01:22:27,573
+l can't remember the name
+of every prisoner.
+
+1257
+01:22:27,698 --> 01:22:31,660
+l have committal papers with your
+signature as well as the late Dr. Kiley's.
+
+1258
+01:22:31,785 --> 01:22:33,704
+This is defense exhibit G.
+
+1259
+01:22:34,496 --> 01:22:38,876
+All these men were taken off Alcatraz in
+straitjackets and put in mental institutions.
+
+1260
+01:22:38,959 --> 01:22:40,544
+-ls that correct?
+-Objection!
+
+1261
+01:22:40,669 --> 01:22:42,129
+The question is immaterial.
+
+1262
+01:22:42,212 --> 01:22:46,925
+lmmaterial? Your Honor, l'm saying in lay
+terms that Alcatraz drives people insane.
+
+1263
+01:22:47,050 --> 01:22:52,014
+lt has already done so in 32 instances.
+lf this is not true, the witness can say so.
+
+1264
+01:22:52,097 --> 01:22:54,266
+lf it is true, it is most material...
+
+1265
+01:22:54,391 --> 01:22:57,311
+...and the jury ought to be privy
+to that knowledge.
+
+1266
+01:22:57,477 --> 01:22:58,937
+Objection overruled.
+
+1267
+01:22:59,021 --> 01:23:00,022
+Thank you.
+
+1268
+01:23:00,147 --> 01:23:01,106
+Now...
+
+1269
+01:23:01,315 --> 01:23:05,611
+...is it not true that these men were taken
+off Alcatraz in straightjackets...
+
+1270
+01:23:05,903 --> 01:23:10,199
+...and placed in mental institutions
+and you and Dr. Kiley signed the papers?
+
+1271
+01:23:10,282 --> 01:23:11,033
+True.
+
+1272
+01:23:11,158 --> 01:23:13,827
+ls it not also true that of these 32 men...
+
+1273
+01:23:13,994 --> 01:23:17,497
+...28 of them had never before set foot
+inside a mental institution?
+
+1274
+01:23:17,581 --> 01:23:20,125
+-l don't know.
+-Would you like to see the records?
+
+1275
+01:23:20,250 --> 01:23:22,044
+l'll take your word for it.
+
+1276
+01:23:22,252 --> 01:23:25,005
+Here are men who came to Alcatraz
+legally sane...
+
+1277
+01:23:25,339 --> 01:23:29,051
+...were subjected to the conditions
+of Alcatraz, then deemed to be insane.
+
+1278
+01:23:29,134 --> 01:23:30,219
+ls that correct?
+
+1279
+01:23:30,302 --> 01:23:33,055
+Yes, but you can't say
+that one causes the other.
+
+1280
+01:23:33,263 --> 01:23:36,892
+lnsanity's not a virus, is it?
+lt's not something we're all going to catch.
+
+1281
+01:23:37,017 --> 01:23:39,645
+Objection, the witness is not
+a psychiatrist!
+
+1282
+01:23:39,770 --> 01:23:41,230
+Objection sustained.
+
+1283
+01:23:41,563 --> 01:23:42,731
+Mr. Stamphill...
+
+1284
+01:23:42,814 --> 01:23:46,026
+...confine your questions to areas
+of Mr. Glenn's expertise.
+
+1285
+01:23:46,109 --> 01:23:49,738
+Very well, Mr. Glenn's expertise!
+Have you ever beaten a prisoner?
+
+1286
+01:23:49,988 --> 01:23:51,240
+No, that's illegal.
+
+1287
+01:23:51,323 --> 01:23:53,116
+-Not even when provoked?
+-No!
+
+1288
+01:23:53,575 --> 01:23:56,537
+You've never hit, kicked,
+used a blackjack or a razor?
+
+1289
+01:23:56,620 --> 01:23:59,206
+You've never punched a prisoner
+in your entire career?
+
+1290
+01:23:59,289 --> 01:24:01,291
+-Objection, Your Honor!
+-Sustained.
+
+1291
+01:24:01,333 --> 01:24:03,460
+Confine yourself to one question at a time.
+
+1292
+01:24:03,585 --> 01:24:08,048
+ls it not true you ordered two guards to
+throw Henri down a steel flight of stairs?
+
+1293
+01:24:08,131 --> 01:24:10,467
+That you smashed his face
+with a blackjack?
+
+1294
+01:24:10,592 --> 01:24:14,429
+That you took a straight razor, sliced open
+his ankle, hobbling him for life?
+
+1295
+01:24:14,471 --> 01:24:15,973
+Answer the question!
+
+1296
+01:24:16,014 --> 01:24:16,807
+Objection!
+
+1297
+01:24:16,932 --> 01:24:20,769
+-He testified he didn't beat any prisoners.
+-He's testified to a lot of things.
+
+1298
+01:24:20,894 --> 01:24:24,106
+Are you aware that, in a federal court
+system, perjury is a crime?
+
+1299
+01:24:24,231 --> 01:24:26,400
+-You could go to jail!
+-Young is on trial!
+
+1300
+01:24:26,483 --> 01:24:30,445
+Mind you, young man, that Henri Young
+is the one on trial here, not me!
+
+1301
+01:24:30,612 --> 01:24:33,615
+l am a public servant!
+l am not the bad guy!
+
+1302
+01:24:33,782 --> 01:24:37,661
+l will not be treated the same way as this,
+this lying, murdering...
+
+1303
+01:24:37,828 --> 01:24:39,162
+...two-time loser!
+
+1304
+01:24:39,496 --> 01:24:40,998
+Silence, Mr. Glenn!
+
+1305
+01:24:41,164 --> 01:24:45,210
+Mr. Stamphill, you are perilously close
+to contempt of this court!
+
+1306
+01:24:46,253 --> 01:24:49,131
+You will proceed with caution!
+ls that understood?
+
+1307
+01:24:51,758 --> 01:24:53,260
+Temper, temper.
+
+1308
+01:24:56,513 --> 01:24:58,807
+Would you care to withdraw
+any testimony?
+
+1309
+01:24:58,932 --> 01:25:02,477
+You wouldn't want somebody to testify
+to the contrary, would you?
+
+1310
+01:25:03,020 --> 01:25:05,606
+No. l would not withdraw any testimony...
+
+1311
+01:25:06,190 --> 01:25:08,358
+...no matter what Henri Young
+has told you.
+
+1312
+01:25:08,650 --> 01:25:11,820
+l'm not talking about Henri Young.
+Who would believe him?
+
+1313
+01:25:13,155 --> 01:25:16,074
+Mr. Simpson, did you ever beat
+this man, Henri Young?
+
+1314
+01:25:16,158 --> 01:25:18,118
+Objection! This has no bearing.
+
+1315
+01:25:18,202 --> 01:25:21,663
+No bearing? Beatings have a bearing
+on a man's state of mind.
+
+1316
+01:25:21,872 --> 01:25:24,124
+So does three years of darkness.
+
+1317
+01:25:24,291 --> 01:25:28,295
+Do we need to be psychologists to know
+that? You know that. l know you do.
+
+1318
+01:25:28,378 --> 01:25:29,630
+Objection overruled.
+
+1319
+01:25:29,713 --> 01:25:31,298
+Thank you, Your Honor.
+
+1320
+01:25:31,965 --> 01:25:34,927
+<i>Did you ever beat Henri Young
+with a blackjack?</i>
+
+1321
+01:25:35,177 --> 01:25:35,969
+<i>Yes.</i>
+
+1322
+01:25:36,053 --> 01:25:39,014
+<i>Did you ever throw Henri Young
+down a steel flight of stairs?</i>
+
+1323
+01:25:39,056 --> 01:25:39,890
+<i>Yes, I did.</i>
+
+1324
+01:25:40,015 --> 01:25:42,017
+<i>-You were ordered to do this?
+-Yes, sir.</i>
+
+1325
+01:25:42,142 --> 01:25:43,685
+<i>Tell us the name of the man...</i>
+
+1326
+01:25:43,810 --> 01:25:46,688
+...who was your superior who ordered you
+to do these things.
+
+1327
+01:25:46,772 --> 01:25:47,856
+Mr. Glenn.
+
+1328
+01:25:47,981 --> 01:25:50,651
+You never went to Warden Humson
+about these matters?
+
+1329
+01:25:50,734 --> 01:25:51,568
+No, sir.
+
+1330
+01:25:51,693 --> 01:25:55,864
+Thank you very much. l won't ask where
+you got your bruises. l already know.
+
+1331
+01:25:56,490 --> 01:25:59,493
+The prosecution would like to mark
+for identification...
+
+1332
+01:25:59,576 --> 01:26:02,204
+...the employment records
+of Mr. Derek Simpson.
+
+1333
+01:26:02,329 --> 01:26:03,789
+Do you recall...
+
+1334
+01:26:03,997 --> 01:26:07,084
+...being suspended on November 4, 1936...
+
+1335
+01:26:07,417 --> 01:26:09,920
+...and again on July 6, 1937?
+
+1336
+01:26:11,004 --> 01:26:11,880
+Yeah.
+
+1337
+01:26:12,005 --> 01:26:13,173
+Speak up.
+
+1338
+01:26:14,007 --> 01:26:15,008
+Yes.
+
+1339
+01:26:15,843 --> 01:26:20,472
+ls it not a fact you were fired from your job
+as a guard because you are a drunk?
+
+1340
+01:26:20,722 --> 01:26:22,516
+-Objection!
+-That's not true!
+
+1341
+01:26:22,599 --> 01:26:23,392
+Objection!
+
+1342
+01:26:23,517 --> 01:26:24,977
+-Overruled.
+-Mr. Glenn...
+
+1343
+01:26:25,060 --> 01:26:27,187
+...wouldn't tolerate this in a prison.
+
+1344
+01:26:27,271 --> 01:26:29,898
+lsn't it true, having cost you your job...
+
+1345
+01:26:30,107 --> 01:26:33,110
+...you would say anything
+to get even with Mr. Glenn?
+
+1346
+01:26:33,861 --> 01:26:36,905
+<i>The jury will disregard
+Mr. Simpson's testimony.</i>
+
+1347
+01:26:38,448 --> 01:26:41,910
+Good afternoon, Mr. Stamphill,
+is everything all right?
+
+1348
+01:26:53,255 --> 01:26:55,090
+-Son of a bitch!
+-What happened?
+
+1349
+01:26:55,174 --> 01:26:56,925
+You know exactly! You set me up!
+
+1350
+01:26:57,050 --> 01:26:58,218
+What are you talking about?
+
+1351
+01:26:58,302 --> 01:27:00,304
+You took Simpson's picture
+off of my desk!
+
+1352
+01:27:00,429 --> 01:27:03,557
+They never would've known
+to tear him down if you hadn't told them !
+
+1353
+01:27:03,640 --> 01:27:05,726
+Are you going to hit me now?
+
+1354
+01:27:05,976 --> 01:27:07,060
+Go ahead.
+
+1355
+01:27:07,477 --> 01:27:10,314
+lt's about time you grew up
+and were a man.
+
+1356
+01:27:15,277 --> 01:27:16,695
+You're my brother.
+
+1357
+01:27:17,487 --> 01:27:18,989
+You had me beaten up.
+
+1358
+01:27:19,239 --> 01:27:21,450
+That was not supposed to happen.
+
+1359
+01:27:21,909 --> 01:27:24,453
+Only Simpson. You walked in,
+it was bad timing.
+
+1360
+01:27:24,578 --> 01:27:25,787
+Bad timing?
+
+1361
+01:27:29,291 --> 01:27:30,751
+Humson will testify.
+
+1362
+01:27:30,918 --> 01:27:33,629
+Why, James?
+Humson doesn't know anything!
+
+1363
+01:27:34,505 --> 01:27:38,550
+He runs three prisons. He has to know
+something. Unless he's never there.
+
+1364
+01:27:43,180 --> 01:27:44,473
+Son of a bitch.
+
+1365
+01:27:49,019 --> 01:27:50,646
+He was never there.
+
+1366
+01:27:51,188 --> 01:27:52,272
+Never there.
+
+1367
+01:27:52,356 --> 01:27:53,857
+You never saw him?
+
+1368
+01:27:54,024 --> 01:27:57,277
+You'd hear about him visiting,
+but l never saw him.
+
+1369
+01:27:58,820 --> 01:28:01,990
+Your own brother did that to you?
+Your brother did that to you?
+
+1370
+01:28:02,115 --> 01:28:04,243
+Jesus, rich people are weird.
+
+1371
+01:28:06,203 --> 01:28:10,332
+You hear DiMaggio broke Keeler's record?
+Forty-five straight games.
+
+1372
+01:28:11,124 --> 01:28:13,210
+Wouldn't it be great if he never stopped?
+
+1373
+01:28:13,335 --> 01:28:15,254
+Dock records would show his visits.
+
+1374
+01:28:15,337 --> 01:28:19,007
+Every trip is recorded. l had to sign in
+myself that one time l went.
+
+1375
+01:28:19,132 --> 01:28:20,926
+-What?
+-We're friends, huh?
+
+1376
+01:28:21,134 --> 01:28:22,177
+Yeah, sure.
+
+1377
+01:28:22,386 --> 01:28:24,137
+ls it over? l mean, you know?
+
+1378
+01:28:24,221 --> 01:28:25,347
+ls that all?
+
+1379
+01:28:25,973 --> 01:28:28,684
+Nothing more you're going to do
+with the trial?
+
+1380
+01:28:29,059 --> 01:28:30,519
+Thought you didn't care.
+
+1381
+01:28:30,561 --> 01:28:31,937
+No, l don't care.
+
+1382
+01:28:32,145 --> 01:28:36,149
+lt's just that as long as you got shit
+to throw at them, we can keep talking.
+
+1383
+01:28:36,233 --> 01:28:38,151
+But when it's over, it's over.
+
+1384
+01:28:38,235 --> 01:28:41,029
+l'm not here to entertain you
+until the executioner comes.
+
+1385
+01:28:41,113 --> 01:28:43,031
+This trial isn't a game.
+
+1386
+01:28:48,495 --> 01:28:51,123
+lf l was on the outside, if there was...
+
+1387
+01:28:51,874 --> 01:28:55,794
+...a good fairy and she waved a wand
+and l was on the outside...
+
+1388
+01:28:56,086 --> 01:28:58,463
+...you and me, would we be friends then?
+
+1389
+01:28:59,006 --> 01:28:59,965
+Yes.
+
+1390
+01:29:00,215 --> 01:29:02,676
+No, no, no, we wouldn't.
+
+1391
+01:29:03,093 --> 01:29:06,346
+You wouldn't have nothing to do with me.
+You know it.
+
+1392
+01:29:06,513 --> 01:29:09,224
+What l can't figure out is why. l mean...
+
+1393
+01:29:09,683 --> 01:29:13,645
+...we both ain't got nobody else
+and we're the same age, sort of.
+
+1394
+01:29:14,605 --> 01:29:17,065
+lf l'd have lived in your house...
+
+1395
+01:29:17,274 --> 01:29:20,485
+...and they'd have switched us
+when we was babies...
+
+1396
+01:29:21,445 --> 01:29:23,906
+...l could have been just like you.
+
+1397
+01:29:24,239 --> 01:29:26,074
+lf they stuck you in the hole...
+
+1398
+01:29:28,118 --> 01:29:29,912
+...you could be sitting here...
+
+1399
+01:29:30,037 --> 01:29:33,207
+...like me, asking why we couldn't
+be friends on the outside.
+
+1400
+01:29:33,290 --> 01:29:35,292
+You ever steal five bucks?
+
+1401
+01:29:38,795 --> 01:29:39,880
+Once.
+
+1402
+01:29:40,631 --> 01:29:42,424
+When l was a kid, from my...
+
+1403
+01:29:42,925 --> 01:29:44,635
+...brother's wallet.
+
+1404
+01:29:45,886 --> 01:29:46,845
+What happened?
+
+1405
+01:29:49,431 --> 01:29:51,600
+He told me not to do it again.
+
+1406
+01:29:54,978 --> 01:29:58,023
+Why'd they put me in that hole
+for three years?
+
+1407
+01:29:59,441 --> 01:30:01,610
+l could have been just like you.
+
+1408
+01:30:04,488 --> 01:30:06,657
+l'd just like to ask them, you know.
+
+1409
+01:30:21,338 --> 01:30:22,923
+<i>Raise your right hand.</i>
+
+1410
+01:30:24,258 --> 01:30:27,803
+<i>Do you swear to tell the whole truth
+and nothing but the truth?</i>
+
+1411
+01:30:28,095 --> 01:30:29,555
+<i>So help me God.</i>
+
+1412
+01:30:29,972 --> 01:30:31,557
+You may be seated.
+
+1413
+01:30:36,603 --> 01:30:40,816
+Warden Humson, in a book you wrote,
+you refer to the convicts as your children.
+
+1414
+01:30:41,358 --> 01:30:45,362
+You liken your job to that of a parent,
+providing for their physical needs...
+
+1415
+01:30:45,487 --> 01:30:47,447
+...and molding their character.
+
+1416
+01:30:47,698 --> 01:30:49,324
+Yes, l wrote that.
+
+1417
+01:30:49,783 --> 01:30:52,035
+l have a record of a prisoner
+named Johnson...
+
+1418
+01:30:52,160 --> 01:30:54,788
+...who did a total of 500 days
+in the lower cells.
+
+1419
+01:30:54,872 --> 01:30:56,498
+The hole, the dungeon.
+
+1420
+01:30:57,291 --> 01:31:01,712
+This was over a ten-year period for such
+offenses as not finishing all his food...
+
+1421
+01:31:02,212 --> 01:31:06,091
+...having an extra pair of socks in his cell,
+keeping an untidy cell...
+
+1422
+01:31:06,633 --> 01:31:10,762
+...smuggling food from the dining room,
+crumbs, in fact, for a pet lizard.
+
+1423
+01:31:11,013 --> 01:31:13,265
+ls this what you mean
+''molding character''?
+
+1424
+01:31:13,807 --> 01:31:15,100
+No, no, no.
+
+1425
+01:31:15,309 --> 01:31:17,102
+You're twisting things here.
+
+1426
+01:31:17,311 --> 01:31:22,024
+The isolation cells were simply a tool
+of a temporary nature...
+
+1427
+01:31:22,524 --> 01:31:25,944
+...for extreme cases
+within the general population.
+
+1428
+01:31:27,029 --> 01:31:31,658
+Moreover, you make it sound like
+the prisoner did 1,500 days at one stretch...
+
+1429
+01:31:31,909 --> 01:31:33,493
+...for one infraction.
+
+1430
+01:31:34,578 --> 01:31:36,038
+That's not true.
+
+1431
+01:31:37,247 --> 01:31:39,082
+Prisoners were held...
+
+1432
+01:31:39,333 --> 01:31:41,210
+...for 19 days at a time.
+
+1433
+01:31:42,336 --> 01:31:44,004
+-That's all.
+-That's all.
+
+1434
+01:31:45,088 --> 01:31:49,134
+Perhaps you can tell me why Henri Young
+did over 1,000 days in the dungeon?
+
+1435
+01:31:49,343 --> 01:31:51,720
+Not 19 days, but 1,000 days...
+
+1436
+01:31:52,346 --> 01:31:55,807
+...in total darkness with only 30 minutes
+of daylight a year.
+
+1437
+01:31:56,058 --> 01:31:57,643
+He tried to escape.
+
+1438
+01:31:58,060 --> 01:32:02,439
+You can't compare his offense with that
+of a man who smuggled food to a lizard.
+
+1439
+01:32:02,606 --> 01:32:05,943
+Was this the first time a sentence
+of three years had been imposed?
+
+1440
+01:32:06,068 --> 01:32:07,402
+lt wasn't a sentence.
+
+1441
+01:32:07,486 --> 01:32:10,239
+lt was an administrative decision
+to place him there...
+
+1442
+01:32:10,364 --> 01:32:12,783
+...for an undetermined amount of time.
+
+1443
+01:32:13,450 --> 01:32:17,246
+Why not a time limit? Doesn't that seem
+a little bit inhumane? No time limit.
+
+1444
+01:32:17,371 --> 01:32:18,872
+Put simply, no.
+
+1445
+01:32:20,582 --> 01:32:23,043
+While we strive to prevent crime...
+
+1446
+01:32:23,293 --> 01:32:26,088
+...what should we do with a man
+who has committed it?
+
+1447
+01:32:27,464 --> 01:32:29,967
+We aim to make him his better self.
+
+1448
+01:32:30,801 --> 01:32:32,302
+His better self.
+
+1449
+01:32:32,803 --> 01:32:35,931
+l'm sure that Henri Young thanks you
+for his better self.
+
+1450
+01:32:36,139 --> 01:32:40,269
+lt's a fact you simply put Henri Young
+in that dungeon and forgot all about him.
+
+1451
+01:32:40,727 --> 01:32:42,271
+Washed your hands of him.
+
+1452
+01:32:42,396 --> 01:32:45,816
+Henri wanted me to ask you, ''Why?''
+Why would you do that, sir? Why?
+
+1453
+01:32:45,899 --> 01:32:47,359
+That's not true.
+
+1454
+01:32:47,609 --> 01:32:48,694
+Objection.
+
+1455
+01:32:48,902 --> 01:32:51,613
+l withdraw the question.
+l apologize to the jury--
+
+1456
+01:32:51,738 --> 01:32:53,949
+lt's not necessary that you apologize.
+
+1457
+01:32:54,825 --> 01:32:57,703
+Actually, Your Honor, it is.
+l made a mistake.
+
+1458
+01:32:58,161 --> 01:33:02,124
+The warden couldn't simply have washed
+his hands of Henri Young...
+
+1459
+01:33:02,499 --> 01:33:05,252
+...because he had absolutely no idea
+he was there.
+
+1460
+01:33:05,335 --> 01:33:06,795
+lsn't that true?
+
+1461
+01:33:06,920 --> 01:33:10,757
+You're never there. You permit Glenn
+to run that prison any way he sees fit.
+
+1462
+01:33:10,841 --> 01:33:14,761
+l am there as much as l need to be.
+l run three penal institutions.
+
+1463
+01:33:15,137 --> 01:33:18,473
+lt's impossible to know every detail
+of every inmate.
+
+1464
+01:33:19,183 --> 01:33:23,729
+l have the Port Authority records that you
+signed every time you went to Alcatraz.
+
+1465
+01:33:24,771 --> 01:33:28,358
+You went seven times in '38,
+five in '39, ten in '40...
+
+1466
+01:33:28,692 --> 01:33:30,694
+...and only twice so far this year.
+
+1467
+01:33:30,777 --> 01:33:33,030
+Twenty-four day trips in over 3-1 /2 years...
+
+1468
+01:33:33,155 --> 01:33:36,533
+...while Henri Young was in that dungeon
+over 1,000 days.
+
+1469
+01:33:36,700 --> 01:33:38,869
+Twenty-four out of 1,000 days.
+
+1470
+01:33:39,203 --> 01:33:41,538
+That's how much you needed to be there?
+
+1471
+01:33:41,663 --> 01:33:46,043
+You knew nothing about a man who was
+left to die in a dungeon for 3-1 /2 years.
+
+1472
+01:33:46,126 --> 01:33:47,294
+Absolutely nothing!
+
+1473
+01:33:47,377 --> 01:33:50,756
+ln fact, you have never even met
+Henri Young, have you?
+
+1474
+01:33:51,381 --> 01:33:55,511
+Right now, in fact, is the first time
+you have ever seen this man! Look at him !
+
+1475
+01:33:55,969 --> 01:33:58,472
+That's him there! That's Henri Young!
+Right there!
+
+1476
+01:33:58,597 --> 01:34:00,349
+-He tried to escape.
+-Yes, he did.
+
+1477
+01:34:00,474 --> 01:34:04,561
+But the fact, the cold, brutal fact is
+that this man...
+
+1478
+01:34:04,728 --> 01:34:07,356
+...who had never,
+never before in his entire life...
+
+1479
+01:34:07,481 --> 01:34:10,150
+...harmed or attempted to harm
+another human being...
+
+1480
+01:34:10,234 --> 01:34:11,818
+...was now a murderer!
+
+1481
+01:34:12,236 --> 01:34:13,445
+That is a fact!
+
+1482
+01:34:13,570 --> 01:34:15,697
+-Yes, but he tried to escape.
+-lt's a fact--
+
+1483
+01:34:16,698 --> 01:34:20,786
+You can't let them get away with this.
+lf we let them, where would we be?
+
+1484
+01:34:20,994 --> 01:34:25,123
+-Should we let murderers roam free?
+-Henri Young was not a murderer!
+
+1485
+01:34:25,499 --> 01:34:28,919
+Henri Young was not a murderer
+until Alcatraz got a hold of him !
+
+1486
+01:34:29,002 --> 01:34:33,465
+The prison runs under your guidelines,
+so you created the murderer, didn't you?
+
+1487
+01:34:33,715 --> 01:34:34,883
+Didn't you?
+
+1488
+01:34:36,426 --> 01:34:38,303
+He tried to escape.
+
+1489
+01:34:40,848 --> 01:34:43,016
+That's the thing, you see.
+
+1490
+01:34:48,939 --> 01:34:51,942
+Do you have any further questions
+for this witness?
+
+1491
+01:34:54,027 --> 01:34:56,738
+-No, Your Honor.
+-The witness may step down.
+
+1492
+01:34:57,614 --> 01:34:59,241
+But he tried to escape.
+
+1493
+01:35:00,242 --> 01:35:04,538
+<i>I'd been trained all my life for that day.
+Control the witness, go for the kill.</i>
+
+1494
+01:35:05,372 --> 01:35:06,832
+<i>Win, victory.</i>
+
+1495
+01:35:08,250 --> 01:35:10,127
+<i>School prepared me well.</i>
+
+1496
+01:35:10,294 --> 01:35:12,504
+<i>My brother, he had prepared me well.</i>
+
+1497
+01:35:13,255 --> 01:35:15,841
+<i>Years later, he and I would reconcile.</i>
+
+1498
+01:35:16,967 --> 01:35:18,760
+<i>Family's family, you know.</i>
+
+1499
+01:35:20,304 --> 01:35:22,139
+<i>Mary congratulated me...</i>
+
+1500
+01:35:22,264 --> 01:35:24,725
+<i>...but we'd already begun to drift apart.</i>
+
+1501
+01:35:26,059 --> 01:35:29,605
+<i>When you only try to win,
+you sometimes lose sight of the goal...</i>
+
+1502
+01:35:30,480 --> 01:35:32,941
+<i>...which should have always
+remained Henri.</i>
+
+1503
+01:35:44,328 --> 01:35:47,539
+<i>The most you'll get is
+second-degree murder.</i>
+
+1504
+01:35:47,831 --> 01:35:49,374
+<i>Maybe manslaughter, ten years.</i>
+
+1505
+01:35:49,499 --> 01:35:52,085
+<i>If you get a recommendation
+for clemency, you'll walk.</i>
+
+1506
+01:35:52,169 --> 01:35:55,464
+-You have your whole life in front of you.
+-Monday morning...
+
+1507
+01:35:55,797 --> 01:35:59,384
+...go up to the judge and tell him
+there's been a change of plan.
+
+1508
+01:35:59,593 --> 01:36:01,887
+l want you to change my plea to guilty.
+
+1509
+01:36:03,847 --> 01:36:04,973
+ls that a joke?
+
+1510
+01:36:05,098 --> 01:36:06,558
+Not to me, it's not.
+
+1511
+01:36:07,017 --> 01:36:08,393
+l'm not doing it.
+
+1512
+01:36:08,852 --> 01:36:12,022
+What have l been doing here?
+Why have l been wasting my time?
+
+1513
+01:36:12,814 --> 01:36:14,691
+l never thought we'd win.
+
+1514
+01:36:15,317 --> 01:36:17,277
+l thought you wanted to fight.
+
+1515
+01:36:17,444 --> 01:36:18,654
+l just...
+
+1516
+01:36:19,196 --> 01:36:20,656
+...wanted a friend.
+
+1517
+01:36:20,822 --> 01:36:22,407
+l am your friend.
+
+1518
+01:36:22,533 --> 01:36:25,202
+No, you're not. lt's always about you.
+
+1519
+01:36:26,119 --> 01:36:28,830
+lt's never about me.
+You don't understand.
+
+1520
+01:36:29,164 --> 01:36:32,334
+l already lost and you just keep talking...
+
+1521
+01:36:32,960 --> 01:36:35,420
+...and talking and you never listen.
+
+1522
+01:36:35,629 --> 01:36:39,842
+You don't know what you're talking about.
+You just don't know what it's like.
+
+1523
+01:36:40,050 --> 01:36:41,218
+What what's like?
+
+1524
+01:36:41,343 --> 01:36:42,511
+Alcatraz!
+
+1525
+01:36:43,720 --> 01:36:47,474
+Where do you think they'll send me
+for those ten years you're talking about?
+
+1526
+01:36:47,558 --> 01:36:49,601
+They'll send me back to Alcatraz!
+
+1527
+01:36:49,852 --> 01:36:52,104
+When it's over, you'll be alive!
+
+1528
+01:36:52,229 --> 01:36:53,272
+l'm Henri!
+
+1529
+01:36:53,856 --> 01:36:56,525
+l'm the one that's got to do the time,
+not you!
+
+1530
+01:36:56,984 --> 01:36:59,319
+And l can't do it! l can't do it!
+
+1531
+01:36:59,862 --> 01:37:01,530
+l can't, all right?
+
+1532
+01:37:03,490 --> 01:37:05,033
+lt's not worth it.
+
+1533
+01:37:05,492 --> 01:37:06,827
+lt's not worth it.
+
+1534
+01:37:07,578 --> 01:37:09,663
+Nothing's worth going back there.
+
+1535
+01:37:13,166 --> 01:37:17,004
+<i>Sixty-seven thousand fans
+at Municipal Stadium in Cleveland...</i>
+
+1536
+01:37:17,504 --> 01:37:21,967
+<i>...watching to see if Joe DiMaggio can keep
+his 56-game hitting streak alive.</i>
+
+1537
+01:37:22,176 --> 01:37:26,180
+<i>Jim Bank is on the mound,
+count one and one, runner on first base.</i>
+
+1538
+01:37:27,181 --> 01:37:29,474
+<i>Here's the pitch. DiMaggio swings.</i>
+
+1539
+01:37:37,024 --> 01:37:40,736
+<i>It's a double play! DiMaggio's 56-game
+hitting streak is stopped!</i>
+
+1540
+01:37:47,701 --> 01:37:49,161
+Mrs. Rosetta Dial?
+
+1541
+01:38:04,968 --> 01:38:06,470
+Why are we in here?
+
+1542
+01:38:06,637 --> 01:38:09,681
+Maybe there are some things
+worth fighting for.
+
+1543
+01:38:16,647 --> 01:38:17,689
+Henri?
+
+1544
+01:38:18,649 --> 01:38:20,108
+Do l know you?
+
+1545
+01:38:23,654 --> 01:38:25,113
+l'm Rosetta, Henri.
+
+1546
+01:38:26,657 --> 01:38:28,200
+l'm your sister.
+
+1547
+01:38:38,502 --> 01:38:40,212
+My baby's name is Henri.
+
+1548
+01:38:47,094 --> 01:38:48,804
+Mr. Stamphill says--
+
+1549
+01:38:49,012 --> 01:38:50,222
+l was...
+
+1550
+01:38:52,474 --> 01:38:54,226
+...beginning to think...
+
+1551
+01:38:56,603 --> 01:38:58,730
+...that you wasn't real. That l...
+
+1552
+01:38:59,982 --> 01:39:01,733
+...made you up in my mind.
+
+1553
+01:39:05,028 --> 01:39:06,655
+l want you to come--
+
+1554
+01:39:08,532 --> 01:39:10,993
+l want you to tell Jim that l appreciate...
+
+1555
+01:39:11,118 --> 01:39:13,579
+...him bringing you down here
+and knowing...
+
+1556
+01:39:13,787 --> 01:39:15,664
+...that you turned out okay.
+
+1557
+01:39:16,623 --> 01:39:20,544
+That means a lot. l want you to tell him,
+come Monday morning...
+
+1558
+01:39:21,712 --> 01:39:24,673
+...he's going to plead me guilty
+just like l said.
+
+1559
+01:39:28,552 --> 01:39:30,179
+l wish l wasn't...
+
+1560
+01:39:30,554 --> 01:39:32,681
+...so scared of them, Rosetta.
+
+1561
+01:39:35,726 --> 01:39:37,477
+l wish to God l wasn't.
+
+1562
+01:39:55,662 --> 01:39:57,581
+You take care of yourself now.
+
+1563
+01:42:01,205 --> 01:42:03,207
+<i>You may call your next witness.</i>
+
+1564
+01:42:04,041 --> 01:42:05,501
+Just a second.
+
+1565
+01:42:06,919 --> 01:42:07,961
+l'm your friend.
+
+1566
+01:42:08,128 --> 01:42:10,756
+On the outside, l'd be lucky
+to consider you my friend.
+
+1567
+01:42:10,881 --> 01:42:12,591
+So l'm not going to kill you.
+
+1568
+01:42:12,716 --> 01:42:16,303
+-Are you going to call a witness today?
+-Yes, Your Honor.
+
+1569
+01:42:17,554 --> 01:42:21,350
+lf you want to change your plea,
+you go do it. l'm not going to do it.
+
+1570
+01:42:21,433 --> 01:42:24,269
+-l want you to plead me guilty.
+-l don't think you are.
+
+1571
+01:42:24,394 --> 01:42:25,854
+-Doesn't matter.
+-Does to me.
+
+1572
+01:42:25,938 --> 01:42:28,857
+Counselor, l am very close to finding you
+in contempt of--
+
+1573
+01:42:28,941 --> 01:42:31,193
+The defense calls Mr. Henri Young.
+
+1574
+01:42:31,443 --> 01:42:32,402
+No!
+
+1575
+01:42:32,736 --> 01:42:34,196
+He just lost the case.
+
+1576
+01:42:34,279 --> 01:42:36,240
+You go up and change your plea.
+
+1577
+01:42:36,448 --> 01:42:38,909
+l repeat, l'm not going to do it for you.
+
+1578
+01:42:40,744 --> 01:42:41,745
+Counselor--
+
+1579
+01:42:42,412 --> 01:42:43,747
+He's coming.
+
+1580
+01:42:45,457 --> 01:42:46,750
+Go ahead, tell them.
+
+1581
+01:42:55,926 --> 01:42:57,386
+Tell them, not me.
+
+1582
+01:43:02,140 --> 01:43:03,976
+Better ask the right questions.
+
+1583
+01:43:04,101 --> 01:43:06,562
+-l'll ask what l want.
+-l'll answer what l want.
+
+1584
+01:43:06,687 --> 01:43:08,063
+-Fine.
+-Fine.
+
+1585
+01:43:12,484 --> 01:43:14,736
+Guilty, guilty, guilty, guilty.
+
+1586
+01:43:19,992 --> 01:43:20,993
+Stand up.
+
+1587
+01:43:21,451 --> 01:43:23,203
+Put your hand on the Bible.
+
+1588
+01:43:26,957 --> 01:43:31,086
+Do you swear to tell the truth, and nothing
+but the truth, so help you God?
+
+1589
+01:43:31,253 --> 01:43:32,421
+So help me God.
+
+1590
+01:43:32,504 --> 01:43:33,797
+State your name.
+
+1591
+01:43:34,006 --> 01:43:35,382
+Henri Young.
+
+1592
+01:43:35,632 --> 01:43:36,800
+Be seated.
+
+1593
+01:43:37,634 --> 01:43:38,760
+Your Honor--
+
+1594
+01:43:38,844 --> 01:43:40,596
+Wait until l've asked a question!
+
+1595
+01:43:40,679 --> 01:43:43,140
+-l haven't asked you yet.
+-He's trying to trick me.
+
+1596
+01:43:43,223 --> 01:43:46,852
+Please instruct the witness to remain silent
+until l ask a question...
+
+1597
+01:43:46,977 --> 01:43:49,104
+...and only answer the question l ask.
+
+1598
+01:43:49,188 --> 01:43:50,314
+He's your witness.
+
+1599
+01:43:50,856 --> 01:43:51,899
+He won't listen.
+
+1600
+01:43:52,149 --> 01:43:53,567
+He's trying to trick me!
+
+1601
+01:43:53,650 --> 01:43:54,943
+Silence, Mr. Young.
+
+1602
+01:43:55,819 --> 01:43:59,448
+Here's the way it works.
+Mr. Stamphill will ask you a question...
+
+1603
+01:43:59,656 --> 01:44:01,450
+...and you answer that question.
+
+1604
+01:44:01,533 --> 01:44:05,996
+However, Mr. Stamphill cannot coerce you
+into testifying against yourself.
+
+1605
+01:44:06,205 --> 01:44:07,748
+You do understand that?
+
+1606
+01:44:07,873 --> 01:44:09,416
+Yeah, l just want to--
+
+1607
+01:44:09,875 --> 01:44:13,921
+Did we have a conversation in which
+you said you wish to change your plea--
+
+1608
+01:44:15,214 --> 01:44:18,842
+You will wait until l have finished
+instructing the witness.
+
+1609
+01:44:19,218 --> 01:44:21,261
+lt's okay. l wanted him to ask that.
+
+1610
+01:44:21,553 --> 01:44:23,055
+lt is not okay.
+
+1611
+01:44:24,056 --> 01:44:28,435
+And l do not need you to tell me
+what is or is not okay.
+
+1612
+01:44:29,520 --> 01:44:31,939
+ln this courtroom,
+l am the one who decides...
+
+1613
+01:44:32,022 --> 01:44:34,191
+...what is or is not okay.
+
+1614
+01:44:35,275 --> 01:44:35,984
+Okay?
+
+1615
+01:44:37,194 --> 01:44:37,819
+Yes.
+
+1616
+01:44:38,028 --> 01:44:39,488
+Thank you very much.
+
+1617
+01:44:42,032 --> 01:44:43,992
+Counselors, approach the bench.
+
+1618
+01:44:48,205 --> 01:44:51,166
+Do you mind telling me
+what the hell is going on here?
+
+1619
+01:44:51,250 --> 01:44:52,167
+l'm trying--
+
+1620
+01:44:52,251 --> 01:44:55,504
+Your own defendant is looking to me
+to protect him from you.
+
+1621
+01:44:55,629 --> 01:44:56,922
+So what's going on?
+
+1622
+01:44:57,047 --> 01:44:59,466
+l know it seems very strange but--
+
+1623
+01:44:59,716 --> 01:45:03,512
+ln my opinion, you're an idiot to put him
+on the stand for any reason.
+
+1624
+01:45:03,595 --> 01:45:06,014
+You're asking him to testify
+against himself.
+
+1625
+01:45:06,431 --> 01:45:10,269
+lt doesn't seem to make sense,
+but the prosecution isn't objecting so--
+
+1626
+01:45:10,394 --> 01:45:12,020
+No, l'm not. Let him continue.
+
+1627
+01:45:12,271 --> 01:45:13,397
+Shut up.
+
+1628
+01:45:14,898 --> 01:45:18,235
+Enough damage has been done.
+l can't make it any worse.
+
+1629
+01:45:18,443 --> 01:45:19,653
+Yes, you can.
+
+1630
+01:45:20,779 --> 01:45:23,740
+All right. But you're on a very short leash.
+
+1631
+01:45:24,783 --> 01:45:26,410
+A very short leash.
+
+1632
+01:45:26,743 --> 01:45:29,705
+l will throw you in jail
+for contempt myself.
+
+1633
+01:45:30,622 --> 01:45:31,582
+Now...
+
+1634
+01:45:31,790 --> 01:45:34,418
+...let's get this goddamn show on the road.
+
+1635
+01:45:38,046 --> 01:45:39,756
+l think you're doing a great job.
+
+1636
+01:45:42,092 --> 01:45:44,428
+Mr. Young, stop playing with that!
+
+1637
+01:45:47,931 --> 01:45:51,852
+Now, do you or do you not wish
+to continue testifying, Mr. Young?
+
+1638
+01:45:52,644 --> 01:45:55,105
+lt's okay. He asked me the right question.
+
+1639
+01:45:55,939 --> 01:45:57,941
+Counselor, you may proceed.
+
+1640
+01:46:01,153 --> 01:46:04,781
+Mr. Young, did you and l not have
+a conversation last Friday...
+
+1641
+01:46:04,990 --> 01:46:08,118
+...in which you told me you wished
+to change your plea to guilty?
+
+1642
+01:46:08,493 --> 01:46:10,078
+Yeah, yeah, yeah.
+
+1643
+01:46:11,496 --> 01:46:14,249
+l want to change my plea.
+That's what l said.
+
+1644
+01:46:14,458 --> 01:46:18,170
+l'm going to ask you the single
+most important question l can ask you.
+
+1645
+01:46:18,295 --> 01:46:20,088
+lt's what this whole trial's about.
+
+1646
+01:46:20,631 --> 01:46:23,467
+Are you guilty of the murder
+of Rufus McCain?
+
+1647
+01:46:23,675 --> 01:46:26,178
+l want to change my plea to guilty.
+l said that.
+
+1648
+01:46:26,303 --> 01:46:29,431
+l didn't ask what you wanted to do.
+l asked if you are guilty.
+
+1649
+01:46:29,556 --> 01:46:30,349
+Objection!
+
+1650
+01:46:30,474 --> 01:46:32,184
+He's badgering the witness.
+
+1651
+01:46:32,309 --> 01:46:35,103
+-He's my witness, for Christ's sake!
+-l'm not your nothing!
+
+1652
+01:46:35,187 --> 01:46:38,232
+lf the accused wants to enter
+a plea of guilty--
+
+1653
+01:46:38,649 --> 01:46:42,486
+Silence! Mr. Stamphill,
+you are skating on very thin ice here.
+
+1654
+01:46:43,487 --> 01:46:46,615
+Maybe, Your Honor,
+but l'd like to get to the other side.
+
+1655
+01:46:48,492 --> 01:46:50,619
+Very well. You may proceed...
+
+1656
+01:46:50,994 --> 01:46:52,788
+...at your own peril.
+
+1657
+01:46:52,871 --> 01:46:53,789
+Thank you.
+
+1658
+01:46:57,501 --> 01:46:59,795
+Let me take this one step at a time.
+
+1659
+01:47:02,840 --> 01:47:05,509
+We had a conversation in which
+l told you l felt...
+
+1660
+01:47:05,634 --> 01:47:07,594
+...with the way the trial was going...
+
+1661
+01:47:07,678 --> 01:47:12,099
+...the most you'd have to face, more than
+likely, would be another ten years or less.
+
+1662
+01:47:12,391 --> 01:47:14,810
+-l don't care--
+-Ten years, that's what l said.
+
+1663
+01:47:14,893 --> 01:47:16,353
+Yeah, yeah, but--
+
+1664
+01:47:16,562 --> 01:47:18,313
+Did you say to me...
+
+1665
+01:47:18,522 --> 01:47:21,692
+...you were the guy who had to do
+the time, not me?
+
+1666
+01:47:21,900 --> 01:47:25,070
+That they'd stick you back in Alcatraz
+for those ten years, right?
+
+1667
+01:47:25,195 --> 01:47:28,198
+That's what l told you.
+Why are you doing this to me?
+
+1668
+01:47:28,407 --> 01:47:32,202
+Because if you change your plea to guilty,
+they will execute you.
+
+1669
+01:47:32,411 --> 01:47:34,538
+-You will die!
+-So fucking what?
+
+1670
+01:47:34,872 --> 01:47:36,999
+l'd rather die than go back there!
+
+1671
+01:47:49,761 --> 01:47:51,013
+What'd you say?
+
+1672
+01:47:51,221 --> 01:47:52,181
+l said...
+
+1673
+01:47:53,891 --> 01:47:57,311
+...l'd rather die than go back there!
+Can't you understand that?
+
+1674
+01:47:58,395 --> 01:47:59,521
+Why, Henri?
+
+1675
+01:47:59,730 --> 01:48:01,398
+Why do you want to die?
+
+1676
+01:48:01,940 --> 01:48:03,233
+Because....
+
+1677
+01:48:05,110 --> 01:48:06,361
+Because l'm...
+
+1678
+01:48:08,405 --> 01:48:09,740
+...scared of them.
+
+1679
+01:48:10,616 --> 01:48:13,035
+l'm scared to go back there. l'm scared.
+
+1680
+01:48:13,952 --> 01:48:15,746
+l'm scared. l'm scared.
+
+1681
+01:48:15,954 --> 01:48:19,166
+-Objection! He's finished--
+-l haven't finished anything!
+
+1682
+01:48:19,791 --> 01:48:21,418
+Henri, look at me.
+
+1683
+01:48:21,793 --> 01:48:23,879
+Henri, look at me. Look at me.
+
+1684
+01:48:24,463 --> 01:48:27,925
+You were right. You were right,
+l was wrong. l'm sorry.
+
+1685
+01:48:28,133 --> 01:48:31,136
+l'm just talking to you right now.
+Not the judge or the jury.
+
+1686
+01:48:31,261 --> 01:48:34,389
+lf you want to die, we'll back you up.
+But l swear to God...
+
+1687
+01:48:34,473 --> 01:48:37,893
+...l'll fight these bastards
+so they'll never do this to anyone again.
+
+1688
+01:48:37,976 --> 01:48:40,020
+You're not going to die for nothing!
+
+1689
+01:48:40,145 --> 01:48:41,605
+The choice is yours.
+
+1690
+01:48:42,940 --> 01:48:44,566
+What do you want to do?
+
+1691
+01:48:50,280 --> 01:48:52,241
+l want to stop being afraid.
+
+1692
+01:49:00,624 --> 01:49:01,625
+All right.
+
+1693
+01:49:36,827 --> 01:49:38,120
+Henri Young...
+
+1694
+01:49:40,664 --> 01:49:43,542
+...are you guilty of the murder
+of Rufus McCain?
+
+1695
+01:50:04,730 --> 01:50:06,148
+l was the weapon...
+
+1696
+01:50:07,649 --> 01:50:09,568
+...but l ain't no killer.
+
+1697
+01:50:12,237 --> 01:50:13,864
+They're the murderers.
+
+1698
+01:50:25,209 --> 01:50:27,753
+Bailiff, you may remove the prisoner.
+
+1699
+01:50:29,671 --> 01:50:32,049
+Escort the prisoner to the holding room.
+
+1700
+01:50:59,451 --> 01:51:03,705
+<i>Ladies and gentlemen of the jury,
+you have received your instructions.</i>
+
+1701
+01:51:03,956 --> 01:51:07,876
+<i>You may find the defendant guilty
+of involuntary manslaughter...</i>
+
+1702
+01:51:07,960 --> 01:51:11,338
+<i>...which carries with it a maximum penalty
+of three years...</i>
+
+1703
+01:51:11,713 --> 01:51:14,341
+<i>...in which case the defendant
+will be remanded...</i>
+
+1704
+01:51:14,424 --> 01:51:17,052
+<i>...to the custody of the warden of Alcatraz.</i>
+
+1705
+01:51:18,011 --> 01:51:22,099
+<i>Or you may find the defendant guilty
+of murder in the first degree.</i>
+
+1706
+01:51:23,267 --> 01:51:25,727
+<i>Without a recommendation for mercy...</i>
+
+1707
+01:51:25,811 --> 01:51:28,897
+<i>...that verdict will carry with it
+a sentence of death.</i>
+
+1708
+01:52:18,530 --> 01:52:20,449
+This court is now in session.
+
+1709
+01:52:21,491 --> 01:52:24,620
+Ladies and gentlemen of the jury,
+how do you find?
+
+1710
+01:52:25,537 --> 01:52:27,164
+The defendant will rise.
+
+1711
+01:52:29,499 --> 01:52:32,503
+We, the jury,
+find the defendant, Henri Young...
+
+1712
+01:52:32,711 --> 01:52:35,172
+...not guilty of first-degree murder...
+
+1713
+01:52:35,506 --> 01:52:38,050
+...and guilty only
+of involuntary manslaughter.
+
+1714
+01:52:38,175 --> 01:52:39,635
+Order! Order!
+
+1715
+01:52:40,177 --> 01:52:43,472
+We would like permission to address
+the court, if possible.
+
+1716
+01:52:44,181 --> 01:52:45,349
+Very well.
+
+1717
+01:52:45,557 --> 01:52:49,811
+We have this day signed a petition
+which l would like to read to the court.
+
+1718
+01:52:51,230 --> 01:52:55,150
+''We would like the following to be read
+into the record of this proceeding.
+
+1719
+01:52:55,234 --> 01:52:58,487
+''Though we know it will have
+no legal or binding effect...
+
+1720
+01:52:59,363 --> 01:53:02,199
+''...we'd hope that it will have
+a moral effect.
+
+1721
+01:53:03,534 --> 01:53:07,788
+''We, the members of the jury,
+recommend the immediate investigation...
+
+1722
+01:53:07,871 --> 01:53:10,249
+''...by the proper federal authorities...
+
+1723
+01:53:10,374 --> 01:53:13,502
+''...of the federal penitentiary
+known as Alcatraz.
+
+1724
+01:53:14,253 --> 01:53:17,005
+''We find this institution, its wardens...
+
+1725
+01:53:17,548 --> 01:53:20,968
+''...and associate warden,
+guilty of crimes against humanity.''
+
+1726
+01:53:22,761 --> 01:53:23,887
+Thank you.
+
+1727
+01:53:24,096 --> 01:53:25,639
+The jury is dismissed.
+
+1728
+01:53:25,764 --> 01:53:27,724
+This trial is concluded.
+
+1729
+01:53:27,808 --> 01:53:30,811
+All rise. The defendant is remanded
+to the custody of Alcatraz.
+
+1730
+01:53:32,229 --> 01:53:35,440
+<i>News from San Francisco.
+The Young trial concludes.</i>
+
+1731
+01:53:35,774 --> 01:53:38,402
+<i>The Rock will be investigated
+as Young is vindicated...</i>
+
+1732
+01:53:38,527 --> 01:53:41,071
+<i>...by a verdict of involuntary manslaughter.</i>
+
+1733
+01:53:41,780 --> 01:53:44,116
+<i>As I walked out of the courtroom
+that day...</i>
+
+1734
+01:53:44,449 --> 01:53:48,412
+<i>...I did not fully realize how much
+Henri and I had actually accomplished.</i>
+
+1735
+01:53:48,579 --> 01:53:50,414
+<i>It all just happened so fast.</i>
+
+1736
+01:53:51,748 --> 01:53:53,876
+l'll to be up to see you as often as l can.
+
+1737
+01:53:54,001 --> 01:53:56,920
+Then you can bring that Blanche back
+for a second shot.
+
+1738
+01:53:57,129 --> 01:53:58,881
+l'll see what l can do.
+
+1739
+01:53:59,047 --> 01:54:00,382
+No place like home.
+
+1740
+01:54:00,465 --> 01:54:01,925
+Henri, it's not over.
+
+1741
+01:54:02,801 --> 01:54:06,263
+l'm going to appeal to have you moved
+to another prison.
+
+1742
+01:54:06,471 --> 01:54:09,474
+l'm going to file motions to have
+your original case reopened.
+
+1743
+01:54:09,600 --> 01:54:12,060
+Henri and Jim, together again, huh?
+
+1744
+01:54:12,269 --> 01:54:14,646
+That's right. Henri and Jim,
+together again.
+
+1745
+01:54:15,439 --> 01:54:17,316
+Henri and Jim, together again.
+
+1746
+01:54:18,275 --> 01:54:19,735
+l won, didn't l?
+
+1747
+01:54:19,902 --> 01:54:22,154
+l mean, l really did something.
+
+1748
+01:54:22,529 --> 01:54:23,530
+l won!
+
+1749
+01:54:24,448 --> 01:54:26,241
+That's right, you won.
+
+1750
+01:54:28,619 --> 01:54:31,121
+How many games was
+DiMaggio's hitting streak?
+
+1751
+01:54:31,330 --> 01:54:32,664
+Fifty-four?
+
+1752
+01:54:32,915 --> 01:54:34,416
+No, l got you.
+
+1753
+01:54:34,625 --> 01:54:36,376
+lt was 56, wasn't it?
+
+1754
+01:54:40,339 --> 01:54:41,798
+l'll see you soon!
+
+1755
+01:54:43,300 --> 01:54:44,843
+Take care of yourself.
+
+1756
+01:55:02,069 --> 01:55:03,862
+<i>The definition of victory is:</i>
+
+1757
+01:55:04,488 --> 01:55:06,949
+<i>''Success in any contest or struggle.</i>
+
+1758
+01:55:08,200 --> 01:55:10,452
+<i>''An engagement ending in triumph.''</i>
+
+1759
+01:55:20,712 --> 01:55:24,258
+<i>That was to be the last time
+I was to see Henri Young alive.</i>
+
+1760
+01:55:25,133 --> 01:55:29,179
+<i>Before the court date was set for
+an appeal, his body was found in a cell.</i>
+
+1761
+01:55:30,055 --> 01:55:33,308
+<i>He laid beneath a single word
+he had scrawled with a rock:</i>
+
+1762
+01:55:34,685 --> 01:55:35,811
+<i>''Victory.''</i>
+
+1763
+01:55:37,312 --> 01:55:40,190
+<i>Henri Young had taught me
+the meaning of the word.</i>
+
+1764
+01:55:51,243 --> 01:55:54,788
+<i>He was the only man that I have known
+who gave more than he asked.</i>
+
+1765
+01:55:55,080 --> 01:55:57,332
+<i>All that he ever wanted was a friend.</i>
+
+1766
+01:55:57,916 --> 01:56:01,712
+<i>I will always remember him
+as one of the best friends I have ever had.</i>
+
+1767
+01:56:03,589 --> 01:56:06,133
+<i>Unlike many men that live much longer...</i>
+
+1768
+01:56:06,717 --> 01:56:08,844
+<i>...Henri Young did not die in vain.</i>
+
+1769
+01:56:10,429 --> 01:56:12,556
+<i>In the end, he was not afraid.</i>
+
+1770
+01:56:13,891 --> 01:56:15,893
+<i>He lived and he died in triumph.</i>
+
+1771
+01:56:18,770 --> 01:56:20,731
+<i>If only we could all do that.</i>
+
+1772
+01:56:30,282 --> 01:56:31,700
+Welcome home.
+
+1773
+01:56:33,577 --> 01:56:35,037
+l've missed you.
+
+1774
+01:56:44,046 --> 01:56:45,589
+You can beat me...
+
+1775
+01:56:46,048 --> 01:56:49,718
+...you can put me back in that hole,
+whatever you want to do.
+
+1776
+01:56:51,053 --> 01:56:52,763
+lt doesn't matter to me.
+
+1777
+01:56:54,765 --> 01:56:55,724
+Action:
+
+1778
+01:56:56,808 --> 01:56:57,935
+l won.
+
+1779
+01:56:59,228 --> 01:57:00,479
+Reaction:
+
+1780
+01:57:01,355 --> 01:57:03,690
+You can't ever take that away from me.
+
+1781
+01:57:19,248 --> 01:57:21,041
+Take him to the hole!
+
+1782
+01:57:42,646 --> 01:57:46,483
+<i>Charles Dickens once said
+that solitary confinement was inhumane.</i>
+
+1783
+01:57:47,109 --> 01:57:50,112
+<i>Seven months later,
+the Supreme Court agreed.</i>
+
+1784
+01:57:50,654 --> 01:57:54,950
+<i>And as a result of the facts brought out
+in the trial of The People vs. Young...</i>
+
+1785
+01:57:55,033 --> 01:57:57,953
+<i>...the dungeons of Alcatraz
+were closed forever.</i>
+
+1786
+01:57:58,370 --> 01:58:01,999
+<i>Associate Warden Glenn was brought up
+on charges of mistreatment.</i>
+
+1787
+01:58:02,374 --> 01:58:06,170
+<i>He was found guilty. He would never work
+in the penal system again.</i>
+
+1788
+01:58:07,087 --> 01:58:09,047
+<i>I remained in private practice.</i>
+
+1789
+01:58:10,048 --> 01:58:11,884
+<i>I also became a baseball fan.</i>
+
+1790
+01:58:13,844 --> 01:58:15,345
+<i>You did it, Henri.</i>
+

@@ -28,6 +28,12 @@ var entries = {
 
 function readSubtitlesToVariable(myContentFile)
 {
+    entries = {
+              		id : [],
+              		text : [],
+              		timeStart : [],
+              		timeEnd : []
+              	};
 	var lines = myContentFile.split(/\r?\n/);
 
 	var pattern_identifier = /^([a-zA-z]+-)?[0-9]+$/;
@@ -73,9 +79,9 @@ function readSubtitlesToVariable(myContentFile)
 	;	
 }
 
-function readFromFile(movieId) {
+function readFromFile(id) {
 
-	var src = '/subtitles/' + movieId + '.srt';
+	var src = "/"+id;
 
 	$
 			.get(
@@ -119,60 +125,9 @@ function getCurrentSubNr() {
 
 var prev = -1;
 
-//function onPlayerStateChange(newState) {
-//	if (newState.data == 1 && newState.data != -1) {
-//		var interval = setInterval(function() {
-//			var i = getCurrentSubNr();
-//			if (prev == i)
-//				return;
-//			prev = i;
-//			if (i != false) {
-//				$('.subs-block').html(entries.text[i]);
-//				$(".subs-block").lettering('words');
-//			}
-//		}, 1000);
-//	}
-//	if (newState.data != 1) {
-//		clearInterval(interval);
-//	}
-//}
-
-function getSubtitles()
-{
-	$.get(window.location.href + "/subtitles/" + player.getCurrentTime() * 1000, function(data,
-			status) {
-		if(data.length != 0)
-			readSubtitlesToVariable(data);
-	}, "text");
-}
-
-function getSubtitlesForce()
-{
-	$.get(window.location.href + "/subtitlesF/" + player.getCurrentTime() * 1000, function(data,
-			status) {
-		if(data.length != 0)
-			readSubtitlesToVariable(data);
-	}, "text");
-}
-// pradeda grot, issiunciu requesta 10 pirmu subtitle gaut,
-// imu paskutinio subtitle laiko ir dabartinio payerio laiko
-// skirtuma ir tikrinu ar maziau nei 3 sekundes
-// jei maziau, tai siunciu requesta 10 kitu subtitle gaut
-// jei persoka 
 function onPlayerStateChange(newState) {
-	if (YT.PlayerState.PLAYING == newState.data) { 
-		getSubtitlesForce();
+	if (newState.data == 1 && newState.data != -1) {
 		var interval = setInterval(function() {
-			
-			if(entries.timeStart.length != 0)
-			{
-				var timeStart = entries.timeStart;
-				if((timeStart[timeStart.length-1] - Number(player.getCurrentTime()) < 3))
-				{
-					getSubtitles();
-				}
-			}
-			
 			var i = getCurrentSubNr();
 			if (prev == i)
 				return;
@@ -183,11 +138,62 @@ function onPlayerStateChange(newState) {
 			}
 		}, 1000);
 	}
-
-	if (newState.data == YT.PlayerState.ENDED || newState.data == YT.PlayerState.PAUSED) {
+	if (newState.data != 1) {
 		clearInterval(interval);
 	}
 }
+
+//function getSubtitles()
+//{
+//	$.get(window.location.href + "/subtitles/" + player.getCurrentTime() * 1000, function(data,
+//			status) {
+//		if(data.length != 0)
+//			readSubtitlesToVariable(data);
+//	}, "text");
+//}
+
+//function getSubtitlesForce()
+//{
+//	$.get(window.location.href + "/subtitlesF/" + player.getCurrentTime() * 1000, function(data,
+//			status) {
+//		if(data.length != 0)
+//			readSubtitlesToVariable(data);
+//	}, "text");
+//}
+// pradeda grot, issiunciu requesta 10 pirmu subtitle gaut,
+// imu paskutinio subtitle laiko ir dabartinio payerio laiko
+// skirtuma ir tikrinu ar maziau nei 3 sekundes
+// jei maziau, tai siunciu requesta 10 kitu subtitle gaut
+// jei persoka 
+//function onPlayerStateChange(newState) {
+//	if (YT.PlayerState.PLAYING == newState.data) {
+//		getSubtitlesForce();
+//		var interval = setInterval(function() {
+//
+//			if(entries.timeStart.length != 0)
+//			{
+//				var timeStart = entries.timeStart;
+//				if((timeStart[timeStart.length-1] - Number(player.getCurrentTime()) < 3))
+//				{
+//					getSubtitles();
+//				}
+//			}
+//
+//			var i = getCurrentSubNr();
+//			if (prev == i)
+//				return;
+//			prev = i;
+//			if (i != false) {
+//				$('.subs-block').html(entries.text[i]);
+//				$(".subs-block").lettering('words');
+//			}
+//		}, 1000);
+//	}
+//
+//	if (newState.data == YT.PlayerState.ENDED || newState.data == YT.PlayerState.PAUSED) {
+//		clearInterval(interval);
+//	}
+//}
 
 function getCurrentSubNr() {
 	var time = Number(player.getCurrentTime());
@@ -227,15 +233,13 @@ function shiftSubsPositions(milli) {
 
 //var subsCount;
 
-//function getSubtitles(movieId) {
-//	var src = '/subtitles/' + movieId + '.srt';
-//
-//	$.get(src, function(myContentFile, status) {
-//		subsCount = ((myContentFile.match(/srt/g) || []).length) / 2;
-//
-//		for (i = 0; i < subsCount; i++) {
-//			var select = document.getElementById("subsSelectLang");
-//			select.options[select.options.length] = new Option(i + 1, i);
-//		}
-//	});
-//}
+function updateSubtitle() {
+	var src = "/admin/movie/update-subtitles-set-movie-status-ok/" + youtId + "/" + $("#selectSub").prop('selectedIndex');
+
+	$
+			.get(
+					src,
+					function(myContentFile, status) {
+						console.log(status);
+					});
+}

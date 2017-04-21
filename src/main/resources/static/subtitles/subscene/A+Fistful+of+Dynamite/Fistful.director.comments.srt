@@ -1,0 +1,5863 @@
+1
+00:00:00,927 --> 00:00:04,761
+My name's Christopher Frayling.
+l wrote the book Spaghetti Westerns,
+
+2
+00:00:04,847 --> 00:00:07,964
+and then l wrote this large
+biography of Sergio Leone,
+
+3
+00:00:08,047 --> 00:00:11,676
+and l'm going to talk you
+through Fistful of Dollars.
+
+4
+00:00:13,167 --> 00:00:18,400
+The credit titles for Fistful of Dollars
+were designed by Luigi Lardani, in Rome,
+
+5
+00:00:18,487 --> 00:00:21,559
+and signalled this was to be
+a different kind of Western.
+
+6
+00:00:21,647 --> 00:00:24,878
+They were half-based
+on the James Bond credit titles,
+
+7
+00:00:24,967 --> 00:00:27,845
+with the idea of Rotoscoping,
+and semi-animation,
+
+8
+00:00:27,927 --> 00:00:30,122
+and Andy Warhol-type colours.
+
+9
+00:00:30,207 --> 00:00:33,165
+With a noisy soundtrack.
+That was the first new thing.
+
+10
+00:00:33,247 --> 00:00:38,162
+The second was, of course, the title track
+of the music, by Ennio Morricone.
+
+11
+00:00:38,247 --> 00:00:41,284
+You have sounds of gunfire,
+and bells, and whip cracks,
+
+12
+00:00:41,367 --> 00:00:43,403
+and incomprehensible lyrics.
+
+13
+00:00:43,487 --> 00:00:48,083
+Fender Stratocaster guitar, which was
+very fashionable with the Beach Boys,
+
+14
+00:00:48,167 --> 00:00:50,442
+and the Shadows, and other such bands.
+
+15
+00:00:50,527 --> 00:00:54,281
+So this isn't a Western with orchestral,
+Hollywood-type score.
+
+16
+00:00:54,367 --> 00:00:57,996
+lt's a rock-and-roll score.
+This is a rock-and-roll Western.
+
+17
+00:00:58,087 --> 00:01:01,921
+And the emphasis in the Rotoscoping
+is on the most violent scenes,
+
+18
+00:01:02,007 --> 00:01:04,965
+or the most action-type
+scenes in the movie.
+
+19
+00:01:05,047 --> 00:01:08,403
+The cast is a mixture of American lead,
+
+20
+00:01:08,487 --> 00:01:11,047
+ltalian actors,
+Spanish actors, West Germans.
+
+21
+00:01:11,127 --> 00:01:14,597
+This is an ltalian-Spanish-West
+German coproduction,
+
+22
+00:01:14,687 --> 00:01:17,599
+and each wanted a slice
+of the action with the cast.
+
+23
+00:01:17,687 --> 00:01:19,837
+Here's a direct James Bond reference.
+
+24
+00:01:19,927 --> 00:01:23,602
+The iris looking down onto the horseman.
+
+25
+00:01:23,687 --> 00:01:26,918
+James Bond had been successful
+in ltaly, and you could say
+
+26
+00:01:27,007 --> 00:01:31,159
+part of the impetus for this film is
+to bring Bond together with the Western,
+
+27
+00:01:31,247 --> 00:01:34,284
+to turn it into a mid-1 960s
+grown-up kind of Western
+
+28
+00:01:34,367 --> 00:01:38,997
+that would appeal to the audience
+for James Bond movies.
+
+29
+00:01:45,287 --> 00:01:48,757
+Shot in Techniscope, known as
+the poor man's CinemaScope,
+
+30
+00:01:48,847 --> 00:01:53,079
+a two-perforation system where you
+printed two frames for the price of one.
+
+31
+00:01:53,167 --> 00:01:56,318
+lt was quite difficult to use,
+and encouraged the use
+
+32
+00:01:56,407 --> 00:01:59,479
+of either long shots or extreme close-ups,
+
+33
+00:01:59,567 --> 00:02:06,086
+which, of course, is one of the technical
+innovations of the ltalian Western.
+
+34
+00:02:09,087 --> 00:02:13,399
+ln the shooting script, the movie
+begins with a map of the Rio Grande,
+
+35
+00:02:13,487 --> 00:02:15,523
+or the Rio Bravo, as Mexicans call it,
+
+36
+00:02:15,607 --> 00:02:18,917
+with northern Mexico
+and the southern United States.
+
+37
+00:02:19,007 --> 00:02:24,639
+And it's 1872, New Mexico. You see
+the water, you see the mule's feet.
+
+38
+00:02:24,727 --> 00:02:28,276
+You see the rider go across
+the water, and his name is Ray.
+
+39
+00:02:28,367 --> 00:02:31,837
+He's a Confederate sergeant.
+And you see him steal a poncho
+
+40
+00:02:31,927 --> 00:02:36,637
+off a hatless Mexican peon
+who's having a swim in the Rio Grande.
+
+41
+00:02:36,727 --> 00:02:39,764
+He puts on the poncho, cut,
+and then the movie begins.
+
+42
+00:02:39,847 --> 00:02:44,443
+But in the final version, it's much more
+enigmatic, and more iconic as a costume,
+
+43
+00:02:44,527 --> 00:02:50,443
+because you don't know why he's wearing
+it, but he looks at home in Mexico.
+
+44
+00:02:50,527 --> 00:02:54,122
+This sequence was shot
+in Almeria, in southern Spain,
+
+45
+00:02:54,207 --> 00:02:58,439
+at a place called Cortijo el Sotillo,
+at San Jose, east of Almeria,
+
+46
+00:02:58,767 --> 00:03:04,205
+and it looks much the same now
+as it did then. This is an actual place.
+
+47
+00:03:05,367 --> 00:03:09,440
+Now, in a traditional Western,
+the hero would look at this child,
+
+48
+00:03:09,527 --> 00:03:12,087
+and take an interest in what was going on.
+
+49
+00:03:12,167 --> 00:03:15,477
+Perhaps intervene in some way
+in what's about to happen.
+
+50
+00:03:15,567 --> 00:03:18,445
+But Eastwood is simply
+having a drink, watching,
+
+51
+00:03:18,527 --> 00:03:22,566
+sussing out what's happening around him,
+he's not going to intervene.
+
+52
+00:03:22,647 --> 00:03:26,765
+At this stage, he's just an onlooker,
+trying to see what's going on.
+
+53
+00:03:26,847 --> 00:03:30,920
+And the look of Eastwood
+is so distinctive in Western terms.
+
+54
+00:03:31,007 --> 00:03:34,477
+The stubble. American
+Western heroes didn't have stubble.
+
+55
+00:03:34,567 --> 00:03:39,482
+There's the poncho. There's the sort of
+laid-back look, the coolness of the hero.
+
+56
+00:03:39,567 --> 00:03:42,923
+Plus he's a big man on a little mule,
+which is interesting.
+
+57
+00:03:43,007 --> 00:03:46,886
+One of the references in the opening
+is to Shane, a favourite with Leone,
+
+58
+00:03:46,967 --> 00:03:51,006
+where you have a little man on
+a big horse, Alan Ladd, at the beginning.
+
+59
+00:03:51,087 --> 00:03:56,400
+But this is a big man on a mule,
+and he's dressed in a very stylish way.
+
+60
+00:03:56,487 --> 00:04:00,799
+This is a Roman actor called Mario Brega
+playing Chico, a sadistic thug,
+
+61
+00:04:00,887 --> 00:04:04,197
+kicking the baby,
+and what's the hero doing?
+
+62
+00:04:04,287 --> 00:04:07,677
+He's not intervening. He's just watching.
+
+63
+00:04:07,767 --> 00:04:11,840
+This is a very different
+kind of Wild West hero.
+
+64
+00:04:18,767 --> 00:04:23,443
+These villages in Almeria in Spain,
+with their single-story adobe dwellings,
+
+65
+00:04:23,527 --> 00:04:26,087
+whitewashed, were used
+a lot in ltalian Westerns.
+
+66
+00:04:26,167 --> 00:04:30,365
+They were existing places. Minimal set
+dressing would enable them to be used
+
+67
+00:04:30,447 --> 00:04:35,885
+as 1 9th-century villages
+on the Mexican-American border.
+
+68
+00:04:35,967 --> 00:04:38,800
+The actress is Marianne Koch,
+a West German actress
+
+69
+00:04:38,887 --> 00:04:42,436
+who had just been voted by
+the West German magazine Filmmaker
+
+70
+00:04:42,527 --> 00:04:46,042
+the most popular actress
+for films in Germany.
+
+71
+00:04:46,127 --> 00:04:50,882
+She agreed to appear in this movie, even
+though it's almost a nonspeaking part.
+
+72
+00:04:50,967 --> 00:04:56,963
+Wearing a lot of eye makeup, Cleopatra
+style. l guess that was the thing in 1 964.
+
+73
+00:05:00,047 --> 00:05:03,926
+Of course, there weren't trees
+in this part of Almeria. lt's desert.
+
+74
+00:05:04,007 --> 00:05:07,397
+According to Clint Eastwood,
+Sergio Leone and his crew
+
+75
+00:05:07,487 --> 00:05:11,560
+were driving past a hapless farmer's
+courtyard and saw this tree,
+
+76
+00:05:11,887 --> 00:05:14,082
+and thought,
+''That's the tree we want.''
+
+77
+00:05:14,167 --> 00:05:17,364
+They got out, said,
+''We're from the highway department.''
+
+78
+00:05:17,447 --> 00:05:21,076
+''Your tree is a danger to traffic.''
+Got permission to cut it down,
+
+79
+00:05:21,167 --> 00:05:25,285
+pinched it, stuck it into the ground,
+and put it in this opening sequence.
+
+80
+00:05:25,367 --> 00:05:28,518
+You can't see the roots,
+they're resting in the ground.
+
+81
+00:05:28,607 --> 00:05:30,916
+lt was a very low-rent production.
+
+82
+00:05:31,007 --> 00:05:36,639
+This street is further north, a village
+called Los Albaricoques, ''the apricots'',
+
+83
+00:05:36,727 --> 00:05:39,161
+which appeared in
+a lot of Leone's Westerns.
+
+84
+00:05:39,247 --> 00:05:42,603
+The main cobbled street,
+with single-story adobe dwellings.
+
+85
+00:05:42,687 --> 00:05:47,602
+And the rider goes by with
+''Adios, amigo'' written on his back.
+
+86
+00:05:48,607 --> 00:05:50,598
+ln Yojimbo, by Kurosawa,
+
+87
+00:05:50,687 --> 00:05:55,078
+the samurai movie on which
+Fistful of Dollars was directly based,
+
+88
+00:05:55,167 --> 00:05:59,558
+what happens at this moment is that a dog
+walks by with a human hand in its mouth.
+
+89
+00:05:59,647 --> 00:06:04,118
+And the samurai hears this
+bickering family, which sets up the plot.
+
+90
+00:06:04,207 --> 00:06:07,722
+lnstead, Clint Eastwood
+is greeted by the local bell-ringer,
+
+91
+00:06:07,807 --> 00:06:13,404
+who acts as a kind of chorus, like in a
+Shakespearian play, or traditional theatre.
+
+92
+00:06:13,487 --> 00:06:19,483
+The chorus tells him exactly what's going
+on in the background to the town.
+
+93
+00:06:31,567 --> 00:06:37,119
+ln Yojimbo, the village in 1 9th-century
+Japan is divided into two factions:
+
+94
+00:06:37,207 --> 00:06:39,767
+the silk merchants
+and the sake merchants.
+
+95
+00:06:39,847 --> 00:06:42,759
+And the shambling,
+itchy, bow-legged samurai
+
+96
+00:06:42,847 --> 00:06:44,838
+with his sword strapped to his waist
+
+97
+00:06:44,927 --> 00:06:49,000
+walks into town and sells his services,
+first to one faction then the other.
+
+98
+00:06:49,087 --> 00:06:53,239
+As we're told by the crazy bell-ringer,
+this town is run by two factions.
+
+99
+00:06:53,327 --> 00:06:57,718
+One is gunrunners,
+and the other runs liquor.
+
+100
+00:06:57,807 --> 00:07:00,844
+Eastwood rides into the main set
+of Fistful of Dollars,
+
+101
+00:07:00,927 --> 00:07:05,284
+which actually was
+an existing set 35km north of Madrid,
+
+102
+00:07:05,367 --> 00:07:07,801
+at a place called Hoyo de Manzanares.
+
+103
+00:07:07,887 --> 00:07:12,324
+The set was built in 1 962
+for a series of Spanish Zorro films.
+
+104
+00:07:12,407 --> 00:07:15,240
+lt resembled a ghost town,
+wasn't used for a while.
+
+105
+00:07:15,327 --> 00:07:17,921
+lt was redressed
+by the designer, Carlo Simi,
+
+106
+00:07:18,007 --> 00:07:20,316
+who put new frontages
+on part of the town.
+
+107
+00:07:20,407 --> 00:07:22,557
+Basically it was a pre-existing set.
+
+108
+00:07:22,647 --> 00:07:26,162
+They really hadn't got
+any money to play with.
+
+109
+00:07:26,247 --> 00:07:29,205
+Lots of references
+to Easter and resurrection,
+
+110
+00:07:29,287 --> 00:07:31,960
+and the idea of a town
+of widows, a town of death.
+
+111
+00:07:32,047 --> 00:07:34,925
+There's coffins,
+there's bells, bell-ringers,
+
+112
+00:07:35,007 --> 00:07:37,885
+there's Eastwood crucified
+on the cantina sign.
+
+113
+00:07:37,967 --> 00:07:40,925
+There's a resurrection towards the end.
+
+114
+00:07:41,007 --> 00:07:45,000
+There's a Last Supper, when
+the baddies all get together for a meal.
+
+115
+00:07:45,087 --> 00:07:48,523
+lt's riddled with Catholic iconography,
+
+116
+00:07:48,847 --> 00:07:51,964
+which wasn't, l think,
+a deep decision by Leone,
+
+117
+00:07:52,047 --> 00:07:56,359
+simply that it would be recognisable
+to a largely southern ltalian audience,
+
+118
+00:07:56,447 --> 00:07:59,359
+at which this movie
+was originally pitched.
+
+119
+00:07:59,447 --> 00:08:03,281
+The bartender, whose name
+is Silvanito, is played by José Calvo,
+
+120
+00:08:03,367 --> 00:08:07,155
+a well-known Spanish actor
+who'd appeared in ltalian Westerns.
+
+121
+00:08:07,247 --> 00:08:11,445
+Fistful of Dollars was not the first
+ltalian Western, as people think.
+
+122
+00:08:11,527 --> 00:08:15,805
+There had been about 25 Spanish
+and ltalian and West German Westerns
+
+123
+00:08:15,887 --> 00:08:19,004
+made between 1 962 and 1 964.
+
+124
+00:08:19,087 --> 00:08:22,204
+But they were copy American Westerns.
+
+125
+00:08:22,287 --> 00:08:26,917
+Where Fistful of Dollars scored was it was
+the first distinctively ltalian Western.
+
+126
+00:08:27,007 --> 00:08:31,319
+The critics compare copyists to
+ltalianisers, and ltalianisers begin here.
+
+127
+00:08:31,407 --> 00:08:35,639
+The distinctive features are those
+of an ltalian movie applied to the West.
+
+128
+00:08:35,727 --> 00:08:40,926
+And this came through
+in Fistful of Dollars for the first time.
+
+129
+00:08:45,327 --> 00:08:49,878
+José Calvo had, in fact, been making
+movies since the early 1 950s in Spain,
+
+130
+00:08:49,967 --> 00:08:54,722
+and bore a startling resemblance to Walt
+Disney's Geppetto in the film Pinocchio,
+
+131
+00:08:54,807 --> 00:08:58,482
+which endeared him
+to audiences in the west.
+
+132
+00:09:25,727 --> 00:09:30,847
+The coffin maker, Piripero, is played
+by an Austrian actor called Joseph Egger,
+
+133
+00:09:30,927 --> 00:09:34,363
+who was 75 years old at
+the time he made this film,
+
+134
+00:09:34,447 --> 00:09:40,283
+and went on to appear as the old prophet
+in For A Few Dollars More, his last movie.
+
+135
+00:09:40,367 --> 00:09:43,359
+He was a music-hall star,
+a sort of stand-up comedian,
+
+136
+00:09:43,447 --> 00:09:46,120
+who was very popular
+with West German audiences.
+
+137
+00:09:46,207 --> 00:09:52,316
+So Spanish bartender, American
+stranger, Austrian coffin maker outside.
+
+138
+00:09:52,407 --> 00:09:54,602
+And the three choruses in this movie,
+
+139
+00:09:54,687 --> 00:09:58,839
+the three characters who introduce us
+to the theatre of San Miguel,
+
+140
+00:09:58,927 --> 00:10:02,044
+this flyblown village
+just across the Mexican border,
+
+141
+00:10:02,127 --> 00:10:05,358
+are the bell-ringer,
+the coffin maker, and the bartender,
+
+142
+00:10:05,447 --> 00:10:09,963
+which are exact equivalents of the same
+characters in Kurosawa's film Yojimbo,
+
+143
+00:10:10,047 --> 00:10:13,278
+where there's a cooper
+and a coffin maker and a watchman,
+
+144
+00:10:13,367 --> 00:10:16,245
+who serve a very similar function.
+
+145
+00:10:20,647 --> 00:10:24,720
+ln Kurosawa, it's the fire tower
+in the 1 9th-century Japanese village
+
+146
+00:10:24,807 --> 00:10:28,402
+where the yojimbo sits
+and watches the mayhem that he causes,
+
+147
+00:10:28,487 --> 00:10:31,240
+looking down upon
+the two factions as they fight.
+
+148
+00:10:31,327 --> 00:10:34,046
+Here, it's the balcony of the saloon,
+
+149
+00:10:34,127 --> 00:10:38,325
+which was specially designed as
+a frontage by Carlo Simi, the designer.
+
+150
+00:10:38,407 --> 00:10:44,198
+Carlo Simi had walked into Sergio Leone's
+office in Rome, just before filming started,
+
+151
+00:10:44,287 --> 00:10:48,075
+had looked at the existing designs
+for the film Fistful of Dollars,
+
+152
+00:10:48,167 --> 00:10:51,796
+which was called The Magnificent
+Stranger, its working title,
+
+153
+00:10:51,887 --> 00:10:54,117
+and thought they looked terrible.
+
+154
+00:10:54,207 --> 00:10:57,199
+He got the drawings,
+made them larger than life,
+
+155
+00:10:57,287 --> 00:10:59,721
+with huge Mexican interiors and beams
+
+156
+00:10:59,807 --> 00:11:04,676
+and a rather over-the-top form
+of Wild West, or Wild Southwest, design.
+
+157
+00:11:04,767 --> 00:11:07,327
+Leone hired him,
+thinking he had something.
+
+158
+00:11:07,407 --> 00:11:09,443
+He was a qualified architect,
+
+159
+00:11:09,527 --> 00:11:13,679
+and his contribution to Sergio Leone's
+Westerns has been much underrated.
+
+160
+00:11:13,767 --> 00:11:17,442
+The look of those Leone towns,
+the way in which the sets are dressed.
+
+161
+00:11:17,527 --> 00:11:20,803
+Carlo Simi designed
+the costumes in this film as well,
+
+162
+00:11:20,887 --> 00:11:24,197
+some of which were ready-mades,
+some specially designed.
+
+163
+00:11:24,287 --> 00:11:27,245
+The poncho, for example,
+was specially designed,
+
+164
+00:11:27,327 --> 00:11:31,639
+although one member of the crew
+remembers, perhaps falsely,
+
+165
+00:11:31,727 --> 00:11:35,515
+that they found it in a flea market
+in Madrid, on the way to the shoot.
+
+166
+00:11:35,607 --> 00:11:37,996
+But l doubt that that's true.
+
+167
+00:11:46,927 --> 00:11:50,203
+ln the shooting script,
+it wasn't Baxters versus Rojos,
+
+168
+00:11:50,287 --> 00:11:54,041
+in other words,
+an Anglo family and a Mexican family,
+
+169
+00:11:54,127 --> 00:11:56,482
+it was the Morales instead of the Baxters.
+
+170
+00:11:56,567 --> 00:12:00,526
+ln the original version it was
+in fact two Mexican clans fighting it out.
+
+171
+00:12:00,607 --> 00:12:06,364
+But in the transformation of shooting
+script into final script that they made,
+
+172
+00:12:06,447 --> 00:12:11,680
+the idea of an Anglo family and a Mexican
+family gave it a kind of racial edge.
+
+173
+00:12:11,767 --> 00:12:17,763
+We're in a Hispanic society where there's
+a racial conflict within the community.
+
+174
+00:12:36,407 --> 00:12:39,285
+Eastwood worked
+very cheap indeed for this film.
+
+175
+00:12:39,367 --> 00:12:44,282
+He worked for $1 5,000 all-in fee,
+plus a six-week holiday in Spain.
+
+176
+00:12:44,367 --> 00:12:47,279
+The other actors who
+were considered for the part,
+
+177
+00:12:47,367 --> 00:12:50,200
+Charles Bronson,
+James Coburn, Henry Fonda,
+
+178
+00:12:50,287 --> 00:12:55,156
+and even some expatriate American
+actors living in Rome like Rod Cameron,
+
+179
+00:12:55,247 --> 00:12:58,045
+aged 54, who'd been
+Buck Jones' stunt man
+
+180
+00:12:58,127 --> 00:13:02,439
+but was still around making Westerns
+in ltaly, they all proved too expensive.
+
+181
+00:13:02,527 --> 00:13:07,203
+Eastwood, who was a refugee
+from the TV series Rawhide
+
+182
+00:13:07,287 --> 00:13:11,963
+when he went over for the summer to
+shoot in Spain and ltaly, came for $1 5,000.
+
+183
+00:13:12,047 --> 00:13:15,164
+So, Don Miguel, l do work cheap.
+
+184
+00:13:25,767 --> 00:13:30,602
+This is the first classic Mexican
+face-off in Leone's Westerns,
+
+185
+00:13:30,687 --> 00:13:35,556
+where the lone stranger
+has this sharp, hip dialogue,
+
+186
+00:13:35,647 --> 00:13:39,879
+and the baddies are much more abusive
+than they are in American Westerns.
+
+187
+00:13:39,967 --> 00:13:41,844
+And the tension builds up.
+
+188
+00:13:41,927 --> 00:13:45,397
+ln a Hollywood movie of the time,
+this would take ten seconds.
+
+189
+00:13:45,487 --> 00:13:49,082
+Stranger would stand there,
+pull his gun, there'd be a fight.
+
+190
+00:13:49,167 --> 00:13:51,681
+This is heightened into a form of rhetoric.
+
+191
+00:13:51,767 --> 00:13:56,363
+lt's the first example of Leone taking a
+classic situation from a Hollywood movie,
+
+192
+00:13:56,447 --> 00:13:58,324
+pumping it up,
+
+193
+00:13:58,407 --> 00:14:02,480
+and making it into something
+a bit more exciting for '60s audiences.
+
+194
+00:14:02,567 --> 00:14:06,003
+They feel they've seen it before,
+but never quite like this.
+
+195
+00:14:06,087 --> 00:14:10,126
+There's gonna be violence,
+but how much of it?
+
+196
+00:14:57,527 --> 00:15:00,087
+Five shots, four people fall down.
+
+197
+00:15:00,167 --> 00:15:03,955
+The ratio is rather greater than
+in Hollywood Westerns of the time,
+
+198
+00:15:04,047 --> 00:15:07,244
+where you'd expect a one-on-one duel.
+
+199
+00:15:07,327 --> 00:15:10,524
+The scene is almost directly
+from Kurosawa's Yojimbo,
+
+200
+00:15:10,607 --> 00:15:13,121
+but with a completely
+different atmosphere.
+
+201
+00:15:13,207 --> 00:15:17,041
+There's an element of parody, taking
+hallowed moments of the Western
+
+202
+00:15:17,127 --> 00:15:20,437
+and turning them into something else,
+whereas in Yojimbo
+
+203
+00:15:20,527 --> 00:15:25,442
+the face-offs have a more informal,
+historical quality.
+
+204
+00:15:25,527 --> 00:15:28,883
+And the hero in Yojimbo
+was a well-known hero, Sanjuro,
+
+205
+00:15:28,967 --> 00:15:32,801
+who'd appeared in other films,
+so Toshirô Mifune, the character,
+
+206
+00:15:32,887 --> 00:15:36,675
+brought that with him. Whereas
+this stranger we know nothing about.
+
+207
+00:15:36,767 --> 00:15:39,406
+We never learn anything
+about his background.
+
+208
+00:15:39,487 --> 00:15:44,925
+He's come from nowhere, he's going
+nowhere, he goes round shooting people.
+
+209
+00:15:45,007 --> 00:15:48,283
+''My mistake. Four coffins.''
+ln Kurosawa it's three.
+
+210
+00:15:48,367 --> 00:15:51,279
+There's a bit of inflation.
+Typical Leone gag.
+
+211
+00:15:51,367 --> 00:15:55,758
+A rather macabre gag,
+involving the coffin maker.
+
+212
+00:15:59,847 --> 00:16:01,678
+The town is deserted.
+
+213
+00:16:02,007 --> 00:16:05,204
+ln other Westerns which use this set,
+and there were plenty,
+
+214
+00:16:05,287 --> 00:16:08,836
+the town is teeming with life,
+with marketplaces and wagons.
+
+215
+00:16:08,927 --> 00:16:13,478
+Leone simply couldn't afford, on the
+budget from his three coproducers,
+
+216
+00:16:13,567 --> 00:16:15,285
+to have extras.
+
+217
+00:16:15,367 --> 00:16:21,363
+Basically, it's the principals and
+that's it, except for a couple of scenes.
+
+218
+00:16:48,967 --> 00:16:51,879
+Some of the interiors
+of the film were shot in Rome,
+
+219
+00:16:51,967 --> 00:16:56,245
+and some of them
+were shot at a Spanish museum
+
+220
+00:16:56,327 --> 00:17:02,163
+which was called the Casa de Campo,
+which is a museum of rural life in Madrid,
+
+221
+00:17:02,247 --> 00:17:07,924
+where they had lots of ceramic pots
+and wagons and Hispanic design.
+
+222
+00:17:08,007 --> 00:17:10,157
+The courtyard and part of the interior
+
+223
+00:17:10,247 --> 00:17:14,126
+were shot at the Casa de Campo,
+and the rest was reconstructed in Rome.
+
+224
+00:17:14,207 --> 00:17:18,644
+They started in Rome,
+for the interiors, went to the set in Spain,
+
+225
+00:17:18,727 --> 00:17:22,356
+the second unit went to Almeria,
+shot the Almerian material,
+
+226
+00:17:22,447 --> 00:17:25,200
+and then postproduction
+took place in Rome.
+
+227
+00:17:25,287 --> 00:17:30,236
+This was a Carlo Simi interior,
+which would have been shot in Rome.
+
+228
+00:17:42,087 --> 00:17:47,002
+Mario Brega, playing the rather large
+Mexican baddie, the sadistic baddie,
+
+229
+00:17:47,447 --> 00:17:52,316
+had a huge afterlife in ltalian Westerns,
+where he was typecast in a similar role,
+
+230
+00:17:52,407 --> 00:17:56,320
+and he ended up in The Good, the Bad
+and the Ugly as Sergeant Wallace,
+
+231
+00:17:56,407 --> 00:17:59,877
+and spaghetti buffs spot him everywhere.
+
+232
+00:18:11,247 --> 00:18:15,126
+Ennio Morricone's music was...
+lf we've got the production design,
+
+233
+00:18:15,207 --> 00:18:19,598
+the design of the costumes,
+the personal style of the hero,
+
+234
+00:18:19,687 --> 00:18:23,839
+and the Almerian locations
+as features of this new kind of Western,
+
+235
+00:18:23,927 --> 00:18:25,918
+then the other element is the music,
+
+236
+00:18:26,007 --> 00:18:29,443
+which we've already heard
+at full whack behind the credits.
+
+237
+00:18:29,527 --> 00:18:33,281
+Morricone wasn't, in fact,
+the first choice of composer.
+
+238
+00:18:33,367 --> 00:18:38,487
+Leone wanted a man called Lavagnino
+who had scored The Last Days of Pompeii
+
+239
+00:18:38,567 --> 00:18:41,684
+and The Colossus of Rhodes,
+which Leone had worked on.
+
+240
+00:18:41,767 --> 00:18:45,157
+But eventually he agreed
+to go and see Morricone in Rome,
+
+241
+00:18:45,247 --> 00:18:47,966
+discovered he'd been
+to school with Morricone,
+
+242
+00:18:48,047 --> 00:18:52,643
+in their primary school together,
+and they started reminiscing.
+
+243
+00:18:52,727 --> 00:18:56,322
+They were keen to have
+a very different kind of score for this.
+
+244
+00:18:56,407 --> 00:18:59,524
+Much more hip.
+Rather as James Bond had been, hip.
+
+245
+00:18:59,607 --> 00:19:03,646
+With the famous main title of James Bond
+played on an amplified guitar.
+
+246
+00:19:03,727 --> 00:19:08,039
+And they tried a bit to find a theme,
+and eventually Morricone recalled
+
+247
+00:19:08,127 --> 00:19:12,484
+he'd written an arrangement of the
+Woody Guthrie song ''Pastures of Plenty''
+
+248
+00:19:12,567 --> 00:19:15,161
+a few years before,
+with Fender Stratocaster,
+
+249
+00:19:15,247 --> 00:19:18,523
+with choir, with all these
+natural sounds and whipcracks.
+
+250
+00:19:18,607 --> 00:19:21,804
+Leone said,
+''Take the vocal track off it, let's hear it.''
+
+251
+00:19:21,887 --> 00:19:26,961
+They did, and it is identical
+to the main track of Fistful of Dollars.
+
+252
+00:19:27,047 --> 00:19:32,121
+Morricone and Leone wanted
+Mexican gypsy peasant music
+
+253
+00:19:32,207 --> 00:19:36,439
+as part of the background to the
+musical track, this idea of San Miguel,
+
+254
+00:19:36,527 --> 00:19:39,678
+a village in northern Mexico,
+which is a village of death.
+
+255
+00:19:39,767 --> 00:19:44,397
+So they were keen to have
+mariachi trumpet, gypsy sounds.
+
+256
+00:19:44,487 --> 00:19:47,001
+Leone particularly
+remembered ''Deguello'',
+
+257
+00:19:47,087 --> 00:19:50,238
+the theme that Dmitri Tiomkin
+had written for Rio Bravo,
+
+258
+00:19:50,327 --> 00:19:55,037
+when John Wayne as Sheriff Chance
+and Ricky Nelson are holed up in the jail,
+
+259
+00:19:55,127 --> 00:19:58,199
+and they can hear this lament
+going on down the street.
+
+260
+00:19:58,287 --> 00:20:01,438
+Ricky Nelson says,
+''That was what they played at the Alamo
+
+261
+00:20:01,527 --> 00:20:07,159
+to try and destabilise the defenders, the
+Texans who were defending the Alamo.''
+
+262
+00:20:07,247 --> 00:20:11,320
+Leone remembered that, said,
+''l want a lot of that in the music.''
+
+263
+00:20:11,407 --> 00:20:16,879
+''This dirgelike, funereal music.
+lt'll be perfect. A Mexican dance of death.''
+
+264
+00:20:16,967 --> 00:20:20,437
+Later on in the movie,
+the ''Deguello'' would come in full whack.
+
+265
+00:20:20,527 --> 00:20:23,678
+Morricone was a trumpeter
+by training, as was his father.
+
+266
+00:20:23,767 --> 00:20:28,045
+So there's a big emphasis
+on trumpet in the soundtrack.
+
+267
+00:20:32,487 --> 00:20:38,244
+This part of the score is like some
+Renaissance ltalian piece of music.
+
+268
+00:20:39,247 --> 00:20:42,523
+lt recurs a little bit later on, as well.
+
+269
+00:20:44,887 --> 00:20:49,642
+Very, very strange. Odd juxtaposition.
+You're in 1 9th-century northern Mexico,
+
+270
+00:20:49,727 --> 00:20:53,197
+you get a Renaissance piece
+of dance music on the soundtrack.
+
+271
+00:20:53,287 --> 00:20:56,199
+Those were the kind of...
+To make the audience sit up.
+
+272
+00:20:56,287 --> 00:21:00,041
+Leone said, ''My philosophy
+can be summed up with the thought:
+
+273
+00:21:00,127 --> 00:21:02,595
+'l never want the audience to get bored'.''
+
+274
+00:21:02,687 --> 00:21:06,396
+He said, ''l get bored with Westerns.
+People talk too much.''
+
+275
+00:21:06,487 --> 00:21:11,322
+''You know, there's a lot of method acting
+and a lot of extensive verbiage,
+
+276
+00:21:11,407 --> 00:21:16,242
+and much too much music, and the music
+doesn't have much to do with the image.''
+
+277
+00:21:16,327 --> 00:21:21,355
+''This method acting has got to the point
+where in a film like The Left Handed Gun,
+
+278
+00:21:21,447 --> 00:21:26,043
+if a social worker had been around,
+Billy the Kid would never have happened.''
+
+279
+00:21:26,127 --> 00:21:30,962
+''l want to go back to the Westerns of the
+1 930s when l was growing up in Rome.''
+
+280
+00:21:31,047 --> 00:21:35,245
+''Lots of action, lots of surprise.
+A fairy tale for grown-ups.''
+
+281
+00:21:35,327 --> 00:21:39,605
+So the music is important as part
+of this strategy of making people jump.
+
+282
+00:21:39,687 --> 00:21:43,919
+''This is odd. l haven't seen it like this,
+and it'll keep me concentrating.''
+
+283
+00:21:44,007 --> 00:21:47,795
+And also strange elisions of the plot.
+As Leone's cinema matured,
+
+284
+00:21:47,887 --> 00:21:51,197
+he'd get very used to telling
+stories in a very indirect way.
+
+285
+00:21:51,287 --> 00:21:54,040
+You're not quite sure what you're seeing,
+
+286
+00:21:54,367 --> 00:22:00,840
+then it'd be explained later - all part of the
+strategy of keeping the audience on edge.
+
+287
+00:22:11,847 --> 00:22:17,843
+ln 1 950, Hollywood Westerns
+had been 34 per cent of all releases
+
+288
+00:22:17,927 --> 00:22:20,646
+that were made in Hollywood.
+That's 1 50 movies.
+
+289
+00:22:20,727 --> 00:22:24,766
+ln 1 963, when Fistful of Dollars
+was first planned,
+
+290
+00:22:24,847 --> 00:22:29,238
+Westerns represented nine per cent
+of Hollywood output. That's 1 5 films.
+
+291
+00:22:29,327 --> 00:22:34,162
+So it had gone from 1 50
+in 1 950 to 1 5 films in 1 963.
+
+292
+00:22:34,247 --> 00:22:37,045
+Leone said,
+''The Western's dying in Hollywood.''
+
+293
+00:22:37,127 --> 00:22:41,962
+There was a huge market for Westerns in
+Europe, particularly in ltaly and Germany.
+
+294
+00:22:42,047 --> 00:22:44,561
+People who'd grown up in the 1 930s,
+
+295
+00:22:44,647 --> 00:22:47,115
+for whom the Western
+was a model of freedom.
+
+296
+00:22:47,207 --> 00:22:49,767
+They'd grown up under Mussolini.
+
+297
+00:22:49,847 --> 00:22:53,760
+And the Western had been
+something to see - this land of plenty,
+
+298
+00:22:53,847 --> 00:22:57,965
+the wide open spaces,
+the hero who has freedom of movement.
+
+299
+00:22:58,047 --> 00:23:00,277
+And looking towards the Western
+
+300
+00:23:00,367 --> 00:23:03,484
+was a way of clearing their minds
+of what went on at home.
+
+301
+00:23:03,567 --> 00:23:07,685
+They were disappointed with the '50s,
+hated television Westerns.
+
+302
+00:23:07,767 --> 00:23:12,443
+Too overlit, too anodyne, too clean.
+Everyone's teeth sparkled too much.
+
+303
+00:23:12,527 --> 00:23:15,121
+So let's rough up
+the Western, make it grungy.
+
+304
+00:23:15,207 --> 00:23:17,960
+You have a revisionist
+grunge in the foreground,
+
+305
+00:23:18,047 --> 00:23:22,040
+with the stubble, and the cheroot,
+and everyone looking a bit dirty,
+
+306
+00:23:22,127 --> 00:23:28,123
+with a kind of epic pretension in the
+background. That's what Leone was after.
+
+307
+00:23:34,687 --> 00:23:38,680
+Now, this location was south of Madrid,
+
+308
+00:23:38,767 --> 00:23:42,077
+but not as far south as Almeria.
+
+309
+00:23:42,167 --> 00:23:46,763
+Aldea del Fresno, ''the valley
+of the ash trees'', by the river Alberche.
+
+310
+00:23:46,847 --> 00:23:51,637
+lt's a favourite Leone moment. They ride
+together, the camera goes up on a crane,
+
+311
+00:23:51,727 --> 00:23:54,560
+and you can see beyond
+it a whole crowd of people.
+
+312
+00:23:54,647 --> 00:23:57,081
+One of those visual surprises that you get,
+
+313
+00:23:57,167 --> 00:24:00,079
+trompe l'oeil effects
+that you get in his films.
+
+314
+00:24:00,167 --> 00:24:05,480
+One of Leone's favourite painters was
+Magritte, who specialised in juxtaposition.
+
+315
+00:24:05,567 --> 00:24:08,559
+ln The Good, the Bad and the Ugly
+there's a famous one.
+
+316
+00:24:08,647 --> 00:24:11,923
+They look through the bushes
+and there's the trenches
+
+317
+00:24:12,007 --> 00:24:14,441
+with literally thousands of troops.
+
+318
+00:24:14,527 --> 00:24:19,078
+This is the first of those moments, at
+the Rio Bravo canyon, called Rio Bravo
+
+319
+00:24:19,167 --> 00:24:23,877
+because it's the Mexican side and the
+Rio Grande was known as the Rio Bravo.
+
+320
+00:24:23,967 --> 00:24:29,917
+This is the first of the major sequences
+in the film that was not in Yojimbo.
+
+321
+00:24:30,007 --> 00:24:33,522
+There's no reference to this
+in Yojimbo at all. This was added.
+
+322
+00:24:33,607 --> 00:24:36,599
+The consignment of gold,
+the massacre of the troops,
+
+323
+00:24:36,687 --> 00:24:39,759
+the introduction
+of the baddie Ramón Rojo,
+
+324
+00:24:39,847 --> 00:24:42,805
+Gian Maria Volonté,
+an ltalian theatre actor.
+
+325
+00:24:42,887 --> 00:24:45,447
+All this was added by the scriptwriters
+
+326
+00:24:45,527 --> 00:24:50,043
+to fill out the story of Yojimbo,
+and make it even more mean.
+
+327
+00:24:50,127 --> 00:24:52,766
+The massacre doesn't happen in Yojimbo.
+
+328
+00:24:52,847 --> 00:24:56,044
+This ups the ante in terms
+of the body count in the movie,
+
+329
+00:24:56,127 --> 00:25:00,803
+and makes the violence
+that much more larger than life.
+
+330
+00:25:09,407 --> 00:25:12,604
+Most of this sequence,
+apart from the cutaways
+
+331
+00:25:12,687 --> 00:25:16,282
+to Clint Eastwood
+and Silvanito, the bartender,
+
+332
+00:25:16,367 --> 00:25:20,280
+were in fact shot by Franco Giraldi,
+the assistant director,
+
+333
+00:25:20,367 --> 00:25:23,598
+who was called in
+at the last minute as an assistant
+
+334
+00:25:23,687 --> 00:25:27,646
+and told by the producers,
+''We don't believe in assistants,
+
+335
+00:25:27,727 --> 00:25:31,925
+but we want to shoot this so quickly
+we must have two crews working.''
+
+336
+00:25:32,007 --> 00:25:34,805
+So this famous sequence,
+apart from the cutaways,
+
+337
+00:25:34,887 --> 00:25:40,086
+was shot by Franco Giraldi, who recalls
+sitting in Spain with Gian Maria Volonté...
+
+338
+00:25:40,167 --> 00:25:41,725
+Here he is, Ramón.
+
+339
+00:25:41,807 --> 00:25:45,277
+Who is rather a left-wing
+character in ltalian politics,
+
+340
+00:25:45,367 --> 00:25:50,077
+sitting in this flyblown location
+in Spain, in spring 1 964,
+
+341
+00:25:50,167 --> 00:25:54,445
+in Franco's Spain, where a fascist
+regime was running the country, saying:
+
+342
+00:25:54,527 --> 00:25:58,759
+''What on earth are we doing here?
+We're making a Western, set in the 1870s,
+
+343
+00:25:58,847 --> 00:26:00,838
+in a fascist country.''
+
+344
+00:26:00,927 --> 00:26:04,283
+''What a strange situation
+for a socialist in ltaly to be in.''
+
+345
+00:26:04,367 --> 00:26:09,760
+And Giraldi recalls long conversations
+with Volonté of this kind.
+
+346
+00:26:17,527 --> 00:26:22,282
+Volonté was a graduate
+of a Roman drama academy,
+
+347
+00:26:22,367 --> 00:26:26,918
+had made his name playing Romeo
+in Romeo and Juliet, Shakespeare,
+
+348
+00:26:27,007 --> 00:26:29,999
+and then entered
+the film industry in the early '60s.
+
+349
+00:26:30,087 --> 00:26:32,920
+Was a difficult character to work with,
+
+350
+00:26:33,007 --> 00:26:35,202
+had appeared in one or two pepla,
+
+351
+00:26:35,287 --> 00:26:38,120
+Hercules Conquers Atlantis,
+and one or two others,
+
+352
+00:26:38,207 --> 00:26:41,119
+but hadn't really
+made his name in the movies.
+
+353
+00:26:41,207 --> 00:26:44,483
+This turned him into an international star.
+
+354
+00:26:45,447 --> 00:26:48,803
+His theatrical performance
+was deliberately heightened,
+
+355
+00:26:48,887 --> 00:26:52,721
+so that the baddie would seem
+a sort of narcissistic, childlike,
+
+356
+00:26:52,807 --> 00:26:57,005
+self-regarding kind of baddie,
+rather than an underplayed one.
+
+357
+00:26:57,087 --> 00:27:00,523
+ln For A Few Dollars More,
+they'd ratchet up the performance.
+
+358
+00:27:00,607 --> 00:27:02,723
+The baddie wears a white shirt.
+
+359
+00:27:02,807 --> 00:27:07,278
+ln Hollywood the baddie wore black,
+and certainly on television Westerns.
+
+360
+00:27:07,367 --> 00:27:10,325
+But in this one,
+the first vocal entry of the baddie,
+
+361
+00:27:10,407 --> 00:27:13,444
+of the real baddie, is in a white shirt.
+
+362
+00:27:14,447 --> 00:27:17,166
+Just as the goodie wears
+a rather dirty brown hat.
+
+363
+00:27:17,247 --> 00:27:19,238
+This isn't white hats and black hats,
+
+364
+00:27:19,327 --> 00:27:22,319
+everyone wears grey hats,
+as Clint Eastwood put it.
+
+365
+00:27:22,407 --> 00:27:24,602
+You're not sure who the goodies are.
+
+366
+00:27:24,687 --> 00:27:28,600
+You know Ramón is the baddie,
+but what's Clint Eastwood's role in this?
+
+367
+00:27:28,687 --> 00:27:30,678
+The stranger has been watching,
+
+368
+00:27:30,767 --> 00:27:34,806
+showing a great interest,
+selling himself from one side to the other.
+
+369
+00:27:34,887 --> 00:27:38,323
+We're not sure of his motivation.
+ls he on the side of law?
+
+370
+00:27:38,407 --> 00:27:42,161
+ls he after personal profit?
+Does he have any sense of honour at all?
+
+371
+00:27:42,247 --> 00:27:44,238
+Time will tell.
+
+372
+00:27:56,727 --> 00:28:02,085
+Esteban Rojo was played by Sieghardt
+Rupp, who was a West German actor,
+
+373
+00:28:02,167 --> 00:28:05,523
+like the leader of the Baxters,
+John Baxter, the sheriff,
+
+374
+00:28:05,607 --> 00:28:09,520
+was played by Wolfgang Lukschy,
+who was a West German actor.
+
+375
+00:28:09,607 --> 00:28:15,603
+A lot of the baddies are played by West
+Germans, and Ramón was an ltalian actor.
+
+376
+00:28:22,367 --> 00:28:25,165
+This white fluff passing across the screen,
+
+377
+00:28:25,247 --> 00:28:29,001
+which was a production touch
+by Carlo Simi, white shirt, white fluff,
+
+378
+00:28:29,087 --> 00:28:31,965
+the idea of almost snow falling,
+playing against...
+
+379
+00:28:32,047 --> 00:28:36,916
+Here you've got a psychopathic baddie,
+and he appears in the whiteness of snow,
+
+380
+00:28:37,007 --> 00:28:41,046
+the whiteness of his shirt. They play
+always against your expectations.
+
+381
+00:28:41,127 --> 00:28:46,599
+ln the casting, in ltaly,
+and also in the production design.
+
+382
+00:28:47,807 --> 00:28:50,685
+A trill on the soundtrack
+as he moves his cheroot.
+
+383
+00:28:50,767 --> 00:28:54,885
+lt was an ltalian cigar called a Toscano,
+which is virtually unsmokable.
+
+384
+00:28:54,967 --> 00:28:59,006
+You have to cut it with a knife
+in order to open up the tobacco.
+
+385
+00:28:59,087 --> 00:29:03,080
+Eastwood didn't like smoking very much,
+in fact was very antismoking.
+
+386
+00:29:03,167 --> 00:29:05,283
+He'd gone on record as antismoking.
+
+387
+00:29:05,367 --> 00:29:10,202
+But they felt this cigarillo,
+this Toscano was part of the character.
+
+388
+00:29:10,287 --> 00:29:14,041
+ln the 1 960s, smoking was seen
+as a sign of control and masculinity.
+
+389
+00:29:14,127 --> 00:29:18,598
+Today l guess it's the opposite. But in
+the 1 960s it was seen as that symbol.
+
+390
+00:29:18,687 --> 00:29:21,918
+And Eastwood said whenever
+he lit up, which wasn't often,
+
+391
+00:29:22,007 --> 00:29:25,363
+the cheroot often is half-smoked
+and he's not smoking it.
+
+392
+00:29:25,447 --> 00:29:29,486
+When he does, he said, ''lt put me in
+the right frame of mind. Kind of a fog.''
+
+393
+00:29:29,567 --> 00:29:33,355
+And when it came to the second movie,
+For A Few Dollars More,
+
+394
+00:29:33,447 --> 00:29:36,917
+Eastwood said to Leone,
+''Do l have to smoke the cigar?''
+
+395
+00:29:37,007 --> 00:29:39,475
+''l don't like it very much.'' Leone replied:
+
+396
+00:29:39,567 --> 00:29:44,436
+''Of course you must smoke the cigar.
+lt's playing the lead.''
+
+397
+00:29:58,407 --> 00:30:02,082
+ln Yojimbo, there's a strong sense
+at this stage in the story
+
+398
+00:30:02,167 --> 00:30:06,206
+of this 1 9th-century village in Japan
+belonging to a wider community.
+
+399
+00:30:06,287 --> 00:30:08,847
+A government inspector
+comes to the village
+
+400
+00:30:08,927 --> 00:30:11,680
+and gives you a sense
+of the politics beyond,
+
+401
+00:30:11,767 --> 00:30:14,600
+and you also get a sense
+that there is law and order
+
+402
+00:30:14,687 --> 00:30:20,637
+in the society of 1 9th-century Japan, but
+it's broken down in this particular place.
+
+403
+00:30:20,727 --> 00:30:24,436
+ln Fistful of Dollars,
+there is no sense of law and order at all.
+
+404
+00:30:24,527 --> 00:30:28,964
+That there's no law, the sheriff
+is corrupt like all sheriffs in Leone's films,
+
+405
+00:30:29,047 --> 00:30:34,804
+so the bounty hunters, those on
+the take, the factions, the families,
+
+406
+00:30:35,127 --> 00:30:39,962
+the Hispanic Mafia which runs these
+towns is the substitute for law and order.
+
+407
+00:30:40,047 --> 00:30:42,720
+There's a complete
+absence of morality and law,
+
+408
+00:30:42,807 --> 00:30:46,083
+which makes it take place
+in a kind of moral vacuum.
+
+409
+00:30:46,167 --> 00:30:50,638
+References to governments outside are
+perfunctory. This isn't put in a context.
+
+410
+00:30:50,727 --> 00:30:55,562
+lt's a piece of theatre about a town
+that is a kind of never-never land
+
+411
+00:30:55,647 --> 00:30:58,241
+where morality doesn't exist.
+
+412
+00:30:59,687 --> 00:31:05,000
+You want Eastwood to be the goodie,
+but he never quite behaves like that.
+
+413
+00:31:10,047 --> 00:31:12,641
+ln most of the film,
+he doesn't wear his poncho,
+
+414
+00:31:12,727 --> 00:31:15,525
+although that's what
+everyone remembers him for.
+
+415
+00:31:15,607 --> 00:31:18,565
+He wore it in the opening
+and the final sequences,
+
+416
+00:31:18,647 --> 00:31:23,482
+but in between, the sheepskin waistcoat,
+the blue shirt, the shrunk-to-fit jeans -
+
+417
+00:31:23,567 --> 00:31:25,876
+they had one of each
+so had to look after it,
+
+418
+00:31:25,967 --> 00:31:28,879
+if they got it wet or dirty
+they had to dry-clean it
+
+419
+00:31:28,967 --> 00:31:33,757
+so he could wear it for the next setup -
+was what Eastwood wore.
+
+420
+00:31:57,127 --> 00:31:59,800
+Here's the ''Deguello'' theme, the trumpet
+
+421
+00:31:59,887 --> 00:32:04,085
+with the strumming guitar in the
+background. A Mexican funeral dirge.
+
+422
+00:32:04,167 --> 00:32:07,045
+The death-rattle song from The Alamo.
+
+423
+00:32:08,047 --> 00:32:11,642
+Leone wanted to use the theme
+from The Alamo and from Rio Bravo,
+
+424
+00:32:11,727 --> 00:32:15,356
+which was the same theme,
+but they discovered it wasn't a folk tune,
+
+425
+00:32:15,447 --> 00:32:19,360
+it was written by Dmitri Tiomkin
+in the 1 950s, and was in copyright.
+
+426
+00:32:19,447 --> 00:32:21,802
+So they made this adaptation.
+
+427
+00:32:21,887 --> 00:32:25,846
+And here's the Baxter clan,
+waiting to visit the Rojo clan.
+
+428
+00:32:25,927 --> 00:32:29,761
+ls this peace plan
+worth anything, or isn't it?
+
+429
+00:32:32,567 --> 00:32:37,516
+Consuelo Baxter, the Madonna
+who runs the Baxter clan, effectively,
+
+430
+00:32:37,607 --> 00:32:41,202
+because her husband isn't strong,
+is played by Margarita Lozano,
+
+431
+00:32:41,287 --> 00:32:46,645
+a Spanish actor who had made
+her name in Luis Buñuel's film, Viridiana.
+
+432
+00:32:46,727 --> 00:32:53,405
+And Leone was very fond of Buñuel's
+work, so he cast her as Consuelo Baxter.
+
+433
+00:32:55,127 --> 00:32:59,723
+Some of the shots which are made
+day-for-night in this film don't work well.
+
+434
+00:32:59,807 --> 00:33:03,959
+Some work, where you have torches
+and it's obvious that Massimo Dallamano,
+
+435
+00:33:04,047 --> 00:33:07,562
+the director of photography,
+filmed at night.
+
+436
+00:33:07,887 --> 00:33:12,358
+But some are done with filters, and it
+shows what a low-budget movie this was.
+
+437
+00:33:12,447 --> 00:33:16,122
+This is the second sequence
+which has nothing to do with Yojimbo.
+
+438
+00:33:16,207 --> 00:33:18,437
+The scene in the cemetery, this subplot
+
+439
+00:33:18,527 --> 00:33:23,681
+of taking the bodies of the massacred
+soldiers from the Rio Bravo canyon,
+
+440
+00:33:23,767 --> 00:33:27,123
+putting them into a cemetery
+and pretending they survived.
+
+441
+00:33:27,207 --> 00:33:29,675
+This was the second of Leone's inventions
+
+442
+00:33:29,767 --> 00:33:32,725
+which wasn't based
+on the Kurosawa original.
+
+443
+00:33:32,807 --> 00:33:36,004
+lnevitably, it's with coffins,
+crosses, cemeteries,
+
+444
+00:33:36,087 --> 00:33:39,762
+the iconography of death, with
+which he appears to be obsessed.
+
+445
+00:33:39,847 --> 00:33:43,840
+A lot of graveyards
+appear in Leone's Westerns.
+
+446
+00:34:00,567 --> 00:34:05,277
+lt's interesting that they're using these
+bodies as if they were puppets, or decoys,
+
+447
+00:34:05,367 --> 00:34:09,485
+because Leone claimed that
+one of the inspirations for his Westerns,
+
+448
+00:34:09,567 --> 00:34:12,957
+particularly Fistful of Dollars,
+was puppet theatre.
+
+449
+00:34:13,047 --> 00:34:17,245
+Particularly the Sicilian puppets
+called the Pupi Siciliani,
+
+450
+00:34:17,327 --> 00:34:22,879
+rather like Punch and Judy in England, or
+other puppet traditions all over the world.
+
+451
+00:34:22,967 --> 00:34:28,246
+They were large, metal puppets
+which were operated by rods from above,
+
+452
+00:34:28,327 --> 00:34:31,956
+which enacted stories from
+the middle ages. The Song of Roland.
+
+453
+00:34:32,047 --> 00:34:36,279
+Orlando and his magic steed
+and his magic spear and his sidekick,
+
+454
+00:34:36,367 --> 00:34:40,360
+who would fight the Moors
+in a re-enactment of medieval battles.
+
+455
+00:34:40,447 --> 00:34:43,962
+Puppeteers would go round Sicily,
+perform these stories,
+
+456
+00:34:44,047 --> 00:34:46,038
+but adapt them to the locality.
+
+457
+00:34:46,127 --> 00:34:50,006
+They'd find out who's the local mayor,
+the chemist, the bank manager,
+
+458
+00:34:50,087 --> 00:34:55,445
+and those characters would appear
+in this traditional mythological setting.
+
+459
+00:34:55,527 --> 00:35:00,442
+And Leone said when he made his first
+Western, he was doing exactly the same.
+
+460
+00:35:00,527 --> 00:35:02,483
+He took the Hollywood Western,
+
+461
+00:35:02,567 --> 00:35:06,640
+and in the case of Fistful of Dollars,
+two Westerns he was very fond of:
+
+462
+00:35:06,727 --> 00:35:11,847
+Shane, with Alan Ladd, made by George
+Stevens, and Edward Dmytryk's Warlock,
+
+463
+00:35:11,927 --> 00:35:15,442
+a complicated Western
+made in the 1 950s with Henry Fonda.
+
+464
+00:35:15,527 --> 00:35:20,476
+He was taking those two films, reworking
+them in this ltalian and Spanish context,
+
+465
+00:35:20,567 --> 00:35:23,559
+and doing exactly
+as the Sicilian puppeteers did.
+
+466
+00:35:23,647 --> 00:35:28,482
+Take the puppet show, take the Western
+as a given, adapt it to the local culture.
+
+467
+00:35:28,567 --> 00:35:33,436
+And there are the two puppets sitting
+there, lying against the gravestone.
+
+468
+00:35:52,047 --> 00:35:54,197
+West German actor playing Baxter,
+
+469
+00:35:54,287 --> 00:35:58,200
+conversing with Spanish actor
+playing his wife Consuelo.
+
+470
+00:35:58,287 --> 00:36:03,281
+And officials and sheriffs
+and bank managers and bank tellers
+
+471
+00:36:03,367 --> 00:36:06,677
+and schoolteachers
+and hotel clerks in Leone's films
+
+472
+00:36:06,767 --> 00:36:09,042
+tend to be treated with some derision.
+
+473
+00:36:09,127 --> 00:36:13,006
+A very traditional commedia dell'arte
+approach to officialdom,
+
+474
+00:36:13,087 --> 00:36:16,318
+where the official
+is probably on the take, corrupt.
+
+475
+00:36:16,407 --> 00:36:19,683
+There was the odd corrupt
+sheriff in Hollywood movies,
+
+476
+00:36:19,767 --> 00:36:21,803
+but they were taken as the exception.
+
+477
+00:36:21,887 --> 00:36:26,039
+ln Leone's Wild West,
+all officialdom is on the take.
+
+478
+00:36:26,127 --> 00:36:29,403
+lt's dog eat dog.
+And where life has no value,
+
+479
+00:36:29,487 --> 00:36:33,162
+people like the stranger
+are the ones that give it value.
+
+480
+00:36:33,247 --> 00:36:35,238
+A monetary value.
+
+481
+00:36:47,727 --> 00:36:54,075
+Now, Leone had made various films
+in the late '50s and early '60s
+
+482
+00:36:54,167 --> 00:36:56,635
+in the sword-and-sandal genre.
+
+483
+00:36:56,727 --> 00:37:00,561
+He'd been an assistant director
+on the chariot race for Ben-Hur,
+
+484
+00:37:00,647 --> 00:37:03,480
+he worked on Helen of Troy,
+he worked on Quo Vadis.
+
+485
+00:37:03,567 --> 00:37:05,558
+He'd made The Colossus of Rhodes.
+
+486
+00:37:05,647 --> 00:37:08,241
+He completed the film
+The Last Days of Pompeii,
+
+487
+00:37:08,327 --> 00:37:11,842
+after his mentor, Mario Bonnard,
+the director, fell ill.
+
+488
+00:37:11,927 --> 00:37:15,363
+So he'd dealt with a very
+masculine world of mythology,
+
+489
+00:37:15,447 --> 00:37:18,007
+set in ancient Greece or Rome,
+
+490
+00:37:18,087 --> 00:37:23,559
+and he certainly had difficulties
+in locating female characters in his films.
+
+491
+00:37:24,367 --> 00:37:29,202
+The old thing about ''Madonna and whore''
+goes very much for Leone's early films.
+
+492
+00:37:29,287 --> 00:37:34,156
+The characters are very saintly,
+like the Marianne Koch character, Marisol,
+
+493
+00:37:34,487 --> 00:37:38,480
+or they're trollops, as a lot of the
+characters in For A Few Dollars More are.
+
+494
+00:37:38,567 --> 00:37:42,560
+The central family in this film,
+with the mother played by Marianne Koch,
+
+495
+00:37:42,647 --> 00:37:47,437
+in case you hadn't got the point,
+are called Julio, Marisol and little Jesus.
+
+496
+00:37:47,527 --> 00:37:51,566
+The baby we saw is called Jesus,
+his mother's called Mary, Marisol,
+
+497
+00:37:51,647 --> 00:37:53,922
+and his father's Julio, or Joseph.
+
+498
+00:37:54,007 --> 00:37:56,646
+So we've got a Holy Family in this story.
+
+499
+00:37:56,727 --> 00:37:59,082
+One kind of family are the good guys,
+
+500
+00:37:59,167 --> 00:38:02,045
+the stranger looks after
+them and protects them.
+
+501
+00:38:02,127 --> 00:38:07,042
+But the other kind of family is factions, the
+Rojos and the Baxters, which is a Mafia,
+
+502
+00:38:07,127 --> 00:38:11,405
+a clan, a faction, the dark side of
+family life - two visions of the family.
+
+503
+00:38:12,447 --> 00:38:14,836
+Female characters, Leone's uneasy with.
+
+504
+00:38:14,927 --> 00:38:19,364
+He doesn't really know how
+to fit them in, so they're treated as...
+
+505
+00:38:19,447 --> 00:38:21,756
+ln the factions, as one of the boys.
+
+506
+00:38:21,847 --> 00:38:25,886
+Basically, it's a kind of
+adolescent view of sexuality,
+
+507
+00:38:25,967 --> 00:38:29,755
+which you imagine was pitched
+at the audiences in southern ltaly,
+
+508
+00:38:29,847 --> 00:38:31,838
+who had a low boredom threshold
+
+509
+00:38:31,927 --> 00:38:35,636
+and talked unless something
+happened every ten minutes.
+
+510
+00:38:35,727 --> 00:38:38,958
+lt's that kind of audience
+that this film was pitched at.
+
+511
+00:38:39,047 --> 00:38:41,641
+Hence there's action every ten minutes.
+
+512
+00:38:41,727 --> 00:38:44,764
+Hence you keep the audience
+on their toes all the time,
+
+513
+00:38:44,847 --> 00:38:48,157
+assume the audience needs
+to be entertained constantly.
+
+514
+00:38:48,247 --> 00:38:53,799
+And l think the sexuality of the movie
+makes that assumption as well.
+
+515
+00:39:13,407 --> 00:39:16,285
+This was the museum
+in Madrid, the courtyard.
+
+516
+00:39:16,367 --> 00:39:21,122
+This museum of rural folkloric life
+which was a ready-made.
+
+517
+00:39:21,207 --> 00:39:23,641
+The crew went in and shot inside it.
+
+518
+00:39:23,727 --> 00:39:27,720
+Other ltalian Westerns
+used the same location.
+
+519
+00:39:40,807 --> 00:39:45,801
+Not too many stunt men around.
+The budget couldn't run to it.
+
+520
+00:39:49,807 --> 00:39:53,846
+The crosscutting between
+the Rojos riding to the cemetery
+
+521
+00:39:53,927 --> 00:39:57,237
+to see what's going on
+with the two dead soldiers,
+
+522
+00:39:57,327 --> 00:40:02,606
+and Eastwood doing a bit of detective
+work back at the Rojo residence,
+
+523
+00:40:02,687 --> 00:40:07,203
+is in fact not based on Yojimbo,
+but it's loosely based on passages
+
+524
+00:40:07,287 --> 00:40:09,517
+in Dashiell Hammett's Red Harvest,
+
+525
+00:40:09,607 --> 00:40:14,044
+a detective novel written
+about the Continental Operative,
+
+526
+00:40:14,127 --> 00:40:18,996
+who was a private investigator, which has
+a very similar story to Fistful of Dollars,
+
+527
+00:40:19,087 --> 00:40:21,521
+and Yojimbo,
+and The Servant of Two Masters.
+
+528
+00:40:21,607 --> 00:40:23,723
+That whole idea of two clans fighting,
+
+529
+00:40:23,807 --> 00:40:26,162
+and someone sets them
+against each other.
+
+530
+00:40:26,247 --> 00:40:29,125
+But the detective element
+of this part of the movie
+
+531
+00:40:29,207 --> 00:40:31,767
+has a kind of Dashiell
+Hammett feeling to it.
+
+532
+00:40:31,847 --> 00:40:35,396
+Leone claimed he'd brought
+Hammett together with Yojimbo,
+
+533
+00:40:35,487 --> 00:40:40,322
+and taken the Japanese story home again,
+when he adapted it into Fistful of Dollars.
+
+534
+00:40:40,407 --> 00:40:43,877
+Eastwood is about to try
+and find where the gold is hidden,
+
+535
+00:40:43,967 --> 00:40:46,765
+and he does it not by thoughtfulness.
+
+536
+00:40:48,327 --> 00:40:52,957
+Sanjuro in Yojimbo is a very thoughtful
+character, who sits back and reflects a lot.
+
+537
+00:40:53,047 --> 00:40:55,845
+The Eastwood character doesn't do that.
+
+538
+00:40:55,927 --> 00:40:58,316
+Action is character in this film.
+
+539
+00:40:58,407 --> 00:41:02,241
+Nevertheless, he's trying to work
+out where the gold must be buried,
+
+540
+00:41:02,327 --> 00:41:06,206
+by exploring the stores
+in the Rojo residence.
+
+541
+00:41:16,167 --> 00:41:19,204
+Soundtrack design
+is another distinctive feature.
+
+542
+00:41:19,287 --> 00:41:24,407
+Not only the music, but the way
+in which natural sounds are amplified.
+
+543
+00:41:24,487 --> 00:41:26,876
+ln ltaly, everything was postsynchronised.
+
+544
+00:41:26,967 --> 00:41:29,925
+There wasn't a tradition
+of shooting direct sound.
+
+545
+00:41:30,007 --> 00:41:33,044
+So you have a guide track
+when you're making the film,
+
+546
+00:41:33,127 --> 00:41:35,880
+but when you go into dubbing
+you do what you like.
+
+547
+00:41:35,967 --> 00:41:38,527
+You can construct
+all the layers of sound.
+
+548
+00:41:38,607 --> 00:41:42,646
+Fellini had done it, Pasolini
+was to do it, Visconti had done it.
+
+549
+00:41:42,727 --> 00:41:45,560
+All the greats in ltalian cinema
+used sound design.
+
+550
+00:41:45,647 --> 00:41:49,162
+Leone said that sound
+was 40 per cent of a movie.
+
+551
+00:41:49,247 --> 00:41:53,035
+So what you get is, say, a gunshot
+followed by a horse whinnying,
+
+552
+00:41:53,127 --> 00:41:56,039
+followed by silence.
+lt's all constructed that way,
+
+553
+00:41:56,127 --> 00:42:01,520
+in order that the soundtrack should also
+contribute to the tension in the audience.
+
+554
+00:42:01,607 --> 00:42:06,044
+And, of course, Morricone and Leone
+collaborated on the sound design,
+
+555
+00:42:06,127 --> 00:42:08,687
+by also superimposing the music on that,
+
+556
+00:42:08,767 --> 00:42:11,235
+bringing natural sounds
+to the soundtrack.
+
+557
+00:42:11,327 --> 00:42:15,445
+Score, as well. So music
+and natural sound play off each other.
+
+558
+00:42:15,527 --> 00:42:17,643
+But they're experimenting.
+
+559
+00:42:17,727 --> 00:42:20,446
+lt's an apprentice movie
+for Leone, in a sense.
+
+560
+00:42:20,527 --> 00:42:23,758
+He'd made sword and sandal,
+it's his apprentice Western.
+
+561
+00:42:23,847 --> 00:42:29,080
+They're experimenting with sound, trying
+to bring it out, but they haven't the budget.
+
+562
+00:42:29,167 --> 00:42:33,797
+The dream was that all the music would
+be written before the movie was shot,
+
+563
+00:42:33,887 --> 00:42:37,323
+and the entire movie be shot
+to a prerecorded soundtrack.
+
+564
+00:42:37,407 --> 00:42:41,605
+But they couldn't afford that,
+and couldn't afford that for the next movie.
+
+565
+00:42:41,687 --> 00:42:47,205
+They began with The Good, the Bad and
+the Ugly, Once Upon A Time in the West.
+
+566
+00:43:05,207 --> 00:43:10,327
+This shootout, it has to be said, does
+resemble a traditional B-movie shootout.
+
+567
+00:43:10,407 --> 00:43:15,640
+Two sides taking pot shots and no one
+shooting each other, like a TV Western.
+
+568
+00:43:15,727 --> 00:43:19,640
+What makes it distinctive is this
+crosscutting between the cemetery
+
+569
+00:43:19,727 --> 00:43:25,324
+and the stranger banging the barrels, and
+there's syncopation between the sounds.
+
+570
+00:43:25,407 --> 00:43:29,764
+He bangs the barrels once or twice,
+a similar number of shots at the cemetery.
+
+571
+00:43:29,847 --> 00:43:33,317
+He bangs it again,
+you get a similar number of gunshots.
+
+572
+00:43:33,407 --> 00:43:39,004
+So the sound is what links
+these two simultaneous events together.
+
+573
+00:43:41,927 --> 00:43:45,476
+Four bangs, four shots.
+One, two, one, two.
+
+574
+00:43:46,287 --> 00:43:51,361
+First example of Leone's fast crosscutting
+that became distinctive of his cinema.
+
+575
+00:43:51,447 --> 00:43:55,679
+The idea of two simultaneous things
+that can't know about what they're doing,
+
+576
+00:43:55,767 --> 00:43:59,840
+but there's an aural connection
+or a visual connection between them.
+
+577
+00:43:59,927 --> 00:44:04,796
+lt's pure style, it's got nothing
+to do with the real world.
+
+578
+00:44:12,127 --> 00:44:17,724
+There's a lot more shooting than there
+tended to be in Hollywood Westerns.
+
+579
+00:44:17,807 --> 00:44:21,197
+One of the people in the dubbing room
+remembers Leone saying:
+
+580
+00:44:21,287 --> 00:44:23,596
+''l want more gunshots, more gunshots.''
+
+581
+00:44:23,687 --> 00:44:29,842
+So they got someone to go
+to a canyon, or a quarry, near Rome,
+
+582
+00:44:29,927 --> 00:44:32,441
+to film various sounds of guns.
+
+583
+00:44:32,527 --> 00:44:37,726
+And in fact the rifle shots
+were the ones that Leone used
+
+584
+00:44:37,807 --> 00:44:40,640
+for the pistol shots
+in the film, to heighten it.
+
+585
+00:44:40,727 --> 00:44:44,276
+So the pistols sound like rifles,
+the rifles like cannons,
+
+586
+00:44:44,367 --> 00:44:46,562
+and cannons like a nuclear explosion.
+
+587
+00:44:46,647 --> 00:44:50,037
+He wanted to heighten the sound
+in any way that he could.
+
+588
+00:44:50,127 --> 00:44:52,925
+There's a distinctive gunshot
+in ltalian Westerns,
+
+589
+00:44:53,007 --> 00:44:59,276
+the result of putting a different sound,
+a different calibre of gun, onto the pistol.
+
+590
+00:45:01,167 --> 00:45:05,558
+And then the stranger
+discovers the gold by mistake.
+
+591
+00:45:06,887 --> 00:45:09,799
+ln the American version
+of Fistful of Dollars,
+
+592
+00:45:09,887 --> 00:45:13,197
+the Eastwood character was
+called ''the man with no name''.
+
+593
+00:45:13,287 --> 00:45:16,484
+And on the posters for United Artists,
+the man with no name
+
+594
+00:45:16,567 --> 00:45:19,479
+heralds a new style of adventure.
+
+595
+00:45:19,567 --> 00:45:22,764
+ln the release script he's called Joe.
+
+596
+00:45:22,847 --> 00:45:25,566
+ln the film there's one
+or two references to Joe.
+
+597
+00:45:25,647 --> 00:45:30,721
+The coffin maker refers to him
+as Joe, Joe the stranger.
+
+598
+00:45:30,807 --> 00:45:33,162
+ln the shooting script
+he was known as Ray.
+
+599
+00:45:33,247 --> 00:45:36,000
+But he reached the US
+as ''the man with no name''.
+
+600
+00:45:36,087 --> 00:45:40,126
+Here's a good example of him
+treating the girls as one of the chaps.
+
+601
+00:45:40,207 --> 00:45:44,246
+He walks into the room, punches
+her in the face, and down she falls.
+
+602
+00:45:45,567 --> 00:45:48,923
+This is not an adult
+relationship with a woman,
+
+603
+00:45:49,007 --> 00:45:52,363
+with which Leone had
+huge problems in his cinema.
+
+604
+00:46:04,687 --> 00:46:09,124
+Admittedly, Joe the stranger
+feels rather guilty about what he's done,
+
+605
+00:46:09,207 --> 00:46:13,439
+but it's a surprise moment
+
+606
+00:46:13,527 --> 00:46:17,964
+that is rather unpleasant
+in its sexual implications.
+
+607
+00:46:31,047 --> 00:46:36,075
+Lots of hoof noises and whinnying as the
+horses arrive, superimposed afterwards.
+
+608
+00:46:36,167 --> 00:46:40,160
+Most of the actors would have spoken
+their own language on the set.
+
+609
+00:46:40,247 --> 00:46:43,876
+The German actors spoke German,
+the Spanish actors spoke Spanish,
+
+610
+00:46:43,967 --> 00:46:47,164
+the ltalians spoke ltalian,
+and Eastwood spoke American.
+
+611
+00:46:47,247 --> 00:46:51,638
+Sometimes you get a kind of pause for
+a second or two in moments of dialogue,
+
+612
+00:46:51,727 --> 00:46:54,195
+as people register what the other's saying.
+
+613
+00:46:54,287 --> 00:46:58,565
+Then they went into the dubbing studio
+and recorded different languages.
+
+614
+00:46:58,647 --> 00:47:01,923
+Leone himself hardly spoke English at all.
+
+615
+00:47:02,007 --> 00:47:05,124
+He just had one phrase, ''Watch me.''
+
+616
+00:47:05,207 --> 00:47:09,917
+So what he would do is he would stand on
+the set in a cowboy hat with thick glasses,
+
+617
+00:47:10,007 --> 00:47:13,556
+wearing a pair of toy guns,
+looking a bit like Yosemite Sam.
+
+618
+00:47:13,647 --> 00:47:17,526
+''Watch me, Clint.'' And he'd act out
+what he wanted the characters to do.
+
+619
+00:47:17,607 --> 00:47:21,680
+So his direction was all done
+at the level of mime.
+
+620
+00:47:23,327 --> 00:47:25,887
+The assistant director reminisced to me
+
+621
+00:47:25,967 --> 00:47:29,755
+that he thought one of the distinctive
+ltalian features of this movie
+
+622
+00:47:29,847 --> 00:47:35,319
+is that in doing the mime, Leone would
+turn the character into a Roman character.
+
+623
+00:47:35,407 --> 00:47:38,399
+That actually
+in performing it for the actors,
+
+624
+00:47:38,487 --> 00:47:42,002
+the Western hero
+became this Roman trickster.
+
+625
+00:47:42,087 --> 00:47:44,885
+This Harlequin figure from ltalian culture,
+
+626
+00:47:44,967 --> 00:47:49,722
+a very strong figure within
+ltalian theatrical traditions.
+
+627
+00:47:49,807 --> 00:47:51,957
+lt was the miming, ''Watch me, Clint'',
+
+628
+00:47:52,047 --> 00:47:57,679
+that created, partly, the character of
+the man with no name, Joe the stranger.
+
+629
+00:47:57,767 --> 00:48:01,885
+Partly that, and partly the fact
+that when Eastwood arrived in Spain,
+
+630
+00:48:01,967 --> 00:48:04,162
+he thought the script was much too talky
+
+631
+00:48:04,247 --> 00:48:07,876
+and he cut a lot of dialogue to
+make the character more enigmatic.
+
+632
+00:48:07,967 --> 00:48:12,802
+The shooting script contains lots of long
+speeches. Leone put a line through it.
+
+633
+00:48:12,887 --> 00:48:17,642
+He may be the only actor in movie history
+who's actually fought for less lines.
+
+634
+00:48:17,727 --> 00:48:20,082
+Most actors want more,
+but he wanted less,
+
+635
+00:48:20,167 --> 00:48:25,366
+because he felt it created the magic,
+the enchantment. lt created the enigma.
+
+636
+00:48:47,407 --> 00:48:53,482
+The second big set piece scene
+is the exchange of hostages.
+
+637
+00:48:53,567 --> 00:48:57,242
+lnstead of white fluff,
+autumn leaves blowing over the camera.
+
+638
+00:48:57,327 --> 00:49:00,239
+The idea of a brown, autumnal colour.
+
+639
+00:49:00,327 --> 00:49:03,319
+And we've got the Rojos in all their finery.
+
+640
+00:49:03,407 --> 00:49:09,323
+Their hidalguia, the sort of hierarchical
+sense of a clan, a Spanish-Mexican clan,
+
+641
+00:49:09,407 --> 00:49:12,001
+on one side, the Baxters on the other.
+
+642
+00:49:12,087 --> 00:49:15,602
+ln the middle, the man with no name.
+That trill on the soundtrack
+
+643
+00:49:15,687 --> 00:49:19,600
+is a typical Morricone commentary
+on the character through music.
+
+644
+00:49:19,687 --> 00:49:22,838
+That had never appeared
+in a Western before.
+
+645
+00:49:22,927 --> 00:49:27,125
+And then the cigar shifts,
+or Eastwood does a double-take.
+
+646
+00:49:27,207 --> 00:49:30,438
+lt's a kind of musical punctuation.
+
+647
+00:49:30,527 --> 00:49:34,202
+The ''Deguello'' again on the
+soundtrack, the mariachi trumpet,
+
+648
+00:49:34,287 --> 00:49:37,484
+with the Spanish guitar backing.
+
+649
+00:49:39,007 --> 00:49:42,238
+Very ritualised, very rhetorical.
+
+650
+00:49:43,527 --> 00:49:47,236
+Leone had been involved in
+an exchange-of-hostage sequence before,
+
+651
+00:49:47,327 --> 00:49:51,320
+when he was assistant director
+on Helen Of Troy.
+
+652
+00:49:57,847 --> 00:50:00,042
+Big close-ups.
+
+653
+00:50:00,127 --> 00:50:02,277
+Guns.
+
+654
+00:50:02,367 --> 00:50:05,325
+Ramón's Winchester '73. Marianne Koch.
+
+655
+00:50:05,407 --> 00:50:10,117
+So you've had the establishing shot, now
+you have a series of extreme close-ups,
+
+656
+00:50:10,207 --> 00:50:12,767
+the Techniscope frame
+creating a letterbox
+
+657
+00:50:12,847 --> 00:50:15,122
+around these big close-ups of faces.
+
+658
+00:50:15,207 --> 00:50:18,882
+The close-up plays a different
+function to traditional Westerns,
+
+659
+00:50:18,967 --> 00:50:23,961
+where it tended to be reaction shots
+in conversation, or in gunfights.
+
+660
+00:50:24,047 --> 00:50:27,756
+These are faces treated
+as if they're gargoyles on a cathedral.
+
+661
+00:50:27,847 --> 00:50:31,556
+Big close-ups of the faces
+with all their imperfections,
+
+662
+00:50:31,647 --> 00:50:35,356
+creating a visual grammar
+to build up the tension of the scene.
+
+663
+00:50:35,447 --> 00:50:40,726
+These aren't reactions, these are simply
+pieces of design to go with the music.
+
+664
+00:50:40,807 --> 00:50:44,482
+ln a way, this is the origin
+of the famous cemetery shootout
+
+665
+00:50:44,567 --> 00:50:48,321
+in The Good, the Bad and the Ugly.
+Music with big close-ups.
+
+666
+00:50:48,407 --> 00:50:52,195
+Only instead of a duel,
+it's an exchange of hostages.
+
+667
+00:51:19,567 --> 00:51:22,365
+Very operatic. The music builds up.
+
+668
+00:51:22,447 --> 00:51:26,486
+''Mama, Mama,'' says Jesus,
+little Jesus as he rushes out.
+
+669
+00:51:26,567 --> 00:51:31,436
+lt's like a scene from an opera
+of the 1 9th century in ltaly.
+
+670
+00:51:32,887 --> 00:51:34,957
+A Verdi opera.
+
+671
+00:51:35,047 --> 00:51:36,958
+Someone called these Westerns:
+
+672
+00:51:37,047 --> 00:51:40,323
+''An opera in which the arias
+aren't sung, they're stared.''
+
+673
+00:51:40,407 --> 00:51:46,243
+And that Leone had given a whole new
+meaning to the phrase ''horse opera''.
+
+674
+00:51:46,327 --> 00:51:51,481
+lt's an odd combination of realism in
+the foreground, with these grungy faces,
+
+675
+00:51:51,567 --> 00:51:54,240
+and operatic quality in the background.
+
+676
+00:51:54,327 --> 00:51:59,082
+A mixture of cinematic grammar creating
+this opera, and very grungy foreground.
+
+677
+00:51:59,167 --> 00:52:02,079
+You don't believe fairy tales
+unless they look real.
+
+678
+00:52:02,167 --> 00:52:05,603
+Leone said, ''l don't like
+Disney fairy tales or movies.''
+
+679
+00:52:05,687 --> 00:52:08,247
+''They're too clean. l don't believe them.''
+
+680
+00:52:08,327 --> 00:52:11,842
+You've got to have grunge,
+but it's still a fairy tale.
+
+681
+00:52:11,927 --> 00:52:14,157
+A fairy tale for grown-ups.
+
+682
+00:52:14,247 --> 00:52:17,603
+Welcome home by slapping the boy.
+
+683
+00:52:17,687 --> 00:52:22,681
+That's not something that
+happened in Hollywood Westerns.
+
+684
+00:52:50,887 --> 00:52:54,277
+ln the morality of Leone's Westerns,
+
+685
+00:52:54,367 --> 00:52:59,885
+you can often tell who the real baddies are
+by the way they treat children.
+
+686
+00:52:59,967 --> 00:53:04,040
+Everyone's pretty bad,
+and some are worse than others,
+
+687
+00:53:04,127 --> 00:53:07,085
+but the real baddies
+tend to threaten children,
+
+688
+00:53:07,167 --> 00:53:11,479
+or in the case of For A Few Dollars More
+actually shoot a child.
+
+689
+00:53:11,567 --> 00:53:14,127
+That's the signal
+that this guy is really bad.
+
+690
+00:53:14,207 --> 00:53:17,119
+So he's upped the ante
+on the morality stakes,
+
+691
+00:53:17,207 --> 00:53:21,359
+and this is the moment where
+Marisol, Mary, the Virgin Mary,
+
+692
+00:53:21,447 --> 00:53:24,120
+looks at the stranger.
+
+693
+00:53:24,207 --> 00:53:26,277
+She wants to be protected.
+
+694
+00:53:26,967 --> 00:53:31,836
+The setup of them is like a painting of the
+Holy Family, in the middle of the street,
+
+695
+00:53:31,927 --> 00:53:37,923
+which was quite deliberate, just as the
+Last Supper will come a little bit later on.
+
+696
+00:53:42,407 --> 00:53:48,164
+You could argue that most Hollywood
+Westerns were, in fact, Protestant,
+
+697
+00:53:48,247 --> 00:53:52,559
+and Socially Darwinist
+in their attitude towards the West.
+
+698
+00:53:52,647 --> 00:53:56,640
+That you do get references to the
+Holy Family, particularly in Shane,
+
+699
+00:53:56,727 --> 00:53:58,843
+a model of Fistful of Dollars.
+
+700
+00:53:58,927 --> 00:54:03,682
+Marian and little Joey
+in their log cabin in the wilderness,
+
+701
+00:54:03,767 --> 00:54:07,999
+and there's Shane the redeemer
+coming in and saving the Holy Family.
+
+702
+00:54:08,087 --> 00:54:10,203
+But the profusion of iconography,
+
+703
+00:54:10,287 --> 00:54:14,200
+and the setting in the southwest,
+and the ltalianising of the Western
+
+704
+00:54:14,527 --> 00:54:19,601
+creates a Roman Catholic atmosphere,
+rather than the Protestant Western.
+
+705
+00:54:19,687 --> 00:54:23,760
+Just as the locale shifts from
+the middle West, or Wyoming,
+
+706
+00:54:23,847 --> 00:54:28,875
+or the setting of the Johnson County War,
+which was where Shane was set,
+
+707
+00:54:28,967 --> 00:54:33,802
+further southwest into
+a Latin, ltalian, Hispanic setting.
+
+708
+00:54:33,887 --> 00:54:38,119
+Lots of things flow from that,
+including Roman-Catholic iconography,
+
+709
+00:54:38,207 --> 00:54:40,596
+which is part of Leone's project.
+
+710
+00:54:40,687 --> 00:54:44,600
+lt's not a religious Western.
+He's mocking much of the iconography.
+
+711
+00:54:44,687 --> 00:54:50,683
+He's saying, ''We can recognise this
+as something we can identify with.''
+
+712
+00:54:56,447 --> 00:55:01,475
+So we're not judging Ramón,
+we're saying he's smart. Smart wins.
+
+713
+00:55:01,567 --> 00:55:07,005
+Somebody once said about the character
+that Eastwood epitomised in this film
+
+714
+00:55:07,087 --> 00:55:10,716
+that in the old films,
+the hero was the best shot.
+
+715
+00:55:11,047 --> 00:55:13,515
+ln a film like this, the best shot is the hero.
+
+716
+00:55:13,607 --> 00:55:16,201
+ln other words,
+the guy who's good with a gun,
+
+717
+00:55:16,287 --> 00:55:19,199
+whose technique is superior
+to everyone's else's,
+
+718
+00:55:19,287 --> 00:55:22,836
+who is a trickster who can outwit
+everyone, that is the hero,
+
+719
+00:55:22,927 --> 00:55:26,124
+rather than the hero being
+able to mobilise those forces.
+
+720
+00:55:26,207 --> 00:55:28,596
+So here we have
+the Last Supper sequence,
+
+721
+00:55:28,687 --> 00:55:32,885
+with the suit of armour that apparently
+did duty in countless Zorro films,
+
+722
+00:55:32,967 --> 00:55:35,800
+in the governor's residence
+in old California,
+
+723
+00:55:35,887 --> 00:55:41,678
+now standing in as a prop to be shot at
+as Ramón and his disciples sit at the table
+
+724
+00:55:41,767 --> 00:55:45,601
+in a deliberate reference
+to Leonardo's painting of The Last Supper,
+
+725
+00:55:45,687 --> 00:55:48,076
+which is in Milan.
+
+726
+00:56:02,487 --> 00:56:05,923
+''Aim for the heart, Ramón.''
+This comes up later in the film.
+
+727
+00:56:06,007 --> 00:56:10,205
+Ramón with his Winchester '73,
+a fantastic shot.
+
+728
+00:56:10,287 --> 00:56:13,245
+Obviously, good shooting
+to create this heart shape.
+
+729
+00:56:13,327 --> 00:56:17,036
+But that will come up later.
+''Aim for the heart, Ramón'',
+
+730
+00:56:17,127 --> 00:56:21,325
+will become the catchphrase
+of the end of the film.
+
+731
+00:56:31,687 --> 00:56:33,996
+A Mexican proverb
+invented for this movie.
+
+732
+00:56:34,087 --> 00:56:38,717
+''When a man with a .45 meets a man with
+a rifle, the man with a rifle will be dead.''
+
+733
+00:56:38,807 --> 00:56:41,321
+The man with no name, Joe the stranger,
+
+734
+00:56:41,407 --> 00:56:46,401
+will disprove this old Mexican proverb
+in style in the final sequence of the film,
+
+735
+00:56:46,487 --> 00:56:50,275
+by pitting his .45
+against the rifle of Ramón.
+
+736
+00:56:55,007 --> 00:56:59,159
+The Anglo sidekick of Ramón
+is played by Benito Steffanelli,
+
+737
+00:56:59,247 --> 00:57:04,605
+an interesting ltalian actor who was
+also the co-stunt director of the film,
+
+738
+00:57:05,367 --> 00:57:08,962
+and became the armourer and
+stunt director of Leone's films.
+
+739
+00:57:09,047 --> 00:57:12,437
+Quite a lot of characters
+in this film represent the assembling
+
+740
+00:57:12,527 --> 00:57:16,156
+of a kind of repertory company for Leone.
+
+741
+00:57:16,247 --> 00:57:20,126
+Mario Brega as the overweight baddie,
+
+742
+00:57:20,207 --> 00:57:25,042
+Benito Steffanelli as the stunt man,
+Morricone with the music.
+
+743
+00:57:25,127 --> 00:57:27,561
+This is the establishment of a home team
+
+744
+00:57:27,647 --> 00:57:31,879
+that Leone would work with in the future,
+over and over and over again.
+
+745
+00:57:31,967 --> 00:57:34,720
+Various Spanish actors
+pop up in the background.
+
+746
+00:57:34,807 --> 00:57:37,401
+Aldo Sambrell,
+who is in this film as a baddie,
+
+747
+00:57:37,487 --> 00:57:41,196
+plays a baddie in
+nearly all Leone's Westerns.
+
+748
+00:57:41,287 --> 00:57:46,566
+So he's assembling a crew that he will
+work with in future, Spanish and ltalian.
+
+749
+00:57:46,647 --> 00:57:48,797
+And in this case, American as well,
+
+750
+00:57:48,887 --> 00:57:53,722
+because a member of the Baxter clan,
+the gunman who wears the green shirt,
+
+751
+00:57:53,807 --> 00:57:57,595
+was played by Bill Thomkins,
+who was in fact Eastwood's stunt double
+
+752
+00:57:57,687 --> 00:58:00,121
+that he brought over
+from the United States.
+
+753
+00:58:00,207 --> 00:58:03,358
+So Bill Thomkins appears
+as one of the Baxter gunmen.
+
+754
+00:58:03,447 --> 00:58:08,441
+And on some prints of the film, he was
+actually billed as ''Western consultant'',
+
+755
+00:58:08,527 --> 00:58:13,362
+so Bill Thomkins not only
+did stunts for Eastwood
+
+756
+00:58:13,447 --> 00:58:17,440
+and appeared as one of the gunmen,
+but was Western consultant.
+
+757
+00:58:17,527 --> 00:58:20,405
+One can only wonder
+what sort of consultancy,
+
+758
+00:58:20,487 --> 00:58:24,765
+because it is so different
+to the traditional Hollywood Western.
+
+759
+00:58:25,767 --> 00:58:28,964
+Here's a dried-up riverbed in Almeria.
+
+760
+00:58:29,047 --> 00:58:34,804
+Almeria's full of dried-up riverbeds called
+ramblas, which were rivers but dried up.
+
+761
+00:58:34,887 --> 00:58:37,640
+So you get canyon walls, and these wide,
+
+762
+00:58:37,727 --> 00:58:42,357
+almost street-like
+spaces in between them.
+
+763
+00:58:42,447 --> 00:58:44,677
+These ramblas were incredibly useful
+
+764
+00:58:44,767 --> 00:58:48,476
+for shooting sequences
+of horses going at full tilt.
+
+765
+00:58:48,567 --> 00:58:52,685
+You could keep the outside world out
+and let 'em rip, like a racecourse.
+
+766
+00:58:52,767 --> 00:58:55,235
+The ramblas of Almeria
+appear in this movie,
+
+767
+00:58:55,327 --> 00:58:59,161
+as indeed they do
+in all Leone's Westerns.
+
+768
+00:59:25,247 --> 00:59:29,160
+A rare shot of Eastwood
+actually lighting up his Toscano.
+
+769
+00:59:29,247 --> 00:59:32,683
+One thing about them is that
+they're difficult to keep alight.
+
+770
+00:59:32,767 --> 00:59:36,999
+They keep going out,
+and that's certainly the case here.
+
+771
+00:59:37,087 --> 00:59:42,957
+Another moment of ultraviolence,
+like with the Baxters falling off the gate.
+
+772
+00:59:43,047 --> 00:59:46,835
+And the sound of the cat, which in one
+or two of Leone's Westerns you get
+
+773
+00:59:46,927 --> 00:59:50,397
+as a soundtrack thing,
+to punctuate the action,
+
+774
+00:59:50,487 --> 00:59:54,366
+the cat shrieking
+as the violence takes place.
+
+775
+01:00:04,687 --> 01:00:06,484
+A machete. lt's interesting.
+
+776
+01:00:06,567 --> 01:00:12,119
+ln Yojimbo, Sanjuro wears
+his sword strapped to his waist.
+
+777
+01:00:12,207 --> 01:00:16,439
+lt's a sword-fighting movie, and the
+violence is about a rather languid hero,
+
+778
+01:00:16,527 --> 01:00:20,236
+who has moments of violence
+with spectacular swordplay,
+
+779
+01:00:20,327 --> 01:00:22,397
+then sheaths his sword and walks off.
+
+780
+01:00:22,487 --> 01:00:24,876
+This is, l think, a reference to Yojimbo,
+
+781
+01:00:24,967 --> 01:00:27,640
+with Eastwood's use of the machete.
+
+782
+01:00:32,047 --> 01:00:34,402
+This had an X certificate
+when it came out,
+
+783
+01:00:34,487 --> 01:00:37,718
+because the violence really came
+as something of a shock.
+
+784
+01:00:37,807 --> 01:00:40,162
+Perhaps not the violence. The brutality.
+
+785
+01:00:40,247 --> 01:00:44,877
+The sense of the enjoyment of physical
+punishment which comes through,
+
+786
+01:00:44,967 --> 01:00:49,165
+is true of all Leone's films,
+and is still controversial to some extent.
+
+787
+01:00:49,247 --> 01:00:51,966
+You've got the style,
+the production design,
+
+788
+01:00:52,047 --> 01:00:54,481
+the music, these distinctive features,
+
+789
+01:00:54,567 --> 01:00:58,526
+but you've also got this lingering
+on moments of brutality,
+
+790
+01:00:58,607 --> 01:01:03,886
+which, even in this first Western, it would
+become more extreme later, is present.
+
+791
+01:01:03,967 --> 01:01:09,963
+And as the film builds up, so upping
+the ante on brutality becomes important.
+
+792
+01:01:41,647 --> 01:01:44,081
+''l knew someone
+like you and no one helped.''
+
+793
+01:01:44,167 --> 01:01:47,000
+The only moment in the film
+where any motivation
+
+794
+01:01:47,087 --> 01:01:49,521
+is attributed to the Eastwood character.
+
+795
+01:01:49,607 --> 01:01:52,405
+Up to now, he's been
+on the take, from the Rojos,
+
+796
+01:01:52,487 --> 01:01:55,126
+from the Baxters,
+set one against the other.
+
+797
+01:01:55,207 --> 01:01:57,801
+But here, he's actually doing a moral act.
+
+798
+01:01:57,887 --> 01:02:02,039
+He's protecting the Holy Family and
+sending them back across the border
+
+799
+01:02:02,127 --> 01:02:05,642
+because, ''l knew someone like you,
+and there was no one to help.''
+
+800
+01:02:05,727 --> 01:02:09,845
+And in the shooting script, there were
+about three pages of explanation,
+
+801
+01:02:09,927 --> 01:02:14,318
+which referred to a prologue which Leone
+originally wanted to put into the movie
+
+802
+01:02:14,407 --> 01:02:18,195
+of an earlier incident in the stranger's life.
+
+803
+01:02:18,287 --> 01:02:21,040
+That was cut out,
+and instead just that one line.
+
+804
+01:02:21,127 --> 01:02:25,564
+lt's the only moment in the whole film
+where you get a sense of moral position
+
+805
+01:02:25,647 --> 01:02:28,923
+on the part of the stranger.
+Otherwise, he works for cash.
+
+806
+01:02:29,007 --> 01:02:31,601
+lnstead of, ''Man's gotta do
+what a man's gotta do'',
+
+807
+01:02:31,687 --> 01:02:34,724
+the crusading element
+in Hollywood Westerns,
+
+808
+01:02:34,807 --> 01:02:39,483
+what you've got is a much more
+pragmatic, hip, streetwise,
+
+809
+01:02:39,567 --> 01:02:43,924
+1 960s, on the take, sort of
+James Bondian kind of approach.
+
+810
+01:02:44,007 --> 01:02:48,717
+Although even James Bond, of course, is
+working for Her Majesty's secret service.
+
+811
+01:02:48,807 --> 01:02:54,723
+He has a sense of values there,
+but that's a rare moment in this film.
+
+812
+01:02:54,807 --> 01:02:57,275
+San Miguel is not a moral place.
+
+813
+01:03:02,367 --> 01:03:06,201
+The ramblas of Almeria, done in long shot.
+
+814
+01:03:06,807 --> 01:03:10,436
+Stunt work as the horse
+goes down the side of the sand dunes.
+
+815
+01:03:10,527 --> 01:03:14,805
+The colouring of Almeria is completely
+different to Arizona and New Mexico.
+
+816
+01:03:14,887 --> 01:03:19,165
+lt's olive trees, it's grey, it's ash.
+
+817
+01:03:19,247 --> 01:03:24,196
+lt's not red sandstone. lt just
+doesn't have the same colour palette.
+
+818
+01:03:24,287 --> 01:03:27,836
+The browns.
+Leone's cameraman, Tonino Delli Colli,
+
+819
+01:03:27,927 --> 01:03:31,840
+who took over from Dallamano from
+The Good, the Bad and the Ugly, said:
+
+820
+01:03:31,927 --> 01:03:34,361
+''Yellows, and beiges, and dust,
+
+821
+01:03:34,447 --> 01:03:38,281
+and the colour of Almeria became
+the colour of the ltalian Western.''
+
+822
+01:03:38,367 --> 01:03:44,363
+lt is a completely different colour palette,
+one of the distinctive features of the film.
+
+823
+01:03:45,927 --> 01:03:49,966
+The choir was conducted
+by Alessandro Alessandroni,
+
+824
+01:03:50,047 --> 01:03:53,960
+who also did the whistling
+and also played the guitar in this film.
+
+825
+01:03:54,047 --> 01:03:58,325
+And, in fact, it was
+a Fender Stratocaster guitar
+
+826
+01:03:58,407 --> 01:04:02,685
+which l have played when
+l went to visit Alessandro in Rome.
+
+827
+01:04:02,767 --> 01:04:05,201
+The sacred guitar.
+
+828
+01:04:05,287 --> 01:04:09,326
+He was a performer in nightclubs and
+music halls with his Cantori Moderni,
+
+829
+01:04:09,407 --> 01:04:11,967
+''The Modern Singers''.
+
+830
+01:04:12,047 --> 01:04:17,838
+Alessandro was responsible for
+a lot of the sounds on the soundtrack.
+
+831
+01:04:25,407 --> 01:04:28,524
+As Leone's cinema progressed,
+the music started using
+
+832
+01:04:28,607 --> 01:04:31,440
+traditional folk instruments much more,
+
+833
+01:04:31,527 --> 01:04:34,917
+so you have the marranzano,
+or the Jew's harp,
+
+834
+01:04:35,927 --> 01:04:39,966
+that twanging which became
+associated with the Eastwood character.
+
+835
+01:04:40,047 --> 01:04:43,596
+And the argilophone,
+a ceramic instrument,
+
+836
+01:04:43,687 --> 01:04:46,281
+also a traditional Sicilian instrument.
+
+837
+01:04:46,367 --> 01:04:49,120
+And the sense of ltalian folk story
+
+838
+01:04:49,447 --> 01:04:53,759
+superimposed on the Western... You get
+a sense of unusual instruments, whistling,
+
+839
+01:04:53,847 --> 01:04:55,997
+and this sense of isolation in the music,
+
+840
+01:04:56,087 --> 01:05:00,160
+but this would develop
+as Leone's cinema developed.
+
+841
+01:05:20,127 --> 01:05:23,676
+Gian Maria's Volonté's voice
+was dubbed by someone else.
+
+842
+01:05:23,767 --> 01:05:28,045
+He didn't speak English at all,
+and it was dubbed in the dubbing studio.
+
+843
+01:05:28,127 --> 01:05:30,721
+ln For A Few Dollars More,
+he had to use his voice,
+
+844
+01:05:30,807 --> 01:05:35,676
+so he had to learn it phonetically
+and speak English on the soundtrack.
+
+845
+01:05:35,767 --> 01:05:39,157
+Here's the famous beating-up sequence.
+
+846
+01:05:39,247 --> 01:05:43,604
+The stranger seems invulnerable,
+he seems entirely on top of the situation,
+
+847
+01:05:43,687 --> 01:05:45,996
+but he's made a mistake
+and he's gonna pay.
+
+848
+01:05:46,087 --> 01:05:50,444
+ln most ltalian Westerns, and indeed
+in most subsequent Clint Eastwood films,
+
+849
+01:05:50,527 --> 01:05:53,837
+you get a scene where
+he gets very thoroughly beaten up,
+
+850
+01:05:53,927 --> 01:05:57,715
+and then resurrects in order to
+get his own back in the final reel.
+
+851
+01:05:57,807 --> 01:06:01,163
+But this was taking it
+several steps further than Hollywood.
+
+852
+01:06:01,247 --> 01:06:07,641
+The gleeful laughing of the boys as they
+punch him around. lt's pure sadism.
+
+853
+01:06:07,727 --> 01:06:12,005
+Hurting him because they enjoy it,
+not just because they want to hurt him.
+
+854
+01:06:12,087 --> 01:06:15,318
+Stubbing out the cigar
+on his hand, that was missing
+
+855
+01:06:15,407 --> 01:06:18,763
+from most prints in the 1 960s
+cos it was thought too strong.
+
+856
+01:06:18,847 --> 01:06:25,082
+Pouring tequila onto his wounds.
+That was also cut by the British censor.
+
+857
+01:06:26,287 --> 01:06:28,847
+And it does go on for a very long time.
+
+858
+01:06:28,927 --> 01:06:32,317
+Like a Marlon Brando style
+beating-up, in On The Waterfront.
+
+859
+01:06:32,407 --> 01:06:36,605
+That urban violence rather than
+the traditional punch-up of the Western,
+
+860
+01:06:36,687 --> 01:06:42,683
+where you break a chair over someone's
+head, laugh, and John Wayne goes home.
+
+861
+01:07:01,087 --> 01:07:05,399
+''ln a week, you'll be back in shape.''
+lt would take about three months.
+
+862
+01:07:05,487 --> 01:07:08,081
+And there's still more to come.
+
+863
+01:07:16,487 --> 01:07:19,365
+And at this moment, Chico the thug,
+
+864
+01:07:19,447 --> 01:07:23,679
+played by Mario Brega,
+brings his heel down on Eastwood's hand.
+
+865
+01:07:23,767 --> 01:07:26,679
+Only it's his left hand,
+so Chico isn't bright enough
+
+866
+01:07:26,767 --> 01:07:29,565
+to bring his heel down
+on Eastwood's gun hand.
+
+867
+01:07:29,647 --> 01:07:32,036
+lnstead, he does this to his left hand,
+
+868
+01:07:32,127 --> 01:07:38,077
+which isn't going to affect his gunfighting
+abilities. Chico ain't that bright.
+
+869
+01:07:39,287 --> 01:07:43,644
+ln Leone's cinema, there's
+a lot of sequences involving torture
+
+870
+01:07:43,727 --> 01:07:47,276
+and, ''Will someone talk,
+will someone betray?''
+
+871
+01:07:47,367 --> 01:07:51,042
+Leone reckoned that
+his obsession with that kind of setup,
+
+872
+01:07:51,127 --> 01:07:54,199
+the Eli Wallach scene in
+The Good, the Bad and the Ugly,
+
+873
+01:07:54,287 --> 01:07:59,042
+the Doctor Villega scene in Giù La Testa,
+A Fistful of Dynamite, Duck You Sucker,
+
+874
+01:07:59,127 --> 01:08:01,800
+someone being punished,
+and will they betray?
+
+875
+01:08:01,887 --> 01:08:04,959
+This is a folk memory in Leone's mind
+
+876
+01:08:05,047 --> 01:08:09,598
+of what happened in the 1 940s
+in Rome, when the Nazis occupied,
+
+877
+01:08:09,687 --> 01:08:14,602
+when a lot of people did business with the
+Nazis and some went into the Resistance.
+
+878
+01:08:14,927 --> 01:08:19,205
+This issue of, ''Did you talk? Were you
+tortured? Did you give away secrets?''
+
+879
+01:08:19,287 --> 01:08:22,962
+was an important part of ltalian culture.
+
+880
+01:08:27,287 --> 01:08:32,759
+That's Chico out of the way,
+with a barrel, full one, into his body.
+
+881
+01:08:36,527 --> 01:08:42,318
+So the stranger hasn't talked,
+and his only option is to get away.
+
+882
+01:08:43,967 --> 01:08:49,724
+But there's a lot of ltalian history in these
+films, in particular recent ltalian history,
+
+883
+01:08:49,807 --> 01:08:54,403
+of those that fought in the resistance
+against the Nazis, those who collaborated.
+
+884
+01:08:54,487 --> 01:08:59,402
+Those who had some things they might
+be ashamed of in the Second World War,
+
+885
+01:08:59,487 --> 01:09:01,955
+and those who were treated
+as heroes after.
+
+886
+01:09:02,047 --> 01:09:05,596
+As the ltalian Western matured
+enough to cope with politics,
+
+887
+01:09:05,687 --> 01:09:08,281
+a lot of this comes through in the films.
+
+888
+01:09:08,367 --> 01:09:11,837
+And certainly the beatings-up,
+and, ''How strong are you?''
+
+889
+01:09:11,927 --> 01:09:15,920
+''Will you throw your lot in with
+the fascists?'' comes into Leone's films.
+
+890
+01:09:16,007 --> 01:09:19,283
+He didn't fight in the Resistance.
+His mum wouldn't let him.
+
+891
+01:09:19,367 --> 01:09:21,642
+And he always regretted it.
+
+892
+01:09:55,367 --> 01:09:58,040
+These films, when they first came out,
+
+893
+01:09:58,127 --> 01:10:03,042
+were treated by most
+of the critics as ersatz American films.
+
+894
+01:10:03,127 --> 01:10:06,324
+The early ltalian Westerns,
+made between 1 962 and 1 964,
+
+895
+01:10:06,407 --> 01:10:08,841
+undoubtedly were ersatz American films.
+
+896
+01:10:08,927 --> 01:10:11,122
+They tried to look like Hollywood,
+
+897
+01:10:11,207 --> 01:10:13,675
+the main characters
+hid under pseudonyms
+
+898
+01:10:13,767 --> 01:10:17,157
+so ltalian audiences
+would think they were American films.
+
+899
+01:10:17,247 --> 01:10:19,636
+They were about Buffalo Bill,
+
+900
+01:10:19,727 --> 01:10:22,924
+directed by people named
+John Fordson, that sort of thing.
+
+901
+01:10:23,007 --> 01:10:25,043
+Pretending to be Hollywood films.
+
+902
+01:10:25,127 --> 01:10:30,155
+Cowboy and lndians, liquor,
+gunrunners and this sort of thing.
+
+903
+01:10:30,487 --> 01:10:33,399
+But the whole point
+about Fistful of Dollars
+
+904
+01:10:33,487 --> 01:10:36,684
+is that it's the first really ltalian Western.
+
+905
+01:10:36,767 --> 01:10:40,646
+lt's no longer something that
+seems a carbon copy American film.
+
+906
+01:10:40,727 --> 01:10:43,082
+The more you look at it,
+the stranger it gets
+
+907
+01:10:43,167 --> 01:10:46,284
+in comparison with
+the Hollywood originals.
+
+908
+01:10:46,367 --> 01:10:51,600
+l think a lot of the critics missed the point,
+seeing an attempt to emulate Hollywood.
+
+909
+01:10:51,687 --> 01:10:54,121
+These were ltalian and Spanish movies,
+
+910
+01:10:54,207 --> 01:10:59,042
+and the cultural references are, in a way,
+the most important thing. The difference.
+
+911
+01:10:59,127 --> 01:11:03,996
+But of course, yes, they're taking the idea
+of the Wild West as a starting point.
+
+912
+01:11:04,087 --> 01:11:09,764
+lt was clever of Leone to see that Yojimbo
+by Kurosawa would make a Western.
+
+913
+01:11:09,847 --> 01:11:15,126
+He went to see the film in autumn
+of 1 963 at the Harlequin cinema in Rome,
+
+914
+01:11:15,207 --> 01:11:17,243
+and asked his friends to go see it,
+
+915
+01:11:17,327 --> 01:11:20,285
+and then adapted Yojimbo into a Western,
+
+916
+01:11:20,367 --> 01:11:25,395
+just as John Sturges adapted The Seven
+Samurai into The Magnificent Seven.
+
+917
+01:11:25,487 --> 01:11:28,923
+lt was a clever idea to nourish
+the Western, not doing too well,
+
+918
+01:11:29,007 --> 01:11:31,965
+with ideas from a different culture, Japan.
+
+919
+01:11:32,047 --> 01:11:35,323
+Kurosawa himself admitted
+when he made his samurai movies,
+
+920
+01:11:35,407 --> 01:11:39,241
+it was a homage to the Western.
+So the whole thing went full circle.
+
+921
+01:11:39,327 --> 01:11:42,239
+The trouble was that
+nobody had cleared the rights,
+
+922
+01:11:42,327 --> 01:11:45,876
+and during the shooting of
+Fistful of Dollars, word came round:
+
+923
+01:11:45,967 --> 01:11:50,722
+''Nobody mentioned Yojimbo, all right?
+Nobody mentioned Yojimbo. "
+
+924
+01:11:50,807 --> 01:11:53,844
+Lawyers exchanged letters,
+Kurosawa wrote to Leone
+
+925
+01:11:53,927 --> 01:11:55,883
+when he saw Fistful of Dollars.'
+
+926
+01:11:55,967 --> 01:11:59,277
+''l like your film very much.
+lt's a very interesting film.''
+
+927
+01:11:59,367 --> 01:12:01,642
+''Unfortunately, it's my film, not yours.''
+
+928
+01:12:01,727 --> 01:12:05,197
+Leone couldn't understand
+how rude this was, plagiarism.
+
+929
+01:12:05,287 --> 01:12:08,643
+He showed this letter to everyone.
+''Kurosawa says it's great.''
+
+930
+01:12:08,727 --> 01:12:13,005
+And they said, ''But he's saying, 'lt's not
+your movie. lt's based on my movie.'''
+
+931
+01:12:13,087 --> 01:12:17,797
+They eventually settled out of court.
+Papi and Colombo, the producers,
+
+932
+01:12:17,887 --> 01:12:21,960
+their defence was that the plot had
+been taken from an ltalian original,
+
+933
+01:12:22,047 --> 01:12:25,676
+an 18th-century play by Carlo Goldoni,
+The Servant of Two Masters,
+
+934
+01:12:25,767 --> 01:12:29,316
+Arlecchino or The Servant of Two
+Masters, which was partly true,
+
+935
+01:12:29,407 --> 01:12:35,357
+but unfortunately it didn't stick,
+so Kurosawa, in Japan,
+
+936
+01:12:35,447 --> 01:12:38,086
+was awarded all the Far-Eastern rights.
+
+937
+01:12:38,167 --> 01:12:41,762
+Japan, Formosa,
+now Taiwan, and South Korea,
+
+938
+01:12:41,847 --> 01:12:43,997
+plus a percentage of the gross,
+
+939
+01:12:44,087 --> 01:12:47,921
+and in fact the takings from
+Fistful of Dollars which Kurosawa made
+
+940
+01:12:48,007 --> 01:12:51,397
+was more than any movie that
+Kurosawa had ever made himself.
+
+941
+01:12:51,487 --> 01:12:54,604
+So in the end he did quite well out of it.
+
+942
+01:12:55,767 --> 01:12:59,123
+lt's interesting, you could
+mount a more subtle argument.
+
+943
+01:12:59,207 --> 01:13:02,916
+Yes, the plot is very similar
+to Yojimbo, but all the detail,
+
+944
+01:13:03,007 --> 01:13:07,000
+the cultural atmosphere,
+and the originality, is very different.
+
+945
+01:13:07,087 --> 01:13:09,681
+lt's more to do
+with Leone and ltalian cinema
+
+946
+01:13:09,767 --> 01:13:12,964
+than with Japanese,
+but that was too subtle an argument.
+
+947
+01:13:13,047 --> 01:13:15,959
+Of course, they should
+have cleared the rights.
+
+948
+01:13:16,047 --> 01:13:19,403
+Some claimed they'd written,
+some claimed they didn't.
+
+949
+01:13:19,487 --> 01:13:23,162
+Some claimed they hadn't got
+the money and thought they'd risk it.
+
+950
+01:13:23,247 --> 01:13:29,117
+Whichever way, Kurosawa did very,
+very well out of Fistful of Dollars.
+
+951
+01:13:49,447 --> 01:13:53,725
+Lots of sadistic laughter. That's what
+baddies do in Leone's Westerns.
+
+952
+01:13:53,807 --> 01:13:58,323
+Again, not something they would
+tend to do in the Hollywood equivalent,
+
+953
+01:13:58,407 --> 01:14:00,477
+where baddies were very colourful.
+
+954
+01:14:00,567 --> 01:14:04,162
+A lot of the baddies
+in Leone's films were based
+
+955
+01:14:04,487 --> 01:14:10,437
+on the colourful villains in the cycle of
+films made in the '50s by Budd Boetticher,
+
+956
+01:14:10,527 --> 01:14:13,758
+the so-called Renown cycle
+with Randolph Scott as hero.
+
+957
+01:14:13,847 --> 01:14:19,160
+Very colourful villains played by Lee Van
+Cleef, Richard Boone, James Coburn,
+
+958
+01:14:19,247 --> 01:14:21,522
+Pernell Roberts, and so on.
+
+959
+01:14:22,727 --> 01:14:26,925
+You have a taciturn hero who underplays
+all the time, and doesn't say much,
+
+960
+01:14:27,007 --> 01:14:31,000
+and an over-the-top villain
+that talks a lot and is very colourful,
+
+961
+01:14:31,087 --> 01:14:35,797
+and lots and lots of detail, was something
+Leone said he got from Budd Boetticher.
+
+962
+01:14:35,887 --> 01:14:39,163
+ln Boetticher they didn't
+laugh when they kicked people,
+
+963
+01:14:39,247 --> 01:14:43,035
+which is what they tend
+to do in Leone's films.
+
+964
+01:14:55,887 --> 01:14:59,880
+Clint Eastwood has recalled that
+when he was shooting these sequences
+
+965
+01:14:59,967 --> 01:15:02,765
+where he's covered
+in makeup from the beating-up
+
+966
+01:15:02,847 --> 01:15:06,476
+that he's had at the hands of the Rojos,
+he arrived one day on set
+
+967
+01:15:06,567 --> 01:15:10,401
+and there was a huge argument
+going on between Spanish and ltalians.
+
+968
+01:15:10,487 --> 01:15:13,047
+Not uncommon on this shoot.
+
+969
+01:15:13,127 --> 01:15:16,961
+He couldn't work out what was said,
+but Leone said through an interpreter:
+
+970
+01:15:17,047 --> 01:15:20,596
+''lt's all right, Clint, put on your
+makeup and come back to the set.''
+
+971
+01:15:21,447 --> 01:15:26,077
+So he put on the makeup and arrived
+back, and found the set deserted.
+
+972
+01:15:26,167 --> 01:15:30,683
+Just the arc lights there,
+looking like vultures in the desert.
+
+973
+01:15:30,767 --> 01:15:35,522
+And so he thought, ''This is it. l'm wearing
+all this makeup, l'm hot, l'm fed up.''
+
+974
+01:15:35,607 --> 01:15:39,316
+So he went back to the hotel
+and said, ''l'm off to America.''
+
+975
+01:15:39,407 --> 01:15:42,319
+As he was leaving,
+Leone intercepted him and said:
+
+976
+01:15:42,407 --> 01:15:45,683
+''Look, it'll be all right.
+There won't be rows any more.''
+
+977
+01:15:45,767 --> 01:15:49,476
+''There isn't much money, it's tense,
+but let's get this finished.''
+
+978
+01:15:49,567 --> 01:15:54,163
+And all was forgiven, and that was
+the last of the big rows on the set.
+
+979
+01:16:16,127 --> 01:16:20,723
+An elaborate set piece.
+This wasn't an expensive movie.
+
+980
+01:16:20,807 --> 01:16:25,358
+lt was in fact treated as the B-movie
+of two films which were being made
+
+981
+01:16:25,447 --> 01:16:30,885
+by the ltalian producers,
+Giorgio Papi and Arrigo Colombo.
+
+982
+01:16:30,967 --> 01:16:36,439
+They made a film back to back with this,
+Pistols Don't Argue, or Guns Don't Argue,
+
+983
+01:16:36,527 --> 01:16:41,555
+directed by Mario Caiano, using the
+same sets, some of the same costumes,
+
+984
+01:16:41,647 --> 01:16:44,605
+and the same composer,
+
+985
+01:16:44,687 --> 01:16:47,360
+and indeed the same designer.
+
+986
+01:16:47,447 --> 01:16:51,360
+And Fistful was there
+to use the residue of that movie.
+
+987
+01:16:51,447 --> 01:16:55,360
+So the main one was Pistols Don't Argue,
+which no one's heard of since.
+
+988
+01:16:55,447 --> 01:16:58,359
+Fistful was there as the also-ran.
+
+989
+01:16:58,447 --> 01:17:01,837
+So there wasn't much money,
+that's why they went for Eastwood
+
+990
+01:17:01,927 --> 01:17:05,442
+as the cheapest actor. There were
+lots of squabbles about money.
+
+991
+01:17:05,527 --> 01:17:08,997
+The money ran out three-quarters
+of the way through shooting,
+
+992
+01:17:09,087 --> 01:17:11,123
+because the Spanish coproducer,
+
+993
+01:17:11,207 --> 01:17:16,361
+whose name appears on one of the
+gravestones in the cemetery as an in-joke,
+
+994
+01:17:16,447 --> 01:17:20,599
+the Spanish coproducer
+hadn't paid his money to the technicians,
+
+995
+01:17:20,687 --> 01:17:23,406
+so the technicians
+arrived on set at Manzanares
+
+996
+01:17:23,487 --> 01:17:25,682
+and removed all the windows and frames.
+
+997
+01:17:25,767 --> 01:17:29,316
+They arrived and there were
+no windows, so they couldn't shoot.
+
+998
+01:17:29,407 --> 01:17:34,037
+At which point Papi and Colombo came
+from Rome with a suitcase full of money,
+
+999
+01:17:34,127 --> 01:17:36,516
+which wasn't legal at the time,
+cash money,
+
+1000
+01:17:36,607 --> 01:17:39,167
+crossed the border,
+paid off the technicians,
+
+1001
+01:17:39,247 --> 01:17:42,603
+the windows went back in,
+and the movie could continue.
+
+1002
+01:17:42,687 --> 01:17:46,123
+ln fact, Leone fell out
+very seriously with Papi and Colombo
+
+1003
+01:17:46,207 --> 01:17:50,359
+cos he felt he was owed money
+for this film, which he never received.
+
+1004
+01:17:50,447 --> 01:17:53,200
+They cross-collateralised
+with the next movie.
+
+1005
+01:17:53,287 --> 01:17:55,517
+''We'll pay if you make another movie.''
+
+1006
+01:17:55,607 --> 01:18:01,557
+At which point Leone threw his lot in with
+the entertainment lawyer Alberto Grimaldi,
+
+1007
+01:18:01,647 --> 01:18:06,402
+who became the producer of his second
+and one or two of his subsequent films.
+
+1008
+01:18:06,487 --> 01:18:10,799
+This sequence was the second
+one that was shot by Franco Giraldi,
+
+1009
+01:18:10,887 --> 01:18:13,799
+assistant director,
+who shot the Rio Bravo canyon.
+
+1010
+01:18:13,887 --> 01:18:17,880
+The burning of the Baxter
+house was shot by Giraldi,
+
+1011
+01:18:17,967 --> 01:18:20,435
+with the cutaways done by Leone.
+
+1012
+01:18:20,527 --> 01:18:26,523
+And the editor, Roberto Cinquini,
+pieced it together from little pieces of film
+
+1013
+01:18:26,607 --> 01:18:29,599
+with the close-ups
+and the reflection of the flames,
+
+1014
+01:18:29,687 --> 01:18:34,442
+in order to construct this extraordinary
+scene of the baddies roaring with laughter
+
+1015
+01:18:34,527 --> 01:18:37,599
+as they massacre the Baxter clan.
+
+1016
+01:18:37,687 --> 01:18:40,520
+More sadism,
+and it goes on, and it goes on.
+
+1017
+01:18:40,607 --> 01:18:44,566
+A lot was cut from the British print,
+though it got an X certificate.
+
+1018
+01:18:44,647 --> 01:18:48,276
+The censor couldn't take it.
+The enjoyment, the massacre.
+
+1019
+01:18:48,367 --> 01:18:50,722
+The fact that it's so protracted.
+
+1020
+01:18:50,807 --> 01:18:56,279
+So Cinquini does the editing, and
+Franco Giraldi does the shooting for this,
+
+1021
+01:18:56,367 --> 01:18:59,120
+while Leone was busy with Eastwood.
+
+1022
+01:19:04,167 --> 01:19:09,287
+You often get in Leone's films someone
+peering through a letterbox-shaped space.
+
+1023
+01:19:09,367 --> 01:19:12,564
+The image is letterboxed,
+the Techniscope frame,
+
+1024
+01:19:12,647 --> 01:19:15,719
+but you get someone peering,
+like Eastwood.
+
+1025
+01:19:15,807 --> 01:19:17,638
+So his view is framed,
+
+1026
+01:19:17,727 --> 01:19:21,436
+like the Techniscope frame
+this movie is gonna be projected in.
+
+1027
+01:19:21,527 --> 01:19:25,566
+Rather like Rod Steiger
+in Giù La Testa, in Duck You Sucker,
+
+1028
+01:19:25,647 --> 01:19:28,878
+tearing a poster and seeing
+a slat between the wood
+
+1029
+01:19:28,967 --> 01:19:32,164
+and looking through at a firing squad.
+
+1030
+01:19:33,687 --> 01:19:38,966
+lt's a reminder of the artificiality of the
+frame, but he loves the letterbox frame,
+
+1031
+01:19:39,047 --> 01:19:44,326
+and the way in which that frame
+can be filled to push on the action.
+
+1032
+01:20:12,887 --> 01:20:15,162
+Again, the hero is impassive.
+
+1033
+01:20:15,247 --> 01:20:18,523
+You'd expect Randolph Scott,
+or John Wayne, or Gary Cooper
+
+1034
+01:20:18,607 --> 01:20:21,997
+to react to this massacre.
+lt's pointless.
+
+1035
+01:20:22,087 --> 01:20:25,602
+And here comes Consuelo,
+the matriarch of the clan coming out.
+
+1036
+01:20:25,687 --> 01:20:29,043
+Surely they won't shoot her.
+Even in the worst Western,
+
+1037
+01:20:29,127 --> 01:20:33,006
+no one shot the heroine
+or one of the lead female characters.
+
+1038
+01:20:33,087 --> 01:20:35,965
+But this is an ltalian Western.
+
+1039
+01:20:51,207 --> 01:20:54,563
+A very elaborate Spanish
+curse being cast at them.
+
+1040
+01:20:54,647 --> 01:20:58,925
+And it's not in fact Ramón
+that shoots her, it's his brother.
+
+1041
+01:21:11,367 --> 01:21:14,165
+And Ramón looks at him,
+a slightly enigmatic look.
+
+1042
+01:21:14,247 --> 01:21:16,317
+Would he have done that?
+
+1043
+01:21:16,407 --> 01:21:19,080
+Was the brother right to do that?
+
+1044
+01:21:19,167 --> 01:21:21,556
+ln any normal morality he wasn't right,
+
+1045
+01:21:21,647 --> 01:21:25,765
+but in the strange morality of Leone's
+film that's an interesting moment.
+
+1046
+01:21:25,847 --> 01:21:29,806
+Ramón doesn't quite approve
+of what his brother's done.
+
+1047
+01:21:30,327 --> 01:21:35,196
+The view from the coffin as we go out.
+The whole movie is a view from a coffin,
+
+1048
+01:21:35,527 --> 01:21:40,317
+in a sense, this town of death, this town
+of widows, of cemeteries and bell-ringers.
+
+1049
+01:21:40,407 --> 01:21:43,160
+No priest, and a corrupt sheriff.
+
+1050
+01:21:43,247 --> 01:21:45,966
+lt's the view from the coffin.
+
+1051
+01:21:46,047 --> 01:21:49,801
+And here's Eastwood in a mine shaft,
+rehearsing his gun hand
+
+1052
+01:21:49,887 --> 01:21:52,242
+for the final showdown.
+
+1053
+01:21:56,927 --> 01:22:01,478
+With a piece of metal
+that's been cut out of...
+
+1054
+01:22:02,087 --> 01:22:05,397
+l don't know, a railcar,
+or a boiler, or whatever it is.
+
+1055
+01:22:05,487 --> 01:22:11,483
+But it's gonna turn into a suit of armour,
+like the armour in the Rojo residence.
+
+1056
+01:22:12,687 --> 01:22:17,238
+With the ''Deguello'' theme,
+but this time not played on the trumpet.
+
+1057
+01:22:17,327 --> 01:22:19,841
+More orchestral version.
+
+1058
+01:22:19,927 --> 01:22:25,206
+A Mexican funeral lament,
+because that's what's gonna happen.
+
+1059
+01:22:29,527 --> 01:22:32,644
+When l first saw this l couldn't
+work out what was going on.
+
+1060
+01:22:32,727 --> 01:22:38,279
+Nothing tells you it's a mineshaft, nothing
+tells you what's going on, why this metal.
+
+1061
+01:22:38,367 --> 01:22:41,484
+lt's part of Leone's
+intriguing form of cinema.
+
+1062
+01:22:41,567 --> 01:22:44,525
+By the time you've worked
+it out it's too late anyway.
+
+1063
+01:22:44,607 --> 01:22:47,326
+They're onto the next action sequence.
+
+1064
+01:22:47,407 --> 01:22:53,277
+Syncopating the bangs with the music
+again. lt's sort of justified music.
+
+1065
+01:22:53,367 --> 01:22:56,803
+There'll be a lot of music
+in Leone's films justified by action.
+
+1066
+01:22:56,887 --> 01:23:01,802
+A chiming watch in For A Few Dollars
+More, whistling in Duck You Sucker,
+
+1067
+01:23:01,887 --> 01:23:05,516
+something that happens
+justifies the music that goes with it.
+
+1068
+01:23:05,607 --> 01:23:08,485
+The bang of the hammer
+in syncopation with the music
+
+1069
+01:23:08,567 --> 01:23:11,764
+sort of justifies the music with the action.
+
+1070
+01:23:28,207 --> 01:23:32,519
+ltalian Western heroes like to strike
+matches on any available surface.
+
+1071
+01:23:32,607 --> 01:23:36,839
+Whether it's chin, the boot
+of a hanging man, or a piece of metal.
+
+1072
+01:23:36,927 --> 01:23:41,000
+These matches strike on anything.
+And it's part of the cool of the hero.
+
+1073
+01:23:41,087 --> 01:23:44,875
+He's actually smoking in this sequence,
+which is quite unusual.
+
+1074
+01:23:44,967 --> 01:23:50,325
+You strike your match on any surface.
+lt's a cool thing to do in the 1 960s.
+
+1075
+01:23:50,407 --> 01:23:55,276
+Even on your teeth sometimes, in some
+ltalian Westerns. Which must hurt.
+
+1076
+01:24:04,487 --> 01:24:06,842
+So the coffin maker calls him Joe.
+
+1077
+01:24:06,927 --> 01:24:11,762
+Now, is that his name, or is it
+an all-purpose name, like John Doe?
+
+1078
+01:24:11,847 --> 01:24:17,205
+Joe, Gl Joe. An American
+is called Joe in a Mexican setting.
+
+1079
+01:24:17,287 --> 01:24:19,323
+ls it everyman? No one's quite sure.
+
+1080
+01:24:19,407 --> 01:24:22,843
+lt is quite clear, though,
+that he did have a name in this film,
+
+1081
+01:24:22,927 --> 01:24:27,079
+and that the United Artists publicists who
+turned him into the man with no name
+
+1082
+01:24:27,407 --> 01:24:34,040
+and expunged all references to his name
+in the soundtrack, as far as they could,
+
+1083
+01:24:34,127 --> 01:24:38,598
+is an example of a marketing department
+inventing the name of the lead character.
+
+1084
+01:24:38,687 --> 01:24:43,681
+Or rather, the no name of the lead
+character. Unusual in modern cinema.
+
+1085
+01:24:43,767 --> 01:24:46,156
+The man with no name.
+
+1086
+01:24:55,527 --> 01:24:59,042
+Running gag. The coffin maker's
+the only person making money.
+
+1087
+01:24:59,127 --> 01:25:02,403
+Since Eastwood's arrived
+there's a high mortality rate.
+
+1088
+01:25:02,487 --> 01:25:06,685
+l'm not sure who'll pay for all
+the funerals, there's no one left to pay.
+
+1089
+01:25:06,767 --> 01:25:09,884
+But the coffin maker,
+played by this music-hall star,
+
+1090
+01:25:09,967 --> 01:25:15,963
+is enjoying himself hugely with this.
+He's going to get a lot of business.
+
+1091
+01:25:23,247 --> 01:25:26,842
+So Piripero has given him
+some sticks of dynamite,
+
+1092
+01:25:26,927 --> 01:25:30,522
+and you might expect that
+he's going to blow up the cantina,
+
+1093
+01:25:30,607 --> 01:25:33,201
+he's going to blow up the Rojo residence.
+
+1094
+01:25:33,287 --> 01:25:36,802
+He'll use the dynamite for some
+tactical or aggressive purpose.
+
+1095
+01:25:36,887 --> 01:25:42,086
+He doesn't do any of those. He uses
+the dynamite to give himself presence,
+
+1096
+01:25:42,167 --> 01:25:44,761
+to enhance his charisma
+so that as he walks in,
+
+1097
+01:25:44,847 --> 01:25:48,886
+he's going to make one of the
+great entrances in Western movies.
+
+1098
+01:25:48,967 --> 01:25:53,836
+By explosion, lots of dust,
+the creation of dust in the sequence,
+
+1099
+01:25:53,927 --> 01:25:59,126
+which, according to Leone, was based
+on John Ford's My Darling Clementine,
+
+1100
+01:25:59,207 --> 01:26:01,516
+where the shootout takes place in dust.
+
+1101
+01:26:01,607 --> 01:26:04,883
+Dust the stagecoach has whipped up,
+dust from the desert.
+
+1102
+01:26:04,967 --> 01:26:10,564
+And the gunfight at the OK Corral in My
+Darling Clementine is a very dusty ending.
+
+1103
+01:26:10,647 --> 01:26:14,879
+There's a dusty ending here, created
+by dynamite. Very theatrical entrance.
+
+1104
+01:26:30,367 --> 01:26:33,643
+So the dynamite
+is beefing up his charisma.
+
+1105
+01:26:33,727 --> 01:26:39,085
+They won't shoot him while he's walking,
+because they're so in awe of this entrance
+
+1106
+01:26:39,167 --> 01:26:42,204
+that they're just gobsmacked.
+
+1107
+01:26:42,287 --> 01:26:48,920
+And out of the smoke and dust comes
+Joe the stranger for the final shootout.
+
+1108
+01:26:49,007 --> 01:26:52,602
+What was the significance of that
+metal plate he cut out and shot?
+
+1109
+01:26:52,687 --> 01:26:55,804
+We're going to discover that in a minute.
+
+1110
+01:26:55,887 --> 01:26:59,357
+Remember that the old Mexican
+proverb says that a man with a .45
+
+1111
+01:26:59,447 --> 01:27:04,316
+meets a man with a rifle,
+the man with the .45 is a dead man.
+
+1112
+01:27:04,407 --> 01:27:07,240
+We've been told Eastwood
+doesn't stand a chance,
+
+1113
+01:27:07,327 --> 01:27:10,558
+we know the Rojos are well-armed,
+there are several of them.
+
+1114
+01:27:10,647 --> 01:27:12,922
+So what's going to happen?
+
+1115
+01:27:13,007 --> 01:27:15,919
+The first of Leone's big duels.
+
+1116
+01:27:16,007 --> 01:27:18,601
+And the duel in
+the Western was a linear thing,
+
+1117
+01:27:18,687 --> 01:27:21,360
+people walk towards
+each other on the street.
+
+1118
+01:27:21,447 --> 01:27:25,759
+Like at the end of Stagecoach with the
+Plummer brothers, or like in High Noon.
+
+1119
+01:27:25,847 --> 01:27:29,476
+But this is a completely different setup.
+First, the entrance.
+
+1120
+01:27:29,567 --> 01:27:33,606
+The explosive music of the ''Deguello''
+theme played at full whack,
+
+1121
+01:27:33,687 --> 01:27:35,598
+trumpet with the volume turned up.
+
+1122
+01:27:35,687 --> 01:27:39,885
+The rhetoric of it, you get close-ups
+of their boots to tell you who they are.
+
+1123
+01:27:39,967 --> 01:27:43,039
+That's all you need to know.
+Eastwood wears brown boots,
+
+1124
+01:27:43,127 --> 01:27:46,563
+the Rojos wear black leather boots.
+That's all you need to know.
+
+1125
+01:27:46,647 --> 01:27:48,842
+There's no inner personality,
+
+1126
+01:27:48,927 --> 01:27:51,885
+no psychology to these people.
+You are what you wear.
+
+1127
+01:27:51,967 --> 01:27:57,360
+But the way the camera presents this final
+shootout is almost circular, as we'll see.
+
+1128
+01:27:57,447 --> 01:27:58,596
+A circle constructed
+
+1129
+01:27:58,927 --> 01:28:05,082
+of close-ups of the Rojos, but also circles
+created in the sky, as Ramón dies.
+
+1130
+01:28:05,567 --> 01:28:09,640
+The first of Leone's circular duels,
+although it isn't quite there yet.
+
+1131
+01:28:09,727 --> 01:28:14,596
+That will happen in the second film,
+For A Few Dollars More.
+
+1132
+01:28:30,527 --> 01:28:33,997
+This is strange.
+He got him with the first shot.
+
+1133
+01:28:34,087 --> 01:28:36,157
+But they're apprehensive.
+
+1134
+01:28:36,687 --> 01:28:40,123
+And they're right to be,
+cos he gets up again.
+
+1135
+01:28:40,207 --> 01:28:46,203
+This is where that metal sheet comes in.
+He's wearing armour under his poncho.
+
+1136
+01:28:48,647 --> 01:28:54,483
+Just like that piece of armour in the earlier
+sequence, the Last Supper sequence,
+
+1137
+01:28:54,567 --> 01:28:58,446
+Ramón is brilliant at aiming for the heart.
+''Aim for the heart, Ramón.''
+
+1138
+01:28:58,527 --> 01:29:00,916
+But like the armour, he doesn't realise it,
+
+1139
+01:29:01,007 --> 01:29:05,444
+but he's aiming for a metal plate
+underneath the poncho.
+
+1140
+01:29:14,927 --> 01:29:18,124
+lt's illogical. All they have
+to do is shoot his feet.
+
+1141
+01:29:18,207 --> 01:29:21,165
+But they don't.
+lt's all ritual. ''Aim for the heart.''
+
+1142
+01:29:21,247 --> 01:29:25,445
+Well-known Mexican proverb. Ritual
+is actually constructing what they do.
+
+1143
+01:29:25,527 --> 01:29:29,520
+They're not doing anything to do
+with the real world, aim for his head.
+
+1144
+01:29:29,607 --> 01:29:33,885
+As long as he keeps aiming
+for the heart, the stranger is safe.
+
+1145
+01:29:38,447 --> 01:29:45,239
+And the Rojos aren't awfully bright, they
+haven't quite twigged what's going on.
+
+1146
+01:29:47,287 --> 01:29:51,200
+But now, of course,
+Eastwood's walked into Colt .45 range.
+
+1147
+01:29:51,287 --> 01:29:56,759
+So maybe he does stand a chance. Down
+the street, he wouldn't stand a chance.
+
+1148
+01:29:56,847 --> 01:30:00,965
+By using these proverbs and dynamite
+and charisma, sheer charisma,
+
+1149
+01:30:01,047 --> 01:30:04,676
+he's managed to get within
+range for a proper shootout.
+
+1150
+01:30:04,767 --> 01:30:09,477
+And Ramón hasn't lost his touch.
+He shot all round the heart.
+
+1151
+01:30:20,607 --> 01:30:23,883
+High-pitched trill on the soundtrack,
+lots of close-ups.
+
+1152
+01:30:23,967 --> 01:30:26,527
+Around the central fountain of San Miguel.
+
+1153
+01:30:26,607 --> 01:30:28,723
+And now it turns into pure theatre.
+
+1154
+01:30:28,807 --> 01:30:30,877
+Real time is suspended,
+
+1155
+01:30:30,967 --> 01:30:35,802
+where this turns into
+just a piece of cinematic rhetoric.
+
+1156
+01:30:35,887 --> 01:30:41,439
+They just stand there staring at each
+other, in time-honoured Leone fashion.
+
+1157
+01:30:47,447 --> 01:30:52,043
+Well, that's all of them down
+except Ramón, with one go.
+
+1158
+01:30:54,767 --> 01:30:57,327
+Now the odds are even.
+But Piripero's not sure.
+
+1159
+01:30:57,407 --> 01:31:00,717
+He's seen the stranger
+do all these feats of marksmanship,
+
+1160
+01:31:00,807 --> 01:31:04,117
+but he's still not quite sure
+he can win. The odds are stacked
+
+1161
+01:31:04,447 --> 01:31:06,915
+so heavily against him.
+
+1162
+01:31:12,287 --> 01:31:16,963
+But the choruses in the film, the coffin
+maker, the bartender, and the bell-ringer,
+
+1163
+01:31:17,047 --> 01:31:19,800
+are the ones who survive.
+
+1164
+01:31:19,887 --> 01:31:25,837
+ln fact, they're the only ones who survive.
+''Let's see if the proverb is true.''
+
+1165
+01:31:29,687 --> 01:31:32,804
+The stranger's been very clever,
+because, of course,
+
+1166
+01:31:32,887 --> 01:31:36,766
+it takes a lot longer to load
+a Winchester '73 than it does a Colt .45.
+
+1167
+01:31:36,847 --> 01:31:40,044
+So if they place
+their weapons on the ground,
+
+1168
+01:31:40,127 --> 01:31:42,721
+he knows that he's going to win.
+
+1169
+01:31:46,607 --> 01:31:51,203
+The gun belt and the pistol grips
+on the gun, which are metal snakes,
+
+1170
+01:31:51,287 --> 01:31:53,642
+had been borrowed from Rawhide.
+
+1171
+01:31:53,727 --> 01:31:56,799
+Eastwood brought them
+to Spain as a good luck charm.
+
+1172
+01:31:56,887 --> 01:32:01,836
+And wore them throughout the trilogy
+of films that Leone subsequently made.
+
+1173
+01:32:01,927 --> 01:32:06,045
+So we've got a Colt on the ground, and
+we've got a Winchester on the ground.
+
+1174
+01:32:06,127 --> 01:32:12,282
+And we're in pure theatre. The puppet
+show has become pure puppets.
+
+1175
+01:32:12,367 --> 01:32:17,725
+ln American Westerns, there'd
+be dialogue now. lt's just sounds.
+
+1176
+01:32:18,727 --> 01:32:22,561
+And it is quicker to load a Colt. This is it.
+
+1177
+01:32:22,647 --> 01:32:28,199
+So extend time even more. Close-ups
+of eyes, drums on the soundtrack.
+
+1178
+01:32:29,207 --> 01:32:31,198
+Not extended as much as it will be.
+
+1179
+01:32:31,287 --> 01:32:33,960
+This goes on for a reel
+in subsequent Leone films.
+
+1180
+01:32:34,047 --> 01:32:37,596
+But the dilation of time,
+the stretching of time at that moment.
+
+1181
+01:32:37,687 --> 01:32:41,236
+They're not talking to each other,
+unlike Hollywood Westerns.
+
+1182
+01:32:41,327 --> 01:32:45,400
+lt's just pure ritual, all the rituals
+that precede the moment of death.
+
+1183
+01:32:45,487 --> 01:32:50,277
+The moment of death itself is... lt's not
+Sam Peckinpah, there's not lots of blood.
+
+1184
+01:32:50,367 --> 01:32:54,883
+But here's the camera
+describing circular motions in the sky.
+
+1185
+01:32:54,967 --> 01:33:00,837
+And this will turn into the circular duel in
+subsequent Leone films, set in a bullring.
+
+1186
+01:33:00,927 --> 01:33:04,681
+This isn't the linear duel,
+this is the circular one.
+
+1187
+01:33:04,767 --> 01:33:06,837
+And Ramón bites the dust.
+
+1188
+01:33:11,487 --> 01:33:14,285
+There's always a surprise, though.
+
+1189
+01:33:23,167 --> 01:33:27,206
+A chance for Silvanito,
+the bartender, to take part in this.
+
+1190
+01:33:27,287 --> 01:33:31,200
+He's been detached from the squabble,
+he said, ''Don't get involved.''
+
+1191
+01:33:31,287 --> 01:33:37,317
+But at this moment he does get involved.
+And saves the stranger.
+
+1192
+01:33:37,407 --> 01:33:39,841
+And so, just as at the beginning,
+
+1193
+01:33:39,927 --> 01:33:43,158
+the stranger rides into town
+and the curtain of dust parts
+
+1194
+01:33:43,247 --> 01:33:45,841
+and we're in this theatre of San Miguel,
+
+1195
+01:33:45,927 --> 01:33:50,557
+so at the end this is just like the last scene
+of some 16th or 1 7th-century tragedy,
+
+1196
+01:33:50,647 --> 01:33:54,560
+with the bodies lying on the stage,
+the protagonist standing there.
+
+1197
+01:33:54,647 --> 01:33:58,879
+And the show is about to end,
+the theatre is about to close.
+
+1198
+01:34:00,647 --> 01:34:05,357
+lt's gonna be the end of the show, and out
+we go from the cinema into the real world.
+
+1199
+01:34:05,447 --> 01:34:08,120
+The realism of the
+American Western was different.
+
+1200
+01:34:08,207 --> 01:34:11,563
+lt related to everyday life.
+This is myth about myth.
+
+1201
+01:34:11,647 --> 01:34:15,117
+And the great ltalian novelist,
+Alberto Moravia,
+
+1202
+01:34:15,447 --> 01:34:17,483
+wrote about this.
+
+1203
+01:34:17,567 --> 01:34:21,037
+''There is no West in ltaly,
+no cowboys and bandits, no frontier,
+
+1204
+01:34:21,127 --> 01:34:23,243
+no gold mines or pioneers.''
+
+1205
+01:34:23,327 --> 01:34:26,399
+''The ltalian Western was born
+not from memory,
+
+1206
+01:34:26,487 --> 01:34:31,925
+but from the instinct of filmmakers who
+were in love with the American Western.''
+
+1207
+01:34:32,007 --> 01:34:34,760
+The Hollywood Western
+was born from a myth.
+
+1208
+01:34:34,847 --> 01:34:38,840
+The ltalian one is born
+from a myth about a myth.
+
+1209
+01:34:38,927 --> 01:34:40,997
+So this is a movie about the Western,
+
+1210
+01:34:41,087 --> 01:34:44,238
+transposed into an ltalian
+and Spanish cultural context.
+
+1211
+01:34:44,327 --> 01:34:48,525
+ln one sense it's not a Western,
+it's a super-Western. lt's about a Western.
+
+1212
+01:34:48,607 --> 01:34:54,637
+And at the end of it, you're reminded
+of its artificiality as we leave San Miguel.
+
+1213
+01:34:54,727 --> 01:34:58,276
+And as Morricone's
+main title track takes over,
+
+1214
+01:34:58,367 --> 01:35:02,804
+Eastwood gets back on his mule,
+a big man on a little animal,
+
+1215
+01:35:02,887 --> 01:35:06,641
+like Shane riding off into the hills,
+like Young Mr Lincoln.
+
+1216
+01:35:06,727 --> 01:35:09,605
+Like Jesus riding into
+Jerusalem on Palm Sunday.
+
+1217
+01:35:09,687 --> 01:35:13,362
+Off he goes on his mule
+for the end of the show.
+
+1218
+01:35:13,447 --> 01:35:18,123
+Curtain down.
+You could imagine this being in a theatre.
+
+1219
+01:35:20,167 --> 01:35:24,046
+No one's alive in San Miguel
+except the chorus.
+
+1220
+01:35:42,407 --> 01:35:44,398
+Visiontext Subtitles: Paul Burns
+
+1221
+01:35:44,487 --> 01:35:46,478
+EN
+

@@ -2,8 +2,10 @@ package yt.movies.web.config;
 
 import javax.sql.DataSource;
 
+import org.h2.server.web.WebServlet;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.springframework.boot.web.servlet.ServletRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.core.JdbcTemplate;
@@ -38,5 +40,12 @@ public class ApplicationConfig {
 		dataSource.setPassword(databaseProperties.getPassword());
 
 		return dataSource;
+	}
+
+	@Bean
+	ServletRegistrationBean h2servletRegistration(){
+		ServletRegistrationBean registrationBean = new ServletRegistrationBean( new WebServlet());
+		registrationBean.addUrlMappings("/console/*");
+		return registrationBean;
 	}
 }

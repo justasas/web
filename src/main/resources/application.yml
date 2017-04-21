@@ -5,10 +5,19 @@ repository:
   type: DATABASE
 
 database:
-   driver: org.postgresql.Driver
-   url: jdbc:postgresql://localhost:5432/movies
-   username: justas
-   password: slaptazodis
+   driver: org.h2.Driver
+   url: jdbc:h2:~/app_db;
+   username: sa
+   password:
 
 logging.level.org.springframework.web: DEBUG
 logging.level.org.springframework.security: DEBUG
+
+spring.h2.console.enabled: true
+
+#spring.datasource.url = jdbc:h2:mem:app_db;DB_CLOSE_ON_EXIT=FALSE
+#spring.datasource.url: jdbc:h2:file:~/h2/app_db;DB_CLOSE_ON_EXIT=FALSE
+#spring.datasource.username: sa
+#spring.datasource.password:
+#spring.datasource.driverClassName: org.h2.Driver
+#spring.jpa.hibernate.ddl-auto: update

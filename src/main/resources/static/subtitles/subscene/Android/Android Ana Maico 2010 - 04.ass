@@ -1,0 +1,204 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.33,0:00:08.11,*Default,Narration,0000,0000,0000,, In the year 2010, a girl appeared in the low-rated radio world. Her name is MAICO.
+Dialogue: 0,0:00:08.66,0:00:11.51,*Default,Narration,0000,0000,0000,,She is the first android announcer in the radio world.
+Dialogue: 0,0:00:13.16,0:00:13.71,*Default,Song,0000,0000,0000,,{\c&HC080FF&}SoRa{\c&HFFFF00&} SoRa SoRa SoRa Mi
+Dialogue: 0,0:00:13.71,0:00:14.18,*Default,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa{\c&HFFFF00&} SoRa SoRa Mi
+Dialogue: 0,0:00:14.24,0:00:14.65,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa{\c&HFFFF00&} SoRa Mi
+Dialogue: 0,0:00:14.65,0:00:15.04,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa SoRa{\c&HFFFF00&} Mi
+Dialogue: 0,0:00:15.04,0:00:15.38,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa SoRa Mi
+Dialogue: 0,0:00:17.38,0:00:17.88,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa{\c&HFFFF00&} SoRa SoRa SoRa Fa
+Dialogue: 0,0:00:17.88,0:00:18.42,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa {\c&HFFFF00&}SoRa SoRa Fa
+Dialogue: 0,0:00:18.42,0:00:18.82,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa{\c&HFFFF00&} SoRa Fa
+Dialogue: 0,0:00:18.82,0:00:19.32,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa SoRa{\c&HFFFF00&} Fa
+Dialogue: 0,0:00:19.32,0:00:19.67,maico song,Song,0000,0000,0000,,{\c&HC080FF&}S{\c&HFFFF00&}{\c&HC080FF&}oRa SoRa SoRa SoRa Fa
+Dialogue: 0,0:00:21.62,0:00:22.21,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa{\c&HFFFF00&} SoRa SoRa SoRa Fa
+Dialogue: 0,0:00:22.21,0:00:22.67,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa{\c&HFFFF00&} SoRa SoRa Fa
+Dialogue: 0,0:00:22.67,0:00:23.00,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa{\c&HFFFF00&} SoRa Fa
+Dialogue: 0,0:00:23.00,0:00:23.49,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa SoRa{\c&HFFFF00&} Fa
+Dialogue: 0,0:00:23.49,0:00:23.84,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa SoRa Fa
+Dialogue: 0,0:00:25.95,0:00:26.55,maico song,Song,0000,0000,0000,,{\c&HC080FF&}ReReMi{\c&HFFFF00&} ReDoMi
+Dialogue: 0,0:00:26.55,0:00:27.86,maico song,Song,0000,0000,0000,,{\c&HC080FF&}ReReMi ReDoMi
+Dialogue: 0,0:00:30.03,0:00:30.56,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa{\c&HFFFF00&} SoRa SoRa SoRa Mi
+Dialogue: 0,0:00:30.56,0:00:31.04,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa {\c&HFFFF00&}SoRa SoRa Mi
+Dialogue: 0,0:00:31.04,0:00:31.52,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa{\c&HFFFF00&} SoRa Mi
+Dialogue: 0,0:00:31.52,0:00:31.86,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa SoRa{\c&HFFFF00&} Mi
+Dialogue: 0,0:00:31.86,0:00:32.22,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa SoRa Mi
+Dialogue: 0,0:00:34.24,0:00:34.79,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa{\c&HFFFF00&} SoRa SoRa SoRa Fa
+Dialogue: 0,0:00:34.79,0:00:35.31,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa {\c&HFFFF00&}SoRa SoRa Fa
+Dialogue: 0,0:00:35.31,0:00:35.72,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa{\c&HFFFF00&} SoRa Fa
+Dialogue: 0,0:00:35.72,0:00:36.15,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa SoRa{\c&HFFFF00&} Fa
+Dialogue: 0,0:00:36.15,0:00:36.48,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa SoRa Fa
+Dialogue: 0,0:00:38.50,0:00:38.97,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa{\c&HFFFF00&} SoRa SoRa SoRa Fa
+Dialogue: 0,0:00:38.97,0:00:39.44,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa{\c&HFFFF00&} SoRa SoRa Fa
+Dialogue: 0,0:00:39.44,0:00:39.85,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa{\c&HFFFF00&} SoRa Fa
+Dialogue: 0,0:00:39.85,0:00:40.37,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa SoRa{\c&HFFFF00&} Fa
+Dialogue: 0,0:00:40.37,0:00:40.74,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoRa SoRa Fa
+Dialogue: 0,0:00:42.73,0:00:43.48,maico song,Song,0000,0000,0000,,{\c&HC080FF&}ReReMi{\c&HFFFF00&} DoRaDo
+Dialogue: 0,0:00:43.48,0:00:45.67,maico song,Song,0000,0000,0000,,{\c&HC080FF&}ReReMi DoRaDo
+Dialogue: 0,0:00:46.98,0:00:49.08,maico song,Song,0000,0000,0000,,{\c&HC080FF&}DoReDoReDo{\c&HFFFF00&} DoMiDoReDo
+Dialogue: 0,0:00:49.08,0:00:50.71,maico song,Song,0000,0000,0000,,{\c&HC080FF&}DoReDoReDo DoMiDoReDo
+Dialogue: 0,0:00:51.17,0:00:51.55,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa{\c&HFFFF00&} SoRa SoShi
+Dialogue: 0,0:00:51.55,0:00:52.31,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa{\c&HFFFF00&} SoShi
+Dialogue: 0,0:00:52.31,0:00:53.16,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRa SoRa SoShi
+Dialogue: 0,0:00:55.23,0:00:57.49,maico song,Song,0000,0000,0000,,{\c&HC080FF&}RaShiRaShiRa{\c&HFFFF00&} RaShiDoShiRa
+Dialogue: 0,0:00:57.49,0:00:59.34,maico song,Song,0000,0000,0000,,{\c&HC080FF&}RaShiRaShiRa RaShiDoShiRa
+Dialogue: 0,0:00:59.58,0:01:00.29,maico song,Song,0000,0000,0000,,{\c&HC080FF&}RaShiDo{\c&HFFFF00&} ReReReRe Fa!
+Dialogue: 0,0:01:00.29,0:01:01.40,maico song,Song,0000,0000,0000,,{\c&HC080FF&}RaShiDo ReReReRe{\c&HFFFF00&} Fa!
+Dialogue: 0,0:01:01.40,0:01:01.89,maico song,Song,0000,0000,0000,,{\c&HC080FF&}RaShiDo ReReReRe Fa!
+Dialogue: 0,0:01:03.78,0:01:04.50,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRaShi{\c&HFFFF00&} ReDoShiDoMiRaMi
+Dialogue: 0,0:01:04.50,0:01:07.74,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoRaShi ReDoShiDoMiRaMi
+Dialogue: 0,0:01:07.94,0:01:10.12,maico song,Song,0000,0000,0000,,{\c&HC080FF&}RaShiDoMiReDoReFa{\c&HFFFF00&} DoShi
+Dialogue: 0,0:01:10.12,0:01:11.79,maico song,Song,0000,0000,0000,,{\c&HC080FF&}RaShiDoMiReDoReFa DoShi
+Dialogue: 0,0:01:12.22,0:01:13.16,*Default,Song,0000,0000,0000,,{\c&HC080FF&}SoSoSoSo{\c&HFFFF00&} ShiReSo FaMiFaMi
+Dialogue: 0,0:01:13.16,0:01:13.92,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoSoSoSo ShiReSo{\c&HFFFF00&} FaMiFaMi
+Dialogue: 0,0:01:13.92,0:01:15.92,maico song,Song,0000,0000,0000,,{\c&HC080FF&}SoSoSoSo ShiReSo FaMiFaMi
+Dialogue: 0,0:01:16.44,0:01:17.75,maico song,Song,0000,0000,0000,,{\c&HC080FF&}MiMiMiMiRaMi{\c&HFFFF00&} SoDo
+Dialogue: 0,0:01:17.75,0:01:20.02,maico song,Song,0000,0000,0000,,{\c&HC080FF&}MiMiMiMiRaMi SoDo
+Dialogue: 0,0:01:31.40,0:01:36.66,*Default,Masuda,0000,0000,0000,,The first week was 1%, the second week was 0.5%, and the third week was 0.1%.
+Dialogue: 0,0:01:36.84,0:01:42.85,*Default,Masuda,0000,0000,0000,,Even though her interview went on TV before the third week show, the rating still plummeted.
+Dialogue: 0,0:01:43.56,0:01:45.84,*Default,Masuda,0000,0000,0000,,I wonder why?
+Dialogue: 0,0:01:46.15,0:01:48.66,*Default,Densuke,0000,0000,0000,,She's trying her best but...
+Comment: 0,0:00:00.00,0:00:00.00,*Default,Screen,0000,0000,0000,,[Useless]
+Dialogue: 0,0:01:48.79,0:01:51.08,*Default,Izumi,0000,0000,0000,,I've done my job.
+Dialogue: 0,0:01:53.09,0:02:01.50,*Default,Matsu,0000,0000,0000,,It's obvious why the rating is so low. This robot broad is ruining the show.
+Dialogue: 0,0:02:01.52,0:02:07.56,*Default,Matsu,0000,0000,0000,,She's slow, her tongue's not smooth, not flexible, and she breaks and stops too often.
+Dialogue: 0,0:02:07.70,0:02:13.67,*Default,Matsu,0000,0000,0000,,And worst of all, she goes "punyoon".No wonder no one listens to it punyoon.
+Dialogue: 0,0:02:13.68,0:02:15.95,*Default,Matsu,0000,0000,0000,,Right, robot broad?
+Dialogue: 0,0:02:16.05,0:02:19.47,*Default,MAICO,0000,0000,0000,,I'm an android, not a robot.
+Dialogue: 0,0:02:20.22,0:02:22.51,*Default,Matsu,0000,0000,0000,,That's not what I'm talking about.
+Dialogue: 0,0:02:22.64,0:02:27.01,*Default,Densuke,0000,0000,0000,,Now, now Matsu-san. Now that MAICO-chan's bug has been removed, the situation should start to improve.
+Dialogue: 0,0:02:27.02,0:02:28.46,*Default,Densuke,0000,0000,0000,,Right, MAICO-chan?
+Dialogue: 0,0:02:28.47,0:02:31.51,*Default,MAICO,0000,0000,0000,,Yes. I'll do my best of the best of the best.
+Dialogue: 0,0:02:31.53,0:02:32.96,*Default,Densuke,0000,0000,0000,,Uh-huh, let's do our best.
+Dialogue: 0,0:02:33.98,0:02:39.00,*Default,Matsu,0000,0000,0000,,What's with your fresh attitude? \nA robot should always do their best.
+Dialogue: 0,0:02:39.21,0:02:45.07,*Default,Matsu,0000,0000,0000,,And robots always have a mysterious pocket that can grant wishes.
+Dialogue: 0,0:02:45.07,0:02:46.92,*Default,Densuke,0000,0000,0000,,That doesn't make any sense...
+Dialogue: 0,0:02:46.92,0:02:53.49,*Default,Suga,0000,0000,0000,,How's everyone doing? I came up with an excellent project by listening to the last week's show.
+Dialogue: 0,0:02:53.54,0:02:57.12,*Default,Suga,0000,0000,0000,,I name it\n "MAICO and the Flying Punyoon".
+Dialogue: 0,0:02:58.56,0:03:00.91,*Default,Suga,0000,0000,0000,,That was a great reaction, Masuda Masu-san.
+Dialogue: 0,0:03:02.67,0:03:08.54,*Default,Matsu,0000,0000,0000,,Your late, Suga! By the way, where is the show's dork program director?
+Dialogue: 0,0:03:08.58,0:03:11.85,*Default,Matsu,0000,0000,0000,,Oh yeah, Katsucchin.\n Where is that stupid grunt?
+Dialogue: 0,0:03:11.85,0:03:17.68,*Default,Densuke,0000,0000,0000,,Ah, he gave me a call earlier. He said that he performed too much Kokkuri-san last week and thinks he was possessed.
+Dialogue: 0,0:03:17.89,0:03:19.63,*Default,Densuke,0000,0000,0000,,So he went to visit an exorcist.
+Dialogue: 0,0:03:21.02,0:03:22.62,*Default,Matsu,0000,0000,0000,,What do you mean he felt possessed?
+Dialogue: 0,0:03:22.66,0:03:26.18,*Default,Masuda,0000,0000,0000,,How convenient. Let's\n start the recording.
+Dialogue: 0,0:03:26.45,0:03:28.61,*Default,Densuke,0000,0000,0000,,Eh? But the show airs tomorrow.
+Dialogue: 0,0:03:28.63,0:03:36.91,*Default,Masuda,0000,0000,0000,,We are going to prerecord the show today. If there's going to be a lot of mistakes, it's a staff's duty to correct them. Am I wrong?
+Dialogue: 0,0:03:37.27,0:03:39.05,*Default,Matsu,0000,0000,0000,,I see, prerecording the show.
+Dialogue: 0,0:03:39.05,0:03:41.12,*Default,Densuke,0000,0000,0000,,Why didn't we come up with that till now?
+Dialogue: 0,0:03:41.89,0:03:43.73,*Default,Matsu,0000,0000,0000,,Ume-san, shall we give it a shot?
+Dialogue: 0,0:03:45.87,0:03:50.99,*Default,Matsu,0000,0000,0000,,Alright, get ready for the recording! Robot broad, be prepared cause I will haze you a lot today.
+Dialogue: 0,0:03:53.66,0:04:00.49,*Default,MAICO,0000,0000,0000,,Yes, I will do anything even squatting or crawling through the mud. I will do my best of the best of the best.
+Dialogue: 0,0:04:00.23,0:04:01.66,*Default,Matsu,0000,0000,0000,,That's not the kinda \nhazing I'm talking about!
+Dialogue: 0,0:04:01.74,0:04:02.69,*Default,MAICO,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:04:06.53,0:04:12.95,*Default,MAICO,0000,0000,0000,,Hello, everyone. This is MAICO. I'm sorry about last week, my program had a bug.
+Dialogue: 0,0:04:13.03,0:04:15.31,*Default,MAICO,0000,0000,0000,,I was just scolded by the director...
+Dialogue: 0,0:04:16.52,0:04:23.38,*Default,Matsu,0000,0000,0000,,What the hell are you thinking? It's "good evening" not "hello." And don't say anything about stuff behind the scenes.
+Dialogue: 0,0:04:23.92,0:04:28.18,*Default,Matsu,0000,0000,0000,,Can't you show some sense of humor like using that "punyoon" to surprise the audience?
+Dialogue: 0,0:04:29.68,0:04:30.94,*Default,MAICO,0000,0000,0000,,I understand...
+Dialogue: 0,0:04:31.24,0:04:34.26,*Default,Matsu,0000,0000,0000,,Alright, then.  Start over\n from the beginning.
+Dialogue: 0,0:04:35.47,0:04:36.65,*Default,Izumi,0000,0000,0000,,It's ready.
+Dialogue: 0,0:04:36.72,0:04:37.82,*Default,Matsu,0000,0000,0000,,All right.
+Dialogue: 0,0:04:41.48,0:04:47.99,*Default,MAICO,0000,0000,0000,,Good evening, everyone.  I'm sorry about last week, my program had a bug.  This is MAICO punyoon.
+Dialogue: 0,0:04:48.20,0:04:56.34,*Default,MAICO,0000,0000,0000,,Did I surprise you? It was just a joke. The director told me that it would be an useful technique to surprise the listeners.
+Dialogue: 0,0:04:56.59,0:05:01.04,*Default,MAICO,0000,0000,0000,,Well then, let move on to the show.\n "Jump Out! MAICO: 2010"
+Dialogue: 0,0:04:57.40,0:05:00.76,*Default,Suga,0000,0000,0000,,Excellent, MAICO. \nThat's a wonderful beginning.
+Dialogue: 0,0:05:01.39,0:05:02.99,*Default,Matsu,0000,0000,0000,,That stupid robot...
+Dialogue: 0,0:05:05.77,0:05:16.61,*Default,MAICO,0000,0000,0000,,"Got Problems? Leave It to MAICO and her 30,000 Friends". First up is a letter sent by Bloodsucking Batallion-san from Tokyo county.
+Dialogue: 0,0:05:17.07,0:05:21.27,*Default,MAICO,0000,0000,0000,,"I am isolated in the class \nbecause I'm not athletic."
+Dialogue: 0,0:05:21.45,0:05:25.14,*Default,MAICO,0000,0000,0000,,"I still can't do pull-ups on a horizontal bar even though I'm a high school student."
+Dialogue: 0,0:05:25.25,0:05:28.29,*Default,MAICO,0000,0000,0000,,"MAICO-san. what should I do."
+Dialogue: 0,0:05:32.65,0:05:34.39,*Default,Matsu,0000,0000,0000,,Say something, robot broad.
+Dialogue: 0,0:05:42.25,0:05:43.99,*Default,MAICO,0000,0000,0000,,I guess you can't help it.
+Dialogue: 0,0:05:44.88,0:05:49.32,*Default,Matsu,0000,0000,0000,,What's with that reaction! \nThink more about the person!
+Dialogue: 0,0:05:49.64,0:05:53.25,*Default,Matsu,0000,0000,0000,,This Blood Sucking Batallion-kun has been worried for a long time because he's not athletic!
+Dialogue: 0,0:05:53.30,0:06:02.76,*Default,Matsu,0000,0000,0000,,He wrote that he's isolated, but he may be getting pushed around! He might start skipping school and in the end, he might even drop out!
+Dialogue: 0,0:06:03.05,0:06:06.31,*Default,Matsu,0000,0000,0000,,I was in charge of a show to solved people's problems for a long time so I know!
+Dialogue: 0,0:06:05.69,0:06:08.27,*Default,Densuke,0000,0000,0000,,When did we start getting letters like that?
+Dialogue: 0,0:06:08.42,0:06:11.37,*Default,Suga,0000,0000,0000,,I wrote it. Isn't it brilliant?
+Dialogue: 0,0:06:12.29,0:06:16.20,*Default,Matsu,0000,0000,0000,,Come up with some type of solutions like your style of improvements!
+Dialogue: 0,0:06:16.24,0:06:21.05,*Default,MAICO,0000,0000,0000,,But there are personal differences in athletic abilities so I think he can't help it.
+Dialogue: 0,0:06:21.14,0:06:27.76,*Default,Matsu,0000,0000,0000,,Think that kind of a material makes a good show? Say something. Answer Blood Sucking Batallion-kun's question.
+Dialogue: 0,0:06:29.64,0:06:34.23,*Default,MAICO,0000,0000,0000,,Blood Sucking Batallion-kun, I think there are many problems in people's life.
+Dialogue: 0,0:06:36.50,0:06:37.92,*Default,Matsu,0000,0000,0000,,You robot bitch!
+Dialogue: 0,0:06:37.93,0:06:40.02,*Default,Densuke,0000,0000,0000,,Matsu-san, violence is bad.
+Dialogue: 0,0:06:42.87,0:06:44.68,*Default,Matsu,0000,0000,0000,,You worthless stupid robot...
+Dialogue: 0,0:06:45.00,0:06:45.96,*Default,MAICO,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:06:46.02,0:06:50.69,*Default,Matsu,0000,0000,0000,,I can't feel any emotions from your apology! You aren't apologizing at all!
+Dialogue: 0,0:06:50.90,0:06:54.28,*Default,MAICO,0000,0000,0000,,I am programmed to\n apologize when I'm scolded.
+Dialogue: 0,0:06:54.44,0:06:55.81,*Default,Matsu,0000,0000,0000,,What did you say!?
+Dialogue: 0,0:06:55.92,0:06:58.73,*Default,Densuke,0000,0000,0000,,Matsu-san, don't!\n Please hit me instead of her.
+Dialogue: 0,0:06:59.19,0:07:00.08,*Default,Matsu,0000,0000,0000,,I understand...
+Dialogue: 0,0:07:03.07,0:07:10.50,*Default,Matsu,0000,0000,0000,,You call yourself the very first robot DJ in the radio industry? Radio shows can't be run by a mechanical doll like you!
+Dialogue: 0,0:07:11.14,0:07:14.41,*Default,Matsu,0000,0000,0000,,Just go throw yourself in the waste disposal right now and become some scrap metal slag!
+Dialogue: 0,0:07:24.00,0:07:24.88,*Default,Densuke,0000,0000,0000,,Tears?
+Dialogue: 0,0:07:25.86,0:07:35.74,*Default,MAICO,0000,0000,0000,,I'm trying to come up with the best words based on my emotional program. I'm trying to the best of my potential.
+Dialogue: 0,0:07:38.83,0:07:43.64,*Default,Matsu,0000,0000,0000,,Your tears are fake. You aren't sad at all.
+Dialogue: 0,0:07:43.64,0:07:44.52,*Default,Densuke,0000,0000,0000,,Matsu-san!
+Dialogue: 0,0:07:44.74,0:07:48.36,*Default,Matsu,0000,0000,0000,,You can't come up with the responses just by linking them with your on-line dictionary!
+Dialogue: 0,0:07:48.61,0:07:52.81,*Default,Matsu,0000,0000,0000,,Think! Think harder and sooth the pain Blood Sucking Batallion-kun is having!
+Dialogue: 0,0:07:53.13,0:07:57.35,*Default,Matsu,0000,0000,0000,,That's what the radio DJ suppose to do. \nI'll leave the tapes running.
+Dialogue: 0,0:07:57.89,0:08:00.73,*Default,Matsu,0000,0000,0000,,Listen well, robot girl! \nSpeak with your own words!
+Dialogue: 0,0:08:07.24,0:08:10.07,*Default,MAICO,0000,0000,0000,,My own words...
+Dialogue: 0,0:08:12.43,0:08:17.50,*Default,MAICO,0000,0000,0000,,I think your athletic abilities would improve if you ask your friends for help and practice together...
+Dialogue: 0,0:08:17.55,0:08:18.30,*Default,Matsu,0000,0000,0000,,Not good enough!
+Dialogue: 0,0:08:19.70,0:08:23.21,*Default,MAICO,0000,0000,0000,,I think jogging in the morning \nwould have an effect.
+Dialogue: 0,0:08:23.38,0:08:24.52,*Default,Matsu,0000,0000,0000,,Do it over!
+Dialogue: 0,0:08:24.77,0:08:27.97,*Default,MAICO,0000,0000,0000,,Do push ups and sit ups\n before you go to sleep...
+Dialogue: 0,0:08:28.18,0:08:29.11,*Default,Matsu,0000,0000,0000,,Again!
+Dialogue: 0,0:08:29.32,0:08:31.85,*Default,MAICO,0000,0000,0000,,Building your muscles is the best way to improve you athletic abilities...
+Dialogue: 0,0:08:31.97,0:08:33.02,*Default,Matsu,0000,0000,0000,,Again!!
+Dialogue: 0,0:08:35.51,0:08:37.67,*Default,Matsu,0000,0000,0000,,What's wrong, robot broad? Speak!
+Dialogue: 0,0:08:40.66,0:08:45.64,*Default,Densuke,0000,0000,0000,,Matsu-san, isn't it enough?  Why don't we compromise at this point?
+Dialogue: 0,0:08:45.89,0:08:48.95,*Default,Matsu,0000,0000,0000,,Densuke, don't you want to be a director?
+Dialogue: 0,0:08:49.09,0:08:49.87,*Default,Densuke,0000,0000,0000,,Yes, I do.
+Dialogue: 0,0:08:50.87,0:08:58.03,*Default,Matsu,0000,0000,0000,,Then never say the word "enough" again! There is no compromising in a radio show.
+Dialogue: 0,0:08:58.05,0:08:59.79,*Default,Densuke,0000,0000,0000,,M..Matsu-san...
+Dialogue: 0,0:09:41.18,0:09:43.38,*Default,Izumi,0000,0000,0000,,This is the last tape.
+Dialogue: 0,0:09:43.38,0:09:44.66,*Default,Matsu,0000,0000,0000,,Keep on rolling.
+Dialogue: 0,0:09:46.76,0:09:49.88,*Default,Matsu,0000,0000,0000,,Ume-san, am I wrong?
+Dialogue: 0,0:09:52.38,0:09:53.70,*Default,Matsu,0000,0000,0000,,Am I a terrible man?
+Dialogue: 0,0:10:10.98,0:10:18.87,*Default,Densuke,0000,0000,0000,,I got a position at the mass media company. I might be in charge of popular shows and end up marrying an actress.
+Dialogue: 0,0:10:24.52,0:10:25.81,*Default,Densuke,0000,0000,0000,,Hang in there.
+Dialogue: 0,0:10:29.25,0:10:35.86,*Default,Densuke,0000,0000,0000,,Hang in there, MAICO-chan.  I can't do anything but cheer you on. Hang in there.
+Dialogue: 0,0:10:37.61,0:10:39.88,*Default,Densuke,0000,0000,0000,,Hang in there. Hang in there.
+Dialogue: 0,0:10:42.58,0:10:43.71,*Default,MAICO,0000,0000,0000,,I...
+Dialogue: 0,0:10:46.78,0:10:54.92,*Default,MAICO,0000,0000,0000,,I also screw up all the time and get scolded. But I keep trying, and try not to make another mistake.
+Dialogue: 0,0:10:55.28,0:11:02.99,*Default,MAICO,0000,0000,0000,,It will be over if you give up. So..so please do your best, Blood Sucking Battalion.\n I will cheer for you.
+Dialogue: 0,0:11:03.46,0:11:07.65,*Default,MAICO,0000,0000,0000,,Please do your best of the best of the best...
+Dialogue: 0,0:11:18.03,0:11:21.48,*Default,Suga,0000,0000,0000,,T..that was a great response, MAICO!!!
+Dialogue: 0,0:11:24.22,0:11:25.93,*Default,Matsu,0000,0000,0000,,Alright, I'm giving you an okay.
+Dialogue: 0,0:11:26.03,0:11:27.81,*Default,Densuke,0000,0000,0000,,I'm glad, MAICO-chan.
+Dialogue: 0,0:11:29.87,0:11:33.36,*Default,MAICO,0000,0000,0000,,Thank you... Thank you, Densuke-san...
+Dialogue: 0,0:11:34.64,0:11:37.45,*Default,Matsu,0000,0000,0000,,Robot broad, move on to the next letter.
+Dialogue: 0,0:11:39.76,0:11:44.52,*Default,MAICO,0000,0000,0000,,Next letter was sent by YuiYui Special-san from Okayama prefecture.
+Dialogue: 0,0:11:44.66,0:11:48.50,*Default,MAICO,0000,0000,0000,,MAICO-san, which do you like better, Ten-don or Katsu-don?
+Dialogue: 0,0:11:50.07,0:11:52.31,*Default,MAICO,0000,0000,0000,,I'm not sure since I have never ate it before.
+Dialogue: 0,0:11:52.52,0:11:55.06,*Default,Matsu,0000,0000,0000,,Who the hell picked this letter?
+Dialogue: 0,0:11:55.62,0:11:59.92,*Default,Suga,0000,0000,0000,,I did. Isn't it great? It's brilliant!!!
+Dialogue: 0,0:12:00.17,0:12:02.16,*Default,Izumi,0000,0000,0000,,The tape has ended.
+Dialogue: 0,0:12:27.05,0:12:29.68,*Default,Masuda,0000,0000,0000,,Thank you, MAICO...
+Comment: 0,0:00:00.00,0:00:00.00,*Default,Preview,0000,0000,0000,,Preview
+Dialogue: 0,0:14:01.77,0:14:05.04,*Default,Izumi,0000,0000,0000,,I am Izumi, the sound mixer of Nippon Broadcasting Corporation.
+Dialogue: 0,0:14:05.36,0:14:10.51,*Default,Izumi,0000,0000,0000,,The other day, I received an invitation to my friend's wedding but I still haven't decided whether to go or not.
+Dialogue: 0,0:14:10.51,0:14:17.48,*Default,Izumi,0000,0000,0000,,Because I wore all my favorite dresses to other formal events. If I buy a new dress and give a wedding tip, I'll be broke.
+Dialogue: 0,0:14:17.52,0:14:21.18,*Default,Izumi,0000,0000,0000,,I thought I might meet a wonderful man if I worked for mass media but...
+Dialogue: 0,0:14:21.18,0:14:25.09,*Default,Izumi,0000,0000,0000,,Next episode: \n"Android Announcer: MAICO 2010"\n [The Worst]
+Dialogue: 0,0:14:25.13,0:14:27.51,*Default,Izumi,0000,0000,0000,,The worst show, the worst staff.
+Dialogue: 0,0:14:27.69,0:14:30.89,*Default,Izumi,0000,0000,0000,,I'm thinking about changing my career seriously.

@@ -23,6 +23,7 @@ import java.util.Set;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+import yt.movies.web.server.data.access.repository.database.MoviesRepository;
 
 public class SubtitlesUtils {
 
@@ -31,6 +32,7 @@ public class SubtitlesUtils {
 
 		ApplicationContext appContext = new ClassPathXmlApplicationContext();
 
+//		MoviesRepository.ytIdToMovie.get
 		for (int i = 0; i < 1; i++) {
 			try {
 				org.springframework.core.io.Resource resource = appContext

@@ -1,0 +1,426 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default - Song,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00CA00CA,&H00000000,0,1,0,0,100,100,0,0,1,2,0,2,1,1,20,0
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Narration,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000028,&H00000028,0,1,0,0,100,100,0,0,1,2,1,2,13,13,24,1
+Style: Momo_Show_Title,Open Sans Semibold,42,&H005DDDFF,&H000000FF,&H00FFFFFF,&H00C635FE,1,1,0,0,100,100,0,0,1,4,2,8,13,13,67,1
+Style: Momo_Ep_Title,Open Sans Semibold,33,&H00020302,&H000000FF,&H009CB0B6,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,380,13,33,1
+Style: Momo_Location,Open Sans Semibold,42,&H00020302,&H000000FF,&H00C1C3BC,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,13,13,33,1
+Style: Momo_Possession,Open Sans Semibold,45,&H00000000,&H000000FF,&H00A87963,&H009A5237,1,0,0,0,100,100,0,0,1,2,2,8,13,13,27,1
+Style: Momo_Next_Ep_Title,Open Sans Semibold,36,&H00000000,&H000000FF,&H00E1E3E3,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,13,267,320,1
+Style: Preview_Item_Top,Open Sans Semibold,45,&H00000000,&H000000FF,&H00000000,&H00FFFFFF,1,0,0,0,100,100,0,0,1,0,2,7,67,13,67,1
+Style: Preview_Item_Bottom,Open Sans Semibold,45,&H00000000,&H000000FF,&H00000000,&H00FFFFFF,1,0,0,0,100,100,0,0,1,0,2,1,67,13,107,1
+Style: squad_03:14,Open Sans Semibold,36,&H005E5552,&H000000FF,&H00D8D2CE,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,13,13,27,1
+Style: banners,Open Sans Semibold,36,&H003E2BB5,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,13,13,27,1
+Style: announcement_05:16,Open Sans Semibold,24,&H006A5663,&H000000FF,&H004272D6,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,13,13,200,1
+Style: announcement_06:32,Open Sans Semibold,24,&H00825C6A,&H000000FF,&H009D89E1,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,13,13,133,1
+Style: song,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00C736FF,&H0093A5FF,1,1,0,0,100,100,0,0,1,2,2,2,13,13,27,1
+Style: squad_guards_09:03,Open Sans Semibold,30,&H001C1826,&H000000FF,&H00E5D1FD,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,13,13,27,1
+Style: concert_11:14,Open Sans Semibold,30,&H00AF24FF,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,13,13,27,1
+Style: seats_12:21,Open Sans Semibold,24,&H00142023,&H000000FF,&H00D0E1EC,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,13,13,27,1
+Style: concert_13:57,Open Sans Semibold,27,&H00436FAC,&H000000FF,&H0091EAF1,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,13,13,53,1
+Style: Momo_Bird_Possession,Open Sans Semibold,45,&H00000000,&H000000FF,&H0087FC6C,&H00AEFFA6,1,0,0,0,100,100,0,0,1,2,2,8,13,13,27,1
+Style: photos_21:15,Open Sans Semibold,30,&H00E1CED8,&H000000FF,&H00897482,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,13,13,27,1
+Style: end_21:51,Open Sans Semibold,39,&H002716B6,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,0,7,67,13,133,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:08.20,0:00:12.61,Momo_Location,,0000,0000,0000,,{\fad(475,430)}The Land of Kazusa
+Dialogue: 0,0:00:14.24,0:00:16.23,Momo_Main,M,0000,0000,0000,,So this is Kazusa?
+Dialogue: 0,0:00:16.55,0:00:19.00,Momo_Main,M,0000,0000,0000,,It looks like there're samurai everywhere.
+Dialogue: 0,0:00:19.32,0:00:24.19,Momo_Main,D,0000,0000,0000,,The influence of the eastern \Nsamurai is very strong here.
+Dialogue: 0,0:00:24.78,0:00:28.94,Momo_Main,D,0000,0000,0000,,Their ferocity is known \Nin the distant capital.
+Dialogue: 0,0:00:28.94,0:00:34.01,Momo_Main,M,0000,0000,0000,,Yeah, everybody looks really sharp and tough.
+Dialogue: 0,0:00:34.68,0:00:36.88,Momo_Main,Mo,0000,0000,0000,,They all look like they're \Nspoiling for a fight.
+Dialogue: 0,0:00:36.88,0:00:38.28,Momo_Main,P,0000,0000,0000,,It's like a war's about to break out.
+Dialogue: 0,0:00:38.28,0:00:39.53,Momo_Main,M,0000,0000,0000,,Yeah.
+Dialogue: 0,0:00:39.53,0:00:41.22,Momo_Main,Gi,0000,0000,0000,,Hey!
+Dialogue: 0,0:00:42.38,0:00:43.69,Momo_Main,Gi,0000,0000,0000,,Momoko!
+Dialogue: 0,0:00:44.54,0:00:46.12,Momo_Main,M,0000,0000,0000,,What's up, you guys?
+Dialogue: 0,0:00:54.66,0:00:55.47,Momo_Main,M,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:00:58.07,0:01:00.93,Momo_Main,D,0000,0000,0000,,Are they being controlled by the Oni?
+Dialogue: 0,0:01:01.53,0:01:03.04,Momo_Main,D,0000,0000,0000,,Be careful, Momoko!
+Dialogue: 0,0:01:03.04,0:01:03.57,Momo_Main,Gi,0000,0000,0000,,They're coming!
+Dialogue: 0,0:01:12.58,0:01:13.68,Momo_Main,All,0000,0000,0000,,{\a6}Celestial Maiden Squad!
+Dialogue: 0,0:01:13.68,0:01:14.48,Momo_Main,All,0000,0000,0000,,{\a6}Celestial Maiden Squad!
+Dialogue: 0,0:01:13.82,0:01:15.36,Momo_Main,Gi,0000,0000,0000,,What?
+Dialogue: 0,0:01:14.48,0:01:15.36,Momo_Main,All,0000,0000,0000,,{\a6}Celestial Maiden Squad!
+Dialogue: 0,0:01:15.36,0:01:16.32,Momo_Main,All,0000,0000,0000,,{\a6}Celestial Maiden Squad!
+Dialogue: 0,0:01:16.32,0:01:17.09,Momo_Main,M,0000,0000,0000,,{\a6}Celestial Maiden Squad!
+Dialogue: 0,0:01:17.09,0:01:20.96,Momo_Main,M,0000,0000,0000,,{\a6}Celestial Maiden Squad!
+Dialogue: 0,0:01:18.17,0:01:19.99,Momo_Main,Gi,0000,0000,0000,,What's... going on?
+Dialogue: 0,0:01:26.83,0:01:31.30,Momo_Show_Title,,0000,0000,0000,,{\fad(1200,1)}Momo {\c&H93A5FF&}Kyun {\c&HC736FF&}Sword
+Dialogue: 0,0:02:51.13,0:02:54.73,Momo_Ep_Title,,0000,0000,0000,,{\fad(435,495)}Episode 6: \N{\fs20}A Star is Born! \NWe're the Celestial Maiden Squad!
+Dialogue: 0,0:02:57.42,0:03:00.15,Momo_Main,M,0000,0000,0000,,So there's a Celestial Maiden Squad \Nboom right now.
+Dialogue: 0,0:03:00.50,0:03:02.34,Momo_Main,Gi,0000,0000,0000,,That's right!
+Dialogue: 0,0:03:02.34,0:03:07.29,Momo_Main,Gi,0000,0000,0000,,One of the samurai saw the \NCelestial Maiden Squad, and told the others...
+Dialogue: 0,0:03:08.06,0:03:09.76,Momo_Main,Gi,0000,0000,0000,,Right now they're really popular.
+Dialogue: 0,0:03:09.76,0:03:11.90,Momo_Main,Gi,0000,0000,0000,,Pictures of them are really popular!
+Dialogue: 0,0:03:12.52,0:03:14.07,Momo_Main,M,0000,0000,0000,,Is this a boom?
+Dialogue: 0,0:03:14.07,0:03:20.07,squad_03:14,,0000,0000,0000,,Celestial Maiden Squad
+Dialogue: 0,0:03:14.53,0:03:16.71,Momo_Main,D,0000,0000,0000,,You never know what's going to be a hit.
+Dialogue: 0,0:03:16.71,0:03:18.33,Momo_Main,P,0000,0000,0000,,They don't have a lot of \Nexperience with women,
+Dialogue: 0,0:03:18.33,0:03:20.09,Momo_Main,P,0000,0000,0000,,so they fall in love.
+Dialogue: 0,0:03:25.08,0:03:28.08,squad_03:14,,0000,0000,0000,,Celestial Maiden Squad
+Dialogue: 0,0:03:28.57,0:03:30.34,Momo_Main,K,0000,0000,0000,,Celestial Maiden Sumeragi-sama!
+Dialogue: 0,0:03:30.34,0:03:32.82,Momo_Main,Su,0000,0000,0000,,Yes, I know.
+Dialogue: 0,0:03:33.72,0:03:34.82,Momo_Main,Su,0000,0000,0000,,This is...
+Dialogue: 0,0:03:39.82,0:03:41.83,Momo_Main,Gi,0000,0000,0000,,I'm so tired.
+Dialogue: 0,0:03:41.83,0:03:45.26,Momo_Main,Gi,0000,0000,0000,,I can't believe we're so popular!
+Dialogue: 0,0:03:45.26,0:03:49.00,Momo_Main,Gi,0000,0000,0000,,You're right. I don't understand humans.
+Dialogue: 0,0:03:49.36,0:03:52.35,Momo_Main,Gi,0000,0000,0000,,But you looked like you \Nwere enjoying it, Suika.
+Dialogue: 0,0:03:52.35,0:03:54.70,Momo_Main,Gi,0000,0000,0000,,All that attention.
+Dialogue: 0,0:03:54.70,0:04:00.38,Momo_Main,Gi,0000,0000,0000,,You were being awfully nice, too, Ringo.
+Dialogue: 0,0:04:01.84,0:04:03.39,Momo_Main,Gi,0000,0000,0000,,'Cause I'm happy!
+Dialogue: 0,0:04:03.39,0:04:06.32,Momo_Main,Gi,0000,0000,0000,,It was great hearing "You're so cute!"
+Dialogue: 0,0:04:06.32,0:04:08.39,Momo_Main,Gi,0000,0000,0000,,and "Shake my hand!" from so many people.
+Dialogue: 0,0:04:08.74,0:04:12.47,Momo_Main,Gi,0000,0000,0000,,I was embarrassed, though, \Nbut I was kind of happy.
+Dialogue: 0,0:04:14.64,0:04:19.58,Momo_Main,,0000,0000,0000,,Whether we're popular or \Nnot, we only have one job:
+Dialogue: 0,0:04:19.58,0:04:23.30,Momo_Main,,0000,0000,0000,,to find the Michimi Peach \NFragments. That's all.
+Dialogue: 0,0:04:23.30,0:04:25.04,Momo_Main,,0000,0000,0000,,Y-You're right.
+Dialogue: 0,0:04:25.46,0:04:28.11,Momo_Main,,0000,0000,0000,,Popularity is fleeting...
+Dialogue: 0,0:04:28.11,0:04:31.31,Momo_Main,,0000,0000,0000,,There's no point in getting \Nall excited about it.
+Dialogue: 0,0:04:31.31,0:04:33.21,Momo_Main,,0000,0000,0000,,Okay, let's head out.
+Dialogue: 0,0:04:39.00,0:04:42.24,Momo_Main,,0000,0000,0000,,It would be unfair to \NCelestial Maiden Sumeragi-sama
+Dialogue: 0,0:04:42.24,0:04:44.82,Momo_Main,,0000,0000,0000,,to get all excited about this \Nand forget our true duty.
+Dialogue: 0,0:04:44.82,0:04:46.31,Momo_Main,,0000,0000,0000,,That's right.
+Dialogue: 0,0:04:46.31,0:04:48.61,Momo_Main,,0000,0000,0000,,Why are you dressed like that, Maron?
+Dialogue: 0,0:04:48.61,0:04:50.83,Momo_Main,,0000,0000,0000,,You're the same, Ringo.
+Dialogue: 0,0:04:53.81,0:04:55.83,Momo_Main,,0000,0000,0000,,Wh-What's with this outfit?
+Dialogue: 0,0:04:55.83,0:04:57.52,Momo_Main,,0000,0000,0000,,When did they—
+Dialogue: 0,0:04:57.52,0:04:59.25,Momo_Main,,0000,0000,0000,,Where are our clothes?
+Dialogue: 0,0:05:01.76,0:05:03.57,Momo_Main,,0000,0000,0000,,Celestial Maiden Sumeragi-sama?
+Dialogue: 0,0:05:04.93,0:05:07.08,Momo_Main,Su,0000,0000,0000,,You all look wonderful.
+Dialogue: 0,0:05:08.21,0:05:10.08,Momo_Main,Gi,0000,0000,0000,,What is this?
+Dialogue: 0,0:05:13.58,0:05:16.08,banners,,0000,0000,0000,,Ringo {\c&H7DE065&}Suika {\c&H64D2FE&}Karin {\c&H4575CB&}Maron
+Dialogue: 0,0:05:16.08,0:05:19.09,announcement_05:16,,0000,0000,0000,,Celestial Maiden Squad Debut Announcement
+Dialogue: 0,0:05:20.56,0:05:22.59,Momo_Main,M,0000,0000,0000,,Look at all those people!
+Dialogue: 0,0:05:22.59,0:05:24.86,Momo_Main,M,0000,0000,0000,,What are you going to do now?
+Dialogue: 0,0:05:25.23,0:05:27.37,Momo_Main,Gi,0000,0000,0000,,I don't know,
+Dialogue: 0,0:05:27.37,0:05:31.47,Momo_Main,Gi,0000,0000,0000,,but Celestial Maiden Sumeragi-sama \Nstarted talking about making us idols.
+Dialogue: 0,0:05:32.65,0:05:33.73,Momo_Main,M,0000,0000,0000,,Idols?
+Dialogue: 0,0:05:33.73,0:05:35.49,Momo_Main,Mo,0000,0000,0000,,What's that?
+Dialogue: 0,0:05:35.49,0:05:37.10,Momo_Main,D,0000,0000,0000,,Where did this come from?
+Dialogue: 0,0:05:37.10,0:05:38.76,Momo_Main,Gu,0000,0000,0000,,I don't know.
+Dialogue: 0,0:05:38.76,0:05:41.31,Momo_Main,Gu,0000,0000,0000,,We were surprised, too.
+Dialogue: 0,0:05:41.31,0:05:43.61,Momo_Main,Gu,0000,0000,0000,,But Celestial Maiden Sumeragi-sama says that...
+Dialogue: 0,0:05:44.35,0:05:49.76,Momo_Flashback,Su,0000,0000,0000,,Bringing joy to the people is part \Nof our job as Celestial Maidens.
+Dialogue: 0,0:05:53.83,0:05:55.62,Momo_Main,Gi,0000,0000,0000,,That's what she said!
+Dialogue: 0,0:05:56.27,0:05:58.12,Momo_Main,Gi,0000,0000,0000,,We have to do our best!
+Dialogue: 0,0:05:58.89,0:06:01.18,Momo_Italics,All,0000,0000,0000,,They're being tricked.
+Dialogue: 0,0:06:01.18,0:06:03.91,Momo_Main,Ku,0000,0000,0000,,Everybody, get ready!
+Dialogue: 0,0:06:03.91,0:06:05.07,Momo_Main,All,0000,0000,0000,,Okay!
+Dialogue: 0,0:06:06.46,0:06:07.65,Momo_Main,Gi,0000,0000,0000,,See you later!
+Dialogue: 0,0:06:07.65,0:06:08.93,Momo_Main,M,0000,0000,0000,,O-Okay.
+Dialogue: 0,0:06:16.11,0:06:18.14,Momo_Main,Gu,0000,0000,0000,,Thank you.
+Dialogue: 0,0:06:24.94,0:06:26.92,Momo_Main,Gu,0000,0000,0000,,Maron-chan's hands were so soft...
+Dialogue: 0,0:06:27.25,0:06:29.21,Momo_Main,Gu,0000,0000,0000,,I'm never washing my hand again!
+Dialogue: 0,0:06:29.21,0:06:31.06,Momo_Main,M,0000,0000,0000,,Idols, huh?
+Dialogue: 0,0:06:32.16,0:06:35.01,announcement_06:32,,0000,0000,0000,,{\fad(519,250)}Celestial Maiden Squad \NDebut Song Announcement
+Dialogue: 0,0:06:40.17,0:06:41.93,Momo_Main,Gi,0000,0000,0000,,Here's our debut song:
+Dialogue: 0,0:06:41.93,0:06:45.45,Momo_Main,Gi,0000,0000,0000,,"Ready, go! The Invincible \NCelestial Maiden Squad!"
+Dialogue: 0,0:06:47.25,0:06:49.74,song,Gi,0000,0000,0000,,Ready, go! The sky is endless
+Dialogue: 0,0:06:49.74,0:06:53.18,song,Gi,0000,0000,0000,,Ready, go! Let's stretch \Nout our hands to grab it
+Dialogue: 0,0:06:53.31,0:07:01.44,song,Gi,0000,0000,0000,,The bond between us is alive, \Nlet's hold on to it tight
+Dialogue: 0,0:07:01.44,0:07:04.85,song,Gi,0000,0000,0000,,and keep going forever!
+Dialogue: 0,0:07:02.34,0:07:04.85,song,Gi,0000,0000,0000,,Let's go! Let's go! Celestial Maiden Squad!
+Dialogue: 0,0:07:04.85,0:07:07.41,song,Gi,0000,0000,0000,,Let's go! Let's go! Celestial Maiden Squad!
+Dialogue: 0,0:07:07.41,0:07:09.95,song,Gi,0000,0000,0000,,A burning, passionate fire girl
+Dialogue: 0,0:07:09.95,0:07:12.30,song,Gi,0000,0000,0000,,A quiet, calm water girl
+Dialogue: 0,0:07:12.30,0:07:15.02,song,Gi,0000,0000,0000,,A cold and uncaring ground girl
+Dialogue: 0,0:07:15.02,0:07:17.53,song,Gi,0000,0000,0000,,A silly and ditsy windy girl
+Dialogue: 0,0:07:17.53,0:07:19.96,song,Gi,0000,0000,0000,,A world split into three
+Dialogue: 0,0:07:19.96,0:07:22.53,song,Gi,0000,0000,0000,,The darkness comes flooding in
+Dialogue: 0,0:07:22.53,0:07:25.03,song,Gi,0000,0000,0000,,Believing in a miracle and breaking out
+Dialogue: 0,0:07:25.03,0:07:27.57,song,Gi,0000,0000,0000,,Keep on going now
+Dialogue: 0,0:07:27.57,0:07:32.40,song,Gi,0000,0000,0000,,I keep what's important \Nto me close to my chest
+Dialogue: 0,0:07:32.40,0:07:34.65,song,Gi,0000,0000,0000,,Towards an unknown world
+Dialogue: 0,0:07:34.65,0:07:41.36,song,Gi,0000,0000,0000,,Each of us working together \Nwith our own special power
+Dialogue: 0,0:07:41.36,0:07:44.11,song,Gi,0000,0000,0000,,Ready, go!  Four colors of pride
+Dialogue: 0,0:07:44.11,0:07:50.48,song,Gi,0000,0000,0000,,Ready, go!  I've got my friends, \Nso everywhere and always
+Dialogue: 0,0:07:50.48,0:07:51.59,song,Gi,0000,0000,0000,,It's all right
+Dialogue: 0,0:07:51.59,0:07:54.14,song,Gi,0000,0000,0000,,Ready, go! The sky is endless
+Dialogue: 0,0:07:54.14,0:08:01.42,song,Gi,0000,0000,0000,,Ready, go! Let's stretch \Nout our hands to grab it
+Dialogue: 0,0:08:01.42,0:08:05.90,song,Gi,0000,0000,0000,,The bond between us is alive, \Nlet's hold on to it tight
+Dialogue: 0,0:08:05.90,0:08:08.98,song,Gi,0000,0000,0000,,and keep going forever
+Dialogue: 0,0:08:08.98,0:08:10.66,Momo_Main,Gu,0000,0000,0000,,Encore!
+Dialogue: 0,0:08:10.66,0:08:15.02,Momo_Main,Gu,0000,0000,0000,,Encore! Encore!
+Dialogue: 0,0:08:16.52,0:08:19.20,Momo_Main,Gu,0000,0000,0000,,Kazusa's famous Celestial Maiden Squad bun!
+Dialogue: 0,0:08:19.20,0:08:20.53,Momo_Main,Gu,0000,0000,0000,,It's hot and fresh!
+Dialogue: 0,0:08:20.87,0:08:23.62,Momo_Main,D,0000,0000,0000,,The Celestial Maiden Squad is really popular!
+Dialogue: 0,0:08:23.62,0:08:26.19,Momo_Main,Mo,0000,0000,0000,,Everywhere you look, \Nit's the Celestial Maiden Squad.
+Dialogue: 0,0:08:26.19,0:08:30.04,Momo_Main,P,0000,0000,0000,,Supposedly Celestial Maiden Sumeragi-sama \Nis behind this production.
+Dialogue: 0,0:08:30.04,0:08:31.95,Momo_Main,M,0000,0000,0000,,Really?
+Dialogue: 0,0:08:31.95,0:08:34.37,Momo_Main,P,0000,0000,0000,,She's doing everything from \Nclothing design to stage effects.
+Dialogue: 0,0:08:34.37,0:08:37.23,Momo_Main,P,0000,0000,0000,,She even got Flying Dog to write the song.
+Dialogue: 0,0:08:37.23,0:08:39.71,Momo_Main,P,0000,0000,0000,,She's pretty amazing.
+Dialogue: 0,0:08:40.30,0:08:45.02,Momo_Main,P,0000,0000,0000,,The pictures with a handshake \Ntickets were her idea, too.
+Dialogue: 0,0:08:45.02,0:08:49.16,Momo_Main,P,0000,0000,0000,,People are buying dozens \Nof them to get the bonuses.
+Dialogue: 0,0:08:54.94,0:08:57.05,Momo_Main,P,0000,0000,0000,,Momo, are you jealous?
+Dialogue: 0,0:08:57.66,0:09:00.95,Momo_Main,M,0000,0000,0000,,No, I'm nothing of the sort.
+Dialogue: 0,0:09:00.95,0:09:02.62,Momo_Main,S,0000,0000,0000,,Oh, it's Momoko-dono.
+Dialogue: 0,0:09:03.14,0:09:13.41,squad_guards_09:03,,0000,0000,0000,,Celestial Maiden Squad Bodyguards
+Dialogue: 0,0:09:03.58,0:09:04.77,Momo_Main,M,0000,0000,0000,,You guys!
+Dialogue: 0,0:09:04.77,0:09:06.64,Momo_Main,M,0000,0000,0000,,Why are you dressed like that?
+Dialogue: 0,0:09:07.11,0:09:11.14,Momo_Main,S,0000,0000,0000,,We'll be supporting the \NCelestial Maiden Squad
+Dialogue: 0,0:09:11.14,0:09:13.41,Momo_Main,S,0000,0000,0000,,in their idol activities as bodyguards.
+Dialogue: 0,0:09:13.41,0:09:15.27,Momo_Main,M,0000,0000,0000,,Bodyguards?
+Dialogue: 0,0:09:15.27,0:09:16.92,Momo_Main,M,0000,0000,0000,,Why do they need bodyguards?
+Dialogue: 0,0:09:17.28,0:09:20.48,Momo_Main,S,0000,0000,0000,,The eastern samurai are \Nknown for being rough,
+Dialogue: 0,0:09:20.48,0:09:22.73,Momo_Main,S,0000,0000,0000,,and the court is concerned about them.
+Dialogue: 0,0:09:22.73,0:09:25.45,Momo_Main,S,0000,0000,0000,,However, since the Celestial \NMaiden Squad appeared,
+Dialogue: 0,0:09:25.45,0:09:28.56,Momo_Main,S,0000,0000,0000,,they've calmed down and stopped making war.
+Dialogue: 0,0:09:29.58,0:09:33.93,Momo_Main,S,0000,0000,0000,,The court decided we should \Nsupport this in any way we can.
+Dialogue: 0,0:09:33.93,0:09:42.27,Momo_Main,,0000,0000,0000,,
+Dialogue: 0,0:09:34.47,0:09:40.39,Momo_Main,S,0000,0000,0000,,We're in charge of security at the \Nevents, developing new products,
+Dialogue: 0,0:09:40.39,0:09:42.27,Momo_Main,S,0000,0000,0000,,and explaining things to the locals.
+Dialogue: 0,0:09:42.27,0:09:45.51,Momo_Main,T,0000,0000,0000,,Actually he saw a picture of them \Nin their swimsuits and became a fan—
+Dialogue: 0,0:09:47.14,0:09:50.47,Momo_Main,S,0000,0000,0000,,Anyway, the Celestial \NMaiden Squad being idols
+Dialogue: 0,0:09:50.47,0:09:52.28,Momo_Main,S,0000,0000,0000,,is a good thing for humanity!
+Dialogue: 0,0:09:57.91,0:09:59.79,Momo_Main,O,0000,0000,0000,,So they're idols, huh?
+Dialogue: 0,0:09:59.79,0:10:02.06,Momo_Main,O,0000,0000,0000,,That doesn't matter.
+Dialogue: 0,0:10:02.06,0:10:06.10,Momo_Main,G,0000,0000,0000,,But if the Celestial Maiden \NSquad focuses on being idols
+Dialogue: 0,0:10:06.10,0:10:08.43,Momo_Main,G,0000,0000,0000,,and stops looking for the fragments,
+Dialogue: 0,0:10:08.43,0:10:10.30,Momo_Main,G,0000,0000,0000,,it'll make things easier for us.
+Dialogue: 0,0:10:10.30,0:10:11.58,Momo_Main,O,0000,0000,0000,,You're right.
+Dialogue: 0,0:10:12.20,0:10:14.06,Momo_Main,O,0000,0000,0000,,It's better to have fewer enemies.
+Dialogue: 0,0:10:14.50,0:10:16.73,Momo_Main,O,0000,0000,0000,,Okay, I'll leave it to you.
+Dialogue: 0,0:10:16.73,0:10:17.45,Momo_Main,G,0000,0000,0000,,Understood.
+Dialogue: 0,0:10:17.45,0:10:18.36,Momo_Main,G,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:10:32.52,0:10:33.76,Momo_Main,G,0000,0000,0000,,By the way, Onihime...
+Dialogue: 0,0:10:36.67,0:10:37.63,Momo_Main,G,0000,0000,0000,,...sama?
+Dialogue: 0,0:10:39.03,0:10:44.48,Momo_Main,O,0000,0000,0000,,Knock first!
+Dialogue: 0,0:10:40.89,0:10:44.48,Momo_Main,G,0000,0000,0000,,I'm sorry! I'm sorry! I'm sorry!
+Dialogue: 0,0:10:45.54,0:10:48.04,Momo_Main,Su,0000,0000,0000,,Everyone, you have a new mission.
+Dialogue: 0,0:10:49.47,0:10:55.25,Momo_Main,Su,0000,0000,0000,,I'm aware your schedule as top idols is full.
+Dialogue: 0,0:10:55.25,0:10:57.28,Momo_Main,Su,0000,0000,0000,,But this is an important task.
+Dialogue: 0,0:10:57.90,0:10:59.18,Momo_Main,Gi,0000,0000,0000,,Leave it to us.
+Dialogue: 0,0:10:59.67,0:11:02.21,Momo_Main,Gi,0000,0000,0000,,If you order us to,
+Dialogue: 0,0:11:02.21,0:11:05.29,Momo_Main,Gi,0000,0000,0000,,we'll do whatever you want.
+Dialogue: 0,0:11:05.74,0:11:08.96,Momo_Main,Gi,0000,0000,0000,,That is our task as the \NCelestial Maiden Squad.
+Dialogue: 0,0:11:09.68,0:11:11.32,Momo_Main,Su,0000,0000,0000,,Thank you, everyone.
+Dialogue: 0,0:11:11.32,0:11:12.46,Momo_Main,Su,0000,0000,0000,,So...
+Dialogue: 0,0:11:14.56,0:11:17.10,concert_11:14,,0000,0000,0000,,Celestial Maiden Squad \N~Super Concert~
+Dialogue: 0,0:11:17.46,0:11:20.10,Momo_Main,Su,0000,0000,0000,,I'm counting on you for this super concert!
+Dialogue: 0,0:11:20.59,0:11:21.37,Momo_Main,,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:11:23.92,0:11:25.94,Momo_Main,,0000,0000,0000,,Momo Kyun Sword!
+Dialogue: 0,0:11:26.47,0:11:27.94,Momo_Main,Gi,0000,0000,0000,,A super concert?
+Dialogue: 0,0:11:28.35,0:11:29.09,Momo_Main,S,0000,0000,0000,,Yes.
+Dialogue: 0,0:11:29.09,0:11:32.01,Momo_Main,S,0000,0000,0000,,I want your technology to help set it up.
+Dialogue: 0,0:11:32.69,0:11:35.28,Momo_Main,Gi,0000,0000,0000,,Does that have anything to do \Nwith finding the fragments?
+Dialogue: 0,0:11:35.28,0:11:36.84,Momo_Main,S,0000,0000,0000,,It does!
+Dialogue: 0,0:11:36.84,0:11:38.78,Momo_Main,S,0000,0000,0000,,The success of the super concert is
+Dialogue: 0,0:11:38.78,0:11:41.16,Momo_Main,S,0000,0000,0000,,the fastest way for us to find the fragments!
+Dialogue: 0,0:11:42.48,0:11:43.85,Momo_Main,Gi,0000,0000,0000,,I see.
+Dialogue: 0,0:11:43.85,0:11:45.16,Momo_Main,Gi,0000,0000,0000,,Understood. I'll make it happen.
+Dialogue: 0,0:11:45.65,0:11:46.53,Momo_Main,S,0000,0000,0000,,Thank you.
+Dialogue: 0,0:11:47.53,0:11:50.70,Momo_Main,S,0000,0000,0000,,{\a6}Stay in line!
+Dialogue: 0,0:11:50.70,0:11:53.98,Momo_Main,S,0000,0000,0000,,{\a6}Stay in line!
+Dialogue: 0,0:11:51.54,0:11:53.98,Momo_Main,M,0000,0000,0000,,Look at that line.
+Dialogue: 0,0:11:53.98,0:11:56.24,Momo_Main,Mo,0000,0000,0000,,I guess they're all in \Nline to get tickets to the
+Dialogue: 0,0:11:56.24,0:11:58.91,Momo_Main,Mo,0000,0000,0000,,Celestial Maiden Squad's super concert.
+Dialogue: 0,0:12:01.16,0:12:06.91,Momo_Main,D,0000,0000,0000,,I think Momoko-sama is way better \Nthan the Celestial Maiden Squad.
+Dialogue: 0,0:12:08.29,0:12:09.68,Momo_Main,M,0000,0000,0000,,Thank you, Inugami!
+Dialogue: 0,0:12:09.68,0:12:15.47,Momo_Main,D,0000,0000,0000,,All it took was a few skimpy bathing \Nsuits and now all the men love them.
+Dialogue: 0,0:12:15.47,0:12:17.28,Momo_Main,D,0000,0000,0000,,It's pathetic.
+Dialogue: 0,0:12:17.28,0:12:18.94,Momo_Main,T,0000,0000,0000,,There you are.
+Dialogue: 0,0:12:19.62,0:12:20.83,Momo_Main,M,0000,0000,0000,,What is it?
+Dialogue: 0,0:12:21.06,0:12:26.07,seats_12:21,,0000,0000,0000,,Celestial Maiden Squad \NSuper Concert S-Seats
+Dialogue: 0,0:12:21.81,0:12:26.07,Momo_Main,T,0000,0000,0000,,These are the two S-seat tickets and \Nsexy picture that you asked for.
+Dialogue: 0,0:12:28.32,0:12:29.90,Momo_Main,Mo,0000,0000,0000,,Don't bring those out now!
+Dialogue: 0,0:12:29.90,0:12:32.38,Momo_Main,D,0000,0000,0000,,We said we'd go get them!
+Dialogue: 0,0:12:33.27,0:12:35.07,Momo_Main,P,0000,0000,0000,,That really is pathetic.
+Dialogue: 0,0:12:35.07,0:12:36.92,Momo_Main,Mo,0000,0000,0000,,No, this is...
+Dialogue: 0,0:12:36.92,0:12:38.90,Momo_Main,D,0000,0000,0000,,The devil made me do it.
+Dialogue: 0,0:12:38.90,0:12:41.18,Momo_Main,M,0000,0000,0000,,Why don't you two join the line?
+Dialogue: 0,0:12:41.60,0:12:43.95,Momo_Main,D,0000,0000,0000,,Wait, Momoko-sama!
+Dialogue: 0,0:12:43.95,0:12:47.09,Momo_Main,Mo,0000,0000,0000,,Momoko, you're way cuter!
+Dialogue: 0,0:12:47.09,0:12:51.09,Momo_Main,Mo,0000,0000,0000,,Sexy! Pretty! Cutie Momoko!
+Dialogue: 0,0:12:55.36,0:12:58.60,Momo_Main,M,0000,0000,0000,,Shouldn't we all be looking \Nfor the fragments?
+Dialogue: 0,0:12:58.93,0:13:03.07,Momo_Main,D,0000,0000,0000,,We haven't found one since \Nthey started being idols.
+Dialogue: 0,0:13:03.07,0:13:05.60,Momo_Main,Mo,0000,0000,0000,,Isn't that a problem?
+Dialogue: 0,0:13:05.60,0:13:07.50,Momo_Main,M,0000,0000,0000,,Yeah, it is.
+Dialogue: 0,0:13:07.50,0:13:10.11,Momo_Main,M,0000,0000,0000,,I'll go talk to them.
+Dialogue: 0,0:13:10.76,0:13:12.61,Momo_Main,Gi,0000,0000,0000,,Come back sometime.
+Dialogue: 0,0:13:12.61,0:13:13.23,Momo_Main,Gu,0000,0000,0000,,I will!
+Dialogue: 0,0:13:13.23,0:13:14.65,Momo_Main,Gi,0000,0000,0000,,Thank you!
+Dialogue: 0,0:13:14.65,0:13:16.23,Momo_Main,M,0000,0000,0000,,I finally made it.
+Dialogue: 0,0:13:16.23,0:13:17.17,Momo_Main,Gi,0000,0000,0000,,Momoko!
+Dialogue: 0,0:13:17.17,0:13:17.88,Momo_Main,Gi,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:13:18.38,0:13:21.72,Momo_Main,M,0000,0000,0000,,Stop doing this and let's \Nlook for the fragments!
+Dialogue: 0,0:13:22.44,0:13:24.77,Momo_Main,Gi,0000,0000,0000,,But we're in the middle of a handshake event!
+Dialogue: 0,0:13:25.55,0:13:28.73,Momo_Main,Gi,0000,0000,0000,,We've got to practice our concert after this.
+Dialogue: 0,0:13:28.73,0:13:30.78,Momo_Main,Gi,0000,0000,0000,,It's almost time for the concert.
+Dialogue: 0,0:13:31.31,0:13:32.26,Momo_Main,Gi,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:13:32.68,0:13:35.71,Momo_Main,Gi,0000,0000,0000,,So we'll leave the fragments to you.
+Dialogue: 0,0:13:35.71,0:13:36.50,Momo_Main,Gi,0000,0000,0000,,We're counting on you!
+Dialogue: 0,0:13:38.30,0:13:39.27,Momo_Main,M,0000,0000,0000,,Dummies!
+Dialogue: 0,0:13:39.27,0:13:40.50,Momo_Main,M,0000,0000,0000,,Forget you!
+Dialogue: 0,0:13:49.37,0:13:51.14,Momo_Main,M,0000,0000,0000,,The villagers say there's
+Dialogue: 0,0:13:51.14,0:13:53.84,Momo_Main,M,0000,0000,0000,,something that looks like \Na fragment in that forest.
+Dialogue: 0,0:13:54.40,0:13:57.65,Momo_Main,P,0000,0000,0000,,And this is the super concert stadium, huh?
+Dialogue: 0,0:13:57.65,0:13:59.92,concert_13:57,,0000,0000,0000,,Celestial Maiden Squad Super Concert
+Dialogue: 0,0:13:58.06,0:13:59.59,Momo_Main,D,0000,0000,0000,,I guess being an idol
+Dialogue: 0,0:13:59.59,0:14:02.14,Momo_Main,D,0000,0000,0000,,was more important to them \Nthan finding the fragments.
+Dialogue: 0,0:14:02.14,0:14:03.53,Momo_Main,D,0000,0000,0000,,The jerks.
+Dialogue: 0,0:14:03.53,0:14:05.02,Momo_Main,Mo,0000,0000,0000,,That's right.
+Dialogue: 0,0:14:06.36,0:14:07.50,Momo_Main,M,0000,0000,0000,,That light!
+Dialogue: 0,0:14:07.50,0:14:09.90,Momo_Main,Mo,0000,0000,0000,,Looks like that's it.
+Dialogue: 0,0:14:09.90,0:14:11.36,Momo_Main,D,0000,0000,0000,,Let's go, then!
+Dialogue: 0,0:14:11.36,0:14:12.28,Momo_Main,P,0000,0000,0000,,Yeah.
+Dialogue: 0,0:14:12.28,0:14:14.94,Momo_Main,M,0000,0000,0000,,Okay, from now on it's the four of us!
+Dialogue: 0,0:14:14.94,0:14:16.04,Momo_Main,All,0000,0000,0000,,Yeah!
+Dialogue: 0,0:14:16.38,0:14:21.09,Momo_Main,Gi,0000,0000,0000,,It's almost time for the Celestial \NMaiden Squad super concert!
+Dialogue: 0,0:14:24.38,0:14:28.65,Momo_Main,Gi,0000,0000,0000,,You two look way too down.
+Dialogue: 0,0:14:29.23,0:14:32.13,Momo_Main,Gi,0000,0000,0000,,So do you, Suika.
+Dialogue: 0,0:14:34.66,0:14:36.16,Momo_Main,Gi,0000,0000,0000,,Is this really okay?
+Dialogue: 0,0:14:41.34,0:14:43.50,Momo_Main,Gi,0000,0000,0000,,I'm pretty sure it was around here.
+Dialogue: 0,0:14:43.50,0:14:44.73,Momo_Main,Momoko,0000,0000,0000,,Hold on!
+Dialogue: 0,0:14:49.06,0:14:50.06,Momo_Main,Inugami,0000,0000,0000,,When did they...
+Dialogue: 0,0:14:50.06,0:14:51.74,Momo_Main,Sarugami,0000,0000,0000,,There are so many.
+Dialogue: 0,0:14:51.74,0:14:52.95,Momo_Main,Momoko,0000,0000,0000,,Kijigami!
+Dialogue: 0,0:14:52.95,0:14:53.51,Momo_Main,Kijigami,0000,0000,0000,,Right.
+Dialogue: 0,0:15:02.22,0:15:03.48,Momo_Main,Momoko,0000,0000,0000,,They're...
+Dialogue: 0,0:15:06.11,0:15:06.85,Momo_Main,Inugami,0000,0000,0000,,Illusions?!
+Dialogue: 0,0:15:09.86,0:15:11.99,Momo_Main,Sarugami,0000,0000,0000,,Looks like there are some real ones mixed in!
+Dialogue: 0,0:15:11.99,0:15:13.75,Momo_Main,Inugami,0000,0000,0000,,We're just going to have to...
+Dialogue: 0,0:15:13.75,0:15:15.95,Momo_Main,Kijigami,0000,0000,0000,,...take them all on!
+Dialogue: 0,0:15:16.52,0:15:19.83,Momo_Main,Momoko,0000,0000,0000,,Yeah, but we have to do this!
+Dialogue: 0,0:15:22.82,0:15:24.68,Momo_Main,Genki,0000,0000,0000,,I wonder how long they'll last.
+Dialogue: 0,0:15:26.83,0:15:29.52,Momo_Main,Kushinada,0000,0000,0000,,Are all of you ready?!
+Dialogue: 0,0:15:30.34,0:15:37.24,Momo_Main,R,0000,0000,0000,,Celestial Maiden Squad!
+Dialogue: 0,0:15:47.06,0:15:49.12,Momo_Main,Kushinada,0000,0000,0000,,Are you ready?
+Dialogue: 0,0:15:49.12,0:15:50.10,Momo_Main,Sumeragi,0000,0000,0000,,Hm?
+Dialogue: 0,0:15:50.92,0:15:53.30,Momo_Main,Sumeragi,0000,0000,0000,,What's wrong with you all?
+Dialogue: 0,0:15:54.88,0:15:57.87,Momo_Main,Ringo,0000,0000,0000,,Celestial Maiden Sumeragi-sama, I...
+Dialogue: 0,0:16:17.91,0:16:20.39,Momo_Main,Ringo,0000,0000,0000,,Everyone, please hear us out.
+Dialogue: 0,0:16:21.90,0:16:23.73,Momo_Main,R,0000,0000,0000,,What's going on?
+Dialogue: 0,0:16:26.21,0:16:31.23,Momo_Main,Ringo,0000,0000,0000,,I'm really glad you all came \Nhere for our super concert,
+Dialogue: 0,0:16:31.23,0:16:35.91,Momo_Main,Ringo,0000,0000,0000,,but I'm sorry, we can't sing any longer.
+Dialogue: 0,0:16:36.29,0:16:39.93,Momo_Main,Karin,0000,0000,0000,,I really like dancing and singing,
+Dialogue: 0,0:16:39.93,0:16:43.42,Momo_Main,Karin,0000,0000,0000,,but that's not who we're supposed to be.
+Dialogue: 0,0:16:43.84,0:16:46.05,Momo_Main,Maron,0000,0000,0000,,We've realized that the Celestial Maiden Squad
+Dialogue: 0,0:16:46.05,0:16:50.15,Momo_Main,Maron,0000,0000,0000,,has a much more important mission.
+Dialogue: 0,0:16:50.58,0:16:54.16,Momo_Main,Suika,0000,0000,0000,,That's why today is the \Nlast day for us as idols.
+Dialogue: 0,0:16:54.16,0:16:58.36,Momo_Main,All,0000,0000,0000,,We're going back to the old \NCelestial Maiden Squad!
+Dialogue: 0,0:16:58.36,0:17:01.13,Momo_Main,All,0000,0000,0000,,What?!
+Dialogue: 0,0:17:11.84,0:17:13.38,Momo_Main,A,0000,0000,0000,,That's how the Celestial \NMaiden Squad should be!
+Dialogue: 0,0:17:12.81,0:17:18.38,Momo_Main,R,0000,0000,0000,,{\a6}Celestial Maiden Squad!
+Dialogue: 0,0:17:13.38,0:17:15.84,Momo_Main,B,0000,0000,0000,,The real Celestial Maiden Squad is back!
+Dialogue: 0,0:17:19.20,0:17:21.29,Momo_Italics,Ringo,0000,0000,0000,,This was the right thing, wasn't it?
+Dialogue: 0,0:17:22.78,0:17:24.82,Momo_Main,Seimei,0000,0000,0000,,Are you sure this is for the best?
+Dialogue: 0,0:17:24.82,0:17:27.89,Momo_Main,Sumeragi,0000,0000,0000,,It seems like they all \Nfinally realized what they
+Dialogue: 0,0:17:28.35,0:17:31.89,Momo_Main,Sumeragi,0000,0000,0000,,should be doing and what's important.
+Dialogue: 0,0:17:31.89,0:17:33.37,Momo_Main,Seimei,0000,0000,0000,,You can't mean
+Dialogue: 0,0:17:33.37,0:17:36.26,Momo_Main,Seimei,0000,0000,0000,,you wanted them to understand \Nthat, so you made them be idols?
+Dialogue: 0,0:17:36.76,0:17:40.17,Momo_Main,Kushinada,0000,0000,0000,,Celestial Maiden Sumeragi-sama knows all.
+Dialogue: 0,0:17:43.97,0:17:45.81,Momo_Main,Seimei,0000,0000,0000,,What amazing foresight.
+Dialogue: 0,0:17:46.16,0:17:49.81,Momo_Main,Kushinada,0000,0000,0000,,To be honest, she was really \Njust after the money.
+Dialogue: 0,0:17:49.81,0:17:50.61,Momo_Main,Seimei,0000,0000,0000,,What?
+Dialogue: 0,0:17:52.27,0:17:55.22,Momo_Main,Kushinada,0000,0000,0000,,She might be the Celestial Maiden, but she \Nhas her own life to attend to, as well.
+Dialogue: 0,0:17:55.22,0:17:59.55,Momo_Main,Sumeragi,0000,0000,0000,,I have my title, so I need \Nto play the part, you know?
+Dialogue: 0,0:18:02.99,0:18:04.65,Momo_Main,Seimei,0000,0000,0000,,Celestial Maiden Sumeragi...
+Dialogue: 0,0:18:05.07,0:18:06.45,Momo_Main,Seimei,0000,0000,0000,,She's terrifying.
+Dialogue: 0,0:18:06.45,0:18:07.67,Momo_Main,C,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:18:07.67,0:18:08.56,Momo_Main,Seimei,0000,0000,0000,,Hm?
+Dialogue: 0,0:18:08.56,0:18:11.68,Momo_Main,C,0000,0000,0000,,Give us our money back if \Nyou're canceling the concert!
+Dialogue: 0,0:18:11.68,0:18:12.33,Momo_Main,Seimei,0000,0000,0000,,What?
+Dialogue: 0,0:18:12.33,0:18:14.34,Momo_Main,R,0000,0000,0000,,Give us back our money!
+Dialogue: 0,0:18:14.34,0:18:16.49,Momo_Main,Seimei,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:18:16.92,0:18:19.07,Momo_Main,Guy,0000,0000,0000,,Seimei-sama!
+Dialogue: 0,0:18:23.08,0:18:24.64,Momo_Main,Momoko,0000,0000,0000,,Another fake!
+Dialogue: 0,0:18:24.64,0:18:25.90,Momo_Main,Kijigami,0000,0000,0000,,They don't stop coming.
+Dialogue: 0,0:18:25.90,0:18:28.62,Momo_Main,Inugami,0000,0000,0000,,There isn't even enough time \Nfor us to do a Possession Fusion.
+Dialogue: 0,0:18:29.52,0:18:31.08,Momo_Main,Sarugami,0000,0000,0000,,What should we do?!
+Dialogue: 0,0:18:35.92,0:18:37.02,Momo_Main,Momoko,0000,0000,0000,,Genki!
+Dialogue: 0,0:18:37.02,0:18:39.27,Momo_Main,Genki,0000,0000,0000,,I took the fragment.
+Dialogue: 0,0:18:39.27,0:18:40.59,Momo_Main,Genki,0000,0000,0000,,And next...
+Dialogue: 0,0:18:40.59,0:18:42.56,Momo_Main,Genki,0000,0000,0000,,I'll take your lives!
+Dialogue: 0,0:18:42.88,0:18:44.70,Momo_Main,Ringo,0000,0000,0000,,Not happening!
+Dialogue: 0,0:18:50.03,0:18:51.08,Momo_Main,Genki,0000,0000,0000,,Who are you?!
+Dialogue: 0,0:18:51.94,0:18:53.57,Momo_Main,Maron,0000,0000,0000,,Celestial Maiden of Earth, Maron!
+Dialogue: 0,0:18:53.96,0:18:55.41,Momo_Main,Suika,0000,0000,0000,,Celestial Maiden of Water, Suika!
+Dialogue: 0,0:18:56.49,0:18:58.61,Momo_Main,Ringo,0000,0000,0000,,Celestial Maiden of Fire, Ringo!
+Dialogue: 0,0:18:58.61,0:19:00.81,Momo_Main,Karin,0000,0000,0000,,Celestial Maiden of Wind, Karin!
+Dialogue: 0,0:19:02.29,0:19:04.08,Momo_Main,All,0000,0000,0000,,We're going to stop the Oni!
+Dialogue: 0,0:19:04.41,0:19:05.22,Momo_Main,All,0000,0000,0000,,The Celestial Maiden Squad...
+Dialogue: 0,0:19:05.22,0:19:06.47,Momo_Main,All,0000,0000,0000,,has arrived!
+Dialogue: 0,0:19:06.91,0:19:07.95,Momo_Main,Momoko,0000,0000,0000,,You guys!
+Dialogue: 0,0:19:09.62,0:19:11.82,Momo_Main,Ringo,0000,0000,0000,,Momoko, we're getting back the fragment.
+Dialogue: 0,0:19:12.16,0:19:13.23,Momo_Main,Momoko,0000,0000,0000,,Right!
+Dialogue: 0,0:19:14.30,0:19:16.28,Momo_Main,Genki,0000,0000,0000,,I-I'm not letting you have it!
+Dialogue: 0,0:19:16.28,0:19:18.26,Momo_Main,Genki,0000,0000,0000,,Let's go, guys!
+Dialogue: 0,0:19:18.73,0:19:21.80,Momo_Main,Momoko,0000,0000,0000,,Hey, don't run away!
+Dialogue: 0,0:19:21.80,0:19:23.44,Momo_Main,Kijigami,0000,0000,0000,,Momo, let's do a Possession Fusion!
+Dialogue: 0,0:19:23.44,0:19:24.24,Momo_Main,Momoko,0000,0000,0000,,Right!
+Dialogue: 0,0:19:28.25,0:19:30.29,Momo_Main,Momoko,0000,0000,0000,,Momokyun Possession!
+Dialogue: 0,0:19:31.48,0:19:32.11,Momo_Main,Momoko,0000,0000,0000,,Flying
+Dialogue: 0,0:19:31.48,0:19:32.11,Momo_Bird_Possession,Momoko,0000,0000,0000,,Flying
+Dialogue: 0,0:19:32.11,0:19:32.74,Momo_Main,Momoko,0000,0000,0000,,like
+Dialogue: 0,0:19:32.11,0:19:32.74,Momo_Bird_Possession,Momoko,0000,0000,0000,,Like
+Dialogue: 0,0:19:32.74,0:19:33.35,Momo_Main,Momoko,0000,0000,0000,,a
+Dialogue: 0,0:19:32.74,0:19:33.35,Momo_Bird_Possession,Momoko,0000,0000,0000,,A
+Dialogue: 0,0:19:33.35,0:19:33.98,Momo_Main,Momoko,0000,0000,0000,,bird!
+Dialogue: 0,0:19:33.35,0:19:33.98,Momo_Bird_Possession,Momoko,0000,0000,0000,,Bird
+Dialogue: 0,0:19:34.96,0:19:36.98,Momo_Main,Momoko,0000,0000,0000,,Kijigami is here!
+Dialogue: 0,0:19:34.96,0:19:36.98,Momo_Bird_Possession,,0000,0000,0000,,Kijigami is here
+Dialogue: 0,0:19:48.86,0:19:50.43,Momo_Main,Momoko,0000,0000,0000,,Light Arrow Barrage!
+Dialogue: 0,0:19:48.86,0:19:50.43,Momo_Bird_Possession,Momoko,0000,0000,0000,,{\fad(1255,1)}Light Arrow Barrage!
+Dialogue: 0,0:19:58.93,0:20:00.89,Momo_Main,Genki,0000,0000,0000,,We're far enough away now.
+Dialogue: 0,0:20:01.50,0:20:03.33,Momo_Main,Genki,0000,0000,0000,,Good work, you guys.
+Dialogue: 0,0:20:03.33,0:20:04.54,Momo_Main,R,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:04.54,0:20:05.75,Momo_Main,Genki,0000,0000,0000,,Hm? What's that?
+Dialogue: 0,0:20:07.79,0:20:11.11,Momo_Main,Genki,0000,0000,0000,,We weren't far enough away at all!
+Dialogue: 0,0:20:24.55,0:20:25.49,Momo_Main,Ringo,0000,0000,0000,,Momoko...
+Dialogue: 0,0:20:25.49,0:20:28.00,Momo_Main,Ringo,0000,0000,0000,,We...
+Dialogue: 0,0:20:28.00,0:20:29.43,Momo_Main,Momoko,0000,0000,0000,,It's fine.
+Dialogue: 0,0:20:29.43,0:20:30.87,Momo_Main,Momoko,0000,0000,0000,,You came for me.
+Dialogue: 0,0:20:31.30,0:20:32.14,Momo_Main,Momoko,0000,0000,0000,,Thanks.
+Dialogue: 0,0:20:36.97,0:20:39.39,Momo_Main,A,0000,0000,0000,,The explosion should have been around here.
+Dialogue: 0,0:20:41.24,0:20:42.26,Momo_Main,B,0000,0000,0000,,There's someone here.
+Dialogue: 0,0:20:42.26,0:20:44.15,Momo_Main,C,0000,0000,0000,,Isn't that the...
+Dialogue: 0,0:20:47.11,0:20:49.15,Momo_Main,C,0000,0000,0000,,I bought one hundred of those pictures.
+Dialogue: 0,0:20:49.15,0:20:52.00,Momo_Main,Suika,0000,0000,0000,,Oh, this isn't good.
+Dialogue: 0,0:20:52.00,0:20:53.73,Momo_Main,Ringo,0000,0000,0000,,I think we should retreat for now.
+Dialogue: 0,0:20:53.73,0:20:55.16,Momo_Main,Momoko,0000,0000,0000,,Wait for me!
+Dialogue: 0,0:20:56.66,0:20:58.28,Momo_Main,,0000,0000,0000,,
+Dialogue: 0,0:20:57.12,0:20:59.90,Momo_Main,R,0000,0000,0000,,{\a6}Celestial Maiden Squad!
+Dialogue: 0,0:20:58.28,0:20:59.90,Momo_Main,Kijigami,0000,0000,0000,,Calm down, Momo!
+Dialogue: 0,0:20:59.90,0:21:00.66,Momo_Main,Kijigami,0000,0000,0000,,If you start getting that flustered, I'll...
+Dialogue: 0,0:20:59.90,0:21:02.66,Momo_Main,,0000,0000,0000,,
+Dialogue: 0,0:21:09.90,0:21:14.29,Momo_Main,Momoko,0000,0000,0000,,Now that I think about it, \NI should have just flown away, too.
+Dialogue: 0,0:21:15.49,0:21:18.41,photos_21:15,,0000,0000,0000,,Pictures
+Dialogue: 0,0:21:18.41,0:21:22.42,squad_guards_09:03,,0000,0000,0000,,Momoko
+Dialogue: 0,0:21:27.56,0:21:28.92,Momo_Main,Ringo,0000,0000,0000,,Oh, my.
+Dialogue: 0,0:21:29.58,0:21:32.32,Momo_Main,Ringo,0000,0000,0000,,The naked picture of you is pretty popular.
+Dialogue: 0,0:21:33.46,0:21:35.41,Momo_Main,Momoko,0000,0000,0000,,Why did this have to happen?
+Dialogue: 0,0:21:35.41,0:21:36.93,Momo_Main,Inugami,0000,0000,0000,,Don't get so down.
+Dialogue: 0,0:21:37.43,0:21:39.72,Momo_Main,Inugami,0000,0000,0000,,It's a new record, supposedly.
+Dialogue: 0,0:21:39.72,0:21:41.81,Momo_Main,Inugami,0000,0000,0000,,The amount of these pictures they've sold.
+Dialogue: 0,0:21:41.81,0:21:44.06,Momo_Main,Kijigami,0000,0000,0000,,So you're an idol now, too, Momoko.
+Dialogue: 0,0:21:44.06,0:21:45.44,Momo_Main,Sarugami,0000,0000,0000,,Isn't that great, Momoko?
+Dialogue: 0,0:21:46.39,0:21:47.44,Momo_Main,Momoko,0000,0000,0000,,No...
+Dialogue: 0,0:21:47.71,0:21:51.32,Momo_Main,Momoko,0000,0000,0000,,No, it's not!!
+Dialogue: 0,0:21:51.46,0:21:54.71,end_21:51,,0000,0000,0000,,{\fad(1,1009)}Sold Out
+Dialogue: 0,0:23:26.58,0:23:28.89,Momo_Main,Kijigami,0000,0000,0000,,We'll be going to the Land of Echigo next.
+Dialogue: 0,0:23:28.65,0:23:30.92,Preview_Item_Top,,0000,0000,0000,,{\fad(243,125)}Hegisoba
+Dialogue: 0,0:23:28.89,0:23:31.55,Momo_Main,Kijigami,0000,0000,0000,,Hegisoba and tarekatsu are well known there,
+Dialogue: 0,0:23:30.81,0:23:33.54,Preview_Item_Bottom,,0000,0000,0000,,{\fad(250,242)}Tarekatsu
+Dialogue: 0,0:23:31.55,0:23:35.33,Momo_Main,Kijigami,0000,0000,0000,,but my recommendation is definitely the rice.
+Dialogue: 0,0:23:33.31,0:23:36.68,Preview_Item_Top,,0000,0000,0000,,{\fad(255,279)}Rice
+Dialogue: 0,0:23:35.33,0:23:38.45,Momo_Main,Kijigami,0000,0000,0000,,Get yourself some good Koshihikari and sake.
+Dialogue: 0,0:23:36.41,0:23:40.95,Momo_Next_Ep_Title,,0000,0000,0000,,{\fad(290,1)}Next time: \NLost!? \NMomoko's Important Thing
+Dialogue: 0,0:23:38.95,0:23:40.95,Momo_Main,Kijigami,0000,0000,0000,,Nothing better.

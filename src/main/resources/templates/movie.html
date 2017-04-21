@@ -15,6 +15,10 @@
 <script th:src="@{/js/translations.js}"></script>
 
 <title>Portfolio Item - Start Bootstrap Template</title>
+	<script type="text/javascript" th:inline="javascript">
+		subsLocations = [[${movie.subsLocations}]];
+		youtId = [[${movie.youtubeId}]];
+	</script>
 </head>
 <body>
 	<!-- Page Content -->
@@ -25,41 +29,52 @@
 				<h1 class="page-header">
 					Portfolio Item
 					<small>Translate subtitles to:</small>
-					
+
 					<small> <select id="selectLang" data-theme="holo" data-triggerOn="#customdiv" name="transTo"
-						onchange="selectLang(this.value)">
-							<option value=""></option>
-							<option value="AR">Arabic</option>
-							<option value="CS">Czech</option>
-							<option value="DU">Dutch</option>
-							<option value="DA">Danish</option>
-							<option value="EL">Greek</option>
-							<option value="ES">Spanish</option>
-							<option value="FR">French</option>
-							<option value="FA">Persian</option>
-							<option value="RU">Russian</option>
-							<option value="JA">Japanese</option>
-							<option value="ZH">Chinese</option>
-							<option value="POR">Portuguese</option>
-							<option value="IT">Italian</option>
-							<option value="PL">Polish</option>
-							<option value="TR">Turkish</option>
-							<option value="SV">Swedish</option>
-							<option value="LT">Lithuanian</option>
-							<option value="ID">Indonesian</option>
-							<option value="KO">Korean</option>
-							<option value="VI">Vietnamese</option>
-							<option value="RO">Romanian</option>
-							<option value="HU">Hungarian</option>
-							<option value="TH">Thai</option>
-							<option value="SK">Slovak</option>
-							<option value="BG">Bulgarian</option>
-							<option value="NO">Norwegian</option>
-							<option value="IW">Hebrew</option>
-							<option value="HR">Croatian</option>
-							<option value="UK">Ukrainian</option>
-							<option value="SR">Serbian</option>
-							<option value="SL">Slovenian</option>
+									onchange="selectLang(this.value)">
+						<option value=""></option>
+						<option value="AR">Arabic</option>
+						<option value="CS">Czech</option>
+						<option value="DU">Dutch</option>
+						<option value="DA">Danish</option>
+						<option value="EL">Greek</option>
+						<option value="ES">Spanish</option>
+						<option value="FR">French</option>
+						<option value="FA">Persian</option>
+						<option value="RU">Russian</option>
+						<option value="JA">Japanese</option>
+						<option value="ZH">Chinese</option>
+						<option value="POR">Portuguese</option>
+						<option value="IT">Italian</option>
+						<option value="PL">Polish</option>
+						<option value="TR">Turkish</option>
+						<option value="SV">Swedish</option>
+						<option value="LT">Lithuanian</option>
+						<option value="ID">Indonesian</option>
+						<option value="KO">Korean</option>
+						<option value="VI">Vietnamese</option>
+						<option value="RO">Romanian</option>
+						<option value="HU">Hungarian</option>
+						<option value="TH">Thai</option>
+						<option value="SK">Slovak</option>
+						<option value="BG">Bulgarian</option>
+						<option value="NO">Norwegian</option>
+						<option value="IW">Hebrew</option>
+						<option value="HR">Croatian</option>
+						<option value="UK">Ukrainian</option>
+						<option value="SR">Serbian</option>
+						<option value="SL">Slovenian</option>
+					</select>
+					</small>
+
+					<small>Translate subtitles to:</small>
+
+					<small> <select id="selectSub" data-theme="holo" name="selectSub"
+									onchange="readFromFile(this.options[this.selectedIndex].value)">
+						<option>first</option>
+						<option th:each="subLoc, iterStat : ${movie.subsLocations}" th:text="${subLoc}">
+
+						</option>
 					</select>
 					</small>
 				</h1>
@@ -68,7 +83,6 @@
 		<!-- /.row -->
 
 		<div class="row">
-<button onclick="doGet('dad', 'en')"></button>
 
 			<div class="col-md-12">
 			    <div id="customdiv"></div>
@@ -83,8 +97,13 @@
 		</div>
 		<!-- /.row -->
 
-
-		<hr></hr>
+		<a href="javascript:void(0);" onclick="updateSubtitle();">update subtitle</a>
+		<br/><br/>
+		<a href="javascript:void(0);" onclick="updateStatus('DELETED');">update status (DELETED)</a>
+		<a href="javascript:void(0);" onclick="updateStatus('FORBIDDEN');">update status (FORBIDDEN)</a>
+		<a href="javascript:void(0);" onclick="updateStatus('OK');">update status (OK)</a>
+		<a href="javascript:void(0);" onclick="updateStatus('NEED_TO_SYNC');">update status (NEED TO SYNC)</a>
+		<hr/>
 
 	</div>
 

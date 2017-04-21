@@ -1,56 +1,50 @@
 package yt.movies.web.service;
 
-public class Movie {
+import java.util.List;
 
-	private int id;
-	private float rating;
-	private int year;
-	private int duration;
-	private String name;
-	private String youtubeId;
-	private String subDownloadLocation;
+public class Movie {
+	public Movie(String name, String youtubeLink) {
+		super();
+		this.name = name;
+		this.youtubeId = youtubeLink;
+	}
 
 	public Movie() {
 	}
 
-	public int getId() {
-		return id;
+	private String id;
+	private String name;
+	private String youtubeId;
+	private List<String> subsLocations;
+	private List<String> genres;
+	private String releaseYear;
+	private MovieStatusEnum status;
+	private String chosenSub;
+	private String nameOfSavedMovieFile;
+
+	public String getReleaseYear() {
+
+		return releaseYear;
 	}
 
-	public void setId(int id) {
-		this.id = id;
+	public void setReleaseYear(String releaseYear) {
+		this.releaseYear = releaseYear;
 	}
 
-	public float getRating() {
-		return rating;
+	public List<String> getGenres() {
+		return genres;
 	}
 
-	public void setRating(float rating) {
-		this.rating = rating;
+	public void setGenres(List<String> genres) {
+		this.genres = genres;
 	}
 
-	public int getYear() {
-		return year;
+	public List<String> getSubsLocations() {
+		return subsLocations;
 	}
 
-	public void setYear(int year) {
-		this.year = year;
-	}
-
-	public int getDuration() {
-		return duration;
-	}
-
-	public void setDuration(int duration) {
-		this.duration = duration;
-	}
-
-	public String getSubDownloadLocation() {
-		return subDownloadLocation;
-	}
-
-	public void setSubDownloadLocation(String subDownloadLocation) {
-		this.subDownloadLocation = subDownloadLocation;
+	public void setSubsLocations(List<String> subsLocations) {
+		this.subsLocations = subsLocations;
 	}
 
 	public String getName() {
@@ -69,4 +63,35 @@ public class Movie {
 		this.youtubeId = youtubeId;
 	}
 
+	public String getId() {
+		return id;
+	}
+
+	public void setId(String id) {
+		this.id = id;
+	}
+
+	public MovieStatusEnum getStatus() {
+		return status;
+	}
+
+	public void setStatus(MovieStatusEnum status) {
+		this.status = status;
+	}
+
+	public String getChosenSub() {
+		return chosenSub;
+	}
+
+	public void setChosenSub(String chosenSub) {
+		this.chosenSub = chosenSub;
+	}
+
+	public String getNameOfSavedMovieFile() {
+		return nameOfSavedMovieFile;
+	}
+
+	public void setNameOfSavedMovieFile(String nameOfSavedMovieFile) {
+		this.nameOfSavedMovieFile = nameOfSavedMovieFile;
+	}
 }

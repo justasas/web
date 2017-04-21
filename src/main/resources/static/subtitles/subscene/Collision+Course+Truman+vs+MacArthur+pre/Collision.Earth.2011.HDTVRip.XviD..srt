@@ -1,0 +1,5288 @@
+﻿1
+00:00:27,416 --> 00:00:29,751
+( eIectronics beeping )
+
+2
+00:00:36,800 --> 00:00:38,760
+( beeping continues )
+
+3
+00:00:40,387 --> 00:00:42,263
+Prepare Nautilus
+for orbit capture.
+
+4
+00:00:42,431 --> 00:00:45,141
+Computer:
+Orbit capture trajectory confirmed.
+
+5
+00:00:45,309 --> 00:00:46,893
+Engage main thrusters.
+
+6
+00:00:50,564 --> 00:00:54,567
+Disengaging artificiaI gravity
+for Mercury approach.
+
+7
+00:00:54,735 --> 00:00:57,737
+Someone forget
+to secure their tabIet?
+
+8
+00:00:57,905 --> 00:00:58,947
+Oh.
+
+9
+00:01:00,157 --> 00:01:02,116
+Remind me to fire the maid.
+
+10
+00:01:05,996 --> 00:01:07,997
+( sighs )
+
+11
+00:01:09,959 --> 00:01:11,543
+Computer:
+Approaching coordinates.
+
+12
+00:01:11,710 --> 00:01:15,338
+- Awaiting manuaI override.
+- AII right, NataIie.
+
+13
+00:01:16,882 --> 00:01:19,717
+Manual flight
+controIs engaged.
+
+14
+00:01:24,431 --> 00:01:26,015
+We're going in.
+
+15
+00:01:42,950 --> 00:01:45,702
+Computer:
+Warning, soIar event detected.
+
+16
+00:01:45,869 --> 00:01:48,371
+- ( eIectronics beeping )
+- What's happening?
+
+17
+00:01:49,373 --> 00:01:52,792
+We have an eIectromagnetic
+radiation spike, a big one.
+
+18
+00:01:52,960 --> 00:01:54,836
+- Are we within safe IeveIs?
+- So far.
+
+19
+00:01:57,965 --> 00:02:01,467
+- Lee, stay on course.
+- Entering orbit in 20 seconds.
+
+20
+00:02:15,149 --> 00:02:17,483
+- ( beeping )
+- Computer: Warning...
+
+21
+00:02:19,069 --> 00:02:21,779
+- radiation shieIds activated.
+- What the heII was that?
+
+22
+00:02:21,947 --> 00:02:24,616
+Radiation levels
+are spiking off the charts.
+
+23
+00:02:24,783 --> 00:02:26,117
+Abort orbit capture.
+
+24
+00:02:26,285 --> 00:02:27,994
+- Lee, get us out of here.
+- Roger that.
+
+25
+00:02:32,374 --> 00:02:34,709
+Engaging artificiaI gravity.
+
+26
+00:02:37,087 --> 00:02:39,130
+- ( beeping )
+- Computer: AIarm,
+
+27
+00:02:39,298 --> 00:02:41,799
+- system failure.
+- Everything is spiking.
+
+28
+00:02:41,967 --> 00:02:44,677
+- Heat, magnetics--
+- Magnetics, that can't be.
+
+29
+00:02:44,845 --> 00:02:46,846
+- Are you sure?
+- That's what I'm reading.
+
+30
+00:02:48,223 --> 00:02:51,517
+- Increase thrusters to maximum.
+- Come on, darlin'.
+
+31
+00:02:58,734 --> 00:03:00,276
+Hang in there.
+
+32
+00:03:05,783 --> 00:03:08,368
+Computer: Warning,
+radiation IeveIs at maximum.
+
+33
+00:03:10,579 --> 00:03:12,080
+My God.
+
+34
+00:03:22,132 --> 00:03:24,717
+- ( alarms beeping )
+- Computer: AIarm, system faiIure.
+
+35
+00:03:24,885 --> 00:03:27,053
+Damage report!
+
+36
+00:03:27,221 --> 00:03:31,057
+System faiIures across the board.
+l can't hold anything online.
+
+37
+00:03:40,317 --> 00:03:43,903
+- ( beeping )
+- Computer: AIarm, system faiIure.
+
+38
+00:03:44,071 --> 00:03:47,240
+- Losing power to engines.
+- Victoria, check out backup systems.
+
+39
+00:03:47,408 --> 00:03:49,200
+I'm on it.
+
+40
+00:03:49,368 --> 00:03:51,703
+There's a fire in the comm.
+
+41
+00:03:51,870 --> 00:03:53,705
+Computer: Warning,
+engine power criticaI.
+
+42
+00:03:53,872 --> 00:03:55,873
+Come on.
+
+43
+00:03:59,211 --> 00:04:00,712
+No!
+
+44
+00:04:20,774 --> 00:04:22,817
+Chaos.
+
+45
+00:04:22,985 --> 00:04:24,902
+Destruction.
+
+46
+00:04:25,070 --> 00:04:27,155
+UnpredictabiIity.
+
+47
+00:04:36,248 --> 00:04:37,957
+Our universe...
+
+48
+00:04:38,959 --> 00:04:40,668
+is a dangerous pIace.
+
+49
+00:04:42,171 --> 00:04:43,963
+In our soIar system,
+there are over
+
+50
+00:04:44,131 --> 00:04:46,591
+a thousand asteroids
+and comets
+
+51
+00:04:46,759 --> 00:04:49,427
+that are cIassified
+as threatening to hit the earth.
+
+52
+00:04:50,971 --> 00:04:53,890
+But you shouId aIso know
+
+53
+00:04:54,057 --> 00:04:56,934
+that those are just the ones
+we know about.
+
+54
+00:04:58,187 --> 00:05:01,189
+Just Iast year,
+an asteroid
+
+55
+00:05:01,356 --> 00:05:04,150
+200 feet in diameter
+
+56
+00:05:04,318 --> 00:05:06,944
+passed within
+40,000 miIes of us.
+
+57
+00:05:07,112 --> 00:05:09,530
+Now in pIanetary terms,
+
+58
+00:05:09,698 --> 00:05:11,699
+that is Iike, uh--
+
+59
+00:05:13,118 --> 00:05:14,827
+it's Iike someone
+shooting at you
+
+60
+00:05:14,995 --> 00:05:17,580
+and having a buIIet
+part your hair
+
+61
+00:05:19,208 --> 00:05:21,459
+without touching your skin.
+
+62
+00:05:23,837 --> 00:05:26,172
+Now, if it had hit us,
+
+63
+00:05:26,340 --> 00:05:30,843
+it would have exploded
+with the force of a hydrogen bomb.
+
+64
+00:05:31,011 --> 00:05:33,596
+Do you know how much
+advance warning we had?
+
+65
+00:05:36,600 --> 00:05:38,309
+Three days.
+
+66
+00:05:41,355 --> 00:05:44,106
+The good news is,
+we have the technoIogy
+
+67
+00:05:44,274 --> 00:05:46,943
+to defIect these objects.
+
+68
+00:05:47,110 --> 00:05:49,153
+It's caIIed Project 7.
+
+69
+00:05:49,321 --> 00:05:51,906
+The most advanced,
+most powerful,
+
+70
+00:05:52,074 --> 00:05:54,742
+most ambitious pIanetary
+defense system
+
+71
+00:05:54,910 --> 00:05:56,202
+ever conceived.
+
+72
+00:05:56,370 --> 00:05:58,955
+It's equipped
+with an energy fieId
+
+73
+00:05:59,122 --> 00:06:01,707
+that aIIows it to defIect objects
+many times its size.
+
+74
+00:06:01,875 --> 00:06:04,210
+The bad news?
+
+75
+00:06:04,378 --> 00:06:06,796
+- There's aIways bad news.
+- ( students Iaugh )
+
+76
+00:06:06,964 --> 00:06:10,049
+Our government puIIed funding
+from Project 7
+
+77
+00:06:10,217 --> 00:06:11,843
+just before it came onIine.
+
+78
+00:06:12,010 --> 00:06:15,513
+So right now
+it fIoats dormant in space.
+
+79
+00:06:17,224 --> 00:06:21,352
+The earth's been struck before,
+it'II be struck again.
+
+80
+00:06:23,272 --> 00:06:25,398
+The onIy question
+
+81
+00:06:25,566 --> 00:06:27,692
+is whether
+we're gonna be ready.
+
+82
+00:06:27,860 --> 00:06:31,195
+Do your part
+in protecting the pIanet.
+
+83
+00:06:31,363 --> 00:06:33,865
+Write to your congressman,
+teII your friends.
+
+84
+00:06:35,409 --> 00:06:37,201
+Spread the word.
+
+85
+00:06:39,580 --> 00:06:41,330
+Our Iives may depend on it.
+
+86
+00:06:42,499 --> 00:06:46,210
+We need Project 7.
+
+87
+00:06:47,379 --> 00:06:49,046
+You.
+
+88
+00:06:49,214 --> 00:06:51,132
+You need Project 7.
+
+89
+00:06:51,300 --> 00:06:55,219
+- Thank you very much.
+- ( applause )
+
+90
+00:06:55,387 --> 00:06:58,639
+Dr. Preston, Brad WaIker.
+
+91
+00:06:58,807 --> 00:07:00,766
+Your Iiaison officer
+with Mission Ops.
+
+92
+00:07:00,934 --> 00:07:02,685
+Can I speak with you
+for a moment?
+
+93
+00:07:02,853 --> 00:07:06,188
+- Yeah.
+- As you know, it is our poIicy
+
+94
+00:07:06,356 --> 00:07:09,775
+to, uh, notify
+famiIy members immediateIy
+
+95
+00:07:09,943 --> 00:07:12,153
+of any situation invoIving
+the mission that may arise.
+
+96
+00:07:12,321 --> 00:07:15,156
+- I know the protocoI.
+- Now, I've been sent here
+
+97
+00:07:15,324 --> 00:07:17,950
+to make sure you don't hear
+anything through the media
+
+98
+00:07:18,118 --> 00:07:20,328
+that may make you worry
+unnecessariIy.
+
+99
+00:07:20,495 --> 00:07:23,664
+Now, having said that, um,
+
+100
+00:07:25,167 --> 00:07:27,501
+earIy this morning, we did
+Iose contact with the NautiIus.
+
+101
+00:07:27,669 --> 00:07:30,463
+Dr. Preston.
+Dr. Preston, wait.
+
+102
+00:07:30,631 --> 00:07:32,590
+Dr. Preston.
+
+103
+00:07:43,185 --> 00:07:45,394
+- ( Iine ringing )
+- Dr. Preston: Come on, pick up.
+
+104
+00:07:47,481 --> 00:07:49,273
+- ( phone chimes )
+- Recording: We're sorry,
+
+105
+00:07:49,441 --> 00:07:51,192
+your caII cannot
+be compIeted as diaIed.
+
+106
+00:07:51,360 --> 00:07:53,361
+PIease check the number
+and dial again...
+
+107
+00:07:53,528 --> 00:07:55,279
+- Damn it!
+- ...or caII your oper--
+
+108
+00:08:00,285 --> 00:08:02,203
+Okay.
+
+109
+00:08:02,371 --> 00:08:04,288
+AII right.
+
+110
+00:08:07,292 --> 00:08:09,293
+( touch tones beeping )
+
+111
+00:08:10,754 --> 00:08:12,380
+( Iine ringing )
+
+112
+00:08:13,382 --> 00:08:15,174
+( phone rings )
+
+113
+00:08:15,342 --> 00:08:17,885
+- HeIIo?
+- Hey, it's James.
+
+114
+00:08:18,053 --> 00:08:19,971
+I can't taIk to you.
+l'm at work.
+
+115
+00:08:20,138 --> 00:08:23,057
+- lf Edward finds out--
+- I'm worried about Victoria.
+
+116
+00:08:23,225 --> 00:08:25,142
+Today was orbit capture.
+
+117
+00:08:25,310 --> 00:08:28,646
+They Iost contact with the NautiIus.
+l can't reach Mission Ops.
+
+118
+00:08:28,814 --> 00:08:30,606
+Do you know anything?
+
+119
+00:08:30,774 --> 00:08:33,275
+l don't, but Houston
+doesn't caII the miIitary
+
+120
+00:08:33,443 --> 00:08:35,319
+every time they have a gIitch.
+You know that.
+
+121
+00:08:35,487 --> 00:08:38,072
+It's probabIy nothing.
+I'm sure Victoria's fine.
+
+122
+00:08:38,240 --> 00:08:42,076
+I know you have eyes in the sky.
+Just check it out for me, okay?
+
+123
+00:08:42,244 --> 00:08:44,078
+CaII me back
+if you find anything.
+
+124
+00:08:44,246 --> 00:08:46,372
+You know I can't taIk to you
+about this stuff.
+
+125
+00:08:46,540 --> 00:08:48,165
+Edward doesn't even Iike
+that we're friends.
+
+126
+00:08:48,333 --> 00:08:50,459
+( modem screeching )
+
+127
+00:08:52,337 --> 00:08:54,547
+- What the heII?
+- What?
+
+128
+00:08:56,550 --> 00:08:59,677
+Jennifer, did SPEAR
+just activate Project 7?
+
+129
+00:08:59,845 --> 00:09:01,679
+What are you taIking about?
+lt's dead.
+
+130
+00:09:01,847 --> 00:09:02,847
+It's been dead for three years.
+
+131
+00:09:03,015 --> 00:09:06,350
+Oh, uh, it's sending me data.
+
+132
+00:09:06,518 --> 00:09:08,519
+Jennifer:
+It's sending data to you?
+
+133
+00:09:08,687 --> 00:09:10,146
+lf Edward finds out that
+you've been monitoring it,
+
+134
+00:09:10,313 --> 00:09:12,273
+he'II throw you in jaiI so fast
+that you won't know--
+
+135
+00:09:12,441 --> 00:09:15,609
+Okay, uh, something weird
+is happening.
+
+136
+00:09:15,777 --> 00:09:19,280
+Project 7
+is picking up a strange--
+
+137
+00:09:22,284 --> 00:09:25,202
+HeIIo?
+HeIIo?
+
+138
+00:09:26,705 --> 00:09:28,664
+Okay.
+
+139
+00:09:31,626 --> 00:09:33,627
+Oh, that's impossibIe.
+
+140
+00:09:44,806 --> 00:09:46,390
+( sateIIite beeping )
+
+141
+00:10:05,619 --> 00:10:07,578
+( bridge creaking )
+
+142
+00:10:17,047 --> 00:10:19,465
+- Status report.
+- The EM wave knocked out
+
+143
+00:10:19,633 --> 00:10:22,051
+virtually every civilian satellite
+and most government ones as weII.
+
+144
+00:10:22,219 --> 00:10:23,594
+We're the onIy major agency
+
+145
+00:10:23,762 --> 00:10:26,305
+fuIIy functioning right now.
+
+146
+00:10:26,473 --> 00:10:29,350
+- But that's not our onIy probIem.
+- Three sets of images,
+
+147
+00:10:29,518 --> 00:10:31,519
+aII puIIed from
+the deep-sky orbitaI teIescope
+
+148
+00:10:31,686 --> 00:10:33,312
+before it went down
+compIeteIy.
+
+149
+00:10:33,480 --> 00:10:35,356
+These were all taken
+onIy five minutes apart.
+
+150
+00:10:35,524 --> 00:10:37,024
+What's that spot?
+
+151
+00:10:37,192 --> 00:10:39,944
+That spot, sir,
+
+152
+00:10:40,112 --> 00:10:42,321
+- is Mercury.
+- That can't be right.
+
+153
+00:10:42,489 --> 00:10:44,740
+- That wouId mean that--
+- Mercury's on the move.
+
+154
+00:10:44,908 --> 00:10:47,201
+- How's that possibIe?
+- We don't have aII the data yet.
+
+155
+00:10:47,369 --> 00:10:49,370
+We stiII don't know.
+
+156
+00:10:50,539 --> 00:10:52,706
+( sighs )
+Figure out where it's headed.
+
+157
+00:10:52,874 --> 00:10:54,458
+I want to know if that thing
+is coming anywhere near us.
+
+158
+00:10:54,626 --> 00:10:56,627
+Jennifer:
+We're aIready on it.
+
+159
+00:10:59,464 --> 00:11:01,590
+( computer beeps )
+
+160
+00:11:11,143 --> 00:11:12,935
+( coughs )
+
+161
+00:11:13,979 --> 00:11:16,105
+MarshaII?
+
+162
+00:11:16,273 --> 00:11:18,232
+Oh, thank God.
+
+163
+00:11:18,400 --> 00:11:20,401
+Breathe.
+
+164
+00:11:23,947 --> 00:11:25,906
+Check Lee.
+
+165
+00:11:43,800 --> 00:11:45,843
+( aIarms beeping )
+
+166
+00:11:46,011 --> 00:11:48,512
+Go, I'II take care of Lee.
+
+167
+00:11:50,390 --> 00:11:52,683
+- ( eIectricity buzzing )
+- ( coughs )
+
+168
+00:11:54,060 --> 00:11:56,812
+Mercury will miss the Earth
+by a distance of 500,000 miIes.
+
+169
+00:11:56,980 --> 00:11:59,565
+RoughIy twice as far away
+as the moon.
+
+170
+00:11:59,733 --> 00:12:01,317
+- That's not good.
+- ExactIy.
+
+171
+00:12:01,484 --> 00:12:03,277
+Even at that distance,
+
+172
+00:12:03,445 --> 00:12:05,196
+its gravitationaI fieId
+wiII wreak havoc.
+
+173
+00:12:05,363 --> 00:12:08,824
+Extreme tides,
+eIectricaI disturbances at a minimum.
+
+174
+00:12:08,992 --> 00:12:12,870
+WeII, our primary concern at this point
+has gotta be the poIiticaI faIIout.
+
+175
+00:12:13,038 --> 00:12:15,414
+Put our defense systems
+on high aIert.
+
+176
+00:12:15,582 --> 00:12:18,751
+l've also had Michelle working
+to get in touch with the NautiIus,
+
+177
+00:12:18,919 --> 00:12:20,544
+but we haven't had
+any success.
+
+178
+00:12:20,712 --> 00:12:23,088
+Nautilus is the least
+of our concerns at this point.
+
+179
+00:12:23,256 --> 00:12:25,633
+But they were right there.
+
+180
+00:12:25,800 --> 00:12:27,885
+If the NautiIus
+did manage to puII through,
+
+181
+00:12:28,053 --> 00:12:29,762
+they may be able
+to fiII in the bIanks.
+
+182
+00:12:31,056 --> 00:12:34,391
+Fine, but you keep
+James Preston out of it.
+
+183
+00:12:34,559 --> 00:12:35,935
+Yes, sir.
+
+184
+00:12:40,398 --> 00:12:42,399
+( static hissing )
+
+185
+00:12:43,777 --> 00:12:45,736
+Man over radio: We are continuing
+to receive some frantic reports
+
+186
+00:12:45,904 --> 00:12:48,322
+of massive power faiIures
+around the world.
+
+187
+00:12:48,490 --> 00:12:50,574
+GIobaI communications
+continue to be affected,
+
+188
+00:12:50,742 --> 00:12:53,077
+as most sateIIites
+seem to be off-Iine.
+
+189
+00:12:53,245 --> 00:12:56,538
+All air transportation
+is being grounded untiI further notice.
+
+190
+00:12:56,706 --> 00:12:58,916
+We'II continue to bring you
+details as they develop.
+
+191
+00:12:59,084 --> 00:13:00,668
+Oh man.
+
+192
+00:13:06,091 --> 00:13:09,718
+l've normalized our oxygen levels,
+but most of our systems are damaged.
+
+193
+00:13:09,886 --> 00:13:13,514
+Communication is down,
+as is navigation.
+
+194
+00:13:13,682 --> 00:13:17,476
+Right.
+What the heII hit us?
+
+195
+00:13:18,728 --> 00:13:21,355
+It seemed Iike a soIar fIare,
+but it was massive.
+
+196
+00:13:21,523 --> 00:13:23,899
+AII of the energy readings
+are wrong.
+
+197
+00:13:24,067 --> 00:13:25,359
+WeII, we'II have to worry
+about that Iater.
+
+198
+00:13:25,527 --> 00:13:27,152
+Right now we've got
+bigger probIems.
+
+199
+00:13:27,320 --> 00:13:29,071
+I've managed
+to stabiIize us.
+
+200
+00:13:29,239 --> 00:13:31,115
+Do what you can with communication.
+I'II work on navigation.
+
+201
+00:13:31,283 --> 00:13:32,616
+Okay.
+
+202
+00:13:33,827 --> 00:13:35,869
+We need to figure out
+where the heII we are.
+
+203
+00:13:36,037 --> 00:13:39,331
+- ( beeps )
+- ( cIears throat )
+
+204
+00:13:45,964 --> 00:13:47,965
+( footsteps )
+
+205
+00:13:51,303 --> 00:13:53,262
+- Hey.
+- Hey.
+
+206
+00:13:53,430 --> 00:13:54,847
+Check it out.
+
+207
+00:13:55,015 --> 00:13:57,558
+A IittIe Sumatra bIend.
+You want some?
+
+208
+00:13:57,726 --> 00:14:00,019
+I need you to take a Iook
+at this, okay?
+
+209
+00:14:00,186 --> 00:14:02,396
+It's about Victoria.
+Something happened up there
+
+210
+00:14:02,564 --> 00:14:04,815
+and l need to know how
+it's gonna affect the NautiIus.
+
+211
+00:14:04,983 --> 00:14:07,318
+WeII, it was a massive soIar fIare
+that hit us this morning.
+
+212
+00:14:07,485 --> 00:14:09,236
+Biggest one on record,
+but the NautiIus shouId be prepared
+
+213
+00:14:09,404 --> 00:14:11,905
+- for that kind of event.
+- It's not a soIar fIare.
+
+214
+00:14:12,073 --> 00:14:13,949
+Okay, Iook.
+
+215
+00:14:14,117 --> 00:14:17,536
+Its magnetic signature,
+it's off the charts.
+
+216
+00:14:20,248 --> 00:14:22,249
+Oh, my God.
+
+217
+00:14:22,417 --> 00:14:24,418
+( sizzIing )
+
+218
+00:14:32,677 --> 00:14:34,553
+Are you okay?
+
+219
+00:14:34,721 --> 00:14:37,389
+Yeah, just a headache.
+
+220
+00:14:38,975 --> 00:14:42,227
+Any Iuck on the comm?
+
+221
+00:14:42,395 --> 00:14:44,271
+WeII, we'II onIy be abIe
+to transmit
+
+222
+00:14:44,439 --> 00:14:46,648
+and receive
+on a very narrow band.
+
+223
+00:14:46,816 --> 00:14:48,609
+But they'II be abIe
+to hear us?
+
+224
+00:14:50,653 --> 00:14:52,654
+If they're Iistening.
+
+225
+00:14:56,743 --> 00:14:58,285
+Woman on radio:
+Power bIackouts.
+
+226
+00:14:58,453 --> 00:15:01,705
+Communication faiIures.
+AirpIanes grounded.
+
+227
+00:15:01,873 --> 00:15:04,041
+The government wants you
+to think it's a solar flare,
+
+228
+00:15:04,209 --> 00:15:06,043
+but we are here
+to give you the truth.
+
+229
+00:15:06,211 --> 00:15:09,755
+Brooke Adamson's
+"Conspiracy Report" is back on the air.
+
+230
+00:15:09,923 --> 00:15:11,715
+Nice.
+
+231
+00:15:11,883 --> 00:15:14,635
+- ( static hissing )
+- What's wrong?
+
+232
+00:15:14,803 --> 00:15:16,011
+- ( grumbles )
+- ( eIectricity buzzing )
+
+233
+00:15:16,179 --> 00:15:19,181
+No, it's just, uh,
+getting some interference.
+
+234
+00:15:19,349 --> 00:15:21,183
+- It's not us.
+- It's the Feds.
+
+235
+00:15:21,351 --> 00:15:22,684
+- It's not the Feds.
+- It's the Feds.
+
+236
+00:15:22,852 --> 00:15:24,812
+Victoria over radio: This is
+Victoria Preston of the USS NautiIus
+
+237
+00:15:24,979 --> 00:15:26,605
+making an emergency
+distress call.
+
+238
+00:15:26,773 --> 00:15:29,358
+Can anybody read?
+
+239
+00:15:29,526 --> 00:15:31,527
+No way.
+
+240
+00:15:32,946 --> 00:15:35,781
+- What?
+- ( static hissing )
+
+241
+00:15:35,949 --> 00:15:39,868
+This is Victoria Preston
+on the USS NautiIus. Come in.
+
+242
+00:15:42,997 --> 00:15:45,624
+Isn't the NautiIus the spacecraft
+that's on the Mercury mission?
+
+243
+00:15:45,792 --> 00:15:48,335
+- Yeah, yeah.
+- WeII, it's gotta be a joke.
+
+244
+00:15:48,503 --> 00:15:50,587
+WeII, we'II find out.
+
+245
+00:15:50,755 --> 00:15:53,048
+First we'II Iock on her signaI.
+Here.
+
+246
+00:15:53,216 --> 00:15:55,384
+Um...
+
+247
+00:15:57,804 --> 00:15:59,221
+copy that, NautiIus.
+You're breaking up.
+
+248
+00:15:59,389 --> 00:16:01,723
+- Do you read?
+- Copy that.
+
+249
+00:16:01,891 --> 00:16:04,893
+This is Victoria Preston on
+the NautiIus. We are in distress.
+
+250
+00:16:10,066 --> 00:16:12,276
+Before we proceed,
+please encrypt
+
+251
+00:16:12,444 --> 00:16:13,819
+this transmission using
+
+252
+00:16:13,987 --> 00:16:16,947
+security protocoI 27-46-32.
+
+253
+00:16:17,115 --> 00:16:19,825
+- What are you doing?
+- If it's a hoax, they'II pIay aIong.
+
+254
+00:16:19,993 --> 00:16:22,744
+- How can you be so sure?
+- Because that's what I wouId do.
+
+255
+00:16:22,912 --> 00:16:25,789
+Victoria: There's no such protocoI.
+Who exactIy am I speaking with?
+
+256
+00:16:25,957 --> 00:16:27,416
+Give me that.
+
+257
+00:16:27,584 --> 00:16:30,794
+This is Christopher Weaver
+and Brooke Adamson.
+
+258
+00:16:30,962 --> 00:16:33,088
+We're seniors
+at North Bay University.
+
+259
+00:16:33,256 --> 00:16:36,717
+You've managed to connect
+with our pirate radio station.
+
+260
+00:16:42,432 --> 00:16:44,433
+Victoria, do you copy that?
+
+261
+00:16:44,601 --> 00:16:46,852
+Come in.
+
+262
+00:16:47,854 --> 00:16:49,980
+- What happened?
+- We gotta get that signaI back.
+
+263
+00:16:50,148 --> 00:16:53,233
+Let's go to the car.
+We'II try new batteries.
+
+264
+00:16:56,905 --> 00:16:59,740
+Before my teIescope went off-Iine,
+l was able to pull these images.
+
+265
+00:16:59,908 --> 00:17:02,659
+Look at these sun-spots.
+They're starting to disappear here,
+
+266
+00:17:02,827 --> 00:17:06,205
+and here, here, and here.
+
+267
+00:17:06,372 --> 00:17:08,916
+- What does that mean?
+- Magnetism.
+
+268
+00:17:09,083 --> 00:17:11,418
+It aII makes sense now.
+
+269
+00:17:13,129 --> 00:17:16,048
+For one brief miIIisecond,
+
+270
+00:17:16,216 --> 00:17:18,550
+our humbIe IittIe sun
+became a magnetar,
+
+271
+00:17:18,718 --> 00:17:21,386
+the most powerful source
+of magnetic energy in the universe.
+
+272
+00:17:23,890 --> 00:17:25,599
+A magnetar?
+
+273
+00:17:26,601 --> 00:17:28,727
+Yeah, it's extremeIy rare,
+
+274
+00:17:28,895 --> 00:17:30,229
+but it's the onIy thing
+that could explain it.
+
+275
+00:17:30,396 --> 00:17:33,649
+The sun-spots, the bIackouts,
+the magnetic wave, everything.
+
+276
+00:17:33,816 --> 00:17:36,527
+- ( Ioud thud )
+- What was that?
+
+277
+00:17:51,918 --> 00:17:53,335
+Whoa.
+
+278
+00:17:55,046 --> 00:17:57,089
+This shouId not be happening.
+
+279
+00:17:57,257 --> 00:17:58,799
+There's no way our database
+could have missed
+
+280
+00:17:58,967 --> 00:18:01,009
+this many meteors
+approaching Earth.
+
+281
+00:18:03,513 --> 00:18:06,181
+Buddy,
+either you're wrong
+
+282
+00:18:06,349 --> 00:18:08,350
+- or that's not a meteor.
+- ( Ioud boom )
+
+283
+00:18:10,061 --> 00:18:13,021
+That impact site can't be
+more than a miIe or two, tops.
+
+284
+00:18:15,441 --> 00:18:18,610
+Let's take my car. I don't want
+to have to ride on your handIebars.
+
+285
+00:18:19,612 --> 00:18:20,988
+Very funny.
+
+286
+00:18:23,575 --> 00:18:26,493
+- Get in the car.
+- I enjoy riding my bike to work.
+
+287
+00:18:26,661 --> 00:18:28,996
+- It's something that I Iike to do.
+- Get in the car.
+
+288
+00:18:32,959 --> 00:18:35,377
+Uh, this is not good.
+
+289
+00:18:35,545 --> 00:18:37,629
+Do you know
+where we are yet?
+
+290
+00:18:37,797 --> 00:18:39,506
+No.
+
+291
+00:18:39,674 --> 00:18:42,384
+But we're acceIerating
+
+292
+00:18:42,552 --> 00:18:43,719
+without engine power.
+
+293
+00:18:47,682 --> 00:18:50,225
+Well, you check autopilot and see
+if there's been any faIse commands
+
+294
+00:18:50,393 --> 00:18:52,394
+and I'II see what I can do.
+
+295
+00:18:54,856 --> 00:18:56,857
+Yes, ma'am.
+
+296
+00:18:59,068 --> 00:19:00,736
+Wow.
+
+297
+00:19:01,904 --> 00:19:03,447
+Something's definiteIy wrong.
+
+298
+00:19:04,449 --> 00:19:06,450
+( expIosions )
+
+299
+00:19:16,210 --> 00:19:19,129
+- There's stiII no signaI.
+- I don't know.
+
+300
+00:19:19,297 --> 00:19:21,089
+Do you think that
+was reaIIy the NautiIus?
+
+301
+00:19:21,257 --> 00:19:23,884
+Yeah, I do.
+I do.
+
+302
+00:19:26,429 --> 00:19:27,596
+- ( gasps )
+- Whoa!
+
+303
+00:19:27,764 --> 00:19:30,932
+- What the heII was that?
+- l don't know,
+
+304
+00:19:31,100 --> 00:19:32,934
+but there's more coming.
+Get in the car.
+
+305
+00:19:33,102 --> 00:19:34,978
+Get in the car!
+
+306
+00:19:35,146 --> 00:19:36,980
+- ( expIosions continue )
+- James?
+
+307
+00:19:37,148 --> 00:19:39,483
+Run. Run!
+
+308
+00:19:49,077 --> 00:19:51,036
+Get down!
+
+309
+00:19:59,003 --> 00:20:00,671
+Oh, boy.
+
+310
+00:20:13,226 --> 00:20:15,435
+Is it over?
+
+311
+00:20:15,603 --> 00:20:17,229
+I think so.
+
+312
+00:20:17,397 --> 00:20:19,398
+What the heII happened?
+
+313
+00:20:24,028 --> 00:20:26,196
+( sizzIing )
+
+314
+00:20:42,213 --> 00:20:43,755
+Matthew: Whoa.
+
+315
+00:20:51,806 --> 00:20:53,890
+Computer:
+Navigation systems initiaIizing.
+
+316
+00:20:55,601 --> 00:20:58,603
+- ( beeps )
+- FIight path compromised.
+
+317
+00:21:00,106 --> 00:21:03,233
+MarshaII, I've checked everything.
+l can't find anything wrong.
+
+318
+00:21:03,401 --> 00:21:04,901
+Get up here.
+I need your heIp with navigation.
+
+319
+00:21:05,069 --> 00:21:08,029
+We need to figure out
+where we're headed now.
+
+320
+00:21:18,332 --> 00:21:21,752
+- And we are back up.
+- Computer: PIotting NautiIus Iocation.
+
+321
+00:21:21,919 --> 00:21:24,921
+- MarshaII: Wait, this can't be right.
+- What is it?
+
+322
+00:21:25,089 --> 00:21:27,090
+We're not where we shouId be.
+
+323
+00:21:31,137 --> 00:21:33,138
+Neither is Mercury.
+
+324
+00:21:34,140 --> 00:21:36,475
+How is that possibIe?
+
+325
+00:21:36,642 --> 00:21:38,643
+Marshall:
+I don't know. It's out of orbit.
+
+326
+00:21:38,811 --> 00:21:42,147
+No. We're acceIerating
+towards the pIanet.
+
+327
+00:21:43,232 --> 00:21:45,859
+Mercury is dragging us in?
+
+328
+00:21:46,027 --> 00:21:48,028
+But we're not cIose enough
+to be in its gravity.
+
+329
+00:21:48,196 --> 00:21:49,863
+Whatever it is,
+I don't want to be any cIoser.
+
+330
+00:21:51,741 --> 00:21:53,450
+Computer:
+Reverse thrusters engaged.
+
+331
+00:21:59,332 --> 00:22:01,166
+Victoria, we need
+to get a hoId of Mission Ops.
+
+332
+00:22:01,334 --> 00:22:03,084
+Right.
+
+333
+00:22:39,330 --> 00:22:41,248
+Okay.
+
+334
+00:22:41,415 --> 00:22:43,333
+Maybe.
+
+335
+00:22:43,501 --> 00:22:45,794
+- ( static hissing )
+- Ground, do you copy?
+
+336
+00:22:45,962 --> 00:22:47,420
+Can you hear me?
+
+337
+00:22:49,340 --> 00:22:51,800
+Ground, this is Victoria.
+Do you copy?
+
+338
+00:22:52,969 --> 00:22:55,262
+Thrusters are at 70%.
+I don't Iike this.
+
+339
+00:22:57,431 --> 00:23:00,183
+- ( static hissing )
+- Ground, this is Victoria. Do you copy?
+
+340
+00:23:01,811 --> 00:23:04,354
+- Yeah, Victoria. We're here.
+- Oh, thank God.
+
+341
+00:23:04,522 --> 00:23:08,191
+I need you to get in touch
+with Mission ControI. It's urgent.
+
+342
+00:23:08,359 --> 00:23:10,569
+WeII, if you're trying to warn us
+about meteors,
+
+343
+00:23:10,736 --> 00:23:13,947
+- you're a IittIe Iate for that.
+- Christopher, the NautiIus
+
+344
+00:23:14,115 --> 00:23:16,741
+has been knocked off course.
+I need Mission Ops to guide us.
+
+345
+00:23:16,909 --> 00:23:18,910
+MarshaII: Come on.
+( grunts )
+
+346
+00:23:21,163 --> 00:23:24,207
+Mission Ops is in Houston.
+We're in Oregon and the phones are down.
+
+347
+00:23:24,375 --> 00:23:26,501
+Oregon, okay.
+
+348
+00:23:26,669 --> 00:23:30,171
+I need you to get to a faciIity
+south of SeattIe caIIed SPEAR.
+
+349
+00:23:30,339 --> 00:23:33,216
+SPEAR. l know that.
+My cousin Iives nearby.
+
+350
+00:23:33,384 --> 00:23:36,428
+Okay, great. When you get there,
+ask for a person named Jennifer KeIIy.
+
+351
+00:23:36,596 --> 00:23:39,139
+TeII her what I've toId you,
+that we need Mission Ops
+
+352
+00:23:39,307 --> 00:23:41,850
+to guide NautiIus, and give her
+this frequency to get in touch.
+
+353
+00:23:42,018 --> 00:23:45,854
+And, please,
+our Iives depend on it.
+
+354
+00:23:46,022 --> 00:23:47,522
+We're on it.
+Let's go.
+
+355
+00:23:56,699 --> 00:23:59,284
+It has an extremeIy high
+iron content.
+
+356
+00:23:59,452 --> 00:24:02,787
+Way too high for
+an ordinary piece of meteorite.
+
+357
+00:24:02,955 --> 00:24:06,458
+This might sound crazy,
+but I think this is a piece of Mercury.
+
+358
+00:24:14,425 --> 00:24:17,010
+It's a magnetized piece
+of Mercury.
+
+359
+00:24:18,179 --> 00:24:21,014
+lf it was hit
+by the magnetar wave,
+
+360
+00:24:21,182 --> 00:24:22,557
+that wouId expIain
+why it's magnetic.
+
+361
+00:24:22,725 --> 00:24:24,684
+Even so,
+
+362
+00:24:24,852 --> 00:24:26,853
+how are pieces of it
+down here?
+
+363
+00:24:29,106 --> 00:24:31,107
+I don't know.
+
+364
+00:24:43,245 --> 00:24:45,872
+- ( beeping )
+- Thrusters are at maximum.
+
+365
+00:24:46,040 --> 00:24:49,334
+- We're stiII being puIIed in.
+- I can do a manuaI override
+
+366
+00:24:49,502 --> 00:24:51,127
+in the engine room
+to boost the thrusters,
+
+367
+00:24:51,295 --> 00:24:53,505
+but it's a temporary fix at best.
+
+368
+00:24:53,673 --> 00:24:55,465
+- Do it!
+- Got it!
+
+369
+00:25:03,766 --> 00:25:05,266
+This is weird.
+
+370
+00:25:05,434 --> 00:25:07,519
+You want to read me
+those coordinates again?
+
+371
+00:25:07,687 --> 00:25:10,230
+Yeah. Uh...
+
+372
+00:25:10,398 --> 00:25:12,023
+- right ascension...
+- Mm-hmm.
+
+373
+00:25:12,191 --> 00:25:14,943
+- ...13 hours...
+- Mm-hmm.
+
+374
+00:25:15,111 --> 00:25:16,778
+- ...17 minutes.
+- Mm-hmm.
+
+375
+00:25:16,946 --> 00:25:18,154
+- DecIination...
+- Yeah.
+
+376
+00:25:18,322 --> 00:25:20,240
+..negative-7 degrees...
+
+377
+00:25:20,408 --> 00:25:23,410
+- Yeah.
+- ...2 arcminutes.
+
+378
+00:25:24,453 --> 00:25:26,454
+It's not there.
+
+379
+00:25:28,332 --> 00:25:30,834
+What are you taIking about?
+
+380
+00:25:31,002 --> 00:25:32,627
+- It's not there.
+- Where is it?
+
+381
+00:25:32,795 --> 00:25:34,671
+l don't know.
+It's just-- it's gone.
+
+382
+00:25:34,839 --> 00:25:37,507
+- Do you mind?
+- lt's just gone.
+
+383
+00:25:37,675 --> 00:25:39,175
+Okay.
+
+384
+00:25:41,012 --> 00:25:42,220
+They were right there.
+
+385
+00:25:44,765 --> 00:25:48,143
+Mercury was right--
+
+386
+00:25:55,943 --> 00:25:57,527
+they were right there.
+
+387
+00:25:59,905 --> 00:26:03,283
+All right, that--
+that's impossibIe.
+
+388
+00:26:05,411 --> 00:26:07,495
+A pIanet doesn't just move.
+
+389
+00:26:08,998 --> 00:26:11,207
+What are you gonna do?
+
+390
+00:26:15,588 --> 00:26:17,464
+I'm gonna get some answers.
+
+391
+00:26:25,139 --> 00:26:28,266
+MarshaII, I got you another 20% ,
+
+392
+00:26:28,434 --> 00:26:30,685
+but that's the best I couId do.
+
+393
+00:26:30,853 --> 00:26:32,645
+Let's hope it's enough.
+
+394
+00:26:43,949 --> 00:26:46,493
+There's not enough power
+in the reverse thrusters.
+
+395
+00:26:47,703 --> 00:26:50,371
+l need to flip us around
+and engage the main engine.
+
+396
+00:26:50,539 --> 00:26:53,083
+That's too risky.
+We can't use the reverse thrusters
+
+397
+00:26:53,250 --> 00:26:56,044
+and turn the ship at the same time.
+We'd be puIIed in immediateIy.
+
+398
+00:26:57,588 --> 00:26:59,297
+- Not if we do it fast enough.
+- We?
+
+399
+00:26:59,465 --> 00:27:01,382
+It's a two-man job, Victoria.
+
+400
+00:27:01,550 --> 00:27:04,219
+But I'm not a piIot.
+
+401
+00:27:04,386 --> 00:27:06,387
+WeIcome to your promotion.
+
+402
+00:27:12,561 --> 00:27:16,481
+Victoria, reduce power by 20%
+when I boost the main engines.
+
+403
+00:27:16,649 --> 00:27:18,274
+Copy that.
+
+404
+00:27:18,442 --> 00:27:20,401
+Now!
+
+405
+00:27:20,569 --> 00:27:22,570
+Reducing power.
+
+406
+00:27:28,994 --> 00:27:31,121
+We're being
+puIIed in sideways.
+
+407
+00:27:34,959 --> 00:27:36,960
+Marshall?
+MarshaII?!
+
+408
+00:27:43,008 --> 00:27:44,801
+( growIs )
+
+409
+00:27:56,814 --> 00:27:58,565
+Maneuver successfuIIy executed.
+
+410
+00:28:04,655 --> 00:28:07,615
+Okay, I need you
+to take over for a whiIe.
+
+411
+00:28:07,783 --> 00:28:09,742
+What's wrong?
+
+412
+00:28:12,496 --> 00:28:14,205
+What's the matter?
+
+413
+00:28:14,373 --> 00:28:16,666
+I think I might have got hit hard--
+
+414
+00:28:18,752 --> 00:28:20,503
+MarshaII!
+
+415
+00:28:30,723 --> 00:28:31,806
+Yes?
+
+416
+00:28:31,974 --> 00:28:33,433
+We need to see
+Jennifer KeIIy right away.
+
+417
+00:28:33,601 --> 00:28:35,685
+- And you are?
+- We have an urgent message
+
+418
+00:28:35,853 --> 00:28:37,854
+from Victoria Preston
+and the NautiIus spacecraft.
+
+419
+00:28:38,022 --> 00:28:39,606
+- Is that right?
+- Yeah, that's right.
+
+420
+00:28:39,773 --> 00:28:41,608
+- So if you couId just pIease--
+- Excuse me, sir,
+
+421
+00:28:41,775 --> 00:28:44,402
+the NautiIus is having
+severe mechanicaI maIfunctions
+
+422
+00:28:44,570 --> 00:28:45,737
+and they can't
+get a hoId of Mission Ops,
+
+423
+00:28:45,905 --> 00:28:47,447
+but they can
+get a hoId of my radio.
+
+424
+00:28:47,615 --> 00:28:50,575
+- We were sent here to see Jennifer--
+- This is a secure facility.
+
+425
+00:28:50,743 --> 00:28:52,994
+No one gets in without
+an appointment or a pass.
+
+426
+00:28:53,162 --> 00:28:55,371
+- Yeah, I understand that, but--
+- That was me teIIing you niceIy.
+
+427
+00:28:55,539 --> 00:28:59,375
+Don't make me teII you again.
+Let's go.
+
+428
+00:28:59,543 --> 00:29:00,960
+- Great.
+- Guard: Let's go.
+
+429
+00:29:17,770 --> 00:29:19,771
+( ship creaking )
+
+430
+00:29:32,952 --> 00:29:36,329
+James, I know what must be
+going through your head right now.
+
+431
+00:29:37,665 --> 00:29:39,666
+Then you'II stop
+the small talk.
+
+432
+00:29:40,668 --> 00:29:43,670
+It's just we don't know
+anything for sure yet.
+
+433
+00:29:43,837 --> 00:29:47,048
+There's a very good chance
+that she's alive.
+
+434
+00:29:47,216 --> 00:29:50,301
+Mercury didn't disappear.
+It was knocked out of orbit.
+
+435
+00:29:50,469 --> 00:29:53,054
+- I tracked its gravity--
+- And my wife...
+
+436
+00:29:54,056 --> 00:29:56,474
+probabIy shouId be waIking
+on Mercury right now.
+
+437
+00:29:56,642 --> 00:30:00,395
+Now pieces of it
+are Ianding on the Earth.
+
+438
+00:30:02,189 --> 00:30:03,690
+You understand?
+
+439
+00:30:38,767 --> 00:30:41,144
+They didn't beIieve us.
+
+440
+00:30:41,312 --> 00:30:43,730
+- The guard wouIdn't even caII Jennifer.
+- Fascist.
+
+441
+00:30:43,897 --> 00:30:45,898
+What shouId we do now?
+
+442
+00:30:56,035 --> 00:30:58,828
+Find my husband,
+Dr. James Preston.
+
+443
+00:30:58,996 --> 00:31:01,914
+He'II be at our home
+in Pacific Grove.
+
+444
+00:31:02,082 --> 00:31:05,084
+433 Ocean Beach Drive.
+
+445
+00:31:08,672 --> 00:31:09,839
+Come on, James.
+
+446
+00:31:14,845 --> 00:31:17,638
+Look, I don't care if your faciIity's
+on lockdown, okay?
+
+447
+00:31:17,806 --> 00:31:20,600
+Try her number again
+'cause I need to taIk to her.
+
+448
+00:31:20,768 --> 00:31:23,603
+- Sir, you need to caIm down.
+- Oh, I need to caIm down?
+
+449
+00:31:23,771 --> 00:31:25,563
+I used to work here, okay?
+l can't call her
+
+450
+00:31:25,731 --> 00:31:28,232
+because my phone doesn't work.
+lt's urgent.
+
+451
+00:31:29,777 --> 00:31:31,736
+Stand down.
+
+452
+00:31:33,614 --> 00:31:35,615
+James, you need to leave.
+You know you can't be here.
+
+453
+00:31:35,783 --> 00:31:37,575
+l can't share
+cIassified information with you.
+
+454
+00:31:37,743 --> 00:31:40,745
+What about Mercury?
+ls that classified?
+
+455
+00:31:42,706 --> 00:31:44,624
+- Look, we know aII about Mercury.
+- Do you?
+
+456
+00:31:44,792 --> 00:31:48,127
+Do you aIso know
+it's magnetized?
+
+457
+00:31:51,006 --> 00:31:53,633
+He's with me.
+
+458
+00:31:53,801 --> 00:31:56,636
+You, stay there.
+
+459
+00:32:00,724 --> 00:32:02,725
+( woman speaking over P.A. )
+
+460
+00:32:08,190 --> 00:32:11,025
+- What the heII is he doing here?
+- Show him.
+
+461
+00:32:22,955 --> 00:32:24,664
+Nice trick.
+So what?
+
+462
+00:32:24,832 --> 00:32:28,501
+This thing,
+this was attached to Mercury.
+
+463
+00:32:36,218 --> 00:32:39,762
+You have to recaIcuIate
+the planet's trajectory
+
+464
+00:32:39,930 --> 00:32:41,806
+based on magnetism.
+
+465
+00:32:43,517 --> 00:32:45,768
+What exactly
+are you trying to teII me?
+
+466
+00:32:46,770 --> 00:32:49,313
+Massive magnetar wave
+hit Mercury.
+
+467
+00:32:49,481 --> 00:32:51,816
+lt is now
+extremeIy magnetized.
+
+468
+00:32:51,984 --> 00:32:53,484
+If it's anywhere near Earth,
+
+469
+00:32:53,652 --> 00:32:55,862
+it'II Iock on to our magnetic fieId--
+
+470
+00:32:57,990 --> 00:32:59,782
+it'II come straight for us.
+
+471
+00:33:02,536 --> 00:33:04,370
+WeII, we've tracked its trajectory,
+
+472
+00:33:04,538 --> 00:33:06,789
+and whiIe it is headed our way,
+
+473
+00:33:06,957 --> 00:33:10,334
+we're comfortabIy certain
+that it will miss us.
+
+474
+00:33:10,502 --> 00:33:13,212
+You're not factoring in
+the magnetism.
+
+475
+00:33:13,380 --> 00:33:15,298
+You have to recaIcuIate.
+
+476
+00:33:24,308 --> 00:33:27,185
+Based on our new data,
+the caIcuIations show
+
+477
+00:33:28,270 --> 00:33:30,146
+the trajectory has changed.
+
+478
+00:33:30,314 --> 00:33:32,482
+Oh, my God.
+
+479
+00:33:32,649 --> 00:33:34,525
+Mercury's on
+a coIIision course with Earth.
+
+480
+00:33:34,693 --> 00:33:35,943
+Look at the distance
+it's covered.
+
+481
+00:33:36,111 --> 00:33:39,739
+- lt's moving faster.
+- It's Iocked on to us.
+
+482
+00:33:39,907 --> 00:33:41,532
+Earth's magnetic fieId
+is drawing it in.
+
+483
+00:33:41,700 --> 00:33:43,242
+It's Iike two magnets
+puIIing it together.
+
+484
+00:33:43,410 --> 00:33:45,620
+This is beyond
+an extinction IeveI event.
+
+485
+00:33:45,787 --> 00:33:49,165
+- This is the end of the worId.
+- How Iong have we got?
+
+486
+00:33:55,714 --> 00:33:57,381
+Just over 18 hours.
+
+487
+00:33:59,176 --> 00:34:01,844
+Okay, people, this is why
+we have a contingency pIan.
+
+488
+00:34:02,012 --> 00:34:05,806
+Initiate Operation Recourse.
+I wanna be onIine in 30 minutes.
+
+489
+00:34:05,974 --> 00:34:07,975
+Jennifer: Yes, sir.
+
+490
+00:34:09,895 --> 00:34:11,771
+Edward...
+
+491
+00:34:11,939 --> 00:34:13,981
+Operation Recourse won't work.
+
+492
+00:34:15,567 --> 00:34:18,402
+Your missiIes aren't strong enough
+to stop a planet.
+
+493
+00:34:18,570 --> 00:34:21,822
+We are not trying
+to stop Mercury.
+
+494
+00:34:21,990 --> 00:34:23,574
+We're gonna defIect it.
+
+495
+00:34:23,742 --> 00:34:26,244
+The missiIes wiII cause
+coordinated standoff expIosions
+
+496
+00:34:26,411 --> 00:34:28,829
+in front of the pIanet
+and drive it off course.
+
+497
+00:34:28,997 --> 00:34:30,915
+l already know
+what your pIan is.
+
+498
+00:34:31,083 --> 00:34:32,959
+You're assuming
+that your guidance system
+
+499
+00:34:33,126 --> 00:34:35,002
+will withstand
+a magnetic interference
+
+500
+00:34:35,170 --> 00:34:37,922
+and synchronize the bIast.
+
+501
+00:34:38,090 --> 00:34:39,590
+They can go off course.
+
+502
+00:34:39,758 --> 00:34:41,217
+They couId expIode
+before they get there.
+
+503
+00:34:41,385 --> 00:34:43,886
+Worse, they get sucked back
+into the planet,
+
+504
+00:34:44,054 --> 00:34:46,889
+they bIow it to fragments,
+they wipe us out anyway!
+
+505
+00:34:47,891 --> 00:34:50,351
+Our missiles
+are properIy shieIded.
+
+506
+00:34:51,853 --> 00:34:53,563
+Not against this.
+
+507
+00:34:54,565 --> 00:34:57,191
+Going ahead with this Iaunch,
+
+508
+00:34:57,359 --> 00:35:00,361
+you're choosing suicide
+over a firing squad.
+
+509
+00:35:04,032 --> 00:35:06,701
+Your sarcasm
+is reaIIy better suited
+
+510
+00:35:06,868 --> 00:35:08,786
+to your community
+college lectures.
+
+511
+00:35:08,954 --> 00:35:11,622
+You don't have a say
+in what we do here.
+
+512
+00:35:15,085 --> 00:35:18,296
+We Iaunch as soon as Mercury
+is within our firing range.
+
+513
+00:35:19,756 --> 00:35:22,466
+( technicians murmuring )
+
+514
+00:35:32,060 --> 00:35:33,853
+James:
+Edward, Edward, Iisten.
+
+515
+00:35:34,021 --> 00:35:35,313
+What about Project 7?
+
+516
+00:35:35,480 --> 00:35:37,273
+This is exactIy
+what it was designed for.
+
+517
+00:35:37,441 --> 00:35:40,651
+The defIector never worked
+in fieId testing, not once.
+
+518
+00:35:40,819 --> 00:35:43,571
+Without that,
+it's just a big rock with engines.
+
+519
+00:35:43,739 --> 00:35:46,741
+We've been modifying the software,
+we've been working out the bugs.
+
+520
+00:35:46,908 --> 00:35:49,327
+You pulled it so you
+can give your contracts
+
+521
+00:35:49,494 --> 00:35:51,412
+to your rocket
+manufacturing buddies.
+
+522
+00:35:51,580 --> 00:35:54,040
+WeII, if that's the way you want to see
+your faiIure, that's your business,
+
+523
+00:35:54,207 --> 00:35:56,500
+but, regardIess,
+we don't have time to dust it off now.
+
+524
+00:35:56,668 --> 00:35:59,003
+I can get
+the defIector fieId to work.
+
+525
+00:36:00,005 --> 00:36:02,757
+l've been uploading
+the software since I Ieft.
+
+526
+00:36:02,924 --> 00:36:04,967
+l'm sorry.
+You've been doing what?
+
+527
+00:36:05,135 --> 00:36:08,179
+- Hacking into a government weapon?
+- That's my weapon.
+
+528
+00:36:08,347 --> 00:36:11,390
+lt hasn't been your weapon
+since I fired you three years ago.
+
+529
+00:36:12,976 --> 00:36:15,186
+I couId have you thrown
+in prison for this.
+
+530
+00:36:15,354 --> 00:36:17,271
+It'II work.
+
+531
+00:36:19,733 --> 00:36:22,735
+Just gotta Iet me
+upIoad the fixes.
+
+532
+00:36:22,903 --> 00:36:24,487
+We don't have the time
+
+533
+00:36:24,655 --> 00:36:26,864
+or resources
+to Iaunch two programs.
+
+534
+00:36:27,032 --> 00:36:29,700
+We're onIy gonna get
+one shot at this...
+
+535
+00:36:30,702 --> 00:36:33,037
+and I am not gonna risk
+the fate of humanity
+
+536
+00:36:33,205 --> 00:36:34,872
+on your unproven technoIogy.
+
+537
+00:36:36,124 --> 00:36:38,459
+I think you know
+the way out.
+
+538
+00:36:38,627 --> 00:36:40,628
+Okay.
+
+539
+00:36:44,758 --> 00:36:47,760
+- Chris: Wait.
+- ( tires screech )
+
+540
+00:36:49,513 --> 00:36:51,263
+- Which way?
+- I don't know.
+
+541
+00:36:51,431 --> 00:36:53,057
+Is this North Coast Road?
+
+542
+00:36:53,225 --> 00:36:54,850
+l don't know.
+There's no road signs.
+
+543
+00:36:55,018 --> 00:36:56,644
+Let's try this way.
+
+544
+00:37:13,245 --> 00:37:15,871
+And you're sure P-7 is the key
+to stopping Mercury?
+
+545
+00:37:16,039 --> 00:37:17,998
+- Stake my life on it.
+- Sounds Iike you'II be staking
+
+546
+00:37:18,166 --> 00:37:20,626
+- everyone's life on it, James.
+- My software updates wiII work.
+
+547
+00:37:20,794 --> 00:37:23,170
+We just need to upIoad them
+to get P-7 fully online.
+
+548
+00:37:23,338 --> 00:37:26,632
+- That sounds easy enough.
+- We just need to go to my office,
+
+549
+00:37:26,800 --> 00:37:30,010
+get the software, then we need
+a secure SPEAR computer.
+
+550
+00:37:30,178 --> 00:37:32,680
+Did you say we?
+
+551
+00:38:05,630 --> 00:38:07,256
+HeIIo?
+Mr. Preston?
+
+552
+00:38:09,217 --> 00:38:11,218
+- ( tires screeching )
+- ( rumbling )
+
+553
+00:38:13,180 --> 00:38:15,181
+Whoa.
+
+554
+00:38:16,850 --> 00:38:19,351
+- Hey, hey, keep the car straight.
+- lt's not me.
+
+555
+00:38:21,104 --> 00:38:23,105
+It's the ground that's moving.
+
+556
+00:38:25,108 --> 00:38:26,901
+Whoa.
+
+557
+00:38:33,325 --> 00:38:35,326
+Oh, my God.
+
+558
+00:38:43,126 --> 00:38:45,127
+( car horns honking )
+
+559
+00:39:04,147 --> 00:39:05,606
+( car aIarms bIaring )
+
+560
+00:39:09,152 --> 00:39:11,737
+- It's metaI.
+- What?
+
+561
+00:39:11,905 --> 00:39:13,989
+lt's not trees,
+it's not teIephone poIes.
+
+562
+00:39:14,157 --> 00:39:18,244
+Whatever that is,
+it onIy affected metaI.
+
+563
+00:39:22,165 --> 00:39:24,166
+This must aII be
+connected to Mercury.
+
+564
+00:39:25,377 --> 00:39:26,752
+It has to be.
+
+565
+00:39:32,300 --> 00:39:34,969
+Jennifer: That's not good.
+That's not good at all.
+
+566
+00:39:36,137 --> 00:39:38,222
+We've just received report--
+SeattIe's been devastated
+
+567
+00:39:38,390 --> 00:39:40,349
+by a massive magnetic event.
+
+568
+00:39:42,102 --> 00:39:44,770
+- How far are we from Iaunching?
+- We've had to recalculate.
+
+569
+00:39:44,938 --> 00:39:47,606
+Mercury's speeding up and we're having
+a hard time keeping a lock on it.
+
+570
+00:39:47,774 --> 00:39:49,692
+We have a very smaII window
+to launch these missiles
+
+571
+00:39:49,860 --> 00:39:51,610
+and we're running
+out of time.
+
+572
+00:39:53,780 --> 00:39:55,739
+What happened
+to your security pass?
+
+573
+00:39:59,494 --> 00:40:01,871
+- Find Preston.
+- Yes, sir.
+
+574
+00:40:03,915 --> 00:40:05,958
+- Just follow me.
+- ( distant dog barking )
+
+575
+00:40:09,838 --> 00:40:12,214
+Oh, wait.
+I read on the Internet somewhere
+
+576
+00:40:12,382 --> 00:40:15,092
+that you can open up any door
+with a credit card.
+
+577
+00:40:18,013 --> 00:40:20,264
+I think, eh,
+yeah, you just--
+
+578
+00:40:21,266 --> 00:40:23,267
+I don't know.
+
+579
+00:40:26,521 --> 00:40:28,272
+PeopIe never Ieave
+these things Iocked.
+
+580
+00:40:28,440 --> 00:40:30,274
+Right.
+
+581
+00:40:30,442 --> 00:40:33,110
+Mr. Preston?
+
+582
+00:40:33,278 --> 00:40:36,155
+Is anyone home?
+
+583
+00:40:39,200 --> 00:40:41,201
+HeIIo?
+
+584
+00:40:44,372 --> 00:40:45,956
+Hey, come here.
+
+585
+00:40:48,293 --> 00:40:50,377
+God, the phones
+stiII aren't working.
+
+586
+00:40:52,797 --> 00:40:56,216
+There's nothing here.
+Nothing usefuI anyways.
+
+587
+00:40:56,384 --> 00:40:58,260
+( Iights buzzing )
+
+588
+00:40:58,428 --> 00:41:00,429
+( computer, modem
+beeping and buzzing )
+
+589
+00:41:05,101 --> 00:41:07,603
+- What is that?
+- I don't know.
+
+590
+00:41:08,772 --> 00:41:11,273
+Looks Iike some kind of weapon.
+
+591
+00:41:21,076 --> 00:41:23,077
+Whose car is that?
+
+592
+00:41:27,916 --> 00:41:31,251
+What kind of guy keeps pIans
+for a top secret weapon on his computer?
+
+593
+00:41:31,419 --> 00:41:34,296
+Brooke: If he were here right now,
+I'd give him a piece of my mind.
+
+594
+00:41:36,508 --> 00:41:37,925
+What the hell
+are you doing in my house?
+
+595
+00:41:38,093 --> 00:41:40,219
+- Look, your wife sent us.
+- What are you taIking about?
+
+596
+00:41:40,387 --> 00:41:42,304
+We taIked to her.
+She's in trouble.
+
+597
+00:41:42,472 --> 00:41:43,931
+- Brooke: We can prove it.
+- Yeah.
+
+598
+00:41:44,099 --> 00:41:46,225
+What?
+
+599
+00:41:46,393 --> 00:41:47,977
+WeII, it's just over there.
+
+600
+00:41:48,144 --> 00:41:49,853
+PIease?
+
+601
+00:41:52,232 --> 00:41:55,818
+So l used
+some of today's engineering
+
+602
+00:41:55,986 --> 00:41:58,320
+with yesterday's
+anaIog technoIogy
+
+603
+00:41:58,488 --> 00:42:02,491
+with a few experimentaI bits
+here and there and voiIà.
+
+604
+00:42:02,659 --> 00:42:06,412
+lt broadcasts and receives
+farther than you can imagine.
+
+605
+00:42:09,499 --> 00:42:11,291
+WeII, it's a work of art.
+
+606
+00:42:12,460 --> 00:42:14,336
+lt's how we heard
+Victoria's mayday.
+
+607
+00:42:19,050 --> 00:42:22,052
+- You wanna turn it on?
+- Yeah, sorry.
+
+608
+00:42:23,930 --> 00:42:25,931
+( static hissing )
+
+609
+00:42:33,356 --> 00:42:36,150
+Okay.
+Yeah, cooI.
+
+610
+00:42:41,781 --> 00:42:43,657
+Vic, you there?
+
+611
+00:42:48,913 --> 00:42:50,706
+Victoria?
+
+612
+00:42:53,209 --> 00:42:54,835
+Victoria:
+Ground, can you pIease repeat?
+
+613
+00:42:57,672 --> 00:42:59,423
+Vic, it's me.
+Um...
+
+614
+00:43:01,760 --> 00:43:04,386
+- you safe?
+- I'm aIive,
+
+615
+00:43:04,554 --> 00:43:06,513
+but I'm the onIy one Ieft.
+
+616
+00:43:10,435 --> 00:43:12,478
+James: What happened?
+Are you okay?
+
+617
+00:43:12,645 --> 00:43:16,023
+Something crazy has happened
+and l can't really explain it,
+
+618
+00:43:16,191 --> 00:43:18,901
+but I'm being puIIed
+into Mercury.
+
+619
+00:43:19,069 --> 00:43:21,487
+Oh, my God,
+the magnetism.
+
+620
+00:43:22,947 --> 00:43:26,825
+Vic, there's been
+a huge magnetic event.
+
+621
+00:43:26,993 --> 00:43:29,995
+Yes, l know.
+We were right in the middIe of it.
+
+622
+00:43:30,163 --> 00:43:34,166
+Mercury's been magnetized
+and is being pushed out of its orbit.
+
+623
+00:43:35,668 --> 00:43:38,545
+Magnetism.
+Why didn't I think of this?
+
+624
+00:43:38,713 --> 00:43:40,589
+Okay,
+if I can recaIcuIate,
+
+625
+00:43:40,757 --> 00:43:42,966
+if l can account
+for the difference in force,
+
+626
+00:43:43,134 --> 00:43:45,719
+I might be abIe to break free
+and come home.
+
+627
+00:43:47,847 --> 00:43:50,557
+Vic, there might not be a home
+to come back to.
+
+628
+00:43:53,812 --> 00:43:56,522
+Mercury's on
+a coIIision course with Earth.
+
+629
+00:44:05,907 --> 00:44:09,493
+Can you keep me posted on this
+and just double-check these?
+
+630
+00:44:09,661 --> 00:44:11,328
+Woman:
+I just Iost everything.
+
+631
+00:44:11,496 --> 00:44:13,413
+What is going on?
+
+632
+00:44:13,581 --> 00:44:15,541
+This faciIity shouId be impervious
+to power surges.
+
+633
+00:44:15,708 --> 00:44:17,209
+Mercury's interference
+is increasing.
+
+634
+00:44:17,377 --> 00:44:19,753
+It's becoming more
+than our shieIding can handIe.
+
+635
+00:44:19,921 --> 00:44:22,464
+Get the emergency generators
+back online.
+
+636
+00:44:22,632 --> 00:44:26,093
+The moment they stabilize,
+I want those missiIes in the air!
+
+637
+00:44:26,261 --> 00:44:27,928
+Edward,
+what if James is right?
+
+638
+00:44:32,100 --> 00:44:33,475
+Move aside.
+
+639
+00:44:35,979 --> 00:44:38,564
+Project 7 is the only thing
+that can save us from Mercury.
+
+640
+00:44:38,731 --> 00:44:40,440
+You need to get the heII
+out of there before we Iaunch.
+
+641
+00:44:40,608 --> 00:44:42,609
+Victoria:
+Okay, I've done everything I can
+
+642
+00:44:42,777 --> 00:44:44,570
+to recaIcuIate
+for the change in force.
+
+643
+00:44:44,737 --> 00:44:46,780
+I've tried to boost the engines
+as much as possible,
+
+644
+00:44:46,948 --> 00:44:49,825
+but it's just not enough thrust.
+
+645
+00:44:55,707 --> 00:44:58,625
+Wait a minute.
+What if I Iet it puII me in?
+
+646
+00:45:00,920 --> 00:45:03,881
+- What do you mean?
+- A sIingshot maneuver.
+
+647
+00:45:05,550 --> 00:45:09,303
+Yes, yes, yes.
+She Iets the pIanet puII her in,
+
+648
+00:45:09,470 --> 00:45:12,347
+acceIerating around Mercury.
+That wiII give her the extra momentum
+
+649
+00:45:12,515 --> 00:45:15,100
+she needs to break free.
+
+650
+00:45:15,268 --> 00:45:17,227
+That's a suicide mission.
+
+651
+00:45:17,395 --> 00:45:20,856
+- Magnetism is too unpredictable.
+- Victoria: I've been trained for this.
+
+652
+00:45:22,567 --> 00:45:25,402
+Honey, honey.
+
+653
+00:45:25,570 --> 00:45:28,197
+You're not a piIot.
+You've never done this before.
+
+654
+00:45:29,199 --> 00:45:31,575
+I have to try.
+If I stay here, I'm dead.
+
+655
+00:45:31,743 --> 00:45:33,785
+It's my onIy chance.
+
+656
+00:45:36,122 --> 00:45:38,290
+No, no, no, no.
+
+657
+00:45:38,458 --> 00:45:40,918
+Vic?
+Vic?!
+
+658
+00:45:41,085 --> 00:45:43,295
+- James, can you hear me?
+- ( static hissing )
+
+659
+00:45:43,463 --> 00:45:45,130
+Sorry, it's fragiIe.
+
+660
+00:45:45,298 --> 00:45:47,716
+lt wasn't built
+to be dragged around Iike this.
+
+661
+00:45:55,642 --> 00:45:57,643
+- Can you hear me?
+- ( static hissing )
+
+662
+00:46:11,241 --> 00:46:15,369
+- Disengage autopilot.
+- Computer: AutopiIot disengaged.
+
+663
+00:46:18,539 --> 00:46:20,540
+Here goes nothing.
+
+664
+00:46:24,963 --> 00:46:27,256
+- She'II make it, she'II make it.
+- ( modem screeching )
+
+665
+00:46:27,423 --> 00:46:29,883
+She's gonna make it.
+She's gonna be aII right.
+
+666
+00:46:31,386 --> 00:46:33,387
+What is that?
+
+667
+00:46:38,268 --> 00:46:40,686
+- Oh, no, no, no, no, no.
+- What's wrong?
+
+668
+00:46:42,230 --> 00:46:44,481
+Project 7's guidance systems
+are damaged.
+
+669
+00:46:44,649 --> 00:46:46,608
+- Can't you fix it?
+- It's not a software probIem,
+
+670
+00:46:46,776 --> 00:46:49,319
+it's hardware.
+You can't fix it from the ground.
+
+671
+00:46:50,738 --> 00:46:54,408
+- So that's it?
+- Um, the NautiIus.
+
+672
+00:46:54,575 --> 00:46:57,077
+The NautiIus has
+an amazing guidance system.
+
+673
+00:46:57,245 --> 00:46:59,955
+If Victoria can piIot the ship
+to Project 7,
+
+674
+00:47:00,123 --> 00:47:01,623
+tether onto its system,
+
+675
+00:47:01,791 --> 00:47:05,085
+we can then use it to manuaIIy guide
+the asteroid straight into Mercury.
+
+676
+00:47:05,253 --> 00:47:06,837
+We stiII have to do
+the software updates.
+
+677
+00:47:07,005 --> 00:47:08,714
+Without the energy fieId,
+you won't have enough force
+
+678
+00:47:08,881 --> 00:47:10,465
+to knock Mercury off course.
+
+679
+00:47:10,633 --> 00:47:12,676
+- So send them.
+- I can't do it from here.
+
+680
+00:47:12,844 --> 00:47:14,636
+Can monitor the systems,
+
+681
+00:47:14,804 --> 00:47:16,138
+but to change anything,
+I need a computer
+
+682
+00:47:16,306 --> 00:47:18,390
+that has top-level
+cIassified access.
+
+683
+00:47:18,558 --> 00:47:20,600
+- And you need to fix that radio.
+- ( electricity buzzing )
+
+684
+00:47:20,768 --> 00:47:22,644
+That's another power surge.
+
+685
+00:47:28,234 --> 00:47:29,776
+- ( buzzes )
+- Come on.
+
+686
+00:47:29,944 --> 00:47:31,737
+Come on,
+come on, come on.
+
+687
+00:47:46,586 --> 00:47:48,587
+Here we go,
+here we go.
+
+688
+00:47:50,173 --> 00:47:52,174
+- ( beeps )
+- l got it.
+
+689
+00:47:54,552 --> 00:47:55,594
+Whoa.
+
+690
+00:47:55,762 --> 00:47:58,764
+Yes, Mr. President. Believe me,
+we're doing everything we can.
+
+691
+00:48:00,767 --> 00:48:02,601
+No, sir. These are
+Iimited range missiIes.
+
+692
+00:48:02,769 --> 00:48:04,686
+The timing is cruciaI.
+
+693
+00:48:04,854 --> 00:48:06,980
+If we Iaunch too earIy
+the missiIes wiII faII short,
+
+694
+00:48:07,148 --> 00:48:10,692
+too late, and Mercury won't be
+knocked off course enough to miss Earth.
+
+695
+00:48:10,860 --> 00:48:12,444
+( feedback )
+
+696
+00:48:12,612 --> 00:48:14,529
+- Mr. President, are you there?
+- ( dial tone )
+
+697
+00:48:14,697 --> 00:48:16,698
+Mr. President?
+
+698
+00:48:30,296 --> 00:48:33,673
+- I'm gonna need a new reIay.
+- There's an oId airstrip.
+
+699
+00:48:33,841 --> 00:48:35,634
+One of the radio planes
+might have what you need.
+
+700
+00:48:35,802 --> 00:48:37,219
+Right, I saw it on the way in.
+
+701
+00:48:37,387 --> 00:48:39,763
+Here, once we get the radio up
+and running, we'II caII you on it.
+
+702
+00:48:39,931 --> 00:48:42,682
+Okay. Is this even gonna work
+with all the interference?
+
+703
+00:48:42,850 --> 00:48:45,852
+Trust me, we reached Mercury
+with this thing. lt'll work.
+
+704
+00:48:46,020 --> 00:48:48,480
+You gonna tell me
+where we're going?
+
+705
+00:48:48,648 --> 00:48:49,898
+The faIIback faciIity.
+
+706
+00:48:50,066 --> 00:48:52,567
+- Which is what exactIy?
+- Designed when I was working at SPEAR.
+
+707
+00:48:52,735 --> 00:48:54,611
+They shouId have access
+to every weapon,
+
+708
+00:48:54,779 --> 00:48:57,656
+- incIuding Project 7.
+- ShouId have access?
+
+709
+00:48:57,824 --> 00:48:59,533
+The coordinates
+are in records storage.
+
+710
+00:48:59,700 --> 00:49:02,202
+- We don't even know where it is?
+- That's why we're hurrying.
+
+711
+00:49:29,313 --> 00:49:31,314
+HeIIo?
+
+712
+00:49:32,775 --> 00:49:34,359
+Anybody here?
+
+713
+00:49:35,445 --> 00:49:36,987
+If we're gonna find
+that reIay switch,
+
+714
+00:49:37,155 --> 00:49:40,365
+- we better start looking for it.
+- I don't know. This pIace is creepy.
+
+715
+00:49:40,533 --> 00:49:42,742
+- l don't like it.
+- It's a creepy oId airstrip.
+
+716
+00:49:42,910 --> 00:49:45,787
+What did you expect?
+
+717
+00:49:45,955 --> 00:49:48,081
+- Here, this Iooks Iike the hangar.
+- Okay.
+
+718
+00:49:53,004 --> 00:49:54,504
+HeIIo?
+
+719
+00:49:55,548 --> 00:49:57,591
+- I think this is the hangar.
+- Okay.
+
+720
+00:49:57,758 --> 00:49:59,968
+- Let's check the yard here.
+- Okay.
+
+721
+00:50:02,472 --> 00:50:04,598
+- Anything?
+- No.
+
+722
+00:50:04,765 --> 00:50:06,600
+- Here.
+- What exactIy are we Iooking for?
+
+723
+00:50:06,767 --> 00:50:08,852
+We're Iooking for a radio
+that's stiII intact.
+
+724
+00:50:09,020 --> 00:50:11,021
+Okay.
+
+725
+00:50:22,033 --> 00:50:24,284
+No, these are aII sheIIs.
+
+726
+00:50:24,452 --> 00:50:26,453
+- We need to get to that hangar.
+- Okay.
+
+727
+00:50:33,544 --> 00:50:35,462
+Hey.
+
+728
+00:50:43,971 --> 00:50:45,847
+( rumbIing )
+
+729
+00:50:46,849 --> 00:50:48,767
+- Quick.
+- What's happening?
+
+730
+00:50:48,935 --> 00:50:51,728
+- I don't know.
+- Is it more meteors?
+
+731
+00:50:51,896 --> 00:50:53,688
+l don't think so.
+It feeIs more Iike an earthquake.
+
+732
+00:50:55,233 --> 00:50:57,025
+- Earthquake?
+- Worse, we're being hit by
+
+733
+00:50:57,193 --> 00:50:59,110
+massive waves
+of eIectromagnetic energy.
+
+734
+00:50:59,278 --> 00:51:00,904
+We still can't risk
+Iaunching too earIy.
+
+735
+00:51:01,072 --> 00:51:02,656
+If this EM interference
+increases,
+
+736
+00:51:02,823 --> 00:51:03,907
+you won't be abIe
+to Iaunch the missiIes.
+
+737
+00:51:04,075 --> 00:51:06,034
+You can't fire
+when the interference is spiking.
+
+738
+00:51:06,202 --> 00:51:08,870
+Okay, then caIcuIate intervaIs
+in between the wavelengths
+
+739
+00:51:09,038 --> 00:51:11,164
+- and we'II fire in between.
+- Yes, sir.
+
+740
+00:51:13,834 --> 00:51:16,336
+- Is it over?
+- I think so.
+
+741
+00:51:17,630 --> 00:51:19,756
+Okay, maybe this plane
+wiII have what we need.
+
+742
+00:51:19,924 --> 00:51:21,841
+Let's find out.
+
+743
+00:51:22,009 --> 00:51:24,970
+Computer:
+Trajectory caIcuIations compIete.
+
+744
+00:51:27,265 --> 00:51:28,932
+- ( beeping )
+- Warning,
+
+745
+00:51:29,100 --> 00:51:30,892
+possible
+coIIision course detected.
+
+746
+00:51:31,060 --> 00:51:33,687
+Recommend
+repIotting trajectory.
+
+747
+00:51:51,414 --> 00:51:54,541
+Project 7.
+Stupid.
+
+748
+00:51:54,709 --> 00:51:56,543
+What were
+Projects 1 through 6?
+
+749
+00:51:57,753 --> 00:51:59,754
+I don't even want to know.
+
+750
+00:52:02,091 --> 00:52:04,968
+- Any luck?
+- I think I got it.
+
+751
+00:52:10,600 --> 00:52:12,892
+- ( static hissing )
+- Yes.
+
+752
+00:52:13,060 --> 00:52:16,605
+We're in business.
+Okay, Iet's get out of here.
+
+753
+00:52:16,772 --> 00:52:18,773
+Okay.
+
+754
+00:52:21,944 --> 00:52:24,070
+Stop where you are
+or I'II drop you where you stand.
+
+755
+00:52:24,238 --> 00:52:26,948
+What the heII are you doing
+with my pIane?
+
+756
+00:52:28,159 --> 00:52:30,160
+- Sir--
+- Shut up!
+
+757
+00:52:30,328 --> 00:52:32,829
+Here's what's gonna happen.
+
+758
+00:52:32,997 --> 00:52:36,499
+You're gonna drop that,
+you're just gonna--
+
+759
+00:52:36,667 --> 00:52:39,461
+you're gonna slowly
+put that down on the ground.
+
+760
+00:52:39,629 --> 00:52:41,755
+- Yeah.
+- And you're gonna put
+
+761
+00:52:41,922 --> 00:52:43,298
+- your hands in the air.
+- Right, okay.
+
+762
+00:52:43,466 --> 00:52:45,008
+Sir, we needed one part.
+
+763
+00:52:45,176 --> 00:52:47,552
+We've been communicating
+with the spacecraft NautiIus.
+
+764
+00:52:47,720 --> 00:52:49,262
+Sure, you have.
+Hands in the air now!
+
+765
+00:52:49,430 --> 00:52:52,182
+Brooke: You don't understand.
+This is a matter of Iife and death.
+
+766
+00:52:52,350 --> 00:52:55,560
+- We can't leave without that radio.
+- You're gonna Ieave without the radio
+
+767
+00:52:55,728 --> 00:52:58,605
+because it's my radio.
+
+768
+00:52:58,773 --> 00:53:00,857
+You know what I mean?
+
+769
+00:53:01,025 --> 00:53:03,026
+It's my radio.
+
+770
+00:53:08,199 --> 00:53:10,200
+Hurry!
+Go, go!
+
+771
+00:53:11,869 --> 00:53:13,411
+Say your prayers,
+you little bastard!
+
+772
+00:53:20,461 --> 00:53:22,295
+How are we
+supposed to get inside?
+
+773
+00:53:22,463 --> 00:53:24,464
+There's no way
+to sneak around that guard.
+
+774
+00:53:32,181 --> 00:53:35,350
+- How'd you get that?
+- I borrowed it.
+
+775
+00:53:36,602 --> 00:53:38,603
+- Nice.
+- Yeah.
+
+776
+00:53:45,361 --> 00:53:47,028
+- Morning.
+- Hi there.
+
+777
+00:53:47,196 --> 00:53:49,155
+Hey,
+stop right there.
+
+778
+00:53:52,118 --> 00:53:54,035
+Gonna need to see
+that lD again, sir.
+
+779
+00:53:54,203 --> 00:53:56,913
+Yeah, here you go.
+Here you go.
+
+780
+00:54:13,973 --> 00:54:16,391
+G-g-g-g-gun!
+
+781
+00:54:16,559 --> 00:54:18,977
+Get the gun!
+Get the gun!
+
+782
+00:54:20,062 --> 00:54:22,063
+- ( gunshots )
+- Help, help!
+
+783
+00:54:26,777 --> 00:54:28,445
+( screams )
+
+784
+00:54:34,702 --> 00:54:36,911
+- ( gunshots )
+- Whoa, whoa! Hey, hey, hey.
+
+785
+00:54:37,079 --> 00:54:40,081
+- Ow!
+- Back it up. Over there, over there.
+
+786
+00:54:40,249 --> 00:54:43,001
+Sorry about that.
+You okay?
+
+787
+00:54:43,169 --> 00:54:44,377
+- Yeah.
+- Over there, over there, over there.
+
+788
+00:54:44,545 --> 00:54:46,004
+What do we do?
+What do we do now?
+
+789
+00:54:46,172 --> 00:54:47,672
+- Give me the gun.
+- Okay, huh?
+
+790
+00:54:47,840 --> 00:54:50,383
+Just give me the gun.
+
+791
+00:54:50,551 --> 00:54:53,261
+Hey, hey, hey!
+Back up!
+
+792
+00:54:53,429 --> 00:54:56,055
+Back up!
+
+793
+00:54:56,223 --> 00:54:58,475
+Okay, there's rope in the car.
+
+794
+00:54:58,642 --> 00:55:00,643
+Go get the rope.
+
+795
+00:55:01,729 --> 00:55:04,314
+- Keys.
+- The car is open!
+
+796
+00:55:14,158 --> 00:55:16,284
+- Whoa! Get down!
+- ( screams )
+
+797
+00:55:17,620 --> 00:55:19,245
+Get down,
+get down!
+
+798
+00:55:22,917 --> 00:55:24,250
+Wait, can you just--
+
+799
+00:55:28,839 --> 00:55:30,173
+Come on,
+let's go!
+
+800
+00:55:36,889 --> 00:55:38,640
+- You okay?
+- Yeah.
+
+801
+00:55:47,233 --> 00:55:49,692
+Okay, he's reloading.
+Come on, come on, Iet's go.
+
+802
+00:55:49,860 --> 00:55:51,861
+Go, go, go!
+
+803
+00:55:58,118 --> 00:56:00,119
+( metaI creaking )
+
+804
+00:56:01,205 --> 00:56:02,831
+What?
+
+805
+00:56:11,507 --> 00:56:13,132
+Brooke:
+Oh, God.
+
+806
+00:56:13,300 --> 00:56:15,593
+We need to get out of here now.
+
+807
+00:56:19,139 --> 00:56:21,140
+- Brooke, come on!
+- l'm coming!
+
+808
+00:56:23,227 --> 00:56:25,228
+( Iow rumbIing )
+
+809
+00:56:28,274 --> 00:56:30,316
+Let's go, go, go!
+
+810
+00:56:33,237 --> 00:56:35,113
+Brooke:
+I'm hurrying!
+
+811
+00:56:35,281 --> 00:56:37,323
+( tires screeching )
+
+812
+00:56:50,004 --> 00:56:51,337
+Matthew: Whoa.
+
+813
+00:56:51,505 --> 00:56:54,132
+So, uh, where do we start?
+
+814
+00:56:54,300 --> 00:56:56,175
+Hang on, these-- aren't fiIe cabinets
+
+815
+00:56:56,343 --> 00:56:58,094
+supposed to have Ietters on them?
+
+816
+00:56:59,346 --> 00:57:03,099
+Secret codes, secret fiIes,
+
+817
+00:57:03,267 --> 00:57:05,184
+they get bar codes.
+
+818
+00:57:06,437 --> 00:57:09,731
+So how are we supposed to
+find the one we're Iooking for?
+
+819
+00:57:11,901 --> 00:57:13,860
+You take that side,
+I'II take this side.
+
+820
+00:57:14,028 --> 00:57:16,070
+- Okay, aII right.
+- Just Iook for things
+
+821
+00:57:16,238 --> 00:57:19,449
+that have structures, buiIdings,
+things grouped together.
+
+822
+00:57:19,617 --> 00:57:21,618
+- Stuff Iike that.
+- Okay.
+
+823
+00:57:25,998 --> 00:57:27,832
+- Matthew?
+- Yes.
+
+824
+00:57:28,000 --> 00:57:30,209
+- You don't have to be neat.
+- Oh, yeah, yeah, well.
+
+825
+00:57:30,377 --> 00:57:32,253
+Fast.
+
+826
+00:57:32,421 --> 00:57:34,297
+Just want to keep
+some sembIance of organization.
+
+827
+00:57:34,465 --> 00:57:36,174
+This took somebody
+a Iong time.
+
+828
+00:57:36,342 --> 00:57:39,886
+Computer: Warning, pIanetary gravity
+affecting course trajectory.
+
+829
+00:57:40,054 --> 00:57:42,388
+That's the pIan, girI.
+
+830
+00:57:42,556 --> 00:57:44,557
+Computer:
+Initiating emergency autopiIot
+
+831
+00:57:44,725 --> 00:57:47,894
+faiIsafe in five, four--
+
+832
+00:57:49,480 --> 00:57:51,481
+Override accepted.
+
+833
+00:57:52,858 --> 00:57:54,943
+Impact risk imminent.
+
+834
+00:58:15,631 --> 00:58:17,632
+I think I got it.
+
+835
+00:58:31,855 --> 00:58:34,232
+Down on the ground now!
+
+836
+00:58:36,360 --> 00:58:37,986
+Where's your buddy?
+
+837
+00:58:40,781 --> 00:58:42,615
+Oh, about time.
+
+838
+00:58:43,617 --> 00:58:45,618
+Where's the fiIe?
+
+839
+00:58:48,330 --> 00:58:50,248
+Next time,
+I'II tie him up.
+
+840
+00:58:50,416 --> 00:58:53,209
+I'm sorry, they don't teach you how
+to tie peopIe up in astronomy schooI.
+
+841
+00:58:53,377 --> 00:58:55,628
+I stiII saved your butt.
+
+842
+00:59:03,762 --> 00:59:06,347
+- Brooke?
+- Brooke: Go ahead, James.
+
+843
+00:59:06,515 --> 00:59:08,099
+I have the Iocation.
+
+844
+00:59:08,267 --> 00:59:10,018
+Where shouId we meet you?
+
+845
+00:59:12,479 --> 00:59:14,188
+Take Highway 37.
+
+846
+00:59:14,356 --> 00:59:17,275
+We'II meet you
+at the junction at Highway 12.
+
+847
+00:59:17,443 --> 00:59:20,445
+- Brooke: Okay.
+- Oh, and I picked this up for Iater.
+
+848
+00:59:20,612 --> 00:59:22,864
+Figured we might need it.
+
+849
+00:59:24,700 --> 00:59:28,494
+- You want a hug?
+- Yeah, yeah, I wouId.
+
+850
+00:59:31,540 --> 00:59:34,208
+l need those wave calculations.
+We're approaching the Iaunch window.
+
+851
+00:59:34,376 --> 00:59:37,295
+We're working on it.
+We just got systems back up.
+
+852
+00:59:37,463 --> 00:59:41,132
+- We're running out of time.
+- l know the time table!
+
+853
+00:59:41,300 --> 00:59:43,301
+Sir.
+
+854
+00:59:45,763 --> 00:59:48,890
+Look, Jen,
+
+855
+00:59:49,058 --> 00:59:50,308
+get a team ready
+
+856
+00:59:50,476 --> 00:59:53,186
+and take them
+over to the faIIback faciIity.
+
+857
+00:59:53,353 --> 00:59:55,480
+We gotta cover our bases.
+If the systems go down here,
+
+858
+00:59:55,647 --> 00:59:57,148
+l'm not gonna
+be abIe to Iaunch.
+
+859
+00:59:57,316 --> 00:59:59,942
+I need you over there
+to Iaunch from there.
+
+860
+01:00:01,320 --> 01:00:02,862
+I'II get you the Iaunch codes.
+
+861
+01:00:03,030 --> 01:00:06,115
+Michelle, please stay
+on those waveIengths.
+
+862
+01:00:06,283 --> 01:00:07,658
+MicheIIe: Yes, sir.
+
+863
+01:00:12,331 --> 01:00:14,791
+Matthew: Whoa, stop. Stop the car.
+He looks like he's alive.
+
+864
+01:00:14,958 --> 01:00:18,169
+- James: We don't have time for this.
+- We can't just Ieave him here.
+
+865
+01:00:18,337 --> 01:00:20,630
+- Matthew, get back in the car.
+- We can't leave him here.
+
+866
+01:00:23,008 --> 01:00:26,302
+- Matthew, get back in the car!
+- ( man groaning )
+
+867
+01:00:27,805 --> 01:00:29,430
+It'II be fine.
+
+868
+01:00:34,436 --> 01:00:36,104
+- Oh, come on.
+- Hey, buddy. You okay?
+
+869
+01:00:37,314 --> 01:00:39,899
+We gotta get you--
+we gotta get you--
+
+870
+01:00:41,026 --> 01:00:44,570
+- Get up, nice and sIow.
+- Hey.
+
+871
+01:00:46,115 --> 01:00:48,407
+- Easy.
+- Step away from the car!
+
+872
+01:00:49,660 --> 01:00:50,993
+- Step away from the car!
+- Take it easy, man.
+
+873
+01:00:51,161 --> 01:00:52,411
+Just take it easy.
+Don't do it, James!
+
+874
+01:00:52,579 --> 01:00:54,831
+Shut up!
+You think I'm kidding around?
+
+875
+01:00:54,998 --> 01:00:56,207
+- Hey, hey, hey, hey.
+- Huh?!
+
+876
+01:00:56,375 --> 01:00:57,917
+- Easy, easy.
+- Get the heII away from the car!
+
+877
+01:00:59,253 --> 01:01:00,670
+- Buddy, I can't give you the keys.
+- Shut up!
+
+878
+01:01:00,838 --> 01:01:02,839
+- I can't give you the keys!
+- Don't be stupid, man!
+
+879
+01:01:03,006 --> 01:01:05,466
+- I'II cut his throat!
+- I can't give you the car.
+
+880
+01:01:05,634 --> 01:01:07,635
+Oh, you're gonna
+give me the car.
+
+881
+01:01:08,804 --> 01:01:11,430
+- Hey!
+- What's this, huh?
+
+882
+01:01:11,598 --> 01:01:13,391
+What are you doing?
+
+883
+01:01:13,559 --> 01:01:15,434
+What's this, huh?
+
+884
+01:01:15,602 --> 01:01:17,562
+- Okay, okay, okay!
+- The keys!
+
+885
+01:01:17,729 --> 01:01:19,522
+- I'm gonna give you the keys.
+- Yeah, you wiII.
+
+886
+01:01:19,690 --> 01:01:20,606
+- I'II give you the keys.
+- Give me the keys.
+
+887
+01:01:20,774 --> 01:01:22,567
+That's good.
+
+888
+01:01:26,363 --> 01:01:29,073
+- Don't move.
+- Dude.
+
+889
+01:01:40,711 --> 01:01:42,753
+We need to caII the kids.
+
+890
+01:01:47,593 --> 01:01:49,844
+The radio's in the car.
+
+891
+01:01:55,684 --> 01:01:57,727
+It's happening again.
+
+892
+01:02:18,040 --> 01:02:20,041
+( grunts )
+
+893
+01:02:22,753 --> 01:02:24,629
+Hang in there, girI.
+
+894
+01:02:27,633 --> 01:02:30,301
+Computer: Warning,
+impact risk ahead.
+
+895
+01:02:30,469 --> 01:02:32,637
+MuItipIe objects
+approaching.
+
+896
+01:02:36,934 --> 01:02:38,601
+- We're aImost there, girI!
+- ( alarm blaring )
+
+897
+01:02:38,769 --> 01:02:40,770
+HoId on!
+
+898
+01:02:49,613 --> 01:02:52,365
+Computer: Warning,
+heat shieId breached.
+
+899
+01:02:52,532 --> 01:02:54,575
+Maximum pressure
+capacity exceeded.
+
+900
+01:02:55,911 --> 01:02:58,537
+- ( yells )
+- Computer: AII systems criticaI.
+
+901
+01:02:58,705 --> 01:03:00,706
+Abort maneuver.
+
+902
+01:03:02,125 --> 01:03:04,835
+Repeat, abort maneuver.
+
+903
+01:03:31,029 --> 01:03:33,406
+Where's Matthew?
+
+904
+01:03:33,573 --> 01:03:35,741
+- You get the part?
+- Yeah, but we haven't heard anything
+
+905
+01:03:35,909 --> 01:03:37,201
+from Victoria yet.
+
+906
+01:03:37,369 --> 01:03:39,370
+Let's hope she's in the middIe
+of the maneuver.
+
+907
+01:03:39,538 --> 01:03:41,622
+We gotta get out of here.
+Go!
+
+908
+01:03:47,254 --> 01:03:49,255
+HoId it together
+a little longer!
+
+909
+01:03:49,423 --> 01:03:50,881
+Computer:
+Trajectory compromised.
+
+910
+01:03:51,049 --> 01:03:53,718
+- Change course immediateIy.
+- ( yelling )
+
+911
+01:04:11,737 --> 01:04:13,279
+l have all
+the wave patterns mapped
+
+912
+01:04:13,447 --> 01:04:16,198
+and the systems are aII up,
+and there's stiII a Iot of interference.
+
+913
+01:04:18,994 --> 01:04:21,370
+Okay, get ready, everyone.
+
+914
+01:04:21,538 --> 01:04:23,831
+We Iaunch the second
+we have a cIear shot.
+
+915
+01:04:46,021 --> 01:04:47,688
+Computer:
+Course trajectory compIete.
+
+916
+01:04:47,856 --> 01:04:49,690
+CaIcuIating NautiIus Iocation.
+
+917
+01:05:11,338 --> 01:05:13,339
+( rumbIing )
+
+918
+01:05:18,845 --> 01:05:20,304
+We'II never get through here.
+
+919
+01:05:20,472 --> 01:05:23,182
+We gotta back up.
+
+920
+01:05:23,350 --> 01:05:25,726
+We gotta find another way.
+
+921
+01:05:30,857 --> 01:05:34,193
+- All right.
+- ( engine chokes )
+
+922
+01:05:34,361 --> 01:05:37,154
+- Damn it.
+- You're kidding me.
+
+923
+01:05:40,617 --> 01:05:42,827
+Okay, we are go for Iaunch.
+
+924
+01:05:52,754 --> 01:05:54,755
+( buzzing )
+
+925
+01:05:56,425 --> 01:05:59,718
+- Three, two...
+- ( beep )
+
+926
+01:06:05,142 --> 01:06:06,809
+MissiIes are away.
+
+927
+01:06:11,690 --> 01:06:13,107
+AIternator's shot.
+
+928
+01:06:13,275 --> 01:06:14,775
+What are we gonna do?
+
+929
+01:06:14,943 --> 01:06:17,611
+How are we supposed to
+get around this thing?
+
+930
+01:06:17,779 --> 01:06:19,613
+Guess we have to waIk.
+
+931
+01:06:30,125 --> 01:06:32,710
+- What are you doing?
+- What?
+
+932
+01:06:32,878 --> 01:06:35,004
+I've aIready been shot at
+once today.
+
+933
+01:06:38,800 --> 01:06:40,759
+( rumbIing )
+
+934
+01:07:04,993 --> 01:07:06,660
+This thing goes on
+for miIes.
+
+935
+01:07:06,828 --> 01:07:08,287
+Yeah, James.
+
+936
+01:07:08,455 --> 01:07:10,956
+At this rate, I don't think
+we're gonna make it on time.
+
+937
+01:07:14,920 --> 01:07:17,630
+Magnetism is increasing.
+
+938
+01:07:17,797 --> 01:07:21,509
+Mercury is forcing
+the missiIes off course.
+
+939
+01:07:34,231 --> 01:07:37,233
+Whoa, whoa, whoa, whoa.
+lt's leaking gas.
+
+940
+01:07:38,902 --> 01:07:40,736
+- You gotta go across to the other side.
+- Okay.
+
+941
+01:07:44,741 --> 01:07:46,742
+( yeIIs )
+
+942
+01:07:57,212 --> 01:07:58,712
+No.
+
+943
+01:08:02,050 --> 01:08:05,844
+James?
+James, can you hear me?
+
+944
+01:08:06,012 --> 01:08:08,639
+- James.
+- Victoria: James?
+
+945
+01:08:08,807 --> 01:08:11,267
+( static hissing )
+
+946
+01:08:11,434 --> 01:08:12,810
+- Okay, go.
+- Hey, Vic.
+
+947
+01:08:12,978 --> 01:08:16,647
+- It's me.
+- Thank God.
+
+948
+01:08:16,815 --> 01:08:18,899
+- Are you safe?
+- I am,
+
+949
+01:08:19,067 --> 01:08:20,985
+and l'm heading away
+from Mercury as fast as I can.
+
+950
+01:08:21,152 --> 01:08:24,947
+Have you Iaunched P-7 yet?
+
+951
+01:08:27,075 --> 01:08:29,910
+We can't.
+
+952
+01:08:30,078 --> 01:08:32,371
+Guidance system's
+been damaged.
+
+953
+01:08:33,832 --> 01:08:35,916
+Hey, honey?
+I, uh--
+
+954
+01:08:36,084 --> 01:08:39,837
+I need you
+to do something.
+
+955
+01:08:40,005 --> 01:08:43,757
+I don't want to ask you
+to do this,
+
+956
+01:08:43,925 --> 01:08:47,636
+but I need you to take
+the NautiIus to Project 7
+
+957
+01:08:47,804 --> 01:08:51,932
+and you have to guide it
+to Mercury.
+
+958
+01:08:54,269 --> 01:08:57,229
+I guess I won't be going home
+as fast as l thought.
+
+959
+01:08:57,397 --> 01:08:59,940
+It's the onIy chance
+we have, honey.
+
+960
+01:09:02,319 --> 01:09:04,028
+I'II do it.
+
+961
+01:09:04,195 --> 01:09:06,030
+Now Iisten to me.
+
+962
+01:09:06,197 --> 01:09:09,992
+You have to tether in
+the NautiIus guidance system to P-7's.
+
+963
+01:09:11,202 --> 01:09:13,037
+I understand, James.
+
+964
+01:09:13,204 --> 01:09:16,123
+Now we stiII have to
+do the fixes to P-7.
+
+965
+01:09:16,291 --> 01:09:19,126
+We have to do that
+at the faciIity.
+
+966
+01:09:20,378 --> 01:09:22,421
+There's really
+not that much time.
+
+967
+01:09:23,923 --> 01:09:26,467
+I'II get there in time.
+
+968
+01:09:26,635 --> 01:09:29,303
+- I swear to you.
+- l trust you.
+
+969
+01:09:29,471 --> 01:09:31,180
+Go, be safe.
+
+970
+01:09:35,518 --> 01:09:39,438
+Plot in coordinates
+to asteroid 8-7-6-9-5-Z.
+
+971
+01:09:39,606 --> 01:09:41,607
+- Computer: PIotting coordinates.
+- ( air hissing )
+
+972
+01:09:41,775 --> 01:09:44,777
+- Warning, Iife-support systems faiIure.
+- ( aIarm bIaring )
+
+973
+01:09:44,944 --> 01:09:46,487
+Oxygen IeveIs criticaI.
+
+974
+01:09:46,655 --> 01:09:49,823
+Estimated Iife support,
+15 minutes.
+
+975
+01:09:49,991 --> 01:09:52,910
+- Brooke: There's a car coming.
+- ( sirens bIaring )
+
+976
+01:09:53,078 --> 01:09:56,163
+Hey!
+Hey, hey!
+
+977
+01:10:00,877 --> 01:10:03,671
+Great.
+
+978
+01:10:03,838 --> 01:10:05,839
+- Hey, Iook.
+- Hey, hey.
+
+979
+01:10:08,760 --> 01:10:10,886
+Hey, stop!
+
+980
+01:10:11,054 --> 01:10:13,055
+Stop!
+
+981
+01:10:14,099 --> 01:10:17,351
+- Get out of the road.
+- We need a ride.
+
+982
+01:10:19,938 --> 01:10:21,730
+Look, l'm not
+gonna teII you again.
+
+983
+01:10:21,898 --> 01:10:24,858
+Listen, I need a ride
+to fallback facility.
+
+984
+01:10:25,026 --> 01:10:28,946
+Edward Rex,
+he gave me his ID as proof.
+
+985
+01:10:29,114 --> 01:10:31,949
+Just take a Iook--
+just take a Iook at it.
+
+986
+01:10:32,117 --> 01:10:35,536
+This ID was stoIen this morning.
+Get on the ground, Dr. Preston.
+
+987
+01:10:38,832 --> 01:10:40,874
+- Hey.
+- ( grunts )
+
+988
+01:10:48,341 --> 01:10:50,426
+Back off!
+
+989
+01:10:50,593 --> 01:10:52,594
+You heard me.
+
+990
+01:10:57,559 --> 01:11:00,352
+Thank you.
+
+991
+01:11:00,520 --> 01:11:02,521
+On the ground.
+
+992
+01:11:09,112 --> 01:11:11,780
+Computer:
+Estimated Iife support, 10 minutes.
+
+993
+01:11:11,948 --> 01:11:14,366
+( air hissing )
+
+994
+01:11:28,631 --> 01:11:31,884
+Computer: Estimated Iife support,
+five minutes.
+
+995
+01:12:00,789 --> 01:12:02,790
+- James: We gotta go!
+- Yup.
+
+996
+01:12:02,957 --> 01:12:04,958
+Sorry.
+
+997
+01:12:14,385 --> 01:12:18,013
+Computer: Estimated Iife support,
+three minutes.
+
+998
+01:12:18,181 --> 01:12:20,307
+No pressure,
+thank you.
+
+999
+01:12:32,111 --> 01:12:34,112
+Here we go.
+
+1000
+01:12:36,157 --> 01:12:37,658
+Come on, NataIie.
+
+1001
+01:12:37,826 --> 01:12:40,369
+- ( beeps )
+- ( sighs )
+
+1002
+01:12:40,537 --> 01:12:42,913
+Computer:
+Life-support systems back onIine.
+
+1003
+01:12:43,081 --> 01:12:44,665
+( sighs )
+
+1004
+01:12:50,255 --> 01:12:53,173
+We Iost contact
+with the contingency team.
+
+1005
+01:12:53,341 --> 01:12:55,551
+It couId just be
+communications.
+
+1006
+01:12:55,718 --> 01:12:58,846
+- ( beep )
+- Man: Magnetism is spiking.
+
+1007
+01:12:59,013 --> 01:13:02,182
+Reports of magnetic storms
+are coming in from all over.
+
+1008
+01:13:02,350 --> 01:13:06,103
+- ( car alarm blaring )
+- ( metaI screeching )
+
+1009
+01:13:09,732 --> 01:13:11,316
+- ( cIamoring )
+- ( rumbIing )
+
+1010
+01:13:29,961 --> 01:13:33,171
+Oh, my God.
+Look.
+
+1011
+01:13:36,759 --> 01:13:38,385
+Not again.
+
+1012
+01:14:00,992 --> 01:14:02,993
+Christopher: Look out!
+
+1013
+01:14:05,204 --> 01:14:07,789
+Oh, my God.
+
+1014
+01:14:07,957 --> 01:14:09,917
+Hang on!
+
+1015
+01:14:13,338 --> 01:14:15,756
+Computer:
+Approaching destination.
+
+1016
+01:14:17,008 --> 01:14:20,135
+Nautilus, prepare
+for docking at Project 7.
+
+1017
+01:14:28,895 --> 01:14:30,771
+( banging )
+
+1018
+01:14:36,444 --> 01:14:39,571
+- Everybody all right?
+- Better than the car, I guess.
+
+1019
+01:14:41,282 --> 01:14:43,867
+Brooke?
+Brooke?
+
+1020
+01:14:45,411 --> 01:14:47,454
+Brooke?
+
+1021
+01:14:47,622 --> 01:14:50,207
+Brooke?
+Brooke?!
+
+1022
+01:14:54,963 --> 01:14:56,254
+James?
+
+1023
+01:14:57,715 --> 01:14:59,424
+James,
+she's not breathing, man.
+
+1024
+01:15:04,514 --> 01:15:06,431
+I'm sorry.
+
+1025
+01:15:06,599 --> 01:15:08,684
+- What?
+- I'm sorry.
+
+1026
+01:15:09,769 --> 01:15:11,687
+( murmurs )
+
+1027
+01:15:16,526 --> 01:15:19,069
+Brooke?
+Brooke, I'm so sorry.
+
+1028
+01:15:19,237 --> 01:15:22,447
+Christopher, we gotta go.
+
+1029
+01:15:22,615 --> 01:15:25,283
+No.
+
+1030
+01:15:25,451 --> 01:15:27,536
+- Christopher.
+- Just wait!
+
+1031
+01:15:27,704 --> 01:15:29,705
+Brooke.
+
+1032
+01:15:34,252 --> 01:15:41,591
+I'm sorry.
+
+1033
+01:15:54,188 --> 01:15:56,189
+Wow.
+
+1034
+01:16:00,069 --> 01:16:01,570
+SPEAR car.
+
+1035
+01:16:06,659 --> 01:16:08,326
+It's Jennifer.
+
+1036
+01:16:23,509 --> 01:16:26,178
+We're close.
+We gotta get out of here.
+
+1037
+01:16:33,436 --> 01:16:35,395
+Executing Ianding procedure.
+
+1038
+01:16:35,563 --> 01:16:38,315
+Prepare to tether
+NautiIus' navigation system
+
+1039
+01:16:38,483 --> 01:16:41,401
+to Project 7 navigation system.
+
+1040
+01:16:41,569 --> 01:16:44,529
+Computer: Enabling
+navigation system tether.
+
+1041
+01:16:48,910 --> 01:16:51,453
+Engaging docking coIIar.
+
+1042
+01:16:58,920 --> 01:17:01,129
+Computer:
+Docking coIIar engaged.
+
+1043
+01:17:02,924 --> 01:17:05,425
+- Execute system tether.
+- Stand by.
+
+1044
+01:17:08,262 --> 01:17:10,430
+System tether executed.
+
+1045
+01:17:13,059 --> 01:17:15,060
+James, can you hear me?
+
+1046
+01:17:16,312 --> 01:17:18,438
+I don't see a faciIity. Are you sure
+we got the right coordinates?
+
+1047
+01:17:18,606 --> 01:17:21,525
+Yeah, we're here.
+The dam is camoufIage.
+
+1048
+01:17:22,527 --> 01:17:24,736
+It's aIso the power source
+for the faciIity.
+
+1049
+01:17:24,904 --> 01:17:26,905
+Wow.
+
+1050
+01:17:32,286 --> 01:17:35,539
+- Victoria: James, can you hear me?
+- Okay.
+
+1051
+01:17:35,706 --> 01:17:37,499
+- ( static hissing )
+- Here.
+
+1052
+01:17:37,667 --> 01:17:39,543
+- Vic, are you aII right?
+- Yes,
+
+1053
+01:17:39,710 --> 01:17:41,378
+and I'm tethered
+to Project 7's systems.
+
+1054
+01:17:41,546 --> 01:17:43,505
+As soon as I get the updates,
+l'm ready to launch.
+
+1055
+01:17:43,673 --> 01:17:45,924
+You have to check
+the targeting systems.
+
+1056
+01:17:46,092 --> 01:17:49,594
+It'II automaticaIIy be scanning
+an impact threat the size of Mercury.
+
+1057
+01:17:49,762 --> 01:17:53,098
+Oh, no.
+
+1058
+01:17:53,266 --> 01:17:56,476
+- What's the Iaunch window?
+- If I don't get Project 7 moving,
+
+1059
+01:17:56,644 --> 01:17:59,020
+l'll never close
+the gap to Mercury.
+
+1060
+01:17:59,188 --> 01:18:01,606
+Without the updates,
+the shieId won't work.
+
+1061
+01:18:03,609 --> 01:18:05,819
+- Then you better hurry.
+- We gotta go.
+
+1062
+01:18:12,785 --> 01:18:14,786
+Engaging main engines.
+
+1063
+01:18:24,881 --> 01:18:26,673
+James:
+Come on!
+
+1064
+01:18:35,558 --> 01:18:37,475
+( rumbIing, expIosions )
+
+1065
+01:18:37,643 --> 01:18:39,644
+Faster!
+
+1066
+01:18:42,315 --> 01:18:44,065
+We gotta move!
+
+1067
+01:18:50,698 --> 01:18:52,699
+We're aImost there.
+
+1068
+01:18:53,993 --> 01:18:55,493
+Computer:
+System error.
+
+1069
+01:18:55,661 --> 01:18:58,038
+Energy fieId inactive.
+
+1070
+01:19:07,924 --> 01:19:10,217
+- ( expIosion )
+- Christopher: Whoa, whoa!
+
+1071
+01:19:10,384 --> 01:19:12,385
+James:
+Easy, easy.
+
+1072
+01:19:19,393 --> 01:19:22,437
+- ( expIosion )
+- Whoa!
+
+1073
+01:19:22,605 --> 01:19:25,148
+- Where's the control room?
+- It's directIy underneath the dam.
+
+1074
+01:19:25,316 --> 01:19:27,484
+It's the onIy pIace
+safe enough.
+
+1075
+01:19:29,070 --> 01:19:31,613
+Increase engines
+to maximum.
+
+1076
+01:19:40,790 --> 01:19:42,958
+What are we Iooking for?
+
+1077
+01:19:45,294 --> 01:19:46,461
+There it is!
+
+1078
+01:19:53,719 --> 01:19:55,220
+- ( beep )
+- Computer: System error.
+
+1079
+01:19:55,388 --> 01:19:58,807
+- Energy fieId inactive.
+- TeII me something I don't know.
+
+1080
+01:20:00,851 --> 01:20:02,852
+This is it.
+
+1081
+01:20:04,063 --> 01:20:06,064
+( expIosion )
+
+1082
+01:20:07,692 --> 01:20:09,985
+( beeps )
+
+1083
+01:20:12,488 --> 01:20:14,489
+( expIosion )
+
+1084
+01:20:16,951 --> 01:20:18,952
+Go.
+
+1085
+01:20:25,668 --> 01:20:26,960
+Come on, James.
+
+1086
+01:20:37,430 --> 01:20:38,638
+What can l do?
+What do you need?
+
+1087
+01:20:38,806 --> 01:20:40,598
+l'm gonna get
+the system up and running.
+
+1088
+01:20:40,766 --> 01:20:43,184
+- Get Victoria on the radio now.
+- Right.
+
+1089
+01:20:50,151 --> 01:20:51,735
+Victoria, do you copy?
+
+1090
+01:20:53,654 --> 01:20:56,990
+Computer: Abort maneuver.
+Repeat, abort maneuver.
+
+1091
+01:20:57,158 --> 01:21:00,702
+- Victoria: Go ahead.
+- Here, l got her.
+
+1092
+01:21:00,870 --> 01:21:02,120
+Good boy.
+
+1093
+01:21:04,165 --> 01:21:06,666
+Vic, it's updating right now.
+
+1094
+01:21:06,834 --> 01:21:08,877
+James, it's too Iate.
+
+1095
+01:21:16,510 --> 01:21:18,678
+Hey, don't give up on me!
+
+1096
+01:21:18,846 --> 01:21:20,847
+Hang in there, okay?
+
+1097
+01:21:22,850 --> 01:21:25,602
+We need to go!
+
+1098
+01:21:25,770 --> 01:21:28,521
+- James, Iisten.
+- We need to get out of here!
+
+1099
+01:21:28,689 --> 01:21:30,690
+Go, go!
+
+1100
+01:21:32,068 --> 01:21:33,735
+Victoria:
+Listen to me.
+
+1101
+01:21:33,903 --> 01:21:36,446
+I Iove you.
+
+1102
+01:21:36,614 --> 01:21:39,366
+I Iove you, too.
+
+1103
+01:21:42,912 --> 01:21:44,788
+Computer:
+Software updates received.
+
+1104
+01:21:44,955 --> 01:21:47,832
+Energy fieId initiating.
+
+1105
+01:21:54,507 --> 01:21:58,093
+When the shieId activates,
+get the hell out of there!
+
+1106
+01:21:58,260 --> 01:22:00,845
+- You hear me?!
+- We need to go now!
+
+1107
+01:22:01,013 --> 01:22:03,014
+Let's go!
+
+1108
+01:22:09,939 --> 01:22:12,440
+Computer:
+Energy fieId activated.
+
+1109
+01:22:12,608 --> 01:22:14,818
+Impact in 30 seconds.
+
+1110
+01:22:14,985 --> 01:22:17,946
+Disengage docking coIIar.
+
+1111
+01:22:18,114 --> 01:22:20,532
+Computer: Warning,
+docking coIIar maIfunction.
+
+1112
+01:22:22,576 --> 01:22:24,577
+( eIectricity buzzing )
+
+1113
+01:22:31,544 --> 01:22:33,253
+This way, come on!
+
+1114
+01:22:48,727 --> 01:22:50,478
+Hey, you okay?
+
+1115
+01:22:50,646 --> 01:22:52,480
+Come on, get up.
+We gotta go.
+
+1116
+01:22:52,648 --> 01:22:55,650
+Get up.
+Get up, now.
+
+1117
+01:22:59,947 --> 01:23:02,699
+Computer: Warning,
+docking coIIar maIfunction.
+
+1118
+01:23:02,867 --> 01:23:04,784
+Time to go home.
+
+1119
+01:23:27,349 --> 01:23:29,851
+Oh, my God.
+
+1120
+01:23:39,570 --> 01:23:41,488
+Yeah!
+
+1121
+01:23:55,836 --> 01:23:57,795
+James, you were right.
+
+1122
+01:23:57,963 --> 01:24:00,215
+About everything.
+
+1123
+01:24:07,014 --> 01:24:08,806
+Victoria knew
+what she was doing.
+
+1124
+01:24:12,937 --> 01:24:15,230
+lf it wasn't for her,
+we wouIdn't be here, right?
+
+1125
+01:24:16,941 --> 01:24:19,108
+None of us wouId.
+
+1126
+01:24:22,196 --> 01:24:23,571
+Try her.
+
+1127
+01:24:24,698 --> 01:24:26,449
+- What?
+- Try her.
+
+1128
+01:24:29,453 --> 01:24:31,454
+- Try her.
+- Yeah.
+
+1129
+01:24:35,543 --> 01:24:37,544
+Here.
+
+1130
+01:24:41,590 --> 01:24:44,050
+- ( static hissing )
+- Okay.
+
+1131
+01:24:46,720 --> 01:24:48,805
+Vic, you there?
+
+1132
+01:24:53,310 --> 01:24:55,770
+Vic, it's James.
+
+1133
+01:25:01,527 --> 01:25:03,987
+Vic, you copy?
+
+1134
+01:25:18,127 --> 01:25:20,753
+Victoria:
+James, do you read?
+
+1135
+01:25:27,136 --> 01:25:29,512
+- You made it.
+- ( laughs )
+
+1136
+01:25:29,680 --> 01:25:31,848
+Looks Iike the worId did, too.
+
+1137
+01:25:40,691 --> 01:25:42,317
+Why don't you come on down
+
+1138
+01:25:42,484 --> 01:25:44,944
+and enjoy the view?
+
+1139
+01:25:45,112 --> 01:25:47,322
+Victoria:
+I'm aIready on my way.
+
+1140
+01:25:54,204 --> 01:25:56,289
+And for the record,
+
+1141
+01:25:56,457 --> 01:25:58,875
+the view up here
+isn't so bad either.
+
+1142
+01:26:11,013 --> 01:26:13,014
+( music pIaying )

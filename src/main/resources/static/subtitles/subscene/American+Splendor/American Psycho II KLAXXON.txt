@@ -1,0 +1,1315 @@
+{1}{1}25.000
+{755}{797}Clara was my babysitter.
+{800}{908}I was only 12 years old,|naive and somewhat trusting.
+{910}{962}But all that|was about to change.
+{962}{1020}Some babysitters|take you to the movies,
+{1020}{1085}or roller-blading|in the park.
+{1087}{1150}Mine brought me on a date|with a serial killer.
+{1150}{1187}Patrick Bateman.
+{1190}{1255}Not my idea|of a romantic evening.
+{1280}{1320}God, look at her.
+{1322}{1397}All drugged up|and tied to a chair.
+{1400}{1480}I knew we should have|gone to the movies.
+{1547}{1600}At first, I was scared.
+{1600}{1685}I wanted to get out of there|as fast as I could.
+{1687}{1755}But then...
+{1755}{1805}something came over me.
+{1870}{1950}As soon as|I was free, I got really pissed.
+{1970}{2077}He was about to make|a real mess of my babysitter.
+{2080}{2158}So, I did what many of you|would have done,
+{2160}{2230}I took matters|into my own hands.
+{2230}{2295}And it changed|my life forever.
+{2345}{2393}Is everything|all right in there?
+{2395}{2515}- I thought I heard a crash.|- Yes, everything’s fine. Thanks.
+{2515}{2595}They found Bateman|and his final victim a few days later.
+{2595}{2660}The FBI quickly|uncovered a psychopath,
+{2662}{2710}and a few extra|unsolved murders,
+{2712}{2800}and he became an instant celebrity,|an overnight sensation.
+{2800}{2845}They even|wrote a book about him.
+{2847}{2925}Only in America.|As for me?
+{2927}{2983}I was never tied|to the scene.
+{2985}{3022}And rather|than self-destruct,
+{3025}{3090}or spend the rest of my life|on some shrink’s coach,
+{3093}{3145}I told no one|of what had happened.
+{3147}{3193}I silently vowed|to devote my life
+{3195}{3240}to stopping|other psycho killers.
+{3243}{3290}I couldn’t wait|to grow up.
+{3825}{3895}The next six years|of my life were a blur.
+{3897}{3947}My parents|wrote me off emotionally.
+{3950}{3995}My mom became|a raging alcoholic,
+{3997}{4058}and my dad was busy|fucking the secretary.
+{4060}{4120}Pretty cliché, huh?
+{4390}{4435}So, here I am today,
+{4437}{4535}attending the most renowned behavioral|studies program in the nation.
+{4537}{4595}Here they focus|on profiling,
+{4595}{4680}the art, craft and science|of tracking serial killers.
+{4683}{4760}The subject matter itself|attracts some weirdoes.
+{4762}{4805}Hey, Rachael.
+{4805}{4865}But then again,|maybe it’s just me...
+{4868}{4927}The problem is,|I don’t have time for games.
+{4930}{4985}I’ve got to focus|on my work.
+{4987}{5080}- You can do better than that.|- That’s what your mama said.
+{5110}{5150}And what can I say?
+{5150}{5225}Studying murder often|brings out the best in people.
+{5225}{5255}Thought you quit!
+{5325}{5393}Getting into|West Washington wasn’t easy.
+{5395}{5435}I busted my ass|in high school
+{5435}{5512}and maintained a perfect|4.0 grade point average.
+{5515}{5612}All this, so I could study|with the best mind in the field,
+{5615}{5685}Pr. Robert Starkman.
+{5687}{5762}Possibly the most revered|hunter of serial killers
+{5765}{5810}the FBI ever produced.
+{5810}{5890}After solving every high profile|crime ever thrown at him,
+{5893}{5983}he suddenly made a startling|life change and became a teacher.
+{5985}{6033}Some say it was|his last case,
+{6035}{6120}the mysterious death|of serial killer Patrick Bateman.
+{6120}{6152}Good morning.
+{6155}{6202}Funny how life works, isn’t it?
+{6205}{6227}Good morning.
+{6230}{6277}Starkman never discusses|the Bateman case...
+{6280}{6315}Never.
+{6315}{6405}Congratulations on getting through|the first half of the semester...
+{6405}{6470}- alive.|- ( students laugh )
+{6472}{6518}I have here...
+{6520}{6565}the official application form
+{6565}{6635}for the teacher’s assistant|position for next year.
+{6635}{6685}This is my golden|ticket to Quantico,
+{6687}{6758}the FBI’s elite|training program.
+{6760}{6818}Unfortunately, everyone else|is here for the same reason.
+{6820}{6910}They know that nine out|of Starkman’s last 10 assistants,
+{6912}{7000}- were accepted into the FBI.|- ...Announcing my new assistant
+{7002}{7070}by the end of the week, just before|we head off for Spring Break.
+{7072}{7127}And, talking about|Spring Break,
+{7130}{7187}don’t forget the party|at the Dean’s mansion.
+{7190}{7280}We’ll have the opportunity|to say goodbye to Miss McGuire
+{7280}{7345}who’s leaving us for bigger|and better things.
+{7505}{7595}Well, after weeks of grueling,|if not gruesome work,
+{7595}{7625}let’s have some fun,|shall we?
+{7627}{7695}Today we’ll be looking|at the unique aliases
+{7697}{7765}the FBI, the press|and the general public
+{7765}{7850}have nicknamed|serial killers, and why.
+{7850}{7930}His present TA|is Elizabeth McGuire.
+{7930}{7975}She’s already been|accepted to Quantico...
+{7977}{8025}Early admissions.
+{8025}{8068}I’m the front runner|to replace her.
+{8070}{8135}Nobody comes close|to my rock solid GPA.
+{8135}{8235}Dr. H.H. Holmes was|once vilified, in a biography,
+{8260}{8300}as the „Arch Fiend.”
+{8302}{8358}I’d like to say|none of them have a chance,
+{8360}{8400}but grades|aren’t everything.
+{8402}{8460}And I do have|some competition.
+{8462}{8550}Contender number one:|Brian Leads.
+{8552}{8643}A GPA as low as his|wouldn’t normally pose a threat.
+{8645}{8685}But his family’s fortune,
+{8687}{8793}easily numbering in hundreds|of millions, can open a lot of doors.
+{8795}{8860}How do you think|he got into the school?
+{8862}{8910}Can you spell „donation”?
+{8912}{8937}He can’t.
+{8962}{9025}Albert Fish,|AKA „The Moon Maniac”...
+{9027}{9090}AKA „The Werewolf|of Wisteria.”
+{9090}{9175}Contender two: Cassandra Blaire.
+{9177}{9227}They say she and Starkman|have been going at it
+{9230}{9275}since the beginning|of the semester.
+{9275}{9340}But my guess: No way.
+{9343}{9418}He’s old enough|to be her grandfather.
+{9420}{9470}Nannie Doss...
+{9472}{9543}„The Black Widow”|who murdered four of her husbands.
+{9545}{9625}Contender three: Keith Lawson.
+{9625}{9677}He poses the biggest|threat of the three.
+{9680}{9750}He and I have been sparring|all year in this class.
+{9752}{9815}But, I’ve yet to lose|a single round.
+{9818}{9915}The fact is,|none of them have a chance.
+{10335}{10375}Oh, Bobby.
+{10445}{10547}Red lips, red leaves|fall on my knees like autumn
+{10550}{10660}I miss cigarettes|every single day of my life
+{10660}{10712}When you make love|to me
+{10715}{10775}I close my eyes|and pray you say goodbye
+{10808}{10847}Damn
+{10850}{10958}She’s dawning on me
+{11005}{11105}She’s beautiful
+{11108}{11190}She’s beautiful
+{11193}{11290}And I bet you don’t know|what love means
+{11293}{11430}It’s just that|you do not love me.
+{11540}{11620}The application is a mere formality.
+{11622}{11743}Come Friday, I will be Starkman’s|new teaching assistant.
+{11745}{11795}The position is mine.
+{11797}{11860}I deserve it|and I’m going to get it.
+{11860}{11955}Yes, there maybe a few more hoops|I have to jump through,
+{11955}{12005}but I can handle them.
+{12008}{12125}Besides,|failure is not an option.
+{12160}{12218}Why don’t we just|start over here,
+{12220}{12280}because I suggest you reconsider|your position on this.
+{12283}{12362}WoI’m sorry, Mr. Leads.|I can’t make any exceptions.
+{12365}{12420}our GPA is simply|not high enough.
+{12422}{12487}Are you saying no to me?|Do you know who my father is?
+{12490}{12537}Mr. Leads...
+{12540}{12605}I am well aware|of your family’s legacy.
+{12608}{12730}Heed my advice. A bird in the hand|is worth two in the bush.
+{12730}{12780}That’s your fucking advice?
+{12780}{12855}I have some advice for you.|Get ready to take a long vacation.
+{12858}{12935}WoGo with God,|dear heart. Next!
+{12935}{12977}Can you believe|this shit?
+{12977}{13075}Wait till she sees my GPA after|my cousin hacks into their mainframe.
+{13075}{13100}Oh!
+{13102}{13152}Do they give these things up|for bitch of the month?
+{13155}{13212}That hag could be|the reigning champion.
+{13215}{13265}She’s lucky I don’t bash|her brains in.
+{13312}{13350}Next!
+{13425}{13450}Hi.
+{13452}{13535}I was told to drop off|my application here.
+{13608}{13670}Looks like everything’s|in order here.
+{13670}{13705}Thank you.
+{13705}{13735}Wait a second.
+{13737}{13777}- What’s this?|- What?
+{13780}{13837}It says here|that you’re a freshman.
+{13840}{13895}Yeah, so what?
+{13895}{13970}We don’t usually allow freshmen|or sophomores to become TAs.
+{13972}{14037}You have to be|a Junior or above.
+{14040}{14102}This isn’t|your usual situation.
+{14105}{14170}Pr. Starkman|told me I could apply.
+{14172}{14250}Shouldn’t this decision|be left up to the professor?
+{14252}{14283}‘Fraid not.
+{14285}{14358}I’ll run this up the flagpole|and see who salutes.
+{14402}{14465}I’ll have to speak|with your teacher.
+{14468}{14565}I have a schedule to keep.|It’s all worked out.
+{14568}{14605}We do this|for your own good.
+{14605}{14710}Freshmen can be extremely|overwhelmed, being at college,
+{14710}{14785}and away from home|for the first time in their lives.
+{14787}{14815}Here, take this.
+{14818}{14902}„Beat common freshmen fears|in 10 easy steps.”
+{14905}{14977}So many new experiences.
+{15008}{15058}It’s so exciting.
+{15058}{15140}Look,|the only experience I want
+{15140}{15205}is to be Pr. Starkman’s|TA next semester.
+{15208}{15283}‘Fraid not!|It just wouldn’t be right.
+{15285}{15365}I’m sure he will put in|a good word for you,
+{15365}{15455}but I don’t see how I can make|any exceptions at this point
+{15455}{15540}without setting a dangerous|precedent in school policy.
+{15543}{15612}I’ll be informing|the Dean of the situation.
+{15615}{15725}I’m sorry, Miss Newman.|You’ll just have to wait.
+{15772}{15810}WoHave a nice day.
+{15812}{15877}- ( door slams )|- Hmm.
+{16705}{16743}Ricky Martin?
+{16775}{16805}Ricky?
+{16860}{16935}Ricky?|Come to mama.
+{16958}{17000}Ricky?
+{17002}{17095}Ricky Martin?|Ricky?
+{17130}{17165}Ricky?
+{17168}{17193}Oh!
+{17195}{17277}Ricky, you got|some explaining to do.
+{17280}{17322}Ricky?
+{17472}{17515}( meowing )
+{17605}{17655}( meowing )
+{17745}{17815}- Oh, thank God.|- ( meowing )
+{17818}{17883}What happened to you?
+{18035}{18075}( screaming )
+{18758}{18845}Bad things
+{18847}{18920}Dead things
+{18922}{19050}Sad things have to happen
+{19110}{19193}Bad things
+{19195}{19277}Dead things
+{19280}{19383}Sad things have to happen.
+{19385}{19433}( knocking )
+{19590}{19625}Hey, Miss Newman.
+{19627}{19685}Wow, Brian.|Are you stalking me now?
+{19687}{19770}No, Rachael. If I was|stalking you, you’d know it.
+{19770}{19840}I mean-- you wouldn’t know it.|You know?
+{19840}{19885}I thought we should|get together and...
+{19885}{19980}discuss the state of the union|and life in general.
+{19983}{20025}Get to the point, Brian.
+{20027}{20118}My inside source says|he has narrowed it down.
+{20120}{20168}Guess who’s still|in the running?
+{20193}{20240}Keith, Cassandra|and me.
+{20243}{20310}Unless you can raise|your GPA.
+{20343}{20400}That problem’s|already solved.
+{20402}{20468}Do you want to catch|a bite to eat tomorrow night,
+{20470}{20525}maybe some dinner|and discuss it?
+{20527}{20605}What’s to discuss?|It’s no big news.
+{20605}{20650}We were always|the front runners.
+{20652}{20770}We could get together|and form an alliance,
+{20772}{20825}eliminate our competition.
+{20855}{20925}That sounds|intriguing but...
+{20927}{20995}- I have a paper to write.|- A paper?
+{20995}{21045}We should get to know|each other better.
+{21045}{21152}Is it just me or is there unspoken|sexual tension between us?
+{21155}{21265}We should bring it to the surface|and stop lying to each other.
+{21268}{21320}Are you on crack?
+{21320}{21410}I don’t know. It was white,|it was in a pipe--
+{21410}{21502}- So, what do you say?|- I have a paper to write.
+{21502}{21530}No, no, no...
+{21533}{21593}I won’t take no for an answer|twice in one day.
+{21595}{21665}You have to eat, right?|I have to eat. We both have to eat.
+{21665}{21710}Let’s just eat together.|It’s no big deal.
+{21712}{21777}I was just fucking around|with this sexual tension stuff.
+{21780}{21818}I just throw stuff|out there.
+{21820}{21900}I’m crazy, I’m like a volcano,|just waiting to erupt--
+{21902}{21927}Okay!
+{21930}{21997}Okay, fine.|Pick me up at 8:00.
+{22000}{22070}- Eight? Like 8:00pm?|- Yeah.
+{22072}{22145}- Between 7:00 and 9:00?|- Yeah!
+{22145}{22177}Okay.
+{22180}{22212}‘Cause|it’s great for me--
+{22215}{22270}- I’ll see you at 8:00.|- Whatever.
+{22272}{22343}Maybe I’ll be there|five minutes later.
+{22390}{22460}So... what are you doing|for Spring Break?
+{22462}{22525}I’m just gonna hang around|and get some work done.
+{22525}{22620}What do you mean "hang around?"|You mean stay on campus?
+{22622}{22655}Yeah.
+{22658}{22708}You’re not going home?
+{22710}{22750}Why?
+{22750}{22797}Because|I have work to do.
+{22800}{22855}My family’s coming|for my mom’s birthday
+{22858}{22908}to see how|the other half lives.
+{22910}{22962}- Okay, that sounds terrible.|- I know.
+{22965}{23002}What are you doing?
+{23005}{23083}Bobby’s taking me up to his cabin|in the Northern Cascade--
+{23085}{23143}Cassandra, please don’t call him|"Bobby" in front of me.
+{23143}{23165}I’m sorry.
+{23168}{23235}Pr. Starkman|is taking me up to his cabin.
+{23237}{23280}When do you guys leave?
+{23283}{23362}He’s got to go upstate first,|to meet Diane and Louisa.
+{23362}{23410}You mean, his wife|and his baby daughter?
+{23412}{23475}Whatever!|Yes, them.
+{23477}{23537}He’s meeting them|at his in-laws’ for the long weekend.
+{23540}{23620}I can’t stand how much|of his time they take up.
+{23620}{23675}Cass,|they’re his family!
+{23677}{23708}Whatever.
+{23710}{23777}I’m late for a study session.|I should just go.
+{23818}{23900}I can’t believe you’re|actually going out with Brian.
+{23902}{23943}How did that happen?
+{24015}{24058}Okay...
+{24060}{24155}the other day, our eyes met|across a crowded room,
+{24155}{24233}and there was this--|this spark,
+{24235}{24295}the sign I’ve been waiting for|my whole life.
+{24295}{24425}It was then that I knew|that Brian was my soul mate.
+{24470}{24533}- Oh my God.|- I know.
+{24535}{24618}- Really?|- No, not really.
+{24820}{24895}It’s great|to be with you tonight.
+{24897}{24965}- Mmm-hmm.|- Hi.
+{24965}{25052}Hi. Can I get you|something to drink?
+{25055}{25125}Yes. I’ll have a Kettle One|martini, straight up,
+{25127}{25197}very dry.|Very, very dry.
+{25200}{25258}And the lady will have...
+{25258}{25355}- I’ll have a glass of house red.|- House red.
+{25355}{25445}Good.|I’ll be right back.
+{25495}{25568}- So, you look great.|- Thanks.
+{25570}{25645}our hair is different.|It looks good.
+{25672}{25750}- Thanks.|- No problem.
+{25825}{25915}It’s great that we finally have|some „us” time.
+{25915}{25990}- You and I hanging out.|- I agree.
+{26090}{26150}Yeah. Listen, Rach,
+{26152}{26230}before we embark|on our evening,
+{26230}{26280}I have a confession|to make.
+{26283}{26345}Can you wait|until we get our drinks
+{26345}{26400}before you start|making your confessions?
+{26402}{26480}- Oh yeah, sure.|- Thanks.
+{26612}{26655}Look. Our drinks.
+{26685}{26715}Thank you.
+{26760}{26805}- There you go.|- Thank you.
+{26835}{26890}It’s my first day.
+{26943}{26975}So, ready to order?
+{26975}{27065}Can you just|give us a minute here?
+{27065}{27100}Sure.
+{27102}{27172}Take your time.
+{27200}{27250}Thank you.
+{27295}{27362}Okay. What would you like|to confess?
+{27420}{27465}This is difficult for me,
+{27468}{27533}because I really want us|to remain friends after--
+{27535}{27630}regardless of who Starkman picks|for the TA position.
+{27633}{27710}Wow, I’m touched.|Brian, I really am.
+{27740}{27810}You should know I’m determined|to get the position.
+{27810}{27845}Over the last few months,
+{27847}{27935}I’ve been doing a little research|on Cassandra Blair.
+{27937}{27990}What kind of research?
+{27993}{28077}Let’s just say that|if she gets the position,
+{28077}{28137}the Dean’s office is going|to receive an anonymous letter
+{28140}{28220}regarding her and Starkman’s|relationship,
+{28222}{28297}accompanied by some|very revealing photographs.
+{28300}{28365}- How Christian of you.|- Thanks.
+{28365}{28422}I guess that narrows it down|to three.
+{28465}{28490}Yeah.
+{28530}{28575}You know|who my father is, right?
+{28575}{28655}Yes, we’re all in awe|of your family’s money.
+{28655}{28740}You know, you and Keith|are very smart.
+{28743}{28800}So I’ve had to go|to great lengths
+{28802}{28920}to ensure that my bright future|in the FBI goes without a hitch.
+{28945}{28977}What are you|smiling at?
+{29095}{29122}This.
+{29170}{29205}That is the press release
+{29205}{29283}for the new Carson-Leads|Behavioral Sciences Building.
+{29283}{29345}It’s just one of my dad’s|new pet projects.
+{29447}{29477}So...
+{29477}{29535}I have an offer|you can’t refuse.
+{29562}{29610}Drop out of the race|for the TA position,
+{29612}{29740}and I’ll ensure you have seven|digits of my family’s gratitude.
+{29855}{29885}Brian?
+{29912}{29955}Are you bribing me now?
+{29983}{30022}Bribe?|Did I say bribe?
+{30025}{30090}Just think of it|as a business opportunity.
+{30093}{30120}Trust me,
+{30122}{30210}the alternative wouldn’t be|too pleasant.
+{30265}{30343}„I’ll let you be in my dreams|if I can be in yours.”
+{30377}{30440}- What?|- It’s a quote.
+{30443}{30493}Bob Dylan,|maybe you’ve heard of him?
+{30522}{30570}- Oh, yeah.|- You know, Brian,
+{30572}{30615}you should|get out more.
+{30640}{30695}Maybe I will.
+{30743}{30780}The night’s young.
+{30783}{30840}That it is.
+{30843}{30877}Cheers.
+{31127}{31152}Don’t!
+{31197}{31252}- ( mimicking trumpet )|- Shh!
+{31415}{31490}We’re home, we’re home.
+{31615}{31637}Wow!
+{31665}{31720}This is like... a room.
+{31845}{31987}Do you want|to be my girl?
+{31990}{32125}Do you want|to be my friend?
+{32127}{32262}Do you want|to start it all?
+{32302}{32345}We can stop if you want.
+{32375}{32493}- No, no... I just don’t--|- What, you don’t have any?
+{32495}{32587}Don’t worry, I’ll take care|of everything when the time comes.
+{32590}{32662}Oh, the old|"pull out and pray" trick.
+{32665}{32722}Great,|a Renaissance man.
+{32722}{32755}Wait a second!
+{32755}{32808}The convenience store,|down the street--
+{32810}{32870}I’ll just go down there,|it’s right around the corner.
+{32870}{32935}It’s really convenient|and I’ll get some, I’ll get tons.
+{32937}{32958}Wait a minute,|what am I saying?
+{32960}{33065}My roommate’s got tons of them,|drawers full of them.
+{33065}{33102}A real|prophylactic factory.
+{33180}{33230}Are we done here?
+{33272}{33305}No,|we’re not done.
+{33305}{33370}I’ll walk down the hall,|and get some from a friend.
+{33412}{33487}- Oh, great.|- Make yourself comfortable.
+{33490}{33550}Sure, great.
+{33597}{33625}I’ll be here.
+{34133}{34212}Jeez. A piss-sheet.
+{34508}{34555}Jesus.
+{34600}{34637}What the fuck.
+{34735}{34795}( choking )
+{35415}{35470}Ribbed,|for her pleasure.
+{35515}{35575}Yep, I just killed Brian.
+{35575}{35645}But you’ve got to look|at the positive side...
+{35645}{35705}I’m killing|for a better tomorrow.
+{35705}{35755}Once I get into the FBI,
+{35755}{35805}I’ll be able|to stop dozens,
+{35805}{35885}maybe even hundreds|of serial killers every year.
+{35887}{35930}Okay, think about it...
+{35930}{35983}I’m killing the few|to save the many.
+{35985}{36050}Sort of like Robin Hood,|you know?
+{36052}{36145}God, I think I need|some professional help.
+{36172}{36250}Rachael, have you ever been|to a psychiatrist before?
+{36250}{36283}No.
+{36283}{36345}- No, how does it work?|- I works like this.
+{36345}{36440}You want answers,|so we get together weekly,
+{36443}{36520}and we ask the questions|that will lead you to your answers.
+{36522}{36558}All right?
+{36590}{36687}I could tell you anything,|and you’d still never know me.
+{36690}{36750}You could,|and that’s your choice.
+{36752}{36790}But why would you|lie to me?
+{36790}{36860}Because I don’t expose|my Achilles’ heel to anyone.
+{36900}{37000}- Why do you say that?|- I just need to be on watch.
+{37002}{37065}If I’m not looking out|for number one, then who is?
+{37065}{37143}It’s a dog-eat-dog-world|out there,
+{37145}{37235}and my future depends on|not getting eaten by the other dogs.
+{37237}{37302}I have schedules,|appointments and dreams
+{37302}{37345}that only I can fulfill.
+{37347}{37408}No one is going|to do that for me.
+{37410}{37483}Who do you think is keeping you|from achieving these goals?
+{37485}{37572}- Other people.|- What people?
+{37575}{37640}Anyone who gets|in my way.
+{37643}{37758}If you could be anyone|in the world, except yourself,
+{37760}{37805}who would that be?
+{37808}{37885}Elizabeth McGuire.
+{37887}{37950}Elizabeth McGuire?|Who’s she?
+{37952}{38020}She’s Pr. Starkman’s|present TA.
+{38020}{38077}And the next in line|to go to Quantico.
+{38080}{38162}- And Quantico is?|- My goal.
+{38165}{38270}- My destiny.|- I see.
+{38272}{38335}Have you ever wanted|something so bad
+{38337}{38390}that you’d do|anything to get it?
+{38415}{38450}Sure.
+{38452}{38518}Go on.
+{38558}{38640}And that’s why I went|to West Washington.
+{38643}{38718}I’ve always known that,|really,
+{38718}{38762}there were|only three other people
+{38762}{38822}who could steal the TA position|away from me.
+{38825}{38893}What happens|if you don’t get the position?
+{38895}{38950}I can’t even consider that.
+{38952}{39025}Failure is not an option.|I’ll get the position.
+{39027}{39130}- How can you be so sure?|- Because I am.
+{39255}{39335}- Why don’t we stop there?|- Okay.
+{39365}{39425}My secretary will get|your billing info.
+{39427}{39458}Okay.
+{39460}{39543}So, same time next week?
+{39543}{39608}- You bet.|- Okay.
+{39750}{39797}( dialing )
+{39802}{39870}- ( phone rings )|- Starkman.
+{39872}{39910}Hey, Bobby.|It’s Eric.
+{39912}{39962}Hey, Eric.|What’s up?
+{39965}{40043}I just had a first time session|with one of your students.
+{40045}{40093}Wow, wow, wow...
+{40095}{40160}Aren’t we violating|some sort of privacy code here?
+{40160}{40220}Yes and no.|I’ll tell you what...
+{40220}{40268}I won’t tell you the name,
+{40270}{40335}if you promise not to say it|once you’ve figured it out.
+{40337}{40447}- Is that a deal?|- Okay. Fire away.
+{40450}{40495}All right.
+{40497}{40595}I think I’ve identified this person|as a textbook sociopath.
+{40595}{40665}It’s a prerequisite for getting|into college in the first place.
+{40665}{40783}Tell me about it. Still, this girl|has no concept of reality
+{40785}{40820}or the difference|between right or wrong.
+{40822}{40862}A girl.
+{40865}{40925}Mmm, the plot thickens.
+{40925}{41010}She’s obsessed with becoming|your assistant next semester.
+{41012}{41080}If that’s her obsession,|it’s no big deal.
+{41083}{41158}These kids think|I’m their ticket to the FBI.
+{41160}{41200}Just keep|your eyes open.
+{41200}{41255}This girl--
+{41255}{41293}she scared me.
+{41295}{41402}Jesus, if she’s that dangerous,|tell me her name
+{41405}{41465}before she turns up|in class with an AK47.
+{41465}{41565}I can’t do that. I’ve already broken|the law by placing this call.
+{41565}{41645}Just be aware this student’s|in your class.
+{41645}{41730}What exactly do you mean,|"be aware?"
+{41733}{41822}25 years in the FBI...|turn your radar on.
+{41825}{41893}Just make sure|she doesn’t get out of hand.
+{41895}{41968}- She’s identified three of her peers--|- Dr. Daniels?
+{42170}{42265}- Okay, okay, Mother.|- Mom?
+{42268}{42315}I’ve got to go,|I’ve got an appointment.
+{42340}{42385}I love you. I do.
+{42385}{42455}Okay, I’ll see you|this weekend. Bye.
+{42455}{42485}Rachael?
+{42485}{42545}I am so sorry|to disturb you.
+{42545}{42595}I didn’t realize|you were on the phone
+{42595}{42655}- and your secretary wasn’t there.|- It’s okay.
+{42658}{42715}I just left my keys here.
+{42718}{42780}I am such a textbook|nut case sometimes.
+{42783}{42860}I’d probably lose my head|if it wasn’t screwed on.
+{42860}{42925}Oh, there they are.
+{42997}{43090}It’s so nice that you stay|in touch with your mom.
+{43090}{43172}- How old is she?|- 72.
+{43200}{43225}Wow.
+{43227}{43280}72,|that’s a great age.
+{43283}{43352}So many new and exciting things,|the golden years.
+{43355}{43405}Grandchildren?
+{43408}{43465}No. I’m--
+{43468}{43522}My wife and I|never had children.
+{43525}{43577}Was she not able to?
+{43580}{43635}Actually,|we’re divorced.
+{43660}{43710}I have another patient|coming in soon.
+{43710}{43750}I have|to prepare for him.
+{43752}{43797}So I’ll have|to ask you to leave.
+{43840}{43890}Which is it, Eric?
+{43890}{43987}An appointment downtown|or a patient in your office?
+{44095}{44165}It’s not nice to lie|to your dear old mom.
+{44245}{44290}See you next week.
+{44765}{44855}After my session with|Eric, I really needed some therapy.
+{44858}{44915}That guy just about|drove me nuts.
+{44918}{44983}So, I went back to something|my dad always said,
+{44983}{45052}"Nothing like a change of scenery|to clear your head,
+{45055}{45112}to ease the burden|of a busy schedule.”
+{45115}{45140}Besides,
+{45143}{45218}tonight’s the Behavioral Sciences|party at the Dean’s.
+{45220}{45327}I have to look good.|I wanna be dressed to kill.
+{45330}{45443}{Y:i}<Sometimes|she feels so sad>
+{45505}{45637}{Y:i}<And other times|feels twice as bad>
+{45690}{45820}{Y:i}<When the tears|are in her eyes>
+{45860}{45935}{Y:i}<She never cries>
+{46015}{46130}{Y:i}<Ordinary girl>
+{46130}{46225}{Y:i}<I know...>
+{46225}{46310}{Y:i}<We’re different>
+{46312}{46395}{Y:i}<But I’m stranger|in the world>
+{46395}{46440}{Y:i}<Ordinary girl>
+{46490}{46585}{Y:i}<Ordinary.>
+{46695}{46755}- Excuse me?|- Bite me, Barbie.
+{46758}{46855}The Anthony Perkins character|in Psycho was modeled on Ed Gein.
+{46858}{46925}My heart rate|nearly triples when I get there
+{46927}{47008}and see the vultures|have descended upon Starkman.
+{47010}{47110}He broke the mold because he only|killed two people in his entire career.
+{47112}{47165}I must have|lost track of time running.
+{47168}{47215}I had planned|to get here early to get
+{47218}{47268}as much time|with Starkman as possible.
+{47270}{47327}And now I’m late.|This is a disaster.
+{47330}{47375}Bitch!
+{47375}{47460}...for Leatherface|in The Texas Chainsaw Massacre--
+{47462}{47543}- Hello, Miss Brown.|- I’ll be right back.
+{47543}{47590}It’s good to see you.
+{47590}{47665}- Hey, how is it going?|- Hey!
+{47668}{47730}How was your date|with Brian?
+{47762}{47812}Fine. Short.|I don’t know.
+{47815}{47885}Short?|How short was he?
+{47887}{47930}I mean, „it.”
+{47933}{47990}We didn’t get that far.|He went home after dinner.
+{47993}{48070}What do you mean?|Why did you come to borrow a rubber,
+{48072}{48152}- if he went home after dinner?|- What’s up with the third degree?
+{48155}{48227}I’m just confused.|Did you guys get it on or not?
+{48230}{48280}It’s none|of your business.
+{48280}{48355}- Can we drop this, please?|- Whatever.
+{48390}{48450}Sometimes|I don’t understand you.
+{48452}{48502}It’s like|you’re not even here.
+{48527}{48575}What did you do|last night?
+{48575}{48633}- Bobby came over for--|- Cassandra!
+{48635}{48710}I’m sorry. Pr. Starkman|came over for a study session.
+{48710}{48808}And let me assure you,|it was definitely not short.
+{48810}{48880}I’m gonna vomit.
+{48960}{49030}What are you smiling at,|freak?
+{49033}{49080}Come here.
+{49137}{49183}Bob--|I mean the professor,
+{49185}{49233}said I’m a shoe-in|for the TA position.
+{49260}{49315}I wasn’t supposed|to tell anyone,
+{49318}{49368}but since|we are so close...
+{49370}{49410}I was gonna burst.
+{49412}{49490}Now I get to spend|all this time with my sweetie.
+{49493}{49560}And his wife’ll think|we’re working.
+{49585}{49650}Wait, maybe|I’ll go to Quantico.
+{49650}{49720}How great would that be?
+{49722}{49768}Just don’t tell|anyone, okay?
+{49770}{49822}- Not even Brian.|- Don’t worry.
+{49825}{49870}our secret’s|safe with me.
+{49872}{49920}This party’s such a dud.
+{49922}{49985}Let’s blow it off|and you give me the details.
+{49985}{50055}Perfect.|Let me talk to Starkman,
+{50058}{50097}and we’ll go|to Jittery Joes for coffee.
+{50100}{50155}No! It’s way|too crowded.
+{50158}{50225}You don’t want anyone|to know about you and Bobby.
+{50227}{50302}Let’s grab some wine|and go to your room.
+{50305}{50345}That sounds great!
+{50347}{50408}Just make sure|you don’t tell anyone, okay?
+{50410}{50470}- Don’t let me down.|- Don’t worry,
+{50470}{50533}I would never|let you down.
+{50565}{50610}Like I said, Cassie,
+{50612}{50720}student-teacher relationships|just never work out.
+{50790}{50837}( phone rings )
+{50925}{50977}It’s Cassandra,|I can’t get to the phone,
+{50977}{51047}so leave a quickie|and I’ll get back to you.
+{51050}{51135}Hello Cassandra.|Pr. Starkman here.
+{51137}{51240}Listen, it’s 11:25 and|you missed your study session.
+{51240}{51310}Call me back to reschedule.
+{51572}{51620}Doctor Daniels?
+{51645}{51720}I’m sorry to drop in|without an appointment,
+{51722}{51760}but there is something|on my mind.
+{51760}{51818}Sure.
+{51820}{51868}Sure, Rachael.
+{51870}{51950}- How are things with you?|- They couldn’t be better.
+{51950}{51975}Really?
+{51977}{52050}Any word|on that TA job yet?
+{52050}{52105}He won’t announce it|until before Spring Break.
+{52105}{52158}When does that start|for you guys?
+{52160}{52225}- End of the week.|- Really?
+{52227}{52262}- Two days?|- Yeah.
+{52262}{52337}- And how do you feel about that?|- Pretty confident.
+{52340}{52437}- You think you’ll get the job?|- I don’t think. I know.
+{52462}{52495}Okay, Rachael.
+{52495}{52568}Worst case scenario:
+{52570}{52608}you don’t get the job.|What then?
+{52610}{52670}What are you talking about,|Dr. Daniels?
+{52672}{52715}It’s mine.
+{52715}{52795}You want me to come up with some idea|of what’s wrong with me,
+{52797}{52850}but I’ll be honest.|I came here
+{52852}{52900}to tell you I’m not|coming back next week.
+{52900}{52972}Don’t worry, I have every intention|to pay for your time.
+{52975}{53090}However, I feel the problem we have|connecting lies mostly with you.
+{53090}{53170}Look,|this is a small town.
+{53170}{53252}My guess is you know|almost everyone here.
+{53280}{53355}You were born here,|right?
+{53358}{53420}It must be so disappointing|to see all these college kids
+{53420}{53490}come in and out|of your town every year,
+{53490}{53560}moving on to bigger|and better opportunities,
+{53562}{53655}while you stay here, year after year,|getting older and older.
+{53658}{53735}And all while taking care|of your dear old mom.
+{53737}{53797}And on top of this,|you’re divorced?
+{53797}{53872}God! The female population|in this town,
+{53875}{53943}aside from the sexy little|college girls running around,
+{53945}{54000}must be pretty weak.
+{54002}{54058}This alone|would cripple any man.
+{54060}{54143}our level of frustration|must be through the roof.
+{54145}{54218}A dead-end job|with no love life,
+{54220}{54312}all while taking care|of your sick mom.
+{54315}{54365}Just the other day,
+{54365}{54422}I noticed|you were judging me.
+{54422}{54515}Is that fair?|I mean really, is that?
+{54515}{54570}I don’t think so.
+{54600}{54670}our life is very similar|to Ed Gein’s.
+{54695}{54727}Ed Gein?
+{54730}{54843}Yes, Ed Gein.|Very famous serial killer.
+{54845}{54927}A bachelor, raised|by his domineering mother,
+{54930}{54990}until she died|when he was roughly your age.
+{54993}{55085}God, he went nuts!|He couldn’t handle the loss.
+{55087}{55143}What would you do|without your mother?
+{55143}{55187}Okay Rachael,|that’s enough.
+{55190}{55233}You don’t know me,|and I don’t know you.
+{55235}{55297}We were getting|to know each other.
+{55300}{55360}These sessions|are a process.
+{55362}{55420}So don’t go|jumping to conclusions.
+{55422}{55485}No. I’m not jumping|to any conclusions here.
+{55487}{55590}If you just open up your eyes,|you’d see I’m already there.
+{55655}{55722}Have a good day, Doctor.
+{55808}{55925}Let’s talk about Ted Bundy|for a minute, shall we?
+{55925}{55995}What kind|of a killer was he?
+{55995}{56043}How was he perceived?
+{56085}{56193}Mr. Lawson wishes to participate.|Please, let’s hear it.
+{56195}{56252}He was perceived|as a very organized killer.
+{56255}{56318}- Very calculated.|- Hmphf!
+{56320}{56375}You don’t agree,|Miss Newman?
+{56375}{56435}Yes and no.
+{56435}{56543}Come on, this guy planned|each and every detail in advance.
+{56545}{56633}He chose his victims with extreme|accuracy, stalked them meticulously,
+{56635}{56683}and waited for the precise|moment to attack.
+{56685}{56735}All while maintaining|an air of patience
+{56735}{56790}not even the FBI’s|greatest could penetrate.
+{56790}{56883}- No offense, sir.|- None taken.
+{56883}{56990}- But I still don’t agree.|- And he picked all his dumping sites
+{56990}{57027}with the outmost|caution.
+{57030}{57085}He was unquestionably|an organized killer.
+{57085}{57193}- Premeditated, with a capital "P."|- Capital "P?"
+{57195}{57277}- It’s a letter in the alphabet.|- ( students giggle )
+{57280}{57310}Between|"O" and "Q."
+{57395}{57450}You have something to say,|Miss Newman?
+{57522}{57570}He started out organized,
+{57570}{57643}but spiraled down late|in his so-called career.
+{57643}{57725}He began to keep bodies for days,|washing their hair
+{57727}{57790}and even applying make-up|before disposing of them.
+{57793}{57877}And he littered the dumping sites with|evidence, using the outmost caution.
+{57880}{57987}However, his last victim,|and his youngest girl ever,
+{57990}{58030}fell out of his typical|victim selection.
+{58033}{58118}She was chosen out|of sheer availability.
+{58120}{58175}The sheer need to kill.
+{58175}{58220}He was both,
+{58222}{58285}an organized killer|and off-the-charts lunatic.
+{58285}{58355}- With a capital "L.”|- ( class laughs )
+{58358}{58422}You’re right.|He was both.
+{58425}{58495}Very impressive,|Miss Newman.
+{58495}{58590}Now, Pr. Starkman,|how would you classify a killer
+{58590}{58695}whose downward spiral was actually|calculated into their grand scheme?
+{58695}{58770}That’s a very interesting|hypothesis, Miss Newman.
+{58770}{58860}Unfortunately, in this class,|we stick to the facts.
+{58862}{58933}And there’s no known|case-study of that nature.
+{60010}{60065}Keith’s|little display of brainpower
+{60068}{60108}was totally unacceptable.
+{60110}{60193}It’s a day before Starkman|announces his new TA.
+{60195}{60235}This could be catastrophic.
+{60237}{60312}I wasn’t about to watch years|of hard work go down the drain.
+{60315}{60383}It was time|to pick Keith’s brain.
+{60455}{60502}You know|that feeling you get
+{60505}{60583}when you realize that there are|people out there just like you?
+{60583}{60635}It almost makes you|feel normal.
+{60637}{60708}All this time,|I thought he was taking notes.
+{60710}{60820}But no. Look at his work,|his sketches.
+{60820}{60890}They’re absolutely brilliant.
+{60890}{60947}This may be a waste|of a rare mind.
+{60950}{61018}But, a girl’s gotta do|what a girl’s gotta do.
+{62020}{62070}Hi, Pr. Starkman.
+{62070}{62120}- Hey!|- Miss Brown.
+{62122}{62170}- How are you?|- Good.
+{62172}{62245}So, the big day’s tomorrow,|right?
+{62270}{62337}- What do you mean?|- For the TA position.
+{62340}{62408}- You’re announcing it tomorrow?|- Yes, of course.
+{62410}{62520}- At noon, in my classroom.|- I can’t wait.
+{62522}{62593}My chances are much better this year|than they were last.
+{62595}{62677}I would think so.|It’s a very tight race this year.
+{62680}{62718}Mmm-hmm.
+{62720}{62827}Were you looking for Cassandra?|She wasn’t in class.
+{62830}{62870}She probably left|for Spring Break.
+{62870}{63018}- Well, actually, the--|- It’s Cassandra, isn’t it?
+{63020}{63070}She got the position.
+{63072}{63137}Good for her, but--
+{63140}{63212}I can’t say|I’m not disappointed,
+{63215}{63297}but „what doesn’t kill you|makes you stronger.”
+{63350}{63400}I’ll see you.
+{64097}{64135}( gasp )
+{65095}{65168}( phone rings )
+{65270}{65330}( rings again )
+{65330}{65385}It’s Cassandra.|I can’t get to the phone,
+{65387}{65443}so leave a quickie and|I’ll get back to you.
+{65445}{65490}( beep )
+{65733}{65805}( phone rings )
+{65808}{65890}- Hello?|- Eric, for God’s sakes!
+{65890}{65920}She’s dead!
+{65955}{66020}- Who is?|- She is!
+{66022}{66112}The „she” whose name|we agreed not to say aloud.
+{66115}{66177}My patient? Dead? How?
+{66180}{66240}She hung herself.
+{66265}{66310}You didn’t say|she was suicidal.
+{66310}{66397}She had suicidal|tendencies,
+{66400}{66447}but I was more concerned|for the sociopathic
+{66450}{66497}and homicidal patterns|that were emerging.
+{66497}{66558}Spare me your psychobabble|bullshit.
+{66558}{66600}This girl...
+{66625}{66715}she may have been a little forward,|but she wasn’t crazy!
+{66718}{66790}I’m sorry,|but you didn’t see what I saw.
+{66793}{66865}- She was not a pretty picture.|- Listen, Eric,
+{66868}{66910}I spent a lot of time|with her,
+{66912}{66987}and I have to say|I don’t agree on this one.
+{66990}{67033}There are tons of kids|in your classes.
+{67035}{67118}How could you know her as well|as you think you did?
+{67118}{67212}We’re bound|by the guidelines
+{67215}{67262}of doctor-patient|privilege, right?
+{67370}{67462}You didn’t, Bob?|You weren’t sleeping with her?
+{67490}{67558}No wonder|she was obsessing over you.
+{67560}{67643}- How could you do this to Diane?|- None of your business.
+{67645}{67730}Fine. Why did you|call me, then?
+{67730}{67795}‘Cause you’re|my fucking shrink!
+{67797}{67890}I’m sorry. I just needed|someone to talk to.
+{67935}{67975}I loved her.
+{68093}{68152}Can you get me|some Valium?
+{68155}{68255}Yeah. I’ll call it|in to the pharmacy.
+{68255}{68337}- Can I give you some advice?|- ( phone beeps )
+{68477}{68518}- ( dial tone )|- Hello?
+{68768}{68840}So, here we are. The big day.
+{68843}{68915}In moments, I’ll be crowned|Starkman’s new TA,
+{68915}{68995}and be one step closer|to the FBI.
+{68997}{69090}Too bad Brian, Cassie and Keith|couldn’t be here to watch me.
+{69090}{69130}But wherever they are,
+{69130}{69225}I’m sure they’ll realize|they didn’t give up their lives in vain.
+{69227}{69280}I will make them proud.
+{69362}{69433}Guys, can I have|your attention, please?
+{69435}{69510}Pr. Starkman|told me to tell you
+{69510}{69585}that unfortunately he’s decided|that his sabbatical,
+{69587}{69635}which was scheduled|for next year,
+{69637}{69695}is now effective|immediately.
+{69697}{69815}In other words, there’ll be|no TA position for next semester.
+{69815}{69858}Sorry.
+{69860}{69925}Have a great Spring Break.
+{70302}{70383}This is an obsession
+{70385}{70452}A kind of aggression|with himself
+{70455}{70550}It’s the way|he’ll always be
+{70552}{70620}He loves to rebel
+{70622}{70685}To go against|his Ten Commandments
+{70685}{70750}For him
+{70750}{70810}That’s just being free
+{70810}{70870}And over there
+{70872}{70925}Stands my angry angel
+{70925}{70997}And he’s shaking his head
+{71000}{71060}In disgrace with me
+{71062}{71122}Over there
+{71125}{71183}Stands my angry angel
+{71183}{71247}And he’s frowning|like hell
+{71250}{71320}But I’m not|feeling guilty.
+{71595}{71643}Pr. Starkman?
+{71700}{71747}Pr. Starkman?
+{71805}{71845}Rachael.
+{71945}{71980}Why--
+{72027}{72085}why haven’t you|gone home?
+{72115}{72195}I’ll just hang around here|during the break.
+{72197}{72222}Why?
+{72247}{72347}Don’t you have family|waiting at home for you?
+{72350}{72380}No.
+{72383}{72447}Actually, they’ll come|visit me here.
+{72497}{72560}Are you okay,|Professor?
+{72562}{72633}I heard about|the change in plans.
+{72745}{72810}Is that|why you’re here?
+{72810}{72895}Is that all you people|ever think about?
+{72897}{72970}The goddamn|teaching assistant job?
+{73005}{73035}Quantico?
+{73037}{73108}Don’t you kids get it?|It’s not that important.
+{73137}{73187}It’s important to me.
+{73190}{73275}I have a schedule,|a plan, a dream. I need it!
+{73277}{73325}What makes you think|you’ll get it?
+{73370}{73430}Other students|have applied too.
+{73433}{73525}- Some more qualified than you.|- I beg your pardon?
+{73527}{73612}I believe I am the most qualified|for this position.
+{73615}{73672}Name someone who’s more|dedicated or intelligent,
+{73675}{73718}that’s had more experience|than me.
+{73720}{73800}You don’t know|what you’re talking about.
+{73802}{73858}Go home.
+{74145}{74222}- What are you doing?|- Shh.
+{74225}{74275}Just relax, Bobby.
+{74555}{74602}Where did you get that?
+{74662}{74702}And the dress?
+{74808}{74885}- What’s going on here?|- Bobby, what’s wrong?
+{74885}{74940}Don’t fuck with me.
+{74965}{75010}That necklace...
+{75012}{75060}And Cassandra’s dress.
+{75062}{75115}It was a present.
+{75118}{75175}Bobby,|don’t you remember?
+{75177}{75230}You gave it to me.
+{75265}{75310}Stop it...
+{75312}{75370}this instant!
+{75395}{75455}I said, go home.
+{75480}{75518}I mean it.
+{75575}{75625}I have a confession|to make.
+{75625}{75697}I’ve had feelings for you|for a long time,
+{75700}{75765}longer than|you can imagine.
+{75790}{75860}I’ve always wanted something|to happen between us.
+{75862}{75915}Something beautiful.
+{75943}{75995}I love you, Bobby.
+{75995}{76070}- What?!|- Please, don’t be upset, Bobby.
+{76072}{76118}Stop calling me Bobby!
+{76120}{76195}Okay.|I’m a little confused.
+{76197}{76260}You are?|How do you think I feel?
+{76285}{76352}Rachael-- Ms. Newman...
+{76377}{76475}- this is unacceptable.|- It is?
+{76477}{76525}But it was okay|for you and Cassandra?
+{76527}{76565}How did--
+{76568}{76625}I don’t know what|you’re talking about. Leave.
+{76627}{76677}I’ve always loved you.
+{76680}{76745}Ever since|I first saw you.
+{76747}{76825}Before Diane ever loved you.|Before Cassandra.
+{76825}{76905}Before Clara even ever loved you.|It was always me.
+{76908}{76950}Don’t you get it?
+{76952}{77002}How did you know|about Clara?
+{77005}{77060}That was six years ago.
+{77060}{77097}I was there, Bobby.
+{77100}{77175}- Clara was babysitting me that night.|- Clara.
+{77175}{77250}He’s here! Do something.
+{77250}{77315}I was in Bateman’s|apartment.
+{77315}{77380}Clara used to baby-sit me|all the time.
+{77383}{77437}She’d tell me about|your relationship with her.
+{77440}{77485}She’d show me|pictures of you.
+{77487}{77560}You were my first crush.
+{77562}{77637}You were in Patrick Bateman’s|apartment
+{77640}{77695}the night|he killed Clara?
+{77755}{77785}Yeah.
+{77850}{77927}I know you quit the FBI|because of what happened.
+{77930}{78000}I think you blame yourself|for her death.
+{78002}{78077}Bobby, all work, no play.
+{78080}{78135}- You want to play?|- Uh-huh.
+{78135}{78162}Okay.
+{78165}{78250}She was the one who looked through|your stuff and found Bateman’s file.
+{78250}{78293}She’s tracked him down.
+{78295}{78365}And she went to his apartment|that night and dragged me along.
+{78368}{78452}Rich and good-looking.|Why are we together again?
+{78455}{78497}You shouldn’t|blame yourself.
+{78497}{78560}She went over there|to cheat on you.
+{78562}{78618}- She was a slut.|- Shut up!
+{78620}{78695}It’s the truth.|She got what she deserved.
+{78697}{78833}And so did Cassandra. She thought|you didn’t love her enough.
+{78835}{78897}It’s my turn now.|I’ve waited six years.
+{78897}{78990}I won’t let anyone stop me,|not even Diane and your baby.
+{78993}{79050}Don’t you threaten|my family.
+{79050}{79118}So now you care|about your family?
+{79190}{79255}You just can’t hold|a relationship together.
+{79255}{79318}- Please.|- You think you’re a catch.
+{79318}{79393}But you’re just the opportunity|of a lifetime.
+{79395}{79458}- Stop.|- After you can’t break anymore hearts,
+{79460}{79560}you’ll still break one more...|your baby daughter’s.
+{79562}{79635}Please, no more.
+{79875}{79920}Goodbye, Bobby.
+{79922}{80030}The sun is shining
+{80030}{80143}We should be making haste
+{80145}{80208}I hope you had a safe trip.
+{80402}{80477}Hey, nice mop!
+{80645}{80695}Sweet dreams.
+{80795}{80915}We are sleeping|on our feet
+{80915}{81000}We stole the songs|from birds in trees
+{81000}{81060}But it’s time|on easy street
+{81062}{81172}Now it’s past,|and it’s not me.
+{81222}{81265}Hey!
+{81290}{81335}Hey, stop!
+{81405}{81485}Yeah, that’s it.|Bring it back.
+{81487}{81552}Yeah,|bring it-- yeah.
+{81555}{81625}Back it up.|That’s it. You got it.
+{81625}{81697}Bring it in here.|Thank you very much.
+{81700}{81775}Driving around|like goddamn maniacs.
+{81777}{81860}That’s good. Perfect.|Thank you very much.
+{81862}{81918}I sure do hope|you’ve got--
+{81962}{82018}Holy shit.
+{82018}{82068}( car door closes )
+{82093}{82168}- What the hell’s going on?|- Oh, that?
+{82170}{82240}That’s Pr. Starkman.|He’s out of it tonight.
+{82325}{82352}( groan )
+{82455}{82500}( dialing )
+{82502}{82560}( ringing )
+{82562}{82660}You’ve reached Pr. Starkman,|in the Behavioral Sciences Department.
+{82662}{82702}Please, leave a message.
+{82705}{82745}Hey, Bobby,|it’s Eric.
+{82747}{82820}I felt bad about the other day.|I wanted to say I’m sorry.
+{82822}{82895}I hope you got|that prescription filled okay.
+{82897}{82977}Call me|if you need anything. Bye.
+{83055}{83112}( phone rings )
+{83115}{83205}- Dr. Daniels’ office.|- Mary, if that’s Bobby Starkman,
+{83208}{83290}- I’ll take it.|- He’ll take you at 3:00. All right.
+{83368}{83433}It was for an appointment,|not the professor.
+{83435}{83475}Okay.
+{83477}{83537}I put her in at 3:00,|Rachael Newman.
+{83540}{83585}She wanted|to come in today.
+{83640}{83680}What?
+{83725}{83765}Rachael Newman?|Are you sure?
+{83768}{83837}Yeah.|Are you okay?
+{83937}{83990}I can reschedule|if you want.
+{83993}{84030}I’m--
+{84062}{84133}no, I’m-- I’m fine.
+{84135}{84210}It’s just--|it’s been a long day.
+{84210}{84280}- Let me know if you need anything.|- Sure.
+{84327}{84365}Bye.
+{84368}{84418}Bye, Mary.
+{84735}{84797}- ( ringing )|- Come on.
+{84800}{84897}You’ve reached Pr. Starkman|in the Behavioral Sciences Department.
+{84900}{84943}Please,|leave a message.
+{84945}{85025}It’s Eric again.|Call me when you get this.
+{85027}{85072}I’m really confused|about something.
+{85075}{85125}If you don’t reach me|by 3:00,
+{85127}{85197}I’ll drop by your office|between 4:00 and 4:30.
+{85200}{85240}Bye.
+{85468}{85510}( knocking on door )
+{85705}{85785}- Hi, honey!|- Mom!
+{85787}{85840}- Dad?|- We made it!
+{85843}{85902}Hello, princess.
+{85902}{85960}Won’t you invite us in?
+{85990}{86047}Jeez, I’m sorry.|Please, come in.
+{86050}{86102}Wow!|Hi, happy birthday!
+{86105}{86160}Thank you, sweetie.
+{86162}{86225}We’ve been|planning this for months.
+{86250}{86335}Sweet Jesus! It smells|like somebody died in here.
+{86335}{86425}The toilet’s clogged up and|maintenance isn’t up and running,
+{86425}{86505}- so there’s nothing I can do.|- That’s wretched.
+{86505}{86602}Sweetheart, you are|such a clothes-horse.
+{86605}{86690}- What will I do with you?|- Don’t open the closet.
+{86693}{86797}- our present’s in there.|- Oh, I’m sorry, sweetie.
+{86800}{86887}Look at me,|always spoiling the surprise.
+{86890}{86937}What will we eat?|I’m hungry.
+{86937}{87018}Good. I made reservations|for 5:30.
+{87018}{87075}I’m going out of town|later tonight.
+{87075}{87140}Is this restaurant|reasonably priced?
+{87143}{87170}Yes.
+{87170}{87225}Is there|an early bird special?
+{87250}{87318}- I don’t think so.|- That’s too bad.
+{87320}{87377}- What’s it called?|- Chez Gerard’s.
+{87380}{87483}Is that Italian? our father|cannot digest Italian food.
+{87485}{87555}- It’s too spicy.|- Mother, it’s French.
+{87558}{87605}French!
+{87645}{87705}- How sophisticated!|- Yeah, okay.
+{87705}{87777}I’ve got to finish packing|and finish writing some papers.
+{87777}{87822}So why don’t you|go back to the motel
+{87825}{87883}and we’ll meet|at the restaurant at 5:30?
+{87883}{87955}Sounds good to me.|I’ve got to use the head.
+{87958}{88002}Get maintenance|up here.
+{88002}{88050}Daddy, I called.
+{88050}{88115}How will we ever|find this place?
+{88118}{88190}We’ll be back at 5:15|to pick you up.
+{88190}{88245}- Okay.|- Bye, princess.
+{88245}{88305}I love you, guys.
+{89097}{89155}- ( ringing )|- You’ve reached Pr. Starkman
+{89155}{89210}in the Behavioral|Sciences Department.
+{89212}{89260}- Please, leave a message.|- ( beep )
+{89262}{89360}Bobby, it’s Eric. I know|you’re going through tough times,
+{89362}{89445}but she--|the she who hung herself--
+{89445}{89525}she made an appointment to see me.|I don’t know if it’s a joke,
+{89525}{89595}but something’s off.|Call me, all right?
+{89672}{89735}Roses are red,|violets are blue,
+{89735}{89825}the Daniels will soon|be calling back you.
+{89827}{89880}Mom, you’ve got to change|that message.
+{89883}{89965}I’ll come by around 5:30|to pick you up for our big date.
+{89965}{90050}And I’ll get you back in time|for Murder She Wrote. Bye.
+{90325}{90402}- Bon appetit.|- Happy birthday, Mom.
+{90405}{90520}( gasp )|Oh, it’s gorgeous.
+{90545}{90610}This is the most|beautiful thing
+{90612}{90700}I have ever received in my life.|How did you afford it?
+{90702}{90843}- Stainless steel.|- It’s silver, you old lump.
+{90845}{90905}Stainless steel.|Silver has...
+{90905}{90977}that distinguished|look about it.
+{90977}{91072}Anyway,|as I was saying before,
+{91075}{91170}I said to Leora she ought|to have it looked at immediately.
+{91170}{91275}So what does she do?|She waits an entire month.
+{91275}{91322}And when she sees|the doctor,
+{91325}{91412}he orders a biopsy|and it comes back positive.
+{91415}{91477}Well,|could you just die?
+{91480}{91537}If she had taken|my advice,
+{91540}{91587}she could have avoided|this mess!
+{91590}{91665}I know we’ll eat dinner|at some point.
+{91668}{91770}- The question is, when?|- I’ll go use the restroom.
+{91772}{91818}Don’t forget|to wash your hands.
+{91872}{91930}Now, where is|my steak knife?
+{91933}{91977}My mother drives me crazy.
+{91980}{92068}That sounds cliché,|but how many people envision
+{92070}{92145}carving into their mother’s neck|and yanking out her vocal cords?
+{92145}{92245}Or ripping her tongue out and serving|it to her as an early-bird special?
+{92245}{92325}- Bonsoir.|- Bonsoir. Daniels. Table for two.
+{92325}{92380}I’ve got a table|right here for you.
+{92383}{92415}After you.
+{92493}{92543}Why don’t you sit|on the other side?
+{92545}{92590}Get a view|of the whole thing.
+{92618}{92680}Excusez-moi, garcon.
+{92683}{92735}Could I have|un autre, uh...
+{92737}{92787}steak knife,|s’il-vous-plait?
+{92790}{92825}Oh.
+{92827}{92895}- Of course. Voila, madame.|- Merci.
+{92895}{92943}How about a table|closer to the window?
+{92945}{93020}- That would be very nice.|- Okay, I’ll ask.
+{93047}{93085}- Good evening.|- Good evening.
+{93085}{93183}I was wondering if we could get|a table closer to the window.
+{93185}{93243}That section is closed|for Spring Break.
+{93245}{93285}Sorry.
+{93335}{93410}No problem. I understand.|This table is fine.
+{93412}{93490}Good. Can I get you|something to drink?
+{93490}{93543}I’ll have|a whiskey sour. Mom?
+{93545}{93630}I’ll need some water|to take my pills.
+{93695}{93737}As I stare at myself in the mirror,
+{93740}{93818}I realize I can’t let my mother|get the best of me.
+{93818}{93868}I’m Robert Starkman’s|next TA.
+{93870}{93920}And that’s where|I’ll focus my energies.
+{93920}{93990}I should set up a meeting with Bobby|when I get back.
+{93990}{94055}Maybe we can brainstorm|at his cabin tonight.
+{94058}{94122}I’ll make him my special eggs.
+{94262}{94295}Sorry.
+{94295}{94345}Ready to order?
+{94375}{94445}Maybe you’d give us|some more time?
+{94447}{94502}Sure. Of course.
+{94505}{94550}I’ll be just over there.
+{94550}{94605}- Take your time.|- Thank you.
+{94647}{94720}- Cheers.|- Cheers, my dear.
+{94802}{94833}Oh my God.
+{94955}{95047}Hello, Dr. Daniels.|It’s great to see you.
+{95118}{95175}And this must be|your mother.
+{95177}{95240}Hello, Mrs. Daniels.|How are you doing?
+{95243}{95287}I’m fine, dear.
+{95290}{95345}Oh my God.
+{95347}{95410}I just love that hat.
+{95410}{95462}I’d kill|for a hat like that.
+{95465}{95522}It is just so cute!
+{95555}{95625}I have to be getting back|to my table.
+{95627}{95715}- It was great meeting you.|- It was nice meeting you too.
+{95785}{95835}See you later, Eric.
+{95975}{96055}Who is that pretty girl?|A new girlfriend, I hope.
+{96055}{96110}No.
+{96112}{96165}She’s a patient.
+{96168}{96233}A very sick patient.
+{96258}{96302}- Excuse me for a second.|- Of course.
+{96305}{96350}- I’ll be right back.|- Yes.
+{96495}{96550}Excuse me. Sorry|to interrupt your dinner.
+{96552}{96630}I’m a friend of your daughter’s.|Ms. Newman,
+{96633}{96690}could I have a word|with you for a moment?
+{96690}{96745}Sure.
+{96745}{96820}Mom, Dad,|I’ll be just a minute.
+{96850}{96900}Excuse me.
+{96925}{96960}That’s it. I’m eating.
+{96987}{97033}Didn’t he call her|a different name?
+{97105}{97165}You have|some explaining to do.
+{97165}{97220}First of all,|you insult me.
+{97220}{97290}Then you threaten my mother.|You’re seeing a married man.
+{97293}{97395}Then I hear you’ve hung yourself.|And you act like nothing happened.
+{97397}{97460}- What’s going on?|- You heard I hung myself?
+{97462}{97485}Yes.
+{97487}{97547}Eric, why would you|say that?
+{97550}{97622}Let’s say a mutual friend|told me he found you.
+{97625}{97687}Dead.
+{97690}{97818}- Is this some sort of sick joke?|- He never found me. He found her.
+{97860}{97905}Her who?
+{97937}{98025}It doesn’t even matter anymore.|It’s not important.
+{98027}{98105}What’s important is my mom’s|birthday, and she’s here.
+{98108}{98183}I’ll catch up with you later.|Goodbye.
+{98330}{98393}Honey, why did he call you|Ms. Newman?
+{98395}{98440}I don’t know.|Could we just eat?
+{98443}{98518}- I have to go home and pack.|- Can’t you cancel?
+{98520}{98577}We never get a chance|to see you.
+{98580}{98630}I wish I could,|but I can’t.
+{98630}{98715}- They’re very special plans.|- A boy?
+{98755}{98845}- Yes, it’s a boy.|- What’s his name?
+{98845}{98895}Bobby Starkman.
+{99285}{99330}Bobby?
+{100670}{100745}- Hey, Jim.|- Dr. Daniels.
+{100747}{100810}A cup of|apricot-peppermint blend?
+{100810}{100872}Thank. We might have|a bit of trouble.
+{100875}{100952}- Is Harv in?|- He’s in the back.
+{100955}{101018}If it’s not|Sigmund Freud himself!
+{101018}{101062}- What’s the good word?|- Not much.
+{101065}{101130}I want to file a missing person’s|report on Robert Starkman.
+{101130}{101185}- You’re kidding?|- I wish I were.
+{101187}{101275}His wife called 20 minutes ago|to do the same thing.
+{101275}{101360}He didn’t show up at his in-laws’|upstate like he was supposed to.
+{101362}{101420}- You’re kidding?|- I wish I were.
+{101422}{101485}- It’s been a crazy year.|- What do you mean?
+{101485}{101570}It’s the third MPR we’ve filed|this year. Right, Jimmy?
+{101570}{101635}- That’s a record around here.|- Who else was there?
+{101637}{101680}Let’s have a look.
+{101765}{101837}I’ve got a brand new one here.|A woman, Gerty Fleck,
+{101840}{101920}from Student Services.|Just up and disappeared.
+{101920}{101985}And of course,|that Newman girl.
+{102050}{102112}A student, Rachael Newman,|disappeared.
+{102115}{102160}The first day|of the semester.
+{102160}{102227}Jimmy and I toddled up|on campus to check it out.
+{102230}{102275}And guess what?
+{102275}{102370}I’m Sheriff Winslow,|and this is Deputy Duncan.
+{102372}{102427}Just looking for a--
+{102430}{102527}- Are you Rachael Newman?|- Yeah. What’s wrong?
+{102530}{102625}We’re checking|on a MPR on yourself.
+{102625}{102683}You’re not missing,|are you?
+{102685}{102745}No, I’m okay.
+{102745}{102793}She was there,|unharmed.
+{102833}{102890}Are you sure|I can’t offer you some tea?
+{102893}{102935}No, thanks, Jim.
+{102935}{102987}I actually know|this Rachael Newman girl.
+{102990}{103037}To be honest,|I don’t trust her.
+{103068}{103147}Are you telling me the parents|just dropped the report?
+{103150}{103200}I never said nothing|about parents.
+{103202}{103260}The Newman girl,|she was an orphan.
+{103262}{103320}The report was filed by|some student friends of hers.
+{103322}{103387}- But it was a false alarm.|- How do you know it was her?
+{103390}{103495}There’s only one Rachael Newman|registered at school.
+{103558}{103630}Can I convince you guys|to come to the campus with me
+{103633}{103695}to make sure|everything’s okay?
+{103695}{103760}Yeah, no problem, Doc.
+{103850}{103915}- Should I get in here?|- That’s fine.
+{104055}{104100}( phone ringing )
+{104102}{104195}You’re reached Pr. Starkman|in the Behavioral Sciences Department.
+{104197}{104250}Please,|leave a message.
+{104250}{104308}Hey, it’s me.|I’m almost done packing.
+{104310}{104395}I’ll be there soon.|I hope you’re as excited as I am.
+{104397}{104443}If you need me|to go to the store,
+{104445}{104527}I’ll be here another five minutes.|Otherwise, see you soon.
+{104530}{104595}I love you. Bye.
+{104810}{104860}God, you stink.
+{104930}{104985}Now, how did you get open?
+{104985}{105040}Trying|to sneak out on me?
+{105040}{105122}I just brought you up and|you’re already causing problems.
+{105210}{105283}Don’t fall apart|on me now, Rach.
+{105352}{105422}Wow! I like your room.
+{105425}{105465}Actually,
+{105465}{105515}I like your name too.
+{105515}{105565}Rachael.
+{105565}{105622}You don’t mind|if I borrow it?
+{105625}{105712}Well, this is a wild-goose|chase, I guess.
+{105715}{105805}- Have a good day.|- You too. Thank you, Officers.
+{105893}{105965}Hey, Mom, I know|I’ve been out of touch,
+{105968}{106012}but I got accepted|to West Washington.
+{106015}{106077}I know.|Can you believe it?
+{106080}{106133}It’s so sad|about your parents.
+{106135}{106215}That car accident thing and all.|So tragic.
+{106218}{106280}Must have been hard|growing up an orphan.
+{106283}{106370}But, I’m glad|you shared it with me.
+{106775}{106825}Oh, Bobby.
+{106825}{106895}I told you to get|your beauty sleep.
+{106895}{106952}We have a long night|ahead of us.
+{107050}{107112}You’re disgusting.
+{107258}{107358}So, I’m two cans of gas|and a brick away from Quantico.
+{107358}{107458}I just have to dot the Is|and cross the Ts, and I’m home free.
+{107502}{107545}Look out!
+{107545}{107633}- Jesus!|- That was the Newman girl!
+{107635}{107685}We’re on the move!|Hang on!
+{107885}{107935}Not now, Bobby.
+{107937}{107987}Wait till we get|to the cabin.
+{107990}{108065}I’ll make you a fire.|I’ll heat you up real good.
+{108243}{108302}This qualifies as breaking|the speed limit.
+{108302}{108345}- Don’t you think?|- Doing?
+{108347}{108387}60...
+{108390}{108440}- in a 35.|- Yeah.
+{108865}{108940}She’s coming up on Old Mill Bend.|She’ll slow down for the curve.
+{108943}{108990}- We’ll take her there.|- Take it easy.
+{108990}{109062}- We don’t want anyone getting hurt.|- It’s all under control.
+{109065}{109120}That’s 275 bucks.
+{109122}{109193}- Can you pull up next to her?|- Yeah, for a bit.
+{109577}{109605}Jesus!
+{109715}{109795}- Can you do something?|- Yeah. Take the wheel.
+{110083}{110155}She’s slowing down.|That did the trick.
+{110375}{110412}Doc, you stay here.
+{110415}{110475}Just be careful.|She’s a loose cannon.
+{110477}{110527}It’s all part|of the job, right?
+{110960}{111002}Ma’am.
+{111050}{111097}Ma’am, open the door.
+{111127}{111152}Come on!
+{111195}{111280}Come on, guys.|Don’t let her get away!
+{111702}{111765}This don’t look good.
+{111985}{112025}Jesus.
+{112068}{112145}- What the hell?|- Don’t let it be Bobby.
+{112145}{112187}Christ!
+{112222}{112275}Bobby.
+{112275}{112310}How the hell...
+{112345}{112393}Starkman.
+{112395}{112470}- Where the heck is our lady friend?|- ( tires screeching )
+{112662}{112697}Come on.
+{112700}{112745}Bobby.
+{112787}{112840}( explosion )
+{113005}{113037}Jesus!
+{113040}{113077}Bobby.
+{113272}{113355}A bizarre killing spree|came to an end last night
+{113355}{113447}when 18-year-old West Washington student|Rachael Newman, now identified...
+{113450}{113515}Rachael Newman’s killing|spree is believed to have begun
+{113518}{113570}Wednesday evening with|the murder of Gertrude Fleck...
+{113570}{113618}The body|of Cassandra Blair was found
+{113620}{113680}- hanging in her...|- Brian Leeds’ body,
+{113680}{113780}- from the Leeds family...|- Keith Lawson was...
+{113780}{113840}The bodies|of a West Washington security guards
+{113843}{113930}- were found within hours...|- Once a typical girl,
+{113930}{114005}Rachael Newman’s death|leaves many questions unanswered.
+{114008}{114083}The most burning question|of all: Why?
+{114285}{114333}As a case-study,
+{114335}{114402}Rachael Newman|was as rare as they come.
+{114405}{114465}She was more obsessed|than Dahmer,
+{114468}{114515}she was more calculating|than Bundy,
+{114515}{114570}and certainly more faceless|than Bateman.
+{114605}{114690}In a perfect world,|she’d still be alive.
+{114718}{114777}But for her,|it all ended...
+{114780}{114827}in a blaze of fire
+{114830}{114893}in which she|and her final victim,
+{114895}{114972}a friend of mine,|Robert Starkman--
+{114997}{115037}they burned to death.
+{115070}{115155}I wish I had a chance|to study her mind more,
+{115155}{115245}but all we ended up|with were dental records.
+{115247}{115320}All in all,|she killed eight people.
+{115322}{115383}Eight people|which we know of.
+{115408}{115490}Rachael Newman|is one in a billion.
+{115490}{115550}One in a billion.
+{115577}{115633}She’s in a league|of her own.
+{115658}{115737}But she will remain|a constant and strong reminder
+{115737}{115802}that people aren’t always|what they seem to be.
+{115880}{115940}Thanks for taking the time|to come out.
+{116245}{116305}- Thank you for coming, Doctor.|- It’s a pleasure.
+{116308}{116380}- Who should I make it out to?|- Louis Okon.
+{116412}{116458}- Here you go.|- Thank you.
+{116485}{116550}- Can I have a different pen?|- Here you go.
+{116575}{116660}- Who should I make it out to?|- Elizabeth...
+{116702}{116790}- Elizabeth McGuire.|- McGuire.
+{116930}{116985}our work|is so inspiring.
+{116987}{117047}It’s a huge honor|to meet you.
+{117050}{117125}If you could be|anyone in the world,
+{117127}{117185}- who would that be?|- Elizabeth McGuire,
+{117187}{117270}Pr. Starkman’s present TA,|and the next in line for Quantico.
+{117310}{117410}- You can’t be?|- What, Eric?
+{117410}{117452}One in a billion?
+{117602}{117655}Hello, Dr. Daniels--
+{117655}{117735}- Do you know that girl?|- Who?
+{117735}{117830}- Elizabeth McGuire.|- You mean, Agent McGuire.
+{117830}{117890}She’s the first Quantico|student in history
+{117893}{117962}to be drafted into the Bureau|in her sophomore year.
+{118165}{118225}Are you all right, Doctor?
+{118422}{118462}It’s like they say...
+{118465}{118550}„The brightest futures|are based on forgotten pasts.”
+{118550}{118630}In the end, I did put Dr. Daniels|in a bit of a pickle.
+{118630}{118685}But you’ve got|to give to take.
+{118685}{118810}He gets his national best-seller,|which is ever so flawed...
+{118810}{118915}I wonder how he sleeps at night,|knowing I still walk the streets.
+{118915}{118945}Me?
+{118947}{118997}I need|for him to know.
+{119000}{119083}What’s the point of pulling off|the perfect set of murders,
+{119085}{119180}to realize my dream, if there isn’t|someone alive who knows?
+{119218}{119308}It would be as if|I’d done nothing at all.
+{119508}{119605}I remember her
+{119605}{119705}The girl|that wouldn’t die
+{119705}{119810}She said|it wasn’t true
+{119810}{119912}I knew|it was a lie
+{119915}{120012}People on the street
+{120015}{120122}Would cry out|if they knew
+{120125}{120220}The things|that I have done
+{120220}{120318}To make the dream|come true
+{120320}{120420}When she blew|my mind away
+{120422}{120525}All the feelings|were betrayed
+{120525}{120577}Heaven would|squeeze her
+{120577}{120622}Hell would|release her
+{120625}{120695}Into my brain
+{121170}{121262}La la la la la
+{121265}{121372}La la la la la la
+{121375}{121477}La la la la la
+{121477}{121565}La la la la la
+{121568}{121668}And I swear|she looked surprised
+{121670}{121765}When I joined|the freak show guys
+{121765}{121818}Under the Big Top
+{121818}{121870}I was a Cyclops
+{121870}{121990}With two eyes
+{121990}{122090}Morning|turned to night
+{122090}{122195}And she said|it was a hoax
+{122197}{122300}And when she came|with me
+{122300}{122412}She said it was a joke
+{122415}{122500}I still hear the beat
+{122502}{122612}And it makes me|want to fly
+{122615}{122710}For I cannot complete
+{122712}{122810}The girl|who wouldn’t die
+{122812}{122915}In a million|little years
+{122915}{123010}All the waiting|to be here
+{123010}{123062}Hell couldn’t crush me
+{123065}{123115}Heaven would brush me
+{123118}{123197}Out of the tear
+{124072}{124170}La la la la la
+{124170}{124277}La la la la la la
+{124280}{124380}La la la la la
+{124383}{124497}La la la la la.

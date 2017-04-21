@@ -20,12 +20,13 @@
 								
 		<!-- Projects Row -->
 		<div class="row" th:each="row : ${rows}">
-			<div th:each="movie : ${row}" class="col-md-6 portfolio-item">
-				<a th:href="@{/movie/{id}(id=${movie.id})}"> <img class="img-responsive"
+			<div th:each="movie : ${row}" class="col-md-6 portfolio-item" th:style="${(movie.status != null and movie.status.toString().equals('OK')) ? 'border: 5px solid green;' : (movie.status != null ? 'border: 5px solid red;' : '')}">
+				<a th:href="@{/movie/{id}(id=${movie.youtubeId})}"> <img class="img-responsive"
 					src="http://placehold.it/700x400" alt=""></img>
 				</a>
+
 				<h3>
-					<a th:href="@{/movie/{id}(id=${movie.id})}" th:text="${movie.name}">Movie Name</a>
+					<a th:href="@{/movie/{id}(id=${movie.youtubeId})}" th:text="${movie.name}">Movie Name</a>
 				</h3>
 			</div>
 		</div>

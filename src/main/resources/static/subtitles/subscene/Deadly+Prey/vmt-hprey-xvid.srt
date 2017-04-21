@@ -1,0 +1,3180 @@
+1
+00:02:02,296 --> 00:02:03,183
+Sir?
+
+2
+00:02:03,184 --> 00:02:05,885
+Sir, can you hear me?
+
+3
+00:02:07,038 --> 00:02:09,486
+He's alive!
+
+4
+00:02:09,573 --> 00:02:11,750
+Get your ass back here.
+Take some cover.
+
+5
+00:02:11,751 --> 00:02:13,688
+Don't have time
+to take a nap.
+
+6
+00:02:13,689 --> 00:02:16,013
+The prisoner escaped
+before we covered.
+
+7
+00:02:16,014 --> 00:02:19,230
+I think he took a rifle.
+He went over there...
+
+8
+00:02:36,618 --> 00:02:39,378
+Rifle.
+
+9
+00:02:55,552 --> 00:02:59,611
+Any signs?
+-Negative.
+
+10
+00:03:16,978 --> 00:03:18,845
+Starting sequence complete.
+
+11
+00:03:18,846 --> 00:03:22,557
+Clea 19, on line.
+Hello, commander Karza.
+
+12
+00:03:22,571 --> 00:03:24,981
+Now, Clea, activate
+system link.
+
+13
+00:03:24,982 --> 00:03:28,467
+System is link. -You got
+guys on line? -Check.
+
+14
+00:03:28,468 --> 00:03:32,322
+Check. -Clea, patch
+me in the base.
+
+15
+00:03:32,323 --> 00:03:34,305
+Transmitting.
+
+16
+00:03:34,719 --> 00:03:38,413
+Alpha base, this is Commander
+Karza. Do you copy?
+
+17
+00:03:38,477 --> 00:03:40,941
+Copy, Commander.
+This is Alpha base.
+
+18
+00:03:40,942 --> 00:03:44,004
+Prometheus is down.
+I repeat, Prometheus is down.
+
+19
+00:03:44,869 --> 00:03:48,587
+We have three survivors
+and need immediately instructions.
+
+20
+00:03:48,588 --> 00:03:50,293
+Without pick in up
+the ship's biken.
+
+21
+00:03:50,294 --> 00:03:53,115
+Ship biken is not functional.
+
+22
+00:03:53,116 --> 00:03:56,205
+We need your coordinates.
+
+23
+00:03:56,206 --> 00:03:59,629
+I.T.A. in 10 hours.
+
+24
+00:03:59,630 --> 00:04:02,276
+All alive need to activate
+your personal biken.
+
+25
+00:04:02,277 --> 00:04:06,339
+Copy that. -What is the
+status of your cargo?
+
+26
+00:04:06,888 --> 00:04:10,436
+Cargo has survived
+and left crash side.
+
+27
+00:04:10,437 --> 00:04:12,520
+Commander, mission
+parameter is remaining.
+
+28
+00:04:12,521 --> 00:04:14,859
+Organism must be delivered.
+
+29
+00:04:14,860 --> 00:04:17,947
+And Karzo, it imperative
+that you bring him alive.
+
+30
+00:04:17,948 --> 00:04:20,350
+Is that understood?
+
+31
+00:04:20,351 --> 00:04:23,049
+Commander, do you copy?
+
+32
+00:04:24,182 --> 00:04:27,216
+Yeah, roger that.
+Karzo out.
+
+33
+00:04:27,217 --> 00:04:30,476
+End transmission.
+-Thanks for the help.
+
+34
+00:04:30,477 --> 00:04:32,639
+What else is new?
+-Enough.
+
+35
+00:04:32,640 --> 00:04:34,167
+This mission has been
+joke from the start.
+
+36
+00:04:34,168 --> 00:04:37,129
+You think that is joke that
+we lost our ship and our crew?
+
+37
+00:04:37,130 --> 00:04:39,225
+Your prisoner brought my
+men down single handed.
+
+38
+00:04:39,226 --> 00:04:42,276
+And you couldn't do it
+damn thing to stop it.
+
+39
+00:04:42,277 --> 00:04:47,329
+I don't see anything funny
+about that. Do you soldier?
+
+40
+00:04:47,292 --> 00:04:49,884
+No, sir.
+-Good.
+
+41
+00:04:50,012 --> 00:04:52,637
+Now, Clea, speak with
+the Lieutenant.
+
+42
+00:04:52,638 --> 00:04:55,915
+Hello, Centauri 7.
+Oh, you are hurt.
+
+43
+00:04:55,916 --> 00:04:58,637
+Yeah, give me diagnostic.
+
+44
+00:04:59,798 --> 00:05:02,877
+Serious some stenches trauma
+to your left shoulder.
+
+45
+00:05:03,889 --> 00:05:06,564
+No broken bones.
+Heart beat is elevated.
+
+46
+00:05:06,668 --> 00:05:09,567
+Otherwise you should be
+in excellent condition.
+
+47
+00:05:09,568 --> 00:05:11,471
+Clea, skip
+trace improvement.
+
+48
+00:05:11,472 --> 00:05:13,960
+Activating tracking system.
+
+49
+00:05:15,298 --> 00:05:18,076
+Redirecting cells to repairing
+nerve and tissue damage.
+
+50
+00:05:18,077 --> 00:05:20,119
+Increasing endorphins
+to counter pain.
+
+51
+00:05:24,919 --> 00:05:26,109
+Better.
+
+52
+00:05:26,880 --> 00:05:30,416
+The subject is 250 meters
+southeast from your position
+
+53
+00:05:30,417 --> 00:05:32,266
+and moving away
+as steady range.
+
+54
+00:05:32,267 --> 00:05:33,724
+Are you sure
+he's moving away?
+
+55
+00:05:33,725 --> 00:05:36,970
+Yes, Commander.
+-We on the move and set out.
+
+56
+00:05:36,971 --> 00:05:38,660
+We need supplies.
+
+57
+00:05:38,661 --> 00:05:42,295
+How much left?
+-We'll take Logan's pack.
+
+58
+00:05:45,895 --> 00:05:49,487
+Clea, any idea
+where we are?
+
+59
+00:05:49,843 --> 00:05:51,341
+Planet is on charged.
+
+60
+00:05:51,342 --> 00:05:54,976
+Computer shows you on
+unknown set of coordinates.
+
+61
+00:05:55,011 --> 00:05:57,836
+Gravity to that
+planet is the rest.
+
+62
+00:05:57,837 --> 00:05:58,837
+Give us the status.
+
+63
+00:05:58,838 --> 00:06:00,385
+Atmosphere is tin.
+
+64
+00:06:00,386 --> 00:06:02,241
+Likely surrenders have
+been unconscious.
+
+65
+00:06:02,242 --> 00:06:04,429
+My advice, keeping
+your helmets on it
+
+66
+00:06:04,430 --> 00:06:05,934
+to until I finished
+activating your bodies.
+
+67
+00:06:05,935 --> 00:06:09,392
+Surface's temperature
+is 116 degrees. -Nice.
+
+68
+00:06:09,393 --> 00:06:11,668
+Going cells are
+in 72 percent,
+
+69
+00:06:11,669 --> 00:06:14,304
+which can last just
+about 100 hours.
+
+70
+00:06:14,305 --> 00:06:15,827
+Anything else?
+
+71
+00:06:15,828 --> 00:06:17,703
+Calculating the
+position of the sun.
+
+72
+00:06:17,704 --> 00:06:20,907
+I estimated 34
+hours of day light
+
+73
+00:06:20,908 --> 00:06:21,908
+with 5 hours of night.
+
+74
+00:06:21,909 --> 00:06:25,243
+Sound like a paradise.
+Maybe I'll move here.
+
+75
+00:06:25,244 --> 00:06:28,875
+I can't wait on that.
+
+76
+00:06:28,876 --> 00:06:32,215
+I'm sure you could, sir.
+
+77
+00:06:43,261 --> 00:06:46,122
+According to Clea, it will be
+mess to get this thing.
+
+78
+00:06:46,123 --> 00:06:49,047
+Let's move out.
+
+79
+00:07:03,620 --> 00:07:06,910
+Clea, give me a torch.
+
+80
+00:07:14,236 --> 00:07:15,275
+What you'll gonna do?
+
+81
+00:07:15,276 --> 00:07:18,613
+Weld it act together?
+
+82
+00:08:31,195 --> 00:08:34,054
+He's on the move
+again. Let's go.
+
+83
+00:08:34,055 --> 00:08:36,905
+On your feet.
+
+84
+00:08:38,617 --> 00:08:40,655
+This is brutal.
+
+85
+00:08:40,656 --> 00:08:42,432
+I don't understand
+how those thing
+
+86
+00:08:42,433 --> 00:08:44,919
+can move so fast
+on this heat. -Simple.
+
+87
+00:08:44,920 --> 00:08:48,139
+If he wants to live,
+pure survival instinct.
+
+88
+00:08:48,140 --> 00:08:50,920
+What's the rush?
+He gets no food, no water.
+
+89
+00:08:50,921 --> 00:08:52,560
+We can track every
+move he makes.
+
+90
+00:08:52,561 --> 00:08:54,446
+Let him die first.
+
+91
+00:08:54,447 --> 00:08:56,009
+There no be a
+needs to recovery.
+
+92
+00:08:56,010 --> 00:08:59,138
+You heard them.
+They want it alive.
+
+93
+00:08:59,139 --> 00:09:02,833
+Why? -Is not your place to
+question orders, Lieutenant.
+
+94
+00:09:02,834 --> 00:09:05,884
+It is when accosting me
+the lifes of my men.
+
+95
+00:09:05,885 --> 00:09:07,761
+This should be a simple
+transport mission.
+
+96
+00:09:07,762 --> 00:09:10,531
+Are you done crying, soldier?
+
+97
+00:09:11,822 --> 00:09:13,301
+Get lost.
+
+98
+00:09:16,283 --> 00:09:19,611
+May it up and move out.
+
+99
+00:09:19,612 --> 00:09:22,287
+Both of you.
+
+100
+00:09:43,807 --> 00:09:48,114
+Closing in on subject.
+Sublimate press air increasing.
+
+101
+00:09:49,458 --> 00:09:50,977
+There!
+
+102
+00:10:53,467 --> 00:10:55,770
+Where is it?
+
+103
+00:10:58,175 --> 00:11:01,394
+Up on the ridge.
+8 o'clock.
+
+104
+00:11:06,322 --> 00:11:08,073
+Look like we can get up
+on a north side.
+
+105
+00:11:08,074 --> 00:11:11,195
+Grab his rifle.
+I will cover you.
+
+106
+00:11:12,945 --> 00:11:13,913
+Go!
+
+107
+00:12:20,138 --> 00:12:23,519
+I see it.
+-Shut him.
+
+108
+00:12:23,689 --> 00:12:25,158
+It won't alive.
+
+109
+00:12:25,159 --> 00:12:28,816
+I'm in command now.
+Take it down.
+
+110
+00:12:30,185 --> 00:12:33,689
+Target lock.
+-Take the shoot.
+
+111
+00:12:36,850 --> 00:12:38,251
+Down.
+
+112
+00:12:38,252 --> 00:12:39,460
+Hold the position.
+
+113
+00:12:39,461 --> 00:12:41,550
+It's secure.
+I got it.
+
+114
+00:12:41,551 --> 00:12:43,635
+I said hold position.
+I coming up.
+
+115
+00:12:52,867 --> 00:12:54,867
+It's nothing here
+but his cloak.
+
+116
+00:12:54,868 --> 00:12:57,472
+Fall back!
+Fall back!
+
+117
+00:13:20,633 --> 00:13:21,521
+Clea?
+
+118
+00:13:22,174 --> 00:13:24,809
+Clea?
+
+119
+00:13:51,624 --> 00:13:55,978
+I thought you are dead.
+-You are not that lucky.
+
+120
+00:13:55,810 --> 00:13:58,086
+Where is my rifle?
+
+121
+00:13:58,087 --> 00:14:00,916
+Ask Tursai.
+
+122
+00:14:01,399 --> 00:14:03,172
+Night is falling.
+
+123
+00:14:03,173 --> 00:14:04,368
+Let's the place
+to set up camp.
+
+124
+00:14:04,369 --> 00:14:07,723
+Hard to take the ground.
+Only to access points.
+
+125
+00:14:07,724 --> 00:14:09,312
+I still can catch him.
+
+126
+00:14:09,313 --> 00:14:11,324
+If you need the rest,
+you stay here and I'll...
+
+127
+00:14:11,325 --> 00:14:13,018
+Why do you think
+that I want to hear
+
+128
+00:14:13,019 --> 00:14:16,084
+your opinion soldier?
+I don't.
+
+129
+00:14:18,030 --> 00:14:20,978
+He was to green. He would
+never set in any unit.
+
+130
+00:14:21,870 --> 00:14:24,772
+He wasn't the one
+who rush us into the ambush.
+
+131
+00:14:24,773 --> 00:14:27,545
+The situation that determine
+outcome, Lieutenant.
+
+132
+00:14:27,546 --> 00:14:29,415
+Components
+and the skill do.
+
+133
+00:14:29,416 --> 00:14:32,648
+Unfortunately, your team
+wasn't good enough for those trick.
+
+134
+00:14:32,649 --> 00:14:35,003
+Now, make
+yourself useful
+
+135
+00:14:35,004 --> 00:14:38,831
+and set up parameter
+around those rocks over there.
+
+136
+00:14:39,720 --> 00:14:42,985
+You have your orders.
+
+137
+00:15:49,011 --> 00:15:52,358
+43 degrees and dropping.
+
+138
+00:16:02,920 --> 00:16:04,544
+Private channel's open it.
+
+139
+00:16:04,545 --> 00:16:07,143
+What's the Commander's
+condition?
+
+140
+00:16:07,144 --> 00:16:09,973
+He's suffering from a
+plasma wound to his side.
+
+141
+00:16:09,974 --> 00:16:11,697
+Extreme nerve
+damage has been
+
+142
+00:16:11,698 --> 00:16:16,275
+sustained on his
+left long izenteret.
+
+143
+00:16:16,720 --> 00:16:18,398
+What meds you got him on?
+
+144
+00:16:18,399 --> 00:16:23,223
+500 CC sustrofin
+and 250 CC for crioksen.
+
+145
+00:16:23,297 --> 00:16:27,074
+Don't surprise he stayed on
+his feet as long as he did.
+
+146
+00:16:27,075 --> 00:16:28,957
+Reduce his medication.
+
+147
+00:16:28,958 --> 00:16:30,070
+We have a long way
+to travel tomorrow
+
+148
+00:16:30,105 --> 00:16:31,734
+and I am not to
+carry him.
+
+149
+00:16:31,735 --> 00:16:33,293
+I'm not sure if
+Commander Karzo
+
+150
+00:16:33,294 --> 00:16:35,202
+would agree with
+your assessment.
+
+151
+00:16:35,203 --> 00:16:36,605
+Keep the information on fly.
+
+152
+00:16:36,606 --> 00:16:38,249
+He doesn't need to know.
+
+153
+00:16:38,250 --> 00:16:41,153
+It is not in my programming
+to lie, Lieutenant.
+
+154
+00:16:41,154 --> 00:16:44,199
+You want be lying,
+you just not share information.
+
+155
+00:16:44,200 --> 00:16:46,859
+Can you do that?
+-Of, course.
+
+156
+00:16:46,860 --> 00:16:48,525
+Thanks.
+
+157
+00:16:48,526 --> 00:16:50,947
+Odd.
+-What's that?
+
+158
+00:16:50,948 --> 00:16:53,418
+You have been from all the soldier
+that I have been a signed to
+
+159
+00:16:53,419 --> 00:16:56,980
+you are the only one
+that's he ever thank me.
+
+160
+00:16:56,981 --> 00:16:59,178
+Do you mind it?
+-No.
+
+161
+00:16:59,179 --> 00:17:00,690
+I quite preferred.
+
+162
+00:17:00,691 --> 00:17:04,450
+Isn't get tirelessness been
+endless it worried about.
+
+163
+00:17:05,664 --> 00:17:07,339
+We have in
+common then.
+
+164
+00:17:07,340 --> 00:17:11,331
+You must work compliant
+with the military directed, Centauri.
+
+165
+00:17:11,332 --> 00:17:13,234
+So, I been told.
+
+166
+00:17:14,417 --> 00:17:16,446
+According to your record
+
+167
+00:17:16,447 --> 00:17:18,619
+some of yours
+previous inseportinations
+
+168
+00:17:18,620 --> 00:17:22,930
+border it dangerously
+close to treason. -And?
+
+169
+00:17:23,333 --> 00:17:27,084
+It's a question, why you
+chosen to be a soldier?
+
+170
+00:17:27,085 --> 00:17:30,809
+It is does, doesn't it?
+
+171
+00:17:56,926 --> 00:18:02,326
+Atmosphere conditioning will
+be completed in 10 seconds.
+
+172
+00:18:04,426 --> 00:18:06,222
+I advise you to keep yours
+eyes more on objective
+
+173
+00:18:06,223 --> 00:18:09,544
+instead of me, Lieutenant.
+
+174
+00:18:09,586 --> 00:18:12,036
+Atmospheric adaptation
+is complete.
+
+175
+00:18:12,037 --> 00:18:16,635
+It is now safe to
+remove your helmets.
+
+176
+00:18:24,458 --> 00:18:26,595
+Why is the prisoner
+not effected on tin air?
+
+177
+00:18:26,596 --> 00:18:28,497
+He doesn't
+wear the life suit.
+
+178
+00:18:28,498 --> 00:18:30,724
+They can adapt to
+almost any conditions.
+
+179
+00:18:30,725 --> 00:18:33,297
+All this was in the file.
+
+180
+00:18:35,552 --> 00:18:36,815
+Permission to
+speak freely, sir?
+
+181
+00:18:36,816 --> 00:18:39,752
+Permission?
+It never stop you before.
+
+182
+00:18:39,753 --> 00:18:41,390
+Go ahead.
+
+183
+00:18:41,391 --> 00:18:43,553
+What's the special really?
+
+184
+00:18:43,554 --> 00:18:44,835
+Why is that thing
+so important?
+
+185
+00:18:44,836 --> 00:18:47,254
+Does it matter?
+-Yes, it does.
+
+186
+00:18:47,255 --> 00:18:50,145
+Why? -I lost my ship
+and my crew.
+
+187
+00:18:50,146 --> 00:18:52,131
+I would like to know why.
+-You are a soldier.
+
+188
+00:18:52,132 --> 00:18:55,008
+We both are.
+We follow orders
+
+189
+00:18:55,009 --> 00:18:58,002
+without questions.
+
+190
+00:19:03,636 --> 00:19:04,920
+Tell me what you know
+
+191
+00:19:04,921 --> 00:19:07,495
+otherwise I go alone.
+
+192
+00:19:07,496 --> 00:19:09,864
+Disobey orders is
+a treason, soldier.
+
+193
+00:19:09,865 --> 00:19:12,565
+Punishment by death.
+
+194
+00:19:27,627 --> 00:19:30,487
+All right. This thing is
+the last of his kind.
+
+195
+00:19:30,488 --> 00:19:32,021
+We destroyed
+his home world
+
+196
+00:19:32,022 --> 00:19:34,183
+and now somehow figure
+we return the favor.
+
+197
+00:19:34,184 --> 00:19:36,581
+So, we'll catch it that thing
+and get it back to the base.
+
+198
+00:19:36,582 --> 00:19:39,286
+We made a world
+to go home too.
+
+199
+00:19:39,516 --> 00:19:41,262
+Now you know
+what's I do.
+
+200
+00:19:41,263 --> 00:19:43,492
+Is that you make
+feel better, soldier?
+
+201
+00:19:43,493 --> 00:19:46,771
+Sit down and discuss when some
+wild thing is around on us.
+
+202
+00:19:46,772 --> 00:19:49,223
+You delivery to kept
+us in the dark.
+
+203
+00:19:49,224 --> 00:19:51,879
+You did need to know.
+-I see.
+
+204
+00:19:51,880 --> 00:19:54,275
+This mission
+was a hero maker.
+
+205
+00:19:54,404 --> 00:19:56,776
+Everything we know
+was at risk.
+
+206
+00:19:56,777 --> 00:19:59,939
+Are you deaf
+as you stupid?
+
+207
+00:19:59,938 --> 00:20:02,009
+What level was
+this mission?
+
+208
+00:20:02,010 --> 00:20:03,446
+This discussion is over.
+
+209
+00:20:03,447 --> 00:20:07,420
+What level was
+this mission, sir?
+
+210
+00:20:08,455 --> 00:20:11,601
+41. Nobel class.
+-Highest level.
+
+211
+00:20:11,602 --> 00:20:13,448
+And you was so
+with your ego
+
+212
+00:20:13,449 --> 00:20:16,144
+you didn't badger to tell us
+how danger the creature was.
+
+213
+00:20:16,179 --> 00:20:18,173
+Your men were
+incompetent.
+
+214
+00:20:18,174 --> 00:20:20,139
+Don't blame me
+for your mistakes.
+
+215
+00:20:20,140 --> 00:20:21,970
+You jeopardized this mission.
+
+216
+00:20:21,971 --> 00:20:23,735
+You got my verscio.
+
+217
+00:20:23,736 --> 00:20:26,000
+I'm your superior officer
+
+218
+00:20:26,001 --> 00:20:28,208
+and you speak
+to me as such.
+
+219
+00:20:28,209 --> 00:20:29,726
+Why?
+
+220
+00:20:29,784 --> 00:20:31,817
+You don't deserve it.
+
+221
+00:20:51,018 --> 00:20:55,287
+Let's see what
+fight you got in.
+
+222
+00:20:55,673 --> 00:20:59,401
+You are no worth it.
+
+223
+00:21:30,400 --> 00:21:32,827
+Clea? What's the
+present position?
+
+224
+00:21:32,828 --> 00:21:34,899
+I had no visual.
+
+225
+00:21:35,667 --> 00:21:37,680
+Clea?
+
+226
+00:21:38,780 --> 00:21:40,755
+Clea?
+
+227
+00:22:15,021 --> 00:22:17,407
+Come on.
+
+228
+00:22:26,173 --> 00:22:28,004
+Come on, baby.
+
+229
+00:22:28,005 --> 00:22:30,237
+Don't live me alone now.
+
+230
+00:22:30,238 --> 00:22:32,537
+Starting sequence complete.
+
+231
+00:22:32,538 --> 00:22:36,635
+Clea 19 on line.
+Hello, Centauri 7.
+
+232
+00:22:36,636 --> 00:22:37,636
+Clea.
+
+233
+00:22:37,637 --> 00:22:39,840
+I thought I lost you there.
+-You cant to get rid of
+
+234
+00:22:39,841 --> 00:22:41,083
+me so easily, Centauri.
+
+235
+00:22:41,084 --> 00:22:44,028
+I suffered some damage but
+seems to be function in properly.
+
+236
+00:22:44,029 --> 00:22:46,865
+I'm quite adorable,
+you know.
+
+237
+00:22:46,866 --> 00:22:48,422
+That's why keep
+you out, babe.
+
+238
+00:22:48,423 --> 00:22:52,085
+I thought that was my
+charming personality.
+
+239
+00:22:56,462 --> 00:22:59,444
+Clea. What's the
+prison location?
+
+240
+00:22:59,445 --> 00:23:02,932
+78 and increasing.
+
+241
+00:23:10,051 --> 00:23:11,991
+Look likes just
+you and me now.
+
+242
+00:23:11,992 --> 00:23:14,149
+I'm sorry about
+Commander Karza
+
+243
+00:23:14,150 --> 00:23:16,060
+but if I must
+say I'm pleased
+
+244
+00:23:16,061 --> 00:23:17,821
+that it was you
+who survived.
+
+245
+00:23:17,822 --> 00:23:19,947
+Well, that makes two of us.
+
+246
+00:23:32,118 --> 00:23:33,679
+Keep trace prisoner.
+
+247
+00:23:33,680 --> 00:23:36,375
+200 microcliks on
+your current location.
+
+248
+00:23:36,376 --> 00:23:40,181
+Continuing in south
+eastern direction.
+
+249
+00:23:40,182 --> 00:23:42,764
+On the move again.
+
+250
+00:23:50,748 --> 00:23:54,218
+I hope you'll rot, sir.
+
+251
+00:25:09,510 --> 00:25:12,145
+It's been moving on a
+steady pace for hours.
+
+252
+00:25:12,146 --> 00:25:15,126
+Hopefully the damn
+things collapse it.
+
+253
+00:25:15,127 --> 00:25:18,420
+Without the water source it could
+be coming to dehydration.
+
+254
+00:25:18,421 --> 00:25:21,155
+Exactly.
+
+255
+00:25:24,290 --> 00:25:26,353
+Still...
+
+256
+00:25:26,354 --> 00:25:28,675
+I'm going in.
+
+257
+00:25:30,312 --> 00:25:33,353
+Report me any movement.
+-Of course.
+
+258
+00:25:34,679 --> 00:25:37,307
+Be careful, Centauri.
+
+259
+00:25:51,540 --> 00:25:53,673
+I get it.
+
+260
+00:26:55,196 --> 00:26:57,314
+Clea, my grid?
+
+261
+00:26:57,315 --> 00:26:59,265
+What is it, Centauri?
+
+262
+00:26:59,266 --> 00:27:01,260
+It's the tracking device.
+
+263
+00:27:01,261 --> 00:27:03,920
+Tear out from it's
+own throat.
+
+264
+00:27:04,249 --> 00:27:06,109
+Very clever.
+
+265
+00:27:06,110 --> 00:27:08,137
+He can't go far.
+
+266
+00:27:08,138 --> 00:27:10,288
+He cannot brag.
+
+267
+00:27:10,289 --> 00:27:12,278
+Do you hear me?
+
+268
+00:27:14,655 --> 00:27:17,596
+I bringing you in.
+
+269
+00:27:17,900 --> 00:27:19,772
+Dead or alive.
+
+270
+00:27:35,231 --> 00:27:39,050
+Centauri?
+Are you all right?
+
+271
+00:27:42,402 --> 00:27:46,064
+Centauri 7?
+Please answer.
+
+272
+00:31:05,011 --> 00:31:06,366
+Clea?
+
+273
+00:31:06,367 --> 00:31:08,305
+Which the time would be?
+
+274
+00:31:09,025 --> 00:31:11,005
+How long I have been out?
+
+275
+00:31:11,844 --> 00:31:14,849
+Clea?
+
+276
+00:34:04,886 --> 00:34:06,602
+The head.
+
+277
+00:34:06,603 --> 00:34:11,536
+I had to kick the head.
+
+278
+00:35:53,581 --> 00:35:56,739
+Pull on that.
+
+279
+00:36:14,497 --> 00:36:15,925
+Hello?
+
+280
+00:36:15,926 --> 00:36:19,080
+Unknown user,
+please identify.
+
+281
+00:36:19,081 --> 00:36:22,633
+Repeat, identify.
+
+282
+00:36:22,999 --> 00:36:25,297
+Identify.
+
+283
+00:36:25,298 --> 00:36:27,026
+Horn Jericho.
+
+284
+00:36:27,027 --> 00:36:31,336
+Un authorized user.
+Terminating access.
+
+285
+00:37:03,307 --> 00:37:06,578
+Private channel,
+open it. -Clea?
+
+286
+00:37:08,029 --> 00:37:10,037
+Where are you?
+-I'm not sure.
+
+287
+00:37:10,537 --> 00:37:13,867
+I'm in the possession
+un authorized user.
+
+288
+00:37:16,105 --> 00:37:20,694
+Can you give me a signal
+of his location? -Of course.
+
+289
+00:37:26,335 --> 00:37:27,739
+Got it.
+
+290
+00:37:27,740 --> 00:37:29,276
+He tried to access me
+
+291
+00:37:29,277 --> 00:37:31,652
+but I terminated
+the communication.
+
+292
+00:37:31,653 --> 00:37:33,731
+It's spoke to you?
+-Yes.
+
+293
+00:37:33,732 --> 00:37:35,636
+And it's understood you.
+-Yes.
+
+294
+00:37:35,637 --> 00:37:37,727
+This damn thing is more
+smart then I thought.
+
+295
+00:37:37,728 --> 00:37:39,523
+Keep that signal going.
+Still on the private channel.
+
+296
+00:37:39,524 --> 00:37:41,680
+I'm on my way.
+
+297
+00:38:33,394 --> 00:38:35,535
+Clea?
+
+298
+00:38:35,977 --> 00:38:37,735
+Clea?
+
+299
+00:38:37,736 --> 00:38:40,178
+She won't be helping
+you anymore.
+
+300
+00:38:42,958 --> 00:38:46,051
+We can't get out from
+this planet without her.
+
+301
+00:38:47,779 --> 00:38:51,610
+How I do use her?
+-You can't.
+
+302
+00:38:53,153 --> 00:38:55,010
+And if you have her
+
+303
+00:38:55,098 --> 00:38:58,020
+you still be stuck on this
+flooring rock as well.
+
+304
+00:38:58,021 --> 00:38:59,503
+You get no way to go.
+
+305
+00:38:59,504 --> 00:39:02,965
+Maybe I not
+plan on go anywhere.
+
+306
+00:39:04,749 --> 00:39:06,542
+If you want a die
+
+307
+00:39:06,543 --> 00:39:10,105
+kill yourself now and
+save me the trouble.
+
+308
+00:39:10,106 --> 00:39:12,795
+What if I want to
+take you with me?
+
+309
+00:39:14,182 --> 00:39:17,084
+You do then done already.
+
+310
+00:39:17,155 --> 00:39:20,578
+You are not dumb
+as you look.
+
+311
+00:39:21,415 --> 00:39:23,577
+What's it you want?
+
+312
+00:39:31,002 --> 00:39:33,767
+I know you
+can still hear me.
+
+313
+00:39:33,923 --> 00:39:36,695
+You are playing games?
+
+314
+00:39:36,696 --> 00:39:39,234
+Well, here is mine.
+
+315
+00:39:39,301 --> 00:39:42,002
+I know why they
+want you brought in.
+
+316
+00:39:42,314 --> 00:39:45,318
+And I don't care.
+
+317
+00:39:45,319 --> 00:39:49,521
+I'm gonna hunt you down
+and I wanna kill you.
+
+318
+00:39:49,936 --> 00:39:52,808
+That's my game.
+
+319
+00:42:35,272 --> 00:42:37,768
+Give up, Sedonian.
+
+320
+00:42:38,103 --> 00:42:40,739
+You will never catch me.
+
+321
+00:42:43,032 --> 00:42:46,186
+You been out smart
+enough to run.
+
+322
+00:42:51,379 --> 00:42:54,368
+Go home.
+
+323
+00:42:55,102 --> 00:42:58,441
+Why you still got a
+home to go back to.
+
+324
+00:46:00,356 --> 00:46:03,701
+I know something new
+I hate about your race.
+
+325
+00:46:03,978 --> 00:46:07,404
+You packed not enough water.
+
+326
+00:46:08,836 --> 00:46:11,524
+Because that's more
+human thing.
+
+327
+00:46:11,654 --> 00:46:14,562
+Always be prepare it.
+
+328
+00:46:16,380 --> 00:46:20,414
+I'm actually surprise you
+last as long you have.
+
+329
+00:46:20,471 --> 00:46:23,986
+Seem how incompetent you are.
+
+330
+00:46:24,640 --> 00:46:27,171
+Now I know why they put
+that helmet mask on you.
+
+331
+00:46:27,608 --> 00:46:30,396
+You talk too much.
+
+332
+00:46:30,575 --> 00:46:33,330
+They you want to know
+if I can speak your language.
+
+333
+00:46:33,331 --> 00:46:35,398
+You are right.
+
+334
+00:46:35,975 --> 00:46:37,473
+It's a good for
+somebody like you
+
+335
+00:46:37,474 --> 00:46:39,037
+to speak the language
+of the stars.
+
+336
+00:46:39,038 --> 00:46:41,784
+Something we pick it
+up from the Draks.
+
+337
+00:46:45,191 --> 00:46:48,037
+Draks are noble race.
+
+338
+00:46:48,038 --> 00:46:49,602
+You don't know
+anything about that.
+
+339
+00:46:49,603 --> 00:46:50,666
+Nobel?
+
+340
+00:46:50,667 --> 00:46:54,058
+They are disease on a
+galaxy, filthy creatures.
+
+341
+00:46:54,059 --> 00:46:55,815
+That's funny.
+
+342
+00:46:55,816 --> 00:46:58,456
+They say the same
+thing about you.
+
+343
+00:46:59,014 --> 00:47:01,582
+Lying bugs.
+
+344
+00:47:01,807 --> 00:47:03,776
+I tell you this
+
+345
+00:47:03,777 --> 00:47:06,337
+no one miss you guys
+when you gone.
+
+346
+00:47:06,506 --> 00:47:09,725
+Your the race is in extinct,
+human, not mine.
+
+347
+00:47:09,726 --> 00:47:11,241
+Not so long.
+
+348
+00:47:11,242 --> 00:47:13,495
+Is that so?
+-Yap.
+
+349
+00:47:13,496 --> 00:47:15,941
+I taken yours to hell.
+
+350
+00:47:16,937 --> 00:47:19,315
+I hold your fenecy, human.
+
+351
+00:47:19,316 --> 00:47:21,425
+Been that you
+last of your kind
+
+352
+00:47:21,426 --> 00:47:23,590
+how do you hope to
+accomplish this remarkable fit?
+
+353
+00:47:23,591 --> 00:47:25,825
+Don't you know why?
+-I don't care.
+
+354
+00:47:25,826 --> 00:47:27,692
+That's why.
+
+355
+00:47:27,693 --> 00:47:29,821
+You want this war
+on your advent
+
+356
+00:47:29,822 --> 00:47:31,498
+and lost your home world.
+
+357
+00:47:31,499 --> 00:47:34,264
+Those the consequence.
+-We didn't enter this war.
+
+358
+00:47:34,265 --> 00:47:35,393
+You attacked us.
+
+359
+00:47:35,394 --> 00:47:38,044
+You were harboring Draks fugitives.
+-You mean refugees.
+
+360
+00:47:38,045 --> 00:47:40,518
+Big difference.
+They need our help.
+
+361
+00:47:40,519 --> 00:47:42,719
+You choose the wrong side.
+
+362
+00:47:42,720 --> 00:47:44,713
+No.
+
+363
+00:47:44,714 --> 00:47:47,414
+It's cost us everything
+but we chose the right side.
+
+364
+00:47:47,415 --> 00:47:51,374
+Now, it's gonna cost
+you everything.
+
+365
+00:47:51,730 --> 00:47:55,317
+We all die.
+That's your solution.
+
+366
+00:47:55,318 --> 00:47:57,758
+How can you
+been so naive?
+
+367
+00:47:57,759 --> 00:47:59,953
+Another pack will
+ride on our place.
+
+368
+00:47:59,954 --> 00:48:01,661
+An endless cycle.
+
+369
+00:48:01,662 --> 00:48:03,664
+The only way to brake it
+
+370
+00:48:03,665 --> 00:48:06,195
+is to take control from
+those with power
+
+371
+00:48:06,196 --> 00:48:09,318
+to rule them instead.
+
+372
+00:48:10,218 --> 00:48:12,576
+You thought about this?
+-No.
+
+373
+00:48:12,577 --> 00:48:15,717
+It's the way it is.
+
+374
+00:48:17,745 --> 00:48:19,664
+Maybe you are right.
+
+375
+00:48:22,403 --> 00:48:24,429
+Human.
+
+376
+00:48:24,430 --> 00:48:26,212
+You have two options.
+
+377
+00:48:26,213 --> 00:48:28,317
+You can come with
+me and survive
+
+378
+00:48:28,318 --> 00:48:31,421
+or you can join to the rest
+of your race in oblivion.
+
+379
+00:48:31,422 --> 00:48:33,570
+It's your decision.
+
+380
+00:48:33,571 --> 00:48:35,844
+I'd choose option
+number three.
+
+381
+00:48:35,845 --> 00:48:38,058
+What is what?
+
+382
+00:50:04,211 --> 00:50:05,942
+Clea?
+
+383
+00:50:06,217 --> 00:50:08,252
+Clea? Are you there?
+
+384
+00:50:08,253 --> 00:50:10,989
+Centauri 7?
+-Yeah, it's me.
+
+385
+00:50:10,990 --> 00:50:14,007
+Has the human
+then recaptured? -No.
+
+386
+00:50:14,008 --> 00:50:16,543
+Then have you
+do retrieve me?
+
+387
+00:50:16,544 --> 00:50:18,870
+Radio sit it
+on the skeleton.
+
+388
+00:50:18,871 --> 00:50:20,908
+Why he live it behind?
+
+389
+00:50:20,909 --> 00:50:25,127
+Odd, that creature
+is kind it dangerously so.
+
+390
+00:50:25,128 --> 00:50:26,870
+Like he figured something else.
+
+391
+00:50:26,871 --> 00:50:29,520
+But what is he doing?
+
+392
+00:50:29,521 --> 00:50:31,679
+I missing something.
+
+393
+00:50:31,680 --> 00:50:34,464
+I wonder...
+-Wonder what?
+
+394
+00:50:35,031 --> 00:50:36,341
+Clea?
+
+395
+00:50:36,342 --> 00:50:39,325
+Centauri, I may know
+what the human is doing.
+
+396
+00:50:39,326 --> 00:50:40,911
+Great, tell me.
+
+397
+00:50:40,912 --> 00:50:44,119
+It would be better
+if I didn't. -Why is that?
+
+398
+00:50:44,120 --> 00:50:47,583
+If you know it might
+influence your actions.
+
+399
+00:50:47,584 --> 00:50:49,065
+I don't...
+What?
+
+400
+00:50:49,066 --> 00:50:52,644
+Do you trust me, Centauri?
+-With my life.
+
+401
+00:50:52,645 --> 00:50:55,831
+And here I do
+need you to do.
+
+402
+00:51:04,948 --> 00:51:07,270
+We may have
+another problem.
+
+403
+00:51:07,271 --> 00:51:10,408
+What now?
+-I think my forward
+
+404
+00:51:10,409 --> 00:51:12,458
+Commander Karza did more
+damage to my entire circle
+
+405
+00:51:12,459 --> 00:51:14,586
+then I first thought.
+
+406
+00:51:14,587 --> 00:51:16,941
+What you mean?
+-My battery isn't holding
+
+407
+00:51:16,942 --> 00:51:18,857
+the power cells
+charge very well.
+
+408
+00:51:18,858 --> 00:51:20,831
+I'm not going to be able
+to conserve enough power
+
+409
+00:51:20,832 --> 00:51:23,702
+to activate your biken when the
+rescue mission will arrive.
+
+410
+00:51:23,703 --> 00:51:26,278
+Shut down the other system
+restraining power.
+
+411
+00:51:26,279 --> 00:51:29,589
+I have but two main resources
+left from my system’s memory
+
+412
+00:51:29,590 --> 00:51:32,637
+and your medical unit I'm
+afraid you have to shutting down
+
+413
+00:51:32,638 --> 00:51:34,571
+to until you'll
+need me, Centauri.
+
+414
+00:51:34,572 --> 00:51:36,199
+That's not happened.
+
+415
+00:51:36,268 --> 00:51:37,761
+Cut my meds.
+
+416
+00:51:38,072 --> 00:51:40,747
+I don't think that
+is a good idea.
+
+417
+00:51:40,748 --> 00:51:42,251
+Cut them.
+
+418
+00:51:42,252 --> 00:51:45,659
+Meds unit is shutting down.
+
+419
+00:51:47,917 --> 00:51:49,800
+Your pain receptor
+the spank in
+
+420
+00:51:49,801 --> 00:51:53,309
+and your heart break
+is increasing. -I'm good.
+
+421
+00:51:53,310 --> 00:51:55,456
+Meds should give
+us enough power
+
+422
+00:51:55,457 --> 00:51:58,274
+provided when will ship
+arrived for designated time.
+
+423
+00:51:58,275 --> 00:52:01,520
+With little luck
+I'll get on him.
+
+424
+00:52:38,064 --> 00:52:41,754
+I picking a communications
+from orbit. -Our pick up?
+
+425
+00:52:41,755 --> 00:52:44,098
+No, this is art
+military channel
+
+426
+00:52:44,099 --> 00:52:45,916
+and unknown craft
+is approaching.
+
+427
+00:52:45,917 --> 00:52:48,324
+They could come
+down here? -Yes.
+
+428
+00:52:48,325 --> 00:52:50,507
+But my system can
+track it.
+
+429
+00:52:51,603 --> 00:52:53,627
+Try raise them.
+
+430
+00:52:55,008 --> 00:52:56,657
+No respond.
+
+431
+00:52:56,658 --> 00:52:58,919
+They got it to
+the radio silence.
+
+432
+00:52:59,270 --> 00:53:01,512
+It can't be good.
+
+433
+00:53:01,723 --> 00:53:04,005
+Maybe some randeu
+wous with the human.
+
+434
+00:53:04,063 --> 00:53:05,798
+Maybe is not the last one.
+
+435
+00:53:05,799 --> 00:53:09,354
+Or they could be Draks.
+
+436
+00:56:22,353 --> 00:56:24,977
+Great.
+
+437
+00:56:46,192 --> 00:56:48,434
+Hey!
+
+438
+00:56:54,221 --> 00:56:56,286
+What?
+
+439
+00:57:01,808 --> 00:57:03,246
+What?
+
+440
+00:57:09,163 --> 00:57:11,378
+Money?
+
+441
+00:57:12,150 --> 00:57:14,308
+Sadonians?
+
+442
+00:57:14,309 --> 00:57:15,737
+They are paying you.
+
+443
+00:57:15,738 --> 00:57:18,111
+You are bounty hunter.
+
+444
+00:57:18,276 --> 00:57:21,564
+That is such an ugly word.
+
+445
+00:57:21,565 --> 00:57:25,896
+Soldier of fortune
+more like it.
+
+446
+00:57:26,304 --> 00:57:29,753
+They want you been alive, ha?
+
+447
+00:57:32,323 --> 00:57:35,219
+Just as I thought.
+Slyeck.
+
+448
+00:57:35,427 --> 00:57:37,348
+What would the Slyeck
+be doing here?
+
+449
+00:57:37,349 --> 00:57:38,778
+Bounty hunter.
+
+450
+00:57:38,779 --> 00:57:41,236
+Alpha base must he send
+him like a back up.
+
+451
+00:57:41,237 --> 00:57:42,095
+It is.
+
+452
+00:57:42,238 --> 00:57:45,313
+Alpha base or
+the Slyeck? -Both.
+
+453
+00:57:45,314 --> 00:57:46,697
+What you going to do?
+
+454
+00:57:46,698 --> 00:57:48,581
+He's got my weapons
+and my prisoner.
+
+455
+00:57:48,582 --> 00:57:51,427
+I gonna go get them back.
+
+456
+00:57:56,952 --> 00:58:00,282
+True your kind will
+world wound?
+
+457
+00:58:00,988 --> 00:58:02,697
+Maybe.
+
+458
+00:58:03,661 --> 00:58:06,736
+True or lie?
+
+459
+00:58:08,214 --> 00:58:10,094
+True.
+
+460
+00:58:10,553 --> 00:58:12,345
+Deserve it they do.
+
+461
+00:58:12,346 --> 00:58:15,484
+Scare them good you do, a?
+
+462
+00:58:15,644 --> 00:58:20,178
+You like Sadonians?
+-No one like Sadonians.
+
+463
+00:58:20,179 --> 00:58:24,567
+The way where we
+planet make slaves.
+
+464
+00:58:24,566 --> 00:58:27,826
+There way or no way.
+
+465
+00:58:36,839 --> 00:58:42,258
+If I kill you
+they all die.
+
+466
+00:58:42,259 --> 00:58:47,075
+No more Sadonians.
+-Wait. Remember?
+
+467
+00:58:47,076 --> 00:58:48,076
+I'm money.
+
+468
+00:58:48,077 --> 00:58:51,147
+You kill me, no money.
+
+469
+00:58:53,541 --> 00:58:56,349
+Maybe I'll take you
+to the ship first.
+
+470
+00:58:56,350 --> 00:58:59,393
+Talk with elders.
+
+471
+00:58:59,394 --> 00:59:02,622
+Good idea.
+Smart.
+
+472
+00:59:02,711 --> 00:59:06,729
+No! Fuck that money.
+I'll be hero.
+
+473
+00:59:06,730 --> 00:59:09,623
+No more Sadonians.
+-No, wait.
+
+474
+00:59:32,673 --> 00:59:35,267
+You have your
+business here, Slyeck?
+
+475
+00:59:39,128 --> 00:59:41,157
+That human is my prisoner.
+
+476
+00:59:46,268 --> 00:59:48,683
+He's mine.
+
+477
+01:00:14,143 --> 01:00:16,629
+I don't think so.
+
+478
+01:01:37,131 --> 01:01:39,201
+Now what?
+
+479
+01:01:39,202 --> 01:01:40,669
+We wait.
+
+480
+01:01:41,859 --> 01:01:43,346
+On what?
+
+481
+01:01:43,385 --> 01:01:45,739
+Extraction.
+
+482
+01:01:45,917 --> 01:01:47,866
+Ship should be here soon.
+
+483
+01:01:53,681 --> 01:01:55,831
+What did they
+call you, human?
+
+484
+01:01:55,912 --> 01:01:57,969
+What is your name?
+
+485
+01:01:57,970 --> 01:01:58,970
+Jericho.
+
+486
+01:01:58,971 --> 01:02:00,389
+Lieutenant Orn Jericho.
+
+487
+01:02:00,390 --> 01:02:01,390
+Lieutenant?
+
+488
+01:02:01,391 --> 01:02:04,094
+We are the same right.
+
+489
+01:02:04,416 --> 01:02:05,995
+I'm Centauri 7.
+
+490
+01:02:05,996 --> 01:02:08,320
+I didn't ask.
+
+491
+01:02:08,702 --> 01:02:10,635
+Not wise to upset me
+
+492
+01:02:10,636 --> 01:02:12,517
+consider on your
+position, human.
+
+493
+01:02:12,518 --> 01:02:14,921
+No wonder your
+kind didn't make it.
+
+494
+01:02:14,922 --> 01:02:17,262
+No common sense.
+-Was that a reason?
+
+495
+01:02:17,263 --> 01:02:19,867
+I thought was you
+genocide war to did it.
+
+496
+01:02:19,868 --> 01:02:22,577
+War is war.
+You lost.
+
+497
+01:02:22,578 --> 01:02:24,513
+As long I'm still alive
+
+498
+01:02:24,514 --> 01:02:26,821
+the war ain't over.
+
+499
+01:02:28,516 --> 01:02:31,007
+You never did answer
+to my question.
+
+500
+01:02:32,284 --> 01:02:34,699
+How were you going to
+destroy my planet?
+
+501
+01:02:34,700 --> 01:02:35,700
+Are. -What?
+
+502
+01:02:35,701 --> 01:02:38,372
+You said were.
+Past tense.
+
+503
+01:02:38,373 --> 01:02:39,373
+It's are.
+
+504
+01:02:39,374 --> 01:02:43,163
+All right. How are you going
+to destroy my planet?
+
+505
+01:02:43,164 --> 01:02:45,130
+We sent as ship
+towards your planet
+
+506
+01:02:45,131 --> 01:02:47,915
+feel the capacity
+with the filmpejlo.
+
+507
+01:02:47,785 --> 01:02:49,273
+When's the impact
+
+508
+01:02:49,274 --> 01:02:52,057
+your world is
+blowing to dust.
+
+509
+01:02:54,335 --> 01:02:56,907
+How long range will detective
+harbor before reaches...
+
+510
+01:02:56,908 --> 01:02:58,484
+Is clocked.
+
+511
+01:02:58,485 --> 01:03:00,322
+You will never see it coming.
+
+512
+01:03:01,845 --> 01:03:06,140
+Another trick we pick
+it up from the Draks.
+
+513
+01:03:09,103 --> 01:03:12,300
+So, that's why they
+want you alive.
+
+514
+01:03:12,902 --> 01:03:16,553
+They want to get the ship
+coordinates out of you. -They'll try.
+
+515
+01:03:16,983 --> 01:03:19,292
+But you'll die first.
+
+516
+01:03:19,293 --> 01:03:21,255
+That's right.
+
+517
+01:03:21,256 --> 01:03:23,746
+Well, no then is no
+reason to keep you alive.
+
+518
+01:03:23,747 --> 01:03:27,358
+I can kill you right now.
+-You could.
+
+519
+01:03:27,359 --> 01:03:29,215
+But?
+-Come on.
+
+520
+01:03:29,216 --> 01:03:31,283
+Everybody wants
+to be a hero.
+
+521
+01:03:31,284 --> 01:03:32,882
+It's a one glimmer hope
+
+522
+01:03:32,883 --> 01:03:35,423
+that you might be
+a savior world.
+
+523
+01:03:35,424 --> 01:03:37,356
+I told you, I don't care.
+
+524
+01:03:37,357 --> 01:03:38,909
+They can go to
+the twelve hells.
+
+525
+01:03:38,910 --> 01:03:41,090
+I don't believe you.
+
+526
+01:03:41,091 --> 01:03:43,920
+Centauri, I have
+incoming transmission.
+
+527
+01:03:43,921 --> 01:03:45,674
+Patch it through.
+
+528
+01:03:45,675 --> 01:03:47,860
+Commander Karzo,
+this is battle ship Aurora.
+
+529
+01:03:47,861 --> 01:03:50,263
+Do you copy?
+-Copy that Aurora.
+
+530
+01:03:50,264 --> 01:03:51,626
+Karzo is dead.
+
+531
+01:03:51,627 --> 01:03:54,400
+This is Lieutenant Centauri 7
+as acting commander.
+
+532
+01:03:54,401 --> 01:03:55,863
+Copy that, Lieutenant.
+
+533
+01:03:55,864 --> 01:03:57,578
+We'll arrived in the
+last known signal point
+
+534
+01:03:57,579 --> 01:03:59,975
+from Prometheus
+before you went down.
+
+535
+01:03:59,976 --> 01:04:02,384
+We waiting on bipen location.
+
+536
+01:04:02,385 --> 01:04:05,162
+Clea, activate personal biken.
+
+537
+01:04:06,179 --> 01:04:09,548
+Signal ineshiated.
+-Aurora, you have it?
+
+538
+01:04:09,549 --> 01:04:13,183
+Affirmative. It's weak
+but we should be able to find.
+
+539
+01:04:13,984 --> 01:04:17,107
+ITA in 15 minutes.
+-Roger that.
+
+540
+01:04:17,108 --> 01:04:19,400
+Centauri 7 out.
+
+541
+01:04:23,443 --> 01:04:26,304
+When we get back to Sedonia
+
+542
+01:04:26,305 --> 01:04:28,815
+they gonna torture you.
+
+543
+01:04:28,816 --> 01:04:31,436
+They will get the
+information they want.
+
+544
+01:04:31,437 --> 01:04:33,946
+You won't last.
+
+545
+01:04:33,947 --> 01:04:38,608
+The plan we won't be there
+by the time we arrived. -That soon?
+
+546
+01:04:39,211 --> 01:04:41,275
+And all this?
+
+547
+01:04:41,276 --> 01:04:43,902
+The wild chase to give ship
+the time you need it?
+
+548
+01:04:43,903 --> 01:04:46,155
+Get the long
+before we'll do.
+
+549
+01:04:47,186 --> 01:04:49,813
+Why plans full of people
+they are innocent?
+
+550
+01:04:49,814 --> 01:04:51,126
+They are not
+responsible for the war
+
+551
+01:04:51,127 --> 01:04:52,789
+or your planet
+destruction?
+
+552
+01:04:52,790 --> 01:04:55,710
+The high counsel is.
+-You all fall of blindly.
+
+553
+01:04:55,711 --> 01:04:57,184
+It's no excuse.
+-It's the law.
+
+554
+01:04:57,185 --> 01:04:59,140
+What's the God
+that you creed?
+
+555
+01:04:59,141 --> 01:05:01,304
+Your Gods would telling me
+the way to entire world?
+
+556
+01:05:01,305 --> 01:05:04,262
+No, we split out on different
+stars and surrounding races.
+
+557
+01:05:04,263 --> 01:05:05,663
+By slaving
+and destroying now.
+
+558
+01:05:05,664 --> 01:05:09,079
+They don't accept our
+way of life then yes.
+
+559
+01:05:09,080 --> 01:05:10,995
+You make me sick.
+
+560
+01:05:10,996 --> 01:05:14,426
+This from the race that couldn't
+defend them self get it other.
+
+561
+01:05:14,427 --> 01:05:16,256
+Let lonely and
+beating the army.
+
+562
+01:05:16,257 --> 01:05:19,189
+Only an ignorant species will
+make war against own kind.
+
+563
+01:05:19,190 --> 01:05:20,190
+Shut up!
+
+564
+01:05:20,191 --> 01:05:22,501
+You command mass murder
+on a galactic scale
+
+565
+01:05:22,502 --> 01:05:23,926
+and you think
+it's holly crusade.
+
+566
+01:05:23,927 --> 01:05:25,918
+This is a lie!
+
+567
+01:05:25,919 --> 01:05:27,418
+Unless some
+come as a long
+
+568
+01:05:27,419 --> 01:05:30,196
+and takes away
+control from you.
+
+569
+01:05:30,197 --> 01:05:32,583
+Your words, not mine.
+
+570
+01:05:32,584 --> 01:05:34,422
+That will never happened.
+
+571
+01:05:35,342 --> 01:05:37,663
+I wonder why.
+
+572
+01:05:53,737 --> 01:05:55,676
+You are right.
+
+573
+01:05:55,677 --> 01:05:58,714
+I do care
+about my world.
+
+574
+01:06:01,760 --> 01:06:04,680
+I have wife
+and child there.
+
+575
+01:06:06,319 --> 01:06:09,520
+I would like to
+see them again.
+
+576
+01:06:12,908 --> 01:06:15,475
+Our women don't fight.
+
+577
+01:06:15,476 --> 01:06:18,143
+They care about
+the children.
+
+578
+01:06:18,144 --> 01:06:22,440
+Our soldiers
+are up there.
+
+579
+01:06:22,441 --> 01:06:24,876
+As one warrior to another
+
+580
+01:06:24,877 --> 01:06:29,487
+I respectfully ask that you take
+this war to those responsible.
+
+581
+01:06:33,585 --> 01:06:36,295
+You'll just be killing
+the women and children.
+
+582
+01:06:36,296 --> 01:06:41,302
+Is that what you want a
+legacy of your kind to be?
+
+583
+01:06:55,732 --> 01:06:57,950
+Vega sector, gamma quadrant.
+
+584
+01:06:59,670 --> 01:07:02,614
+Is that...
+-Where the ship is.
+
+585
+01:07:02,615 --> 01:07:06,235
+Call your people. I'll give
+them the coordinates.
+
+586
+01:07:06,236 --> 01:07:08,844
+You better hurry.
+You don't have much time.
+
+587
+01:07:08,845 --> 01:07:11,164
+Clea? Patch me to
+the Alpha base.
+
+588
+01:07:11,165 --> 01:07:13,061
+Transmitting.
+
+589
+01:07:13,062 --> 01:07:16,317
+Alpha base, this is Lieutenant
+Centauri 7. Do you copy?
+
+590
+01:07:16,318 --> 01:07:18,531
+Copy Lieutenant.
+What is your status?
+
+591
+01:07:18,532 --> 01:07:19,958
+The prisoner is in custody
+
+592
+01:07:19,959 --> 01:07:22,890
+and willing to give
+coordinates of the bomb ship.
+
+593
+01:07:22,925 --> 01:07:24,762
+Lieutenant, we are ready to
+get the information.
+
+594
+01:07:24,763 --> 01:07:26,930
+Please, sent to us
+immediately.
+
+595
+01:07:26,931 --> 01:07:29,033
+What's the
+coordinates? -No.
+
+596
+01:07:29,034 --> 01:07:32,761
+I want to be the
+one who tells them.
+
+597
+01:07:34,638 --> 01:07:38,100
+The coordinates are 22...
+-Non authorized user.
+
+598
+01:07:38,101 --> 01:07:40,592
+Clea, authorized the human.
+
+599
+01:07:40,593 --> 01:07:42,979
+Stage your name.
+-Orn Jericho.
+
+600
+01:07:42,980 --> 01:07:45,602
+Orn Jericho’s now authorized.
+
+601
+01:07:45,603 --> 01:07:53,056
+The coordinates are 22- 9,
+7-13, 0-40, 2-6-0.
+
+602
+01:07:53,057 --> 01:07:55,379
+Vega sector, gamma quadrant.
+
+603
+01:07:55,380 --> 01:07:58,790
+It's an M-class
+star frigate.
+
+604
+01:08:04,119 --> 01:08:07,275
+We have confirmation
+the ship does identify.
+
+605
+01:08:07,276 --> 01:08:11,528
+Sending Bell ship to
+intercept. -We found it.
+
+606
+01:08:12,396 --> 01:08:13,787
+Well done, Lieutenant.
+
+607
+01:08:13,788 --> 01:08:15,101
+We no longer
+need the prisoner.
+
+608
+01:08:15,102 --> 01:08:17,681
+You may terminated
+him at will.
+
+609
+01:08:17,682 --> 01:08:20,932
+Roger that.
+Centauri 7 out.
+
+610
+01:08:29,980 --> 01:08:32,092
+They want me that
+terminated you.
+
+611
+01:08:32,093 --> 01:08:36,512
+I saved your world.
+Your family.
+
+612
+01:08:38,367 --> 01:08:39,846
+Not really.
+
+613
+01:08:39,847 --> 01:08:42,289
+I don't have any
+wife and children.
+
+614
+01:08:46,264 --> 01:08:49,107
+That's good and you won't have
+anything to worried about
+
+615
+01:08:49,108 --> 01:08:51,449
+when your planet
+blowing on bits.
+
+616
+01:08:52,428 --> 01:08:53,715
+You didn't think
+that I give you
+
+617
+01:08:53,716 --> 01:08:55,378
+the real coordinates,
+did you?
+
+618
+01:08:55,379 --> 01:08:56,842
+We have confirmation
+on the craft.
+
+619
+01:08:56,843 --> 01:08:58,758
+It's a decoy,
+you idiot.
+
+620
+01:08:58,759 --> 01:09:03,780
+No men. There is nothing
+but salvage on that ship.
+
+621
+01:09:09,771 --> 01:09:11,807
+You can't stop this.
+
+622
+01:09:11,808 --> 01:09:13,938
+It's already over.
+
+623
+01:09:21,371 --> 01:09:23,719
+Superior race, ha?
+
+624
+01:09:24,058 --> 01:09:26,584
+I'm giving you
+some advice, alien.
+
+625
+01:09:27,988 --> 01:09:31,313
+Never let your weapon forward
+in the hand of your enemy.
+
+626
+01:11:18,944 --> 01:11:21,510
+I'm gonna let you in
+our little secret.
+
+627
+01:11:21,511 --> 01:11:23,465
+We never lunch
+the bomb ship.
+
+628
+01:11:23,466 --> 01:11:24,697
+We couldn't.
+
+629
+01:11:24,909 --> 01:11:27,738
+We've no idea
+where the Sadonia was.
+
+630
+01:11:28,530 --> 01:11:31,043
+But now that I'm authorized
+the access you date a base
+
+631
+01:11:31,044 --> 01:11:33,677
+she's gonna tell me
+everything I need to know.
+
+632
+01:11:33,678 --> 01:11:37,118
+You think, I forced the crash
+your ship by accident?
+
+633
+01:11:37,119 --> 01:11:38,995
+You want it the bomb ship?
+
+634
+01:11:39,030 --> 01:11:41,102
+I let you right to it.
+
+635
+01:11:44,234 --> 01:11:47,152
+Now, you gonna learn
+what's feels like
+
+636
+01:11:47,153 --> 01:11:49,830
+to be a last of your kind.
+
+637
+01:12:07,091 --> 01:12:09,776
+You want to know the
+different between you and me?
+
+638
+01:12:09,777 --> 01:12:13,879
+I did have a wife and
+son back on the Earth.
+
+639
+01:12:25,791 --> 01:12:27,644
+Centauri 7,
+this is the Aurora.
+
+640
+01:12:27,645 --> 01:12:29,581
+We just clear
+out the gate
+
+641
+01:12:29,582 --> 01:12:30,582
+and enter into the atmosphere.
+
+642
+01:12:30,583 --> 01:12:34,174
+The craft it's on it's
+way down. Stand by.
+
+643
+01:12:55,060 --> 01:12:57,056
+Centauri 7, this is
+Commander Chane
+
+644
+01:12:57,057 --> 01:12:59,727
+in the Aurora.
+
+645
+01:12:59,728 --> 01:13:02,649
+We are on the ground.
+
+646
+01:13:02,650 --> 01:13:04,854
+What is your status?
+
+647
+01:13:09,833 --> 01:13:12,823
+Centauri 7, you picking
+up my transmission?
+
+648
+01:13:13,835 --> 01:13:16,859
+Centauri 7,
+do you copy?
+
+649
+01:13:33,982 --> 01:13:36,250
+The only one
+who made it, ha?
+
+650
+01:13:40,557 --> 01:13:42,062
+You look like hell.
+
+651
+01:13:42,063 --> 01:13:43,789
+Must a be the rough one.
+
+652
+01:13:43,790 --> 01:13:47,474
+Get you to the
+informative right away.
+
+653
+01:16:40,809 --> 01:16:43,575
+Clea, upload the
+coordinates to the Sedonia
+
+654
+01:16:43,576 --> 01:16:46,117
+into the ship computer.
+
+655
+01:16:47,517 --> 01:16:49,506
+Clea.
+
+656
+01:16:50,999 --> 01:16:54,555
+Clea, I command you
+to respond.
+
+657
+01:17:06,943 --> 01:17:09,376
+San of a bitch.
+
+658
+01:17:52,110 --> 01:17:54,593
+Alpha base. This is
+on the craft Jewelry size.
+
+659
+01:17:54,594 --> 01:17:56,788
+Commander Chane is
+no longer responsive.
+
+660
+01:18:04,802 --> 01:18:08,542
+Starting sequence
+complete. Clea 19.
+
+661
+01:18:08,893 --> 01:18:11,688
+Hello, Centauri 7.
+-Hello, Clea.
+
+662
+01:18:11,689 --> 01:18:13,299
+It's good to have you back.
+
+663
+01:18:13,300 --> 01:18:15,595
+I take you by
+my new casing
+
+664
+01:18:15,596 --> 01:18:17,425
+that you follow
+my instructions.
+
+665
+01:18:21,017 --> 01:18:24,910
+Centauri, I have incoming
+transmission for Alpha base.
+
+666
+01:18:24,911 --> 01:18:27,106
+Patch it through.
+
+667
+01:18:27,965 --> 01:18:30,593
+Lieutenant,
+this is Alpha base.
+
+668
+01:18:31,604 --> 01:18:34,141
+What's going on
+now down there?
+
+669
+01:18:34,142 --> 01:18:35,692
+If I were you
+
+670
+01:18:35,693 --> 01:18:38,943
+I'd be more concerning
+what's going on up there.
+
+671
+01:18:38,944 --> 01:18:41,021
+Centauri 7, you
+are on the orders.
+
+672
+01:18:41,022 --> 01:18:42,467
+What is the status
+of the human?
+
+673
+01:18:42,468 --> 01:18:44,124
+Find another one to
+do your dirty work.
+
+674
+01:18:44,125 --> 01:18:47,295
+Centauri 7 out.
+End of transmission.
+
+675
+01:18:50,905 --> 01:18:52,894
+Whatever you
+planning to do, Centauri
+
+676
+01:18:52,895 --> 01:18:54,491
+I suggest you to
+do it quickly.
+
+677
+01:18:54,492 --> 01:18:56,326
+It won't be long before
+the human traced
+
+678
+01:18:56,327 --> 01:18:58,983
+the source of that
+signal at the Sedonia.
+
+679
+01:19:00,693 --> 01:19:02,710
+He already has.
+
+680
+01:19:02,711 --> 01:19:05,066
+Is not that right.
+
+681
+01:19:06,429 --> 01:19:09,111
+He didn't kill you. Why?
+
+682
+01:19:09,112 --> 01:19:11,037
+Same reason you
+didn't kill me.
+
+683
+01:19:12,325 --> 01:19:15,011
+Yeah, what's that?
+
+684
+01:19:15,240 --> 01:19:18,229
+I'll tell you
+when I see you.
+
+685
+01:19:23,242 --> 01:19:26,276
+Centauri, how we may suppose
+to get out from here?
+
+686
+01:19:26,277 --> 01:19:28,523
+Another our ship has to pass
+be around here somewhere.
+
+687
+01:19:28,524 --> 01:19:31,085
+You realized we would be
+breaking 26 high council's laws
+
+688
+01:19:31,086 --> 01:19:33,516
+by taking this
+course of action.
+
+689
+01:19:33,517 --> 01:19:36,404
+Is that a problem?
+-Not at all.
+
+690
+01:19:36,405 --> 01:19:39,770
+Let's get to twelve
+hells off this rock.
+
+691
+01:19:41,271 --> 01:19:44,967
+BY AUDIO NOTE:
+REŠO
+

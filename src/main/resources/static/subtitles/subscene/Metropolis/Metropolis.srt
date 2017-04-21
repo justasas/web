@@ -1,0 +1,467 @@
+1
+00:02:22,609 --> 00:02:26,647
+The day shift.
+
+2
+00:03:46,994 --> 00:03:57,471
+The workers' city, far below the
+ surface of the earth.
+
+3
+00:05:23,957 --> 00:05:31,231
+And high above, a pleasure garden for the sons of the masters of Metropolis.
+
+4
+00:05:37,137 --> 00:05:43,143
+"Freder!"
+
+5
+00:07:24,111 --> 00:07:31,718
+"Look, these are your brothers."
+
+6
+00:08:44,925 --> 00:08:47,194
+"Who was that?"
+
+7
+00:08:52,065 --> 00:09:00,741
+"Just the daughter of a worker."
+
+8
+00:09:11,985 --> 00:09:21,028
+The great machines, far underground,
+ yet high above the workers' city.
+
+9
+00:11:56,083 --> 00:11:59,186
+"Moloch!"
+
+10
+00:17:35,188 --> 00:17:39,459
+"Such acidents are unavoidable."
+
+11
+00:18:13,060 --> 00:18:20,667
+"Why was my son allowed to go
+ into the machine-rooms?"
+
+12
+00:18:37,985 --> 00:18:41,188
+"Why did you go down there?"
+
+13
+00:18:43,123 --> 00:18:54,568
+"I wanted to see what my brothers
+ looked like."
+
+14
+00:20:22,756 --> 00:20:28,562
+"It was their hands that built this
+ city of ours, father."
+
+15
+00:21:02,929 --> 00:21:07,601
+"In their proper place---
+the depts."
+
+16
+00:21:26,219 --> 00:21:33,961
+"What will you do if they turn against
+ you some day?"
+
+17
+00:22:13,333 --> 00:22:20,107
+"The foreman from the central dynamo 
+room is here with an urgent message."
+
+18
+00:22:47,968 --> 00:22:54,274
+"More of those plans, sir."
+
+19
+00:23:42,623 --> 00:23:49,329
+"They were found on two of the men
+ who were killed today."
+
+20
+00:24:05,045 --> 00:24:12,085
+"Joseph, why was it not you who
+ brought me these plans?"
+
+21
+00:24:39,146 --> 00:24:48,255
+"You are dismissed. Go to the G-Bank 
+for the balance of your wages."
+
+22
+00:25:44,177 --> 00:25:56,623
+"Father, don't you realize what it 
+means to be dismissed by you?"
+
+23
+00:27:11,932 --> 00:27:16,069
+"Joseph, I need your help."
+
+24
+00:27:26,847 --> 00:27:34,688
+"I have far to go today
+-- alone, into the depths
+-- to my borthers."
+
+25
+00:29:04,478 --> 00:29:09,383
+"The machine! Someone must stay
+ with the machine."
+
+26
+00:29:16,356 --> 00:29:20,060
+"I will stay at the machine."
+
+27
+00:29:43,850 --> 00:29:50,090
+In the middle of the city was an old house.
+
+28
+00:29:57,097 --> 00:30:02,569
+Here lived, Rotwang, the inventor.
+
+29
+00:30:49,750 --> 00:30:53,720
+"At last, my work is ready."
+
+30
+00:30:59,760 --> 00:31:07,935
+"I have created a machine in the image
+ of man, that never tires or makes a mistake."
+
+31
+00:31:23,150 --> 00:31:29,022
+"Now we have no further use for
+living workers."
+
+32
+00:34:08,048 --> 00:34:17,257
+"Isn't it worth the loss of a hand to have 
+created the workers of the future -- -- the machine men?"
+
+33
+00:34:28,368 --> 00:34:38,578
+"Give me another 24 hours, and I'll bring
+you a machine which no one will be able to tell from a hum
+
+34
+00:35:03,003 --> 00:35:12,245
+"As always, when my experts fail 
+I come to you for advice."
+
+35
+00:35:33,166 --> 00:35:42,976
+"For months now, we have been finding these 
+plans in the workers' clothing. What do they mean?"
+
+36
+00:36:25,352 --> 00:36:32,626
+"At two -- at the end of this shift.
+She has called another meeting."
+
+37
+00:38:59,106 --> 00:39:05,712
+"These are the plans of the ancient catacombs 
+-- far below the lowest levels of the workers' city."
+
+38
+00:39:54,061 --> 00:39:57,164
+"What is down there that interests the workers?"
+
+39
+00:41:07,663 --> 00:41:15,236
+"Today I will tell you the story of the Tower of Babel."
+
+40
+00:44:57,230 --> 00:45:03,203
+"Let us build a tower whose summit will touch the skies--"
+
+41
+00:45:09,176 --> 00:45:18,185
+"-- and on it we will inscribe: 'Great is
+the world and its Creator. And great is Man.'"
+
+42
+00:45:42,909 --> 00:45:53,587
+"Those who had conceived the idea of this tower 
+could not build it themselves, so they hired thousan
+
+43
+00:48:10,991 --> 00:48:18,999
+"Between the brain that plans and the 
+hands that build there must be a mediator."
+
+44
+00:48:20,901 --> 00:48:26,640
+"It is the heart that must bring about 
+an understanding between them."
+
+45
+00:49:07,080 --> 00:49:11,652
+"But where is our mediator, Maria?"
+
+46
+00:49:34,174 --> 00:49:38,879
+"Be patient, he will surely come."
+
+47
+00:49:57,764 --> 00:50:03,003
+"We will wait, but not for long."
+
+48
+00:50:33,266 --> 00:50:40,507
+"Rotwang, make your Robot in the 
+likeness of that girl."
+
+49
+00:50:52,653 --> 00:51:06,600
+"Hide the girl in your house, I will send the 
+Robot down to the workers, to sow discord among them a
+
+50
+00:51:19,012 --> 00:51:23,884
+"Leave me here, John Fredersen."
+
+51
+00:54:09,182 --> 00:54:15,689
+"Until tomorrow--- in the cathedral."
+
+52
+01:00:29,663 --> 01:00:34,101
+The Seven Deadly Sins.
+
+53
+01:01:25,085 --> 01:01:30,524
+Maria was a prisoner in Rotwang's house.
+
+54
+01:02:13,967 --> 01:02:21,441
+"Come, I am going to make the
+Robot look like you."
+
+55
+01:06:47,993 --> 01:06:49,194
+"Maria!"
+
+56
+01:11:38,350 --> 01:11:40,852
+"Where is Maria?"
+
+57
+01:11:49,294 --> 01:11:52,898
+"She is with your father."
+
+58
+01:12:27,332 --> 01:12:38,510
+"The copy is perfect. Now go down to the workers 
+and undo Maria's teaching; stir them up to criminal
+
+59
+01:13:00,866 --> 01:13:02,467
+"Maria!"
+
+60
+01:15:07,392 --> 01:15:17,869
+"Now we shall see whether people believe
+the Robot is a creature of flesh and blood."
+
+61
+01:18:35,300 --> 01:18:41,773
+"John Fredersen is looking for an excuse
+to use violence against the workers."
+
+62
+01:19:06,031 --> 01:19:16,708
+"Maria, you always pleaded for peace -- but now the 
+Robot in your likeness has been commanded to inc
+
+63
+01:19:28,687 --> 01:19:33,825
+The workers accept the Robot as Maria.
+
+64
+01:19:41,466 --> 01:19:46,404
+"I have preached patience --"
+
+65
+01:20:07,225 --> 01:20:13,665
+"But your mediator has not come -- 
+and will never come."
+
+66
+01:20:43,461 --> 01:20:48,633
+"Maria is inciting the workers to revolt."
+
+67
+01:21:07,319 --> 01:21:12,324
+"She has told them to destroy everything."
+
+68
+01:21:15,994 --> 01:21:19,364
+"I cannot believe it."
+
+69
+01:21:55,374 --> 01:22:05,710
+"You have waited patiently too long.
+The time has come to act!"
+
+70
+01:22:16,254 --> 01:22:22,761
+"Why should you sweat yourself to death
+to benefit the Lord of Metropolis?"
+
+71
+01:22:28,333 --> 01:22:32,170
+"Who keeps the machines going?"
+
+72
+01:22:51,323 --> 01:22:55,026
+"Who are the slaves of the machines?"
+
+73
+01:23:02,167 --> 01:23:07,839
+"Let the machines stop!"
+
+74
+01:23:13,912 --> 01:23:17,616
+"Destroy the machines!"
+
+75
+01:23:33,331 --> 01:23:36,535
+"You are not Maria!"
+
+76
+01:23:58,456 --> 01:24:05,664
+"Maria pleads for peace, not for
+violence. This is not Maria!"
+
+77
+01:24:10,402 --> 01:24:14,072
+"John Fredersen's son!"
+
+78
+01:24:17,409 --> 01:24:22,447
+"Kill him!"
+
+79
+01:27:38,977 --> 01:27:44,683
+Not one man or woman remained behind.
+
+80
+01:28:16,448 --> 01:28:20,485
+"To the central power house!"
+
+81
+01:29:20,378 --> 01:29:25,016
+"The workers are destroying the machines."
+
+82
+01:29:28,887 --> 01:29:32,157
+"What shall I do?"
+
+83
+01:29:34,392 --> 01:29:39,564
+"If they destroy the power house,
+the workers' city will be flooded."
+
+84
+01:29:41,399 --> 01:29:44,703
+"Open the doors."
+
+85
+01:30:06,791 --> 01:30:11,997
+"Have you gone mad? You are 
+flooding your own homes."
+
+86
+01:31:26,605 --> 01:31:31,142
+At last Maria managed to escape.
+
+87
+01:37:16,388 --> 01:37:20,358
+"Yes, you are the real Maria."
+
+88
+01:37:22,360 --> 01:37:27,832
+"To the airshaft -- quickly !
+The reservoirs have burst."
+
+89
+01:39:59,384 --> 01:40:02,420
+"Where is my son?"
+
+90
+01:40:03,421 --> 01:40:09,995
+"Tomorrow thousands will ask in
+anguish -- where is my son?"
+
+91
+01:40:43,528 --> 01:40:50,135
+"Save the children -- I will tell the 
+workers that they are safe."
+
+92
+01:42:31,403 --> 01:42:35,307
+"Where are your children?"
+
+93
+01:42:44,983 --> 01:42:50,922
+"The entire workers' city is under water."
+
+94
+01:43:02,234 --> 01:43:07,405
+"Who told you to destroy the machines,
+you fools -- and thus to destroy yourselves?"
+
+95
+01:43:28,660 --> 01:43:34,199
+"The witch! She's to blame for all 
+this. Find her! Kill her."
+
+96
+01:44:00,425 --> 01:44:05,497
+"Let's watch the world going to the devil!"
+
+97
+01:48:09,307 --> 01:48:11,343
+"Maria!"
+
+98
+01:49:09,401 --> 01:49:15,774
+"If the mob sees you they will kill 
+me for having tricked them."
+
+99
+01:50:26,444 --> 01:50:28,947
+"The witch, the witch!"
+
+100
+01:52:02,340 --> 01:52:06,011
+"Where are our children?"
+
+101
+01:52:22,928 --> 01:52:27,732
+"John Fredersen's son has saved your children."
+
+102
+01:52:40,946 --> 01:52:43,682
+"Save my son!"
+
+103
+01:54:18,376 --> 01:54:21,513
+"Thank heaven!"
+
+104
+01:56:45,423 --> 01:56:53,732
+"There can be no understanding between
+the hands and the brain unless the heart acts as mediator."
+
+105
+01:57:45,684 --> 01:57:47,285
+THE END
+

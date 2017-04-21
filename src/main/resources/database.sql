@@ -9,3 +9,12 @@ CREATE TABLE movie
 	PRIMARY KEY (id),
 	unique (title)
 );
+
+CREATE TABLE movie
+(
+  	ytId		varchar(11)	NOT NULL,
+    status VARCHAR(50) NOT NULL,
+    subtitleLocation VARCHAR(500),
+    nameOfSavedMovieFile VARCHAR(200),
+    unique (ytId)
+);

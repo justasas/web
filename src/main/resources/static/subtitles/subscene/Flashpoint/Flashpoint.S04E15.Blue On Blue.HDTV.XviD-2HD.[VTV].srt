@@ -1,0 +1,4935 @@
+﻿1
+00:00:00,344 --> 00:00:02,445
+(Sirens wail)
+
+2
+00:00:11,821 --> 00:00:13,155
+Ed:
+What're we looking at here?
+
+3
+00:00:13,223 --> 00:00:14,423
+<i>Jules:</i>
+<i>System's gone haywire.</i>
+
+4
+00:00:14,491 --> 00:00:15,691
+<i>Unit commander:</i>
+<i>It's been hacked.</i>
+
+5
+00:00:15,758 --> 00:00:17,193
+The alarm's on
+a perpetual loop;
+
+6
+00:00:17,260 --> 00:00:18,727
+<i>you don't even know</i>
+<i>what it's flagging.</i>
+
+7
+00:00:18,795 --> 00:00:19,995
+Parker: Most secure building
+in the city, Eddie,
+
+8
+00:00:20,063 --> 00:00:21,063
+and someone just
+cracked it open
+
+9
+00:00:21,131 --> 00:00:22,465
+like a science project.
+
+10
+00:00:25,034 --> 00:00:26,168
+This had better work.
+
+11
+00:00:26,236 --> 00:00:27,368
+<i>Male:</i>
+<i>You do what I tell you?</i>
+
+12
+00:00:27,436 --> 00:00:29,003
+They won't even know
+what hit them.
+
+13
+00:00:38,314 --> 00:00:40,415
+(Velcro rasps, weapons click)
+
+14
+00:00:44,219 --> 00:00:45,419
+'Kay, listen up,
+
+15
+00:00:45,487 --> 00:00:46,720
+it's the last time
+to review this.
+
+16
+00:00:46,787 --> 00:00:48,489
+We are a full escort
+for a high-risk target,
+
+17
+00:00:48,556 --> 00:00:49,956
+Karl Morse.
+
+18
+00:00:50,024 --> 00:00:51,691
+<i>He's en route</i>
+<i>to metro courthouse three</i>
+
+19
+00:00:51,759 --> 00:00:53,160
+<i>for sentencing</i>
+<i>after a plea deal</i>
+
+20
+00:00:53,228 --> 00:00:54,894
+for drug trafficking.
+
+21
+00:00:54,962 --> 00:00:56,696
+Ed: Okay, I just sent everybody
+the final route plan.
+
+22
+00:00:56,764 --> 00:00:58,365
+<i>It's on your PDA.</i>
+
+23
+00:00:58,433 --> 00:01:00,199
+<i>Now, there's a lot of chatter</i>
+<i>on the jungle telegraph.</i>
+
+24
+00:01:00,267 --> 00:01:01,900
+<i>A lot of people wanna</i>
+<i>get to this guy.</i>
+
+25
+00:01:01,968 --> 00:01:03,802
+Think he'll try a jailbreak?
+
+26
+00:01:03,870 --> 00:01:05,271
+<i>Jules:</i> <i>If he took a plea bargain
+,</i> <i>he must probably talked.</i>
+
+27
+00:01:05,339 --> 00:01:06,272
+<i>Sam:</i> <i>Meaning the
+people</i> <i>he talked about</i>
+
+28
+00:01:06,340 --> 00:01:07,440
+aren't too happy.
+
+29
+00:01:07,508 --> 00:01:08,841
+<i>Ed:</i>
+<i>Okay, here it is.</i>
+
+30
+00:01:08,908 --> 00:01:10,876
+<i>Whoever gets to Morse</i>
+<i>makes a lot of friends.</i>
+
+31
+00:01:10,944 --> 00:01:12,145
+We're gonna stop that
+from happening.
+
+32
+00:01:12,212 --> 00:01:13,912
+(Spike's phone rings)
+
+33
+00:01:13,980 --> 00:01:15,413
+Spike:
+Meet you in the truck.
+
+34
+00:01:17,716 --> 00:01:19,618
+Hey, Natalie, not a great time.
+
+35
+00:01:19,685 --> 00:01:21,319
+<i>Natalie:</i> <i>Hey, sorry
+,</i> <i>it won't take long.</i>
+
+36
+00:01:21,387 --> 00:01:22,987
+I just wanted to get back
+to my friend
+
+37
+00:01:23,055 --> 00:01:24,556
+<i>about what we talked about</i>
+<i>last night.</i>
+
+38
+00:01:24,624 --> 00:01:26,258
+Yeah, yeah. You know,
+I thought it about it a lot,
+
+39
+00:01:26,325 --> 00:01:27,592
+and, uh, the things is,
+
+40
+00:01:27,660 --> 00:01:29,594
+uh, think right now
+is not a good time.
+
+41
+00:01:29,662 --> 00:01:31,362
+<i>Natalie:</i>
+<i>It's just a weekend, Spike.</i>
+
+42
+00:01:31,429 --> 00:01:33,130
+She's got the cottage
+all summer.
+
+43
+00:01:33,198 --> 00:01:34,565
+I didn't mean it
+to be some big thing.
+
+44
+00:01:34,633 --> 00:01:36,833
+No, no. Of course not.
+You know, I...
+
+45
+00:01:36,901 --> 00:01:39,236
+Honestly, Nat?
+I-I like you,
+
+46
+00:01:39,304 --> 00:01:40,271
+<i>and I think you're great.</i>
+
+47
+00:01:40,338 --> 00:01:41,805
+But, um, thing is,
+
+48
+00:01:41,873 --> 00:01:43,607
+I don't think I'm ready
+to be going to cottages
+
+49
+00:01:43,675 --> 00:01:44,841
+for the weekend right now.
+
+50
+00:01:44,909 --> 00:01:45,976
+So you like me,
+
+51
+00:01:46,044 --> 00:01:47,710
+you just don't "like" like me.
+
+52
+00:01:47,778 --> 00:01:49,179
+Gotcha.
+
+53
+00:01:49,246 --> 00:01:50,079
+<i>Is it my brother?</i>
+<i>Did he say something?</i>
+
+54
+00:01:50,147 --> 00:01:52,215
+No. I haven't talked to Sam.
+
+55
+00:01:52,283 --> 00:01:53,949
+Please don't say,
+"it's not you, it's me."
+
+56
+00:01:54,017 --> 00:01:54,950
+Okay.
+
+57
+00:01:55,018 --> 00:01:56,085
+<i>Natalie:</i>
+<i>Okay.</i>
+
+58
+00:01:57,254 --> 00:01:59,322
+But it's not me, right?
+
+59
+00:01:59,390 --> 00:02:00,657
+It's not you.
+
+60
+00:02:02,393 --> 00:02:03,425
+Still friends?
+
+61
+00:02:03,493 --> 00:02:04,459
+Okay.
+(Phone line beeps)
+
+62
+00:02:04,527 --> 00:02:06,195
+Um, other line.
+You go.
+
+63
+00:02:06,262 --> 00:02:08,397
+Spike: Okay.
+Uh, call me when you get back?
+
+64
+00:02:08,464 --> 00:02:10,566
+<i>Natalie:</i>
+<i>You got it.</i>
+
+65
+00:02:14,136 --> 00:02:15,837
+David.
+
+66
+00:02:15,905 --> 00:02:16,971
+<i>David:</i> <i>Nat, I'm sorry.
+</i> <i>Last phone call, I promise.</i>
+
+67
+00:02:17,039 --> 00:02:18,540
+<i>But...</i>
+
+68
+00:02:18,608 --> 00:02:20,474
+I have to see you today,
+
+69
+00:02:20,542 --> 00:02:22,743
+face to face,
+just this one time.
+
+70
+00:02:22,811 --> 00:02:24,679
+I'm not sure
+that's such a good idea.
+
+71
+00:02:24,746 --> 00:02:26,046
+<i>David:</i>
+<i>(Sighs) Don't worry.</i>
+
+72
+00:02:26,114 --> 00:02:26,914
+<i>I know you're serious</i>
+<i>about this guy.</i>
+
+73
+00:02:26,981 --> 00:02:28,382
+I just...
+
+74
+00:02:28,450 --> 00:02:30,384
+I need to say goodbye to you
+in person.
+
+75
+00:02:35,590 --> 00:02:37,424
+<i>Ed:</i> <i>Okay, we're about 15
+minutes</i> <i>from target.</i>
+
+76
+00:02:37,491 --> 00:02:38,692
+<i>Status report?</i>
+
+77
+00:02:38,759 --> 00:02:40,260
+Secondary clear.
+Sam?
+
+78
+00:02:41,295 --> 00:02:43,630
+Primary good.
+Spike?
+
+79
+00:02:43,698 --> 00:02:45,098
+Surveillance all clear.
+
+80
+00:02:45,165 --> 00:02:46,199
+Let's keep it that way.
+
+81
+00:02:50,804 --> 00:02:53,706
+Is everything...
+Good with you, man?
+
+82
+00:02:53,773 --> 00:02:54,540
+All clear.
+
+83
+00:02:54,608 --> 00:02:56,475
+I mean...
+
+84
+00:02:56,543 --> 00:02:57,776
+Okay, last night,
+
+85
+00:02:57,844 --> 00:02:59,511
+Natalie came home
+from coffee with you
+
+86
+00:02:59,579 --> 00:03:00,846
+and she seemed upset.
+
+87
+00:03:00,913 --> 00:03:02,180
+She was upset?
+
+88
+00:03:02,249 --> 00:03:03,649
+Well, she was trying
+to hide it, yeah.
+
+89
+00:03:03,717 --> 00:03:05,851
+She asked if you ever stop
+with the "kidding around."
+
+90
+00:03:05,918 --> 00:03:07,485
+I don't know, I make jokes,
+
+91
+00:03:07,553 --> 00:03:09,019
+it's what I do.
+
+92
+00:03:09,087 --> 00:03:10,455
+You usually your sister's
+wing-man?
+
+93
+00:03:10,522 --> 00:03:12,724
+I'm not her wing-man,
+okay?
+
+94
+00:03:12,791 --> 00:03:15,260
+You know what?
+Never mind.
+
+95
+00:03:15,327 --> 00:03:16,394
+We're not dating.
+
+96
+00:03:18,163 --> 00:03:20,097
+Well, that's good
+
+97
+00:03:20,165 --> 00:03:21,866
+'cause that would be weird.
+
+98
+00:03:21,933 --> 00:03:24,167
+Trouble has a way
+of finding her.
+
+99
+00:03:27,004 --> 00:03:28,071
+<i>David:</i>
+<i>Yeah, bank foreclosed.</i>
+
+100
+00:03:28,139 --> 00:03:29,806
+A friend of mine
+told me about it,
+
+101
+00:03:29,874 --> 00:03:31,174
+<i>I got it for cheap.</i>
+
+102
+00:03:31,242 --> 00:03:32,876
+It's gorgeous.
+
+103
+00:03:33,778 --> 00:03:35,679
+David:
+You look good.
+
+104
+00:03:35,747 --> 00:03:37,447
+So do you.
+
+105
+00:03:37,515 --> 00:03:38,682
+(Chuckles)
+
+106
+00:03:38,750 --> 00:03:40,783
+Don't sound so surprised.
+
+107
+00:03:40,850 --> 00:03:42,951
+I just mean considering...
+
+108
+00:03:44,755 --> 00:03:46,789
+Considering everything?
+
+109
+00:03:48,425 --> 00:03:49,458
+Yeah.
+
+110
+00:03:51,895 --> 00:03:52,895
+Well, I'm really glad
+that you're doing well,
+
+111
+00:03:52,962 --> 00:03:54,363
+I mean it.
+
+112
+00:03:54,431 --> 00:03:55,264
+David: Yeah.
+Speaking of which, this is my uh...
+
+113
+00:03:55,331 --> 00:03:57,098
+My business partner, Albin.
+
+114
+00:03:57,166 --> 00:03:59,033
+Hey.
+
+115
+00:03:59,101 --> 00:04:00,602
+Natalie, right?
+
+116
+00:04:00,670 --> 00:04:02,470
+David: Oh, yeah, he knows
+everything about you.
+
+117
+00:04:02,538 --> 00:04:05,607
+How you, uh, dazzled your way
+into my life,
+
+118
+00:04:05,675 --> 00:04:06,675
+made yourself at home
+in my villa,
+
+119
+00:04:06,742 --> 00:04:07,875
+drank my booze,
+
+120
+00:04:07,943 --> 00:04:08,976
+swam in my pool...
+
+121
+00:04:09,044 --> 00:04:10,044
+You were my personal
+house guest
+
+122
+00:04:10,112 --> 00:04:11,112
+for, what, two months,
+
+123
+00:04:11,180 --> 00:04:13,047
+and then you threw me
+to the dogs
+
+124
+00:04:13,115 --> 00:04:15,283
+and breezed away.
+
+125
+00:04:15,350 --> 00:04:16,984
+Wait a minute, I threw you?
+
+126
+00:04:17,052 --> 00:04:18,085
+What would you call it?
+
+127
+00:04:18,153 --> 00:04:20,087
+You packed the bag.
+I trusted you.
+
+128
+00:04:20,155 --> 00:04:22,156
+You have no idea!
+
+129
+00:04:33,100 --> 00:04:35,435
+David: You know, there's no
+rules in Colombian jails.
+
+130
+00:04:35,502 --> 00:04:37,904
+No, um, guards to keep one guy
+
+131
+00:04:37,972 --> 00:04:39,906
+from doing whatever
+to another...
+
+132
+00:04:39,974 --> 00:04:41,975
+Unless you've got something
+to bribe 'em with.
+
+133
+00:04:42,043 --> 00:04:43,109
+No one to turn to.
+
+134
+00:04:43,177 --> 00:04:44,109
+You can beg and you can scream,
+
+135
+00:04:44,177 --> 00:04:46,378
+but nobody hears you.
+
+136
+00:04:46,446 --> 00:04:47,779
+Every night, I go back there.
+
+137
+00:04:50,183 --> 00:04:52,284
+I can still smell them
+on my skin.
+
+138
+00:04:52,352 --> 00:04:53,719
+I am so sorry,
+
+139
+00:04:53,786 --> 00:04:55,721
+but I did not mean
+for any of that to happen.
+
+140
+00:04:55,788 --> 00:04:56,922
+Aggghhh!
+
+141
+00:04:56,990 --> 00:04:58,457
+(Whimpers)
+
+142
+00:04:58,524 --> 00:05:00,225
+<i>David:</i>
+<i>You owe me, Natalie.</i>
+
+143
+00:05:00,292 --> 00:05:02,626
+You don't just get
+to walk away.
+
+144
+00:05:05,297 --> 00:05:07,732
+You're gonna do something
+for me, Natalie.
+
+145
+00:05:07,799 --> 00:05:09,200
+(Natalie whimpers)
+
+146
+00:05:15,940 --> 00:05:17,174
+<i>Ed:</i>
+<i>Okay, guys, stay sharp.</i>
+
+147
+00:05:17,242 --> 00:05:18,608
+<i>Four more blocks</i>
+<i>to the courthouse,</i>
+
+148
+00:05:18,676 --> 00:05:20,443
+<i>we say goodbye to Morse,</i>
+<i>we head home.</i>
+
+149
+00:05:20,511 --> 00:05:23,080
+<i>Jules:</i>
+<i>Ed, city van, dead ahead.</i>
+
+150
+00:05:23,147 --> 00:05:25,048
+Team, let's pull over.
+
+151
+00:05:31,455 --> 00:05:33,822
+Didn't the word go out,
+no work on this route?
+
+152
+00:05:33,891 --> 00:05:35,324
+Well, it should've,
+that's for sure.
+
+153
+00:05:35,392 --> 00:05:36,792
+<i>Jules, call the city,</i>
+
+154
+00:05:36,860 --> 00:05:38,427
+<i>see if this is just</i>
+<i>a miscommunication.</i>
+
+155
+00:05:38,495 --> 00:05:40,196
+Let's check it out.
+
+156
+00:05:48,104 --> 00:05:49,170
+(PDA beeps)
+
+157
+00:05:53,910 --> 00:05:55,277
+Raf.
+
+158
+00:05:55,344 --> 00:05:56,378
+(PDA beeps)
+
+159
+00:05:57,313 --> 00:05:58,746
+What is it?
+
+160
+00:06:06,054 --> 00:06:07,021
+<i>Spike:</i>
+<i>It's a fake!</i>
+
+161
+00:06:07,088 --> 00:06:08,088
+Pull back!
+Pull back!
+
+162
+00:06:08,156 --> 00:06:09,189
+It's a fake.
+
+163
+00:06:11,092 --> 00:06:14,061
+<i>Spike:</i>
+<i>It's gotta be up high.</i>
+
+164
+00:06:15,030 --> 00:06:16,596
+<i>Wherever that signal's</i>
+<i>coming from,</i>
+
+165
+00:06:16,664 --> 00:06:19,066
+<i>they want direct line of sight</i>
+<i>to the explosive.</i>
+
+166
+00:06:19,134 --> 00:06:20,800
+I've just jammed
+a high-level frequency.
+
+167
+00:06:20,867 --> 00:06:22,668
+<i>It's got no business</i>
+<i>being in this area,</i>
+
+168
+00:06:22,736 --> 00:06:24,070
+might be an IED on that truck.
+
+169
+00:06:24,138 --> 00:06:25,371
+You sure?
+
+170
+00:06:25,439 --> 00:06:26,205
+There's a lot of news
+satellite hookups
+
+171
+00:06:26,273 --> 00:06:27,506
+for the Morse hearing.
+
+172
+00:06:27,574 --> 00:06:28,574
+It's too high for that.
+It's very specific,
+
+173
+00:06:28,642 --> 00:06:30,310
+so it can't be triggered
+accidentally.
+
+174
+00:06:30,377 --> 00:06:32,245
+Spike, you find the location
+of the trigger man?
+
+175
+00:06:32,313 --> 00:06:34,147
+<i>Spike:</i> <i>West from here...
+</i> <i>It's close.</i>
+
+176
+00:06:34,214 --> 00:06:35,881
+I can't be more specific, guys.
+
+177
+00:06:35,949 --> 00:06:38,116
+<i>Ed:</i> <i>Got it.
+</i> <i>Raf and I are heading west.</i>
+
+178
+00:06:38,184 --> 00:06:40,685
+I got it jammed for now,
+but if he switches signals...
+
+179
+00:06:40,753 --> 00:06:42,254
+Copy that, boss.
+
+180
+00:06:42,322 --> 00:06:44,056
+I'm trying the nearest building
+with a good vantage.
+
+181
+00:06:44,123 --> 00:06:45,490
+Copy that.
+
+182
+00:06:45,558 --> 00:06:47,059
+Jules, let's clear those people
+outta here.
+
+183
+00:06:47,126 --> 00:06:49,461
+All right, let's move away
+from the truck immediately.
+
+184
+00:06:49,528 --> 00:06:51,963
+Move away from the truck now!
+
+185
+00:06:55,200 --> 00:06:56,667
+Ed: Right there. Bad idea.
+
+186
+00:06:56,734 --> 00:06:58,436
+Freeze right there.
+
+187
+00:06:58,503 --> 00:07:00,137
+Really bad idea.
+Turn around.
+
+188
+00:07:00,205 --> 00:07:01,138
+Put the phone on the ledge,
+
+189
+00:07:01,206 --> 00:07:03,074
+<i>no fast moves.</i>
+
+190
+00:07:03,141 --> 00:07:04,976
+Raf: Subject secured.
+We got the detonator.
+
+191
+00:07:05,043 --> 00:07:07,711
+<i>Parker:</i> <i>That's great
+work, Spike,</i> <i>everybody.</i>
+
+192
+00:07:07,779 --> 00:07:10,146
+Now, let's get Mr. Morse
+to his court date.
+
+193
+00:07:14,885 --> 00:07:17,787
+<i>Parker:</i> <i>Morse is en route to the
+rear</i> <i>entrance of the courthouse.</i>
+
+194
+00:07:17,855 --> 00:07:19,522
+Raf: Hey, wasn't Morse the
+guy you bagged last year
+
+195
+00:07:19,590 --> 00:07:20,823
+at the Lakeshore warehouse?
+
+196
+00:07:20,891 --> 00:07:22,692
+Yeah, three million worth
+of heroin.
+
+197
+00:07:22,759 --> 00:07:24,326
+<i>Jules:</i> <i>Yeah. Now we just risked</i>
+<i>our butts off to save his life.</i>
+
+198
+00:07:24,394 --> 00:07:27,062
+So we can safely get
+his sorry butt back in jail.
+
+199
+00:07:27,130 --> 00:07:28,630
+Must be nice
+to get a little closure.
+
+200
+00:07:28,698 --> 00:07:30,432
+Justice league!
+(Spike's phone rings)
+
+201
+00:07:31,934 --> 00:07:35,137
+Oh... hold on a sec.
+Sorry, I gotta take this.
+
+202
+00:07:35,205 --> 00:07:36,538
+Hey! It still isn't you.
+
+203
+00:07:36,606 --> 00:07:38,040
+Spike, I'm sorry.
+I know what you said,
+
+204
+00:07:38,108 --> 00:07:39,841
+but I really need to see you.
+
+205
+00:07:39,909 --> 00:07:41,775
+<i>Spike:</i> <i>Uh, okay,</i>
+<i>I can come by after shift.</i>
+
+206
+00:07:41,843 --> 00:07:43,878
+No! Spike, please come.
+
+207
+00:07:45,314 --> 00:07:46,847
+I'm with David,
+
+208
+00:07:46,915 --> 00:07:48,449
+<i>and he'd really like</i>
+<i>to meet you.</i>
+
+209
+00:07:48,517 --> 00:07:50,084
+Well, who's David?
+
+210
+00:07:52,621 --> 00:07:54,588
+He's an old friend.
+
+211
+00:07:54,656 --> 00:07:56,056
+Just please come get me.
+
+212
+00:07:56,124 --> 00:07:57,724
+Spike: "Get you?
+" Nat, you in trouble?
+
+213
+00:07:57,791 --> 00:07:58,958
+Mm-hm.
+
+214
+00:07:59,027 --> 00:08:00,460
+Okay, you know what?
+I'll get Sam.
+
+215
+00:08:00,528 --> 00:08:02,362
+No! Don't. Just come.
+
+216
+00:08:03,631 --> 00:08:06,266
+Please, I really need
+your help.
+
+217
+00:08:06,334 --> 00:08:08,902
+<i>Spike:</i>
+<i>Okay, where are you?</i>
+
+218
+00:08:09,837 --> 00:08:11,104
+Hey, guys, I got a bit
+of a personal thing
+
+219
+00:08:11,172 --> 00:08:12,104
+I gotta take care of.
+
+220
+00:08:12,172 --> 00:08:13,406
+If we're all done here,
+
+221
+00:08:13,473 --> 00:08:15,207
+I'll just come back after
+to debrief, okay?
+
+222
+00:08:15,275 --> 00:08:17,009
+Holleran's gonna wanna hear
+about the IED, Spike.
+
+223
+00:08:17,077 --> 00:08:18,210
+Yeah, I know,
+and I'll be there.
+
+224
+00:08:18,278 --> 00:08:19,678
+Just...
+Your mom?
+
+225
+00:08:19,746 --> 00:08:21,580
+Uh, it'll be quick.
+
+226
+00:08:22,516 --> 00:08:23,516
+You do it in an hour?
+
+227
+00:08:23,583 --> 00:08:24,517
+Half that.
+
+228
+00:08:24,584 --> 00:08:25,518
+See you at the barn.
+
+229
+00:08:25,585 --> 00:08:26,618
+All right.
+
+230
+00:08:39,130 --> 00:08:40,064
+(Doorbell buzzes)
+
+231
+00:08:40,131 --> 00:08:41,432
+<i>David:</i>
+<i>Spike.</i>
+
+232
+00:08:41,499 --> 00:08:42,833
+Yeah, hi, is this David?
+I'm here for Natalie.
+
+233
+00:08:42,901 --> 00:08:44,569
+Come on in.
+(Buzzer buzzes)
+
+234
+00:08:45,637 --> 00:08:48,472
+(Door buzzes open)
+
+235
+00:08:50,375 --> 00:08:51,642
+David:
+Officer Scarlatti,
+
+236
+00:08:51,710 --> 00:08:53,477
+Natalie has told me
+so much about you.
+
+237
+00:08:53,545 --> 00:08:54,878
+Spike: There's not that
+much to tell. Hey.
+
+238
+00:08:54,946 --> 00:08:55,979
+Natalie:
+Spike, I'm so sorry.
+
+239
+00:08:56,047 --> 00:08:57,213
+Hey, don't worry about it,
+
+240
+00:08:57,281 --> 00:08:58,982
+just get your things
+and let's get going.
+
+241
+00:08:59,050 --> 00:09:00,383
+<i>David:</i> <i>See, we knew you
+were</i> <i>the type of boyfriend</i>
+
+242
+00:09:00,451 --> 00:09:02,018
+who'd answer a distress call,
+no questions asked.
+
+243
+00:09:02,086 --> 00:09:03,319
+Natalie?
+
+244
+00:09:03,387 --> 00:09:04,955
+What's going on?
+
+245
+00:09:05,856 --> 00:09:06,923
+Albin:
+We're on.
+
+246
+00:09:07,858 --> 00:09:09,725
+She's done.
+Tie her up.
+
+247
+00:09:10,694 --> 00:09:12,227
+Let's get to work.
+
+248
+00:09:14,898 --> 00:09:18,331
+Sync and corrections by n17t01
+www.addic7ed.com
+
+249
+00:09:52,843 --> 00:09:55,845
+Michelangelo Scarlatti,
+badge number 3496.
+
+250
+00:09:55,912 --> 00:09:57,347
+What're you gonna do
+with Natalie?
+
+251
+00:09:57,414 --> 00:09:58,914
+Joined the Police Strategic
+Response Unit in 2005,
+
+252
+00:09:58,982 --> 00:10:00,282
+<i>specializing in bomb disposal</i>
+
+253
+00:10:00,350 --> 00:10:01,883
+and crazy "mad"
+computer skills.
+
+254
+00:10:01,951 --> 00:10:03,718
+David, you got me.
+Let her go.
+
+255
+00:10:03,786 --> 00:10:05,086
+<i>Albin:</i>
+<i>He's off the grid.</i>
+
+256
+00:10:05,155 --> 00:10:06,555
+<i>Got everything</i>
+<i>with a GPS trace,</i>
+
+257
+00:10:06,623 --> 00:10:08,524
+including the SUV's tracker.
+
+258
+00:10:08,591 --> 00:10:09,791
+David:
+Special citation last year
+
+259
+00:10:09,859 --> 00:10:11,426
+for "bravery
+in the line of duty,"
+
+260
+00:10:11,494 --> 00:10:12,794
+one of the best cops
+in the city,
+
+261
+00:10:12,862 --> 00:10:15,430
+and you're gonna help me
+get something from...
+
+262
+00:10:15,498 --> 00:10:16,831
+(Computer beeps)
+
+263
+00:10:16,899 --> 00:10:17,999
+<i>There.</i>
+
+264
+00:10:21,537 --> 00:10:22,871
+Are you serious?
+
+265
+00:10:23,806 --> 00:10:26,407
+David! David, stop!
+Stop! David!
+
+266
+00:10:26,475 --> 00:10:27,976
+<i>I don't know what Natalie</i>
+<i>told you I could do,</i>
+
+267
+00:10:28,044 --> 00:10:29,377
+but the evidence depot?
+
+268
+00:10:29,444 --> 00:10:31,046
+<i>That's what people</i>
+<i>are talking about</i>
+
+269
+00:10:31,113 --> 00:10:32,179
+<i>when they're talking about</i>
+<i>something being "impenetrable."</i>
+
+270
+00:10:32,246 --> 00:10:33,914
+Alarms at every entrance
+and exit,
+
+271
+00:10:33,982 --> 00:10:36,249
+key cards and passcodes,
+
+272
+00:10:36,317 --> 00:10:38,719
+not to mention
+a dozen armed guards, 24/7.
+
+273
+00:10:38,787 --> 00:10:40,688
+Now, I don't know exactly
+what you expect...
+
+274
+00:10:40,755 --> 00:10:42,790
+<i>Albin:</i> <i>We expect you to hack</i>
+<i>into the security mainframe</i>
+
+275
+00:10:42,857 --> 00:10:45,292
+with a spoofed ID
+to cover your tracks,
+
+276
+00:10:45,359 --> 00:10:47,360
+override the ID line system
+
+277
+00:10:47,428 --> 00:10:49,162
+and keep any traces
+off your line
+
+278
+00:10:49,229 --> 00:10:50,697
+while you're doing it.
+
+279
+00:10:50,764 --> 00:10:53,766
+Now, I've already got you routed
+through an encrypted VPN.
+
+280
+00:10:53,834 --> 00:10:55,201
+Okay.
+
+281
+00:10:55,268 --> 00:10:57,503
+So it sounds like you know
+exactly what you're doing.
+
+282
+00:10:57,571 --> 00:10:59,471
+<i>You don't need me.</i>
+<i>Or Natalie.</i>
+
+283
+00:10:59,539 --> 00:11:00,639
+Here's the deal,
+
+284
+00:11:00,708 --> 00:11:01,908
+two men waiting
+on my signal to enter.
+
+285
+00:11:01,975 --> 00:11:03,709
+<i>They have ID's,</i>
+<i>they have uniforms,</i>
+
+286
+00:11:03,776 --> 00:11:05,010
+they know the layout.
+
+287
+00:11:05,078 --> 00:11:06,411
+Albin:
+But we don't have passwords.
+
+288
+00:11:06,478 --> 00:11:09,081
+So you gotta get them
+and handle any curve balls,
+
+289
+00:11:09,148 --> 00:11:10,348
+David:
+And you gotta move fast
+
+290
+00:11:10,416 --> 00:11:11,216
+because we are fighting
+the clock.
+
+291
+00:11:11,283 --> 00:11:12,050
+What's the rush?
+
+292
+00:11:12,118 --> 00:11:13,218
+Evidence protocol.
+
+293
+00:11:13,285 --> 00:11:15,887
+What we want gets destroyed
+end of shift.
+
+294
+00:11:15,955 --> 00:11:17,689
+That is at 4:00.
+
+295
+00:11:17,757 --> 00:11:18,656
+<i>David:</i> <i>You have to get
+them</i> <i>through three gates,</i>
+
+296
+00:11:18,725 --> 00:11:20,490
+and to the main evidence depot.
+
+297
+00:11:20,558 --> 00:11:22,059
+Now, if you need
+more persuasion...
+
+298
+00:11:22,127 --> 00:11:23,694
+Natalie: - Agghhh!
+Spike: - No! Okay, okay!
+
+299
+00:11:23,762 --> 00:11:25,562
+Okay!
+No. We're good.
+
+300
+00:11:31,369 --> 00:11:32,302
+(Phone beeps)
+
+301
+00:11:32,370 --> 00:11:33,503
+Man 1:
+So?
+
+302
+00:11:33,571 --> 00:11:35,339
+Man 2:
+The wheels are turning.
+
+303
+00:11:35,406 --> 00:11:36,572
+It's not gonna happen.
+
+304
+00:11:36,640 --> 00:11:38,474
+Man 2:
+It'll happen.
+
+305
+00:11:38,542 --> 00:11:41,044
+<i>I trust these guys.</i>
+<i>Do you trust me?</i>
+
+306
+00:11:41,112 --> 00:11:42,145
+Yeah.
+
+307
+00:11:44,381 --> 00:11:45,481
+Yeah.
+
+308
+00:11:47,051 --> 00:11:49,152
+So we sit tight?
+
+309
+00:11:50,121 --> 00:11:51,320
+Hurry up and wait.
+
+310
+00:11:52,222 --> 00:11:53,521
+<i>Albin:</i>
+<i>Using a packet sniffer?</i>
+
+311
+00:11:53,589 --> 00:11:55,958
+Yeah.
+Got me the admin password.
+
+312
+00:11:56,025 --> 00:11:57,893
+And now...
+We're into the main security system.
+
+313
+00:11:59,062 --> 00:12:00,595
+And we've got two guys
+at the front door.
+
+314
+00:12:00,663 --> 00:12:02,231
+I'm ready for them.
+
+315
+00:12:02,298 --> 00:12:04,366
+You used to be a blue hat?
+
+316
+00:12:04,433 --> 00:12:06,935
+<i>Albin:</i> <i>Yeah, but the money's
+better</i> <i>on this side of the computer.</i>
+
+317
+00:12:07,003 --> 00:12:08,102
+Stand by.
+
+318
+00:12:15,343 --> 00:12:17,511
+<i>Spike:</i> <i>Okay, first
+gate's</i> <i>a standard ID check.</i>
+
+319
+00:12:17,579 --> 00:12:18,980
+I set them both up
+with a dummy number;
+
+320
+00:12:19,047 --> 00:12:19,981
+it'll check out.
+
+321
+00:12:20,048 --> 00:12:21,715
+That's the easy part.
+
+322
+00:12:21,784 --> 00:12:22,850
+But once they're in,
+
+323
+00:12:22,918 --> 00:12:24,217
+if I can't move fast enough,
+
+324
+00:12:24,285 --> 00:12:25,652
+there is no turning back.
+
+325
+00:12:27,255 --> 00:12:29,389
+Then you better move fast,
+Spike.
+
+326
+00:12:40,566 --> 00:12:41,533
+Man 2:
+Bagged and tagged.
+
+327
+00:12:41,601 --> 00:12:42,768
+Down from 52.
+
+328
+00:12:45,371 --> 00:12:46,571
+(Id card beeps)
+
+329
+00:12:47,507 --> 00:12:48,573
+(Id card beeps)
+
+330
+00:12:54,815 --> 00:12:57,048
+In and out, home for dinner.
+
+331
+00:12:58,717 --> 00:12:59,918
+No turning back.
+
+332
+00:13:00,886 --> 00:13:02,687
+Get them in and out.
+
+333
+00:13:03,622 --> 00:13:04,622
+(Snaps fingers)
+
+334
+00:13:04,690 --> 00:13:05,924
+(Spike types furiously)
+
+335
+00:13:06,859 --> 00:13:08,459
+Hurdle number two.
+
+336
+00:13:12,363 --> 00:13:14,764
+(Keys clack, computer beeps)
+
+337
+00:13:16,600 --> 00:13:18,435
+(Beep)
+
+338
+00:13:18,502 --> 00:13:19,970
+(Computer trills)
+
+339
+00:13:21,005 --> 00:13:22,039
+Dammit.
+
+340
+00:13:22,106 --> 00:13:23,140
+What?
+They found the hack?
+
+341
+00:13:23,208 --> 00:13:24,341
+No. To get through
+the second gate,
+
+342
+00:13:24,408 --> 00:13:25,575
+you need the latest password.
+
+343
+00:13:25,643 --> 00:13:27,110
+You usually get that
+via secure email,
+
+344
+00:13:27,178 --> 00:13:28,845
+but I can't find it.
+If I had more time...
+
+345
+00:13:28,912 --> 00:13:30,279
+We don't have more time.
+
+346
+00:13:35,653 --> 00:13:36,586
+Well, here we are...
+
+347
+00:13:36,654 --> 00:13:37,620
+They're at the gate.
+
+348
+00:13:37,688 --> 00:13:38,688
+I told you, once we're...
+
+349
+00:13:38,756 --> 00:13:39,656
+They're at the gate,
+get them in.
+
+350
+00:13:39,724 --> 00:13:41,090
+Albin:
+David, this hack,
+
+351
+00:13:41,158 --> 00:13:42,625
+the cops will be on us
+if we don't move fast.
+
+352
+00:13:42,693 --> 00:13:43,760
+We're moving fast.
+
+353
+00:13:43,828 --> 00:13:45,461
+This is risky.
+This is our shot.
+
+354
+00:13:45,528 --> 00:13:46,795
+Spike:
+Okay, I got an idea.
+
+355
+00:13:46,863 --> 00:13:47,629
+I'm sending them a password
+right now.
+
+356
+00:13:47,697 --> 00:13:48,864
+It's gonna be wrong,
+
+357
+00:13:48,931 --> 00:13:49,798
+you tell 'em to punch it in
+anyway.
+
+358
+00:13:49,866 --> 00:13:51,299
+Why?
+What're you trying to do?
+
+359
+00:13:51,368 --> 00:13:53,134
+An incorrect password'll set off
+an alert in the server.
+
+360
+00:13:53,202 --> 00:13:54,670
+It'll try to verify
+the number...
+
+361
+00:13:54,738 --> 00:13:57,038
+Spike: Yeah.
+Three times before sounding an alarm.
+
+362
+00:13:57,106 --> 00:13:58,774
+The system's open
+during the verification.
+
+363
+00:13:58,842 --> 00:14:00,508
+And I wanna jump in
+during that pause
+
+364
+00:14:00,576 --> 00:14:01,942
+and reset the password.
+
+365
+00:14:02,010 --> 00:14:03,444
+That way the system will think
+it's correct.
+
+366
+00:14:03,512 --> 00:14:04,612
+What kind of pause?
+How long?
+
+367
+00:14:04,680 --> 00:14:05,880
+Spike:
+Half a second.
+
+368
+00:14:05,947 --> 00:14:07,615
+That's the best I can do.
+
+369
+00:14:07,683 --> 00:14:08,716
+(Keys clack)
+
+370
+00:14:10,619 --> 00:14:12,787
+(Sighs)
+He's sending a password,
+
+371
+00:14:12,855 --> 00:14:14,555
+<i>but there's a catch.</i>
+
+372
+00:14:14,623 --> 00:14:16,257
+(Phone beeps)
+
+373
+00:14:16,324 --> 00:14:17,424
+(Keypad beeps)
+
+374
+00:14:18,325 --> 00:14:19,426
+(Keypad buzzes)
+
+375
+00:14:22,129 --> 00:14:24,398
+(Computer trills, keys clack)
+
+376
+00:14:24,465 --> 00:14:26,199
+(Gun thunks heavily on desk)
+
+377
+00:14:32,439 --> 00:14:34,373
+(Keypad beeps)
+
+378
+00:14:34,441 --> 00:14:35,508
+(Buzzes)
+
+379
+00:14:37,010 --> 00:14:38,043
+Technology, huh?
+
+380
+00:14:46,853 --> 00:14:47,887
+(Keys clack)
+
+381
+00:14:52,258 --> 00:14:53,392
+- Last chance.
+- I can count.
+
+382
+00:14:55,961 --> 00:14:57,995
+(Keyboard keys clack furiously)
+
+383
+00:15:00,632 --> 00:15:01,665
+(Keypad beeps)
+
+384
+00:15:03,268 --> 00:15:04,335
+(Keypad chirps)
+
+385
+00:15:05,837 --> 00:15:07,004
+(Locks click)
+
+386
+00:15:07,072 --> 00:15:08,172
+Let's go.
+
+387
+00:15:09,607 --> 00:15:12,008
+(Sighs and breathes heavily)
+
+388
+00:15:15,413 --> 00:15:16,446
+(Keys clack)
+
+389
+00:15:19,216 --> 00:15:20,516
+(Door clicks shut)
+
+390
+00:15:21,452 --> 00:15:23,253
+All right.
+Two down, one to go.
+
+391
+00:15:23,321 --> 00:15:25,788
+<i>We've got 24 minutes left.</i>
+<i>So from here...?</i>
+
+392
+00:15:25,856 --> 00:15:27,289
+<i>Albin:</i> <i>From here,</i>
+<i>it's just a straight shot...</i>
+
+393
+00:15:27,357 --> 00:15:28,590
+Then back out the same way?
+
+394
+00:15:28,658 --> 00:15:29,992
+<i>David:</i>
+<i>Simplest and fastest.</i>
+
+395
+00:15:30,060 --> 00:15:31,393
+<i>Spike:</i> <i>That's the plan.
+</i> <i>So, listen,</i>
+
+396
+00:15:31,461 --> 00:15:33,062
+once you guys find whatever
+it is you're looking for,
+
+397
+00:15:33,129 --> 00:15:34,563
+you're gonna let me
+and Natalie go, right?
+
+398
+00:15:34,630 --> 00:15:35,764
+David:
+(Laughs)
+
+399
+00:15:36,666 --> 00:15:38,400
+Wow.
+You hear that, Nat?
+
+400
+00:15:39,336 --> 00:15:40,702
+<i>Even after you trick him</i>
+<i>and you lure him here</i>
+
+401
+00:15:40,770 --> 00:15:41,971
+<i>and he's handcuffed</i> <i>to a chair,</i>
+
+402
+00:15:42,038 --> 00:15:43,405
+<i>he's still worried</i> <i>about you.</i>
+
+403
+00:15:43,473 --> 00:15:45,540
+How do you do that, huh?
+
+404
+00:15:45,608 --> 00:15:47,275
+<i>David:</i> <i>See, Spike, with
+me,</i> <i>it was like, uh...</i>
+
+405
+00:15:47,343 --> 00:15:49,344
+<i>You know, everything's great,</i>
+<i>she's all happy-go-lucky,</i>
+
+406
+00:15:49,411 --> 00:15:50,846
+<i>let's live in the moment,</i>
+<i>right?</i>
+
+407
+00:15:50,913 --> 00:15:52,647
+Next thing you know,
+I'm in a Colombian jail
+
+408
+00:15:52,715 --> 00:15:54,415
+<i>and she's on a plane</i>
+<i>right back home.</i>
+
+409
+00:15:54,484 --> 00:15:55,550
+Dave, focus.
+
+410
+00:15:57,019 --> 00:16:00,588
+See, lucky for me,
+I had a good friend,
+
+411
+00:16:00,655 --> 00:16:04,492
+<i>who, after 10 months,</i>
+<i>tracks me down in hell</i>
+
+412
+00:16:04,559 --> 00:16:06,126
+and persuades the devil
+to save my soul
+
+413
+00:16:06,194 --> 00:16:07,761
+with some serious cash.
+
+414
+00:16:08,296 --> 00:16:09,830
+<i>And when he starts planning</i>
+<i>this little project,</i>
+
+415
+00:16:09,898 --> 00:16:11,499
+<i>I tell him,</i>
+
+416
+00:16:11,566 --> 00:16:13,767
+I can make that happen...
+
+417
+00:16:13,835 --> 00:16:15,935
+Because that's what friends do.
+
+418
+00:16:16,003 --> 00:16:17,436
+<i>Spike:</i>
+<i>David, it's working.</i>
+
+419
+00:16:17,505 --> 00:16:19,372
+Your idea, it was smart.
+
+420
+00:16:19,439 --> 00:16:21,340
+<i>It got me here,</i>
+<i>we got them inside.</i>
+
+421
+00:16:21,408 --> 00:16:22,609
+<i>Hey...</i>
+
+422
+00:16:22,676 --> 00:16:23,710
+Just let her go.
+
+423
+00:16:25,245 --> 00:16:28,515
+No. She doesn't get
+to walk away.
+
+424
+00:16:28,582 --> 00:16:29,616
+Not this time.
+
+425
+00:16:36,956 --> 00:16:39,758
+<i>Spike's voice mail:</i> <i>Hey, you've reached me.
+</i> <i>Leave a message.</i>
+
+426
+00:16:39,826 --> 00:16:40,792
+Anything from Spike?
+
+427
+00:16:40,860 --> 00:16:42,227
+<i>Parker:</i>
+<i>No.</i>
+
+428
+00:16:42,294 --> 00:16:44,630
+Winnie, call Spike's mom.
+I need him to check in.
+
+429
+00:16:44,697 --> 00:16:46,765
+<i>Winnie:</i>
+<i>Copy that.</i>
+
+430
+00:16:50,135 --> 00:16:51,201
+Last gate...
+
+431
+00:16:53,471 --> 00:16:55,907
+Man 2: - How are ya?
+Officer: - How're you doing?
+
+432
+00:16:55,974 --> 00:16:58,475
+(Keypad beeps and buzzes)
+
+433
+00:16:58,544 --> 00:16:59,944
+(Keys clack furiously)
+
+434
+00:17:01,379 --> 00:17:02,346
+Uh-oh.
+
+435
+00:17:02,414 --> 00:17:03,647
+(Alarm blares)
+
+436
+00:17:08,819 --> 00:17:09,920
+What's up, guys?
+
+437
+00:17:09,987 --> 00:17:11,254
+Albin:
+What, secondary firewall?
+
+438
+00:17:11,321 --> 00:17:12,989
+Spike:
+System overrode the relay;
+
+439
+00:17:13,057 --> 00:17:15,025
+it has a built-in fail-safe
+if you try it more than once.
+
+440
+00:17:15,092 --> 00:17:16,760
+Albin: No-no-no!
+My sources said there wasn't one.
+
+441
+00:17:16,827 --> 00:17:17,861
+<i>Spike:</i> <i>Okay, then you
+tell me</i> <i>what happened!</i>
+
+442
+00:17:19,196 --> 00:17:21,530
+What's the plan, Scarlatti?
+
+443
+00:17:22,498 --> 00:17:23,465
+Spike:
+Ungh!
+
+444
+00:17:23,533 --> 00:17:25,133
+(Natalie gasps)
+
+445
+00:17:25,201 --> 00:17:27,169
+What is the plan?
+
+446
+00:17:28,504 --> 00:17:30,839
+Tell him to fire his weapon.
+
+447
+00:17:30,907 --> 00:17:32,074
+What?
+
+448
+00:17:32,141 --> 00:17:34,043
+<i>Spike:</i>
+<i>Your guy on the inside,</i>
+
+449
+00:17:34,110 --> 00:17:36,844
+tell him shoot
+at the fire alarm.
+
+450
+00:17:36,912 --> 00:17:38,012
+If he shoots at the fire alarm,
+
+451
+00:17:38,080 --> 00:17:39,681
+the doors will open
+
+452
+00:17:39,748 --> 00:17:41,883
+and the guards will fall back
+when a live round is fired;
+
+453
+00:17:41,951 --> 00:17:42,984
+that's the protocol.
+
+454
+00:17:46,321 --> 00:17:47,589
+(Sighs) Shoot the fire alarm!
+
+455
+00:17:47,656 --> 00:17:49,457
+<i>Do it!</i>
+
+456
+00:17:49,524 --> 00:17:51,125
+(Gunshot blasts)
+
+457
+00:17:51,193 --> 00:17:52,593
+Stay close.
+Stay down! Stay!
+
+458
+00:17:52,660 --> 00:17:53,961
+(Alarm blares)
+
+459
+00:17:57,687 --> 00:17:58,452
+(Emergency alarm blares)
+
+460
+00:17:58,520 --> 00:17:59,520
+Hot call, hot call!
+
+461
+00:17:59,588 --> 00:18:01,655
+Shots fired
+at the evidence depot.
+
+462
+00:18:01,723 --> 00:18:03,190
+Ed:
+The evidence depot?
+
+463
+00:18:03,257 --> 00:18:04,591
+Who opens fire there?
+That place is like Fort Knox.
+
+464
+00:18:04,659 --> 00:18:06,126
+Reports say
+two uniformed officers.
+
+465
+00:18:06,194 --> 00:18:07,094
+<i>They're still in there.</i>
+
+466
+00:18:07,162 --> 00:18:08,762
+Still no word on Spike?
+
+467
+00:18:08,830 --> 00:18:10,164
+<i>Winnie:</i> <i>No.
+His mother hasn't seen him</i> <i>all day,</i>
+
+468
+00:18:10,231 --> 00:18:11,799
+and his cell phone's going
+straight to voice mail.
+
+469
+00:18:11,866 --> 00:18:14,068
+Okay, track his GPS, Winnie.
+We need him.
+
+470
+00:18:14,135 --> 00:18:15,535
+Copy that.
+
+471
+00:18:15,603 --> 00:18:16,803
+David: Okay, talk fast.
+How does this work?
+
+472
+00:18:16,870 --> 00:18:18,071
+<i>Spike:</i>
+<i>When the fire alarm goes off</i>
+
+473
+00:18:18,138 --> 00:18:19,772
+it unlocks all the doors
+until the all clear.
+
+474
+00:18:19,840 --> 00:18:21,774
+It's easier now.
+
+475
+00:18:21,842 --> 00:18:22,775
+<i>David:</i> <i>Except for the shots
+fired,</i> <i>the SRU gets called.</i>
+
+476
+00:18:22,843 --> 00:18:24,077
+<i>Spike:</i>
+<i>And I'm SRU,</i>
+
+477
+00:18:24,144 --> 00:18:25,111
+and I know exactly
+what they're gonna do,
+
+478
+00:18:25,179 --> 00:18:26,312
+and how they're gonna do it.
+
+479
+00:18:26,379 --> 00:18:27,847
+<i>Team one is a man short,</i>
+
+480
+00:18:27,915 --> 00:18:29,182
+<i>so there's gonna be a hole</i>
+<i>in the perimeter.</i>
+
+481
+00:18:29,249 --> 00:18:30,783
+We're gonna have a window
+before backup shows up.
+
+482
+00:18:30,851 --> 00:18:32,384
+(Annoyed breath)
+
+483
+00:18:32,452 --> 00:18:33,719
+David: Hollings, Kenton, listen up.
+Here's the...
+
+484
+00:18:33,786 --> 00:18:35,187
+Oh... hold on.
+David, David, David.
+
+485
+00:18:35,254 --> 00:18:36,922
+Firing shots in a building
+full of cops...
+
+486
+00:18:36,989 --> 00:18:38,123
+How does that not lead
+back here?
+
+487
+00:18:38,191 --> 00:18:39,490
+I have the doors unlocked.
+
+488
+00:18:39,558 --> 00:18:40,692
+You wanna tell me
+how your source
+
+489
+00:18:40,760 --> 00:18:42,861
+didn't know about this,
+uh, fail-safe?
+
+490
+00:18:42,929 --> 00:18:45,030
+Spike, I'm so sorry.
+This is all my fault.
+
+491
+00:18:45,098 --> 00:18:46,598
+No, it's okay.
+It's okay.
+
+492
+00:18:46,665 --> 00:18:47,899
+I set off the alarm on purpose.
+
+493
+00:18:47,967 --> 00:18:49,800
+No! No.
+Just do what they say.
+
+494
+00:18:49,868 --> 00:18:52,669
+You wanna ask them
+for a plan B?
+
+495
+00:18:52,738 --> 00:18:54,271
+All right, boys, listen up.
+Here's the plan.
+
+496
+00:18:54,339 --> 00:18:56,841
+Natalie, the second
+they get what they want
+
+497
+00:18:56,908 --> 00:18:57,842
+and they get outta there,
+
+498
+00:18:57,909 --> 00:18:59,576
+we become a liability
+
+499
+00:18:59,644 --> 00:19:01,045
+and they are going
+to kill us, okay?
+
+500
+00:19:01,113 --> 00:19:02,546
+I have to draw this out,
+
+501
+00:19:02,614 --> 00:19:04,248
+and I have to make sure
+our team gets here.
+
+502
+00:19:04,315 --> 00:19:06,216
+They're the only ones
+who can help now.
+
+503
+00:19:06,283 --> 00:19:08,218
+<i>David:</i>
+<i>Hey! Hey!</i>
+
+504
+00:19:08,285 --> 00:19:10,120
+I need you to focus, Spike.
+
+505
+00:19:10,187 --> 00:19:11,621
+Albin, shut her trap.
+
+506
+00:19:11,688 --> 00:19:13,089
+Natalie: - No, no! Spike!
+Spike: - Natalie, it's okay!
+
+507
+00:19:13,157 --> 00:19:15,458
+Okay, Natalie, it's okay.
+Okay?
+
+508
+00:19:15,525 --> 00:19:17,293
+Natalie: - No!
+Spike: - Get off her!
+
+509
+00:19:17,361 --> 00:19:18,527
+(Muffled cries)
+
+510
+00:19:18,595 --> 00:19:20,596
+Spike:
+It's gonna be okay.
+
+511
+00:19:20,664 --> 00:19:21,797
+(Sirens wail)
+
+512
+00:19:29,072 --> 00:19:30,272
+How many officers
+you got in there?
+
+513
+00:19:30,339 --> 00:19:31,907
+Seventeen.
+They know you're here.
+
+514
+00:19:31,975 --> 00:19:33,809
+They've all got secure locations
+to stay in
+
+515
+00:19:33,877 --> 00:19:35,077
+while you do your thing.
+
+516
+00:19:35,145 --> 00:19:36,278
+Ed:
+Where were the suspects headed?
+
+517
+00:19:36,345 --> 00:19:37,211
+Unit commander:
+The evidence locker.
+
+518
+00:19:37,279 --> 00:19:38,612
+Parker:
+Just two males?
+
+519
+00:19:38,680 --> 00:19:39,847
+Yeah, but they had help.
+
+520
+00:19:42,217 --> 00:19:43,818
+Winnie, where the hell
+is Spike?
+
+521
+00:19:43,886 --> 00:19:45,452
+<i>Winnie:</i> <i>There's no trace</i>
+<i>on his vehicle's GPS.</i>
+
+522
+00:19:45,520 --> 00:19:47,922
+This is an all-call
+for Officer Spike Scarlatti,
+
+523
+00:19:47,990 --> 00:19:50,658
+badge number 3-4-niner-6.
+
+524
+00:19:50,725 --> 00:19:54,227
+Repeat, Officer Spike Scarlatti
+of the Strategic Response Unit,
+
+525
+00:19:54,295 --> 00:19:55,829
+report in.
+
+526
+00:19:55,897 --> 00:19:57,164
+If you have any information
+on his current whereabouts,
+
+527
+00:19:57,231 --> 00:19:59,465
+<i>you need to report</i>
+<i>to the SRU immediately.</i>
+
+528
+00:20:00,701 --> 00:20:02,335
+Come on, Spike, where are you?
+Where are you?
+
+529
+00:20:02,403 --> 00:20:04,370
+<i>Albin:</i> <i>Okay, Spike,</i>
+<i>what's the SRU's plan?</i>
+
+530
+00:20:04,438 --> 00:20:05,872
+<i>Spike:</i> <i>They're gonna set
+up</i> <i>a command post,</i>
+
+531
+00:20:05,940 --> 00:20:07,174
+<i>then make a beeline</i>
+<i>for the evidence room.</i>
+
+532
+00:20:07,241 --> 00:20:08,308
+David: - Time?
+Spike: - Minutes.
+
+533
+00:20:09,810 --> 00:20:11,243
+Kenton:
+We're in.
+
+534
+00:20:12,712 --> 00:20:14,213
+Even with the number though...
+
+535
+00:20:14,281 --> 00:20:16,648
+It'll take some time.
+
+536
+00:20:19,085 --> 00:20:20,286
+This had better work.
+
+537
+00:20:20,353 --> 00:20:22,087
+Like I told you,
+you do what I tell you,
+
+538
+00:20:22,155 --> 00:20:23,622
+<i>they're not gonna know</i>
+<i>what hit 'em.</i>
+
+539
+00:20:23,690 --> 00:20:24,623
+<i>They're entering</i>
+<i>the surveillance room</i>
+
+540
+00:20:24,691 --> 00:20:25,623
+<i>right now.</i>
+
+541
+00:20:25,691 --> 00:20:26,624
+But not for long.
+
+542
+00:20:26,692 --> 00:20:27,959
+David:
+Go. Go!
+
+543
+00:20:33,999 --> 00:20:36,534
+<i>Unit commander:</i> <i>This is what
+I mean,</i> <i>they had help.</i>
+
+544
+00:20:36,601 --> 00:20:37,768
+Ed:
+What're we looking at here?
+
+545
+00:20:37,837 --> 00:20:39,103
+Jules:
+System's gone haywire.
+
+546
+00:20:39,171 --> 00:20:40,271
+<i>Unit commander:</i>
+<i>It's been hacked.</i>
+
+547
+00:20:40,339 --> 00:20:41,504
+The alarm's on
+a perpetual loop;
+
+548
+00:20:41,572 --> 00:20:43,606
+you don't even know
+what it's flagging.
+
+549
+00:20:43,674 --> 00:20:45,342
+Sam: No way we can
+see what's going on.
+
+550
+00:20:45,409 --> 00:20:46,543
+<i>Parker:</i> <i>Most secure
+building</i> <i>in the city, Eddie,</i>
+
+551
+00:20:46,610 --> 00:20:47,544
+and someone just
+cracked it open
+
+552
+00:20:47,611 --> 00:20:48,745
+like a science project.
+
+553
+00:20:48,813 --> 00:20:50,413
+Okay, okay.
+You stay here, boss.
+
+554
+00:20:50,481 --> 00:20:51,614
+Let's get us back online.
+
+555
+00:20:51,682 --> 00:20:54,117
+Guys, with me.
+Let's move it.
+
+556
+00:20:55,653 --> 00:20:57,854
+Okay, it's file 24932.
+Find it.
+
+557
+00:20:57,921 --> 00:20:59,055
+Hollings:
+24932...
+
+558
+00:20:59,957 --> 00:21:01,023
+There.
+There, go.
+
+559
+00:21:01,091 --> 00:21:02,558
+Move, move.
+
+560
+00:21:04,294 --> 00:21:06,095
+<i>Spike:</i>
+<i>They're on the move.</i>
+
+561
+00:21:06,163 --> 00:21:07,529
+<i>David:</i> <i>Kenton, you have
+four</i> <i>heavily-armed SRU cops</i>
+
+562
+00:21:07,597 --> 00:21:08,664
+<i>closing in.</i>
+
+563
+00:21:09,799 --> 00:21:10,900
+Copy that.
+
+564
+00:21:17,573 --> 00:21:19,040
+We're good to go.
+
+565
+00:21:20,943 --> 00:21:22,677
+Okay, pack that bag.
+
+566
+00:21:29,951 --> 00:21:31,618
+Albin: Quickest way out,
+not the way they came.
+
+567
+00:21:31,686 --> 00:21:32,853
+Albin: - Out the back?
+Spike: - Yeah.
+
+568
+00:21:32,921 --> 00:21:34,654
+Tell me where to go.
+
+569
+00:21:34,722 --> 00:21:35,422
+<i>David:</i> <i>We can get you out</i>
+<i>without them seeing you,</i>
+
+570
+00:21:35,490 --> 00:21:36,890
+but you gotta move.
+
+571
+00:21:38,292 --> 00:21:39,592
+Let's go.
+
+572
+00:21:41,295 --> 00:21:42,395
+(Alarm blares)
+
+573
+00:21:45,565 --> 00:21:46,632
+Clear.
+
+574
+00:21:49,469 --> 00:21:51,004
+(Alarm halts)
+
+575
+00:21:51,071 --> 00:21:52,405
+You got control?
+
+576
+00:21:52,472 --> 00:21:54,973
+Main board is here,
+didn't come from us.
+
+577
+00:21:55,041 --> 00:21:56,475
+Can you get back in?
+
+578
+00:21:56,543 --> 00:21:57,810
+<i>Unit commander:</i>
+<i>No. The hack's from off-site.</i>
+
+579
+00:21:57,878 --> 00:21:59,879
+Pretty much impossible,
+but somehow they did it.
+
+580
+00:21:59,946 --> 00:22:02,080
+Maybe they knew the system.
+An inside job maybe?
+
+581
+00:22:02,148 --> 00:22:03,549
+If they're good enough
+to do this...
+
+582
+00:22:03,617 --> 00:22:05,518
+What went wrong?
+Why'd the alarm go off?
+
+583
+00:22:05,585 --> 00:22:07,352
+<i>Unit commander:</i> <i>The alarm
+wasn't triggered</i> <i>from inside.</i>
+
+584
+00:22:07,421 --> 00:22:09,888
+That was set off remotely, too.
+
+585
+00:22:09,955 --> 00:22:11,022
+What?
+
+586
+00:22:13,459 --> 00:22:15,660
+Guys, the gate alarm
+that triggered all this
+
+587
+00:22:15,728 --> 00:22:17,695
+<i>was set off deliberately,</i>
+
+588
+00:22:17,763 --> 00:22:19,030
+from the outside.
+
+589
+00:22:19,097 --> 00:22:20,465
+Why would they blow the whistle
+on themselves?
+
+590
+00:22:20,533 --> 00:22:22,266
+Sam:
+Doesn't make sense.
+
+591
+00:22:22,334 --> 00:22:23,401
+Ed:
+Boss, eyes?
+
+592
+00:22:23,469 --> 00:22:24,735
+Parker:
+Still blind, buddy.
+
+593
+00:22:31,943 --> 00:22:33,243
+David:
+They're not gonna have time.
+
+594
+00:22:33,311 --> 00:22:34,144
+Albin: You need to
+slow your guys down.
+
+595
+00:22:34,211 --> 00:22:35,913
+I know.
+
+596
+00:22:35,980 --> 00:22:37,848
+(Alarm blares)
+
+597
+00:22:37,916 --> 00:22:39,182
+Boss, what's that?
+
+598
+00:22:39,250 --> 00:22:40,250
+What is that?
+
+599
+00:22:40,318 --> 00:22:41,517
+It's a number three.
+
+600
+00:22:42,453 --> 00:22:43,953
+Southwest quadrant.
+
+601
+00:22:44,020 --> 00:22:45,588
+Looks like an exit, Eddie.
+
+602
+00:22:45,656 --> 00:22:47,156
+I thought all the alarms
+were cut.
+
+603
+00:22:47,223 --> 00:22:48,558
+There's fifty of them.
+Maybe the bad guys missed one.
+
+604
+00:22:48,625 --> 00:22:49,659
+Jules, Raf, check it out.
+
+605
+00:22:49,726 --> 00:22:50,793
+Sam...
+
+606
+00:22:51,728 --> 00:22:52,829
+(Alarm blares)
+
+607
+00:22:55,398 --> 00:22:56,899
+They're splitting up.
+Chasing ghosts.
+
+608
+00:22:56,967 --> 00:22:59,401
+<i>They won't get anywhere</i>
+<i>near your guys, I promise.</i>
+
+609
+00:23:04,807 --> 00:23:05,941
+(Siren wails)
+
+610
+00:23:12,282 --> 00:23:13,448
+False alarm, looks like.
+
+611
+00:23:13,515 --> 00:23:14,882
+(Alarm halts)
+
+612
+00:23:17,052 --> 00:23:18,552
+Boss, is that you?
+
+613
+00:23:18,620 --> 00:23:19,687
+Not us.
+
+614
+00:23:20,755 --> 00:23:22,857
+(Alarm blares)
+
+615
+00:23:22,924 --> 00:23:24,092
+Another alarm, Eddie.
+
+616
+00:23:24,159 --> 00:23:25,259
+Looks like the other side
+of the building.
+
+617
+00:23:25,327 --> 00:23:26,727
+What's your take on this?
+
+618
+00:23:26,795 --> 00:23:28,963
+So far,
+the evidence locker's clear.
+
+619
+00:23:29,030 --> 00:23:32,799
+Sam: They must've split up,
+headed in opposite directions.
+
+620
+00:23:32,867 --> 00:23:35,268
+That would take some serious
+coordinating to do that.
+
+621
+00:23:37,238 --> 00:23:38,271
+Ed.
+
+622
+00:23:39,874 --> 00:23:41,341
+Coming in here
+took that already.
+
+623
+00:23:41,409 --> 00:23:43,477
+<i>Parker:</i>
+<i>So what were they after?</i>
+
+624
+00:23:43,544 --> 00:23:45,211
+Okay, boss,
+we have three evidence boxes
+
+625
+00:23:45,278 --> 00:23:46,412
+that've been tampered with.
+
+626
+00:23:46,480 --> 00:23:47,913
+Evidence log.
+
+627
+00:23:47,981 --> 00:23:49,048
+Stand by.
+
+628
+00:23:49,949 --> 00:23:51,083
+Go ahead.
+
+629
+00:23:51,151 --> 00:23:53,285
+<i>Sam:</i>
+<i>Case number 25146,</i>
+
+630
+00:23:53,353 --> 00:23:54,420
+25143.
+
+631
+00:23:54,488 --> 00:23:55,621
+25143.
+
+632
+00:23:55,688 --> 00:23:56,889
+<i>Sam:</i>
+<i>24932.</i>
+
+633
+00:23:56,956 --> 00:23:58,590
+Three-two...
+
+634
+00:23:58,658 --> 00:23:59,858
+You got an evidence log?
+
+635
+00:23:59,926 --> 00:24:01,259
+First one: Gang bust.
+
+636
+00:24:01,327 --> 00:24:03,428
+We were holding C4 explosive
+and detonators.
+
+637
+00:24:03,496 --> 00:24:06,797
+Next one, 500 rounds,
+hollow point rounds.
+
+638
+00:24:06,865 --> 00:24:08,466
+<i>Ed:</i>
+<i>We gotta stop these guys now.</i>
+
+639
+00:24:08,534 --> 00:24:09,734
+They make it to an exit,
+
+640
+00:24:09,801 --> 00:24:10,701
+they'll shoot their way
+through our guys.
+
+641
+00:24:10,769 --> 00:24:11,669
+<i>The place'll be a bloodbath.</i>
+
+642
+00:24:11,737 --> 00:24:13,104
+Yeah, I hear you, buddy,
+
+643
+00:24:13,172 --> 00:24:14,539
+<i>but you could get that</i>
+<i>on the street.</i>
+
+644
+00:24:14,606 --> 00:24:16,908
+You don't need to break into
+a depot for that stuff.
+
+645
+00:24:16,975 --> 00:24:18,975
+<i>Unit commander:</i>
+<i>Last one's Karl Morse's case.</i>
+
+646
+00:24:19,044 --> 00:24:20,544
+20 kilos uncut heroin.
+
+647
+00:24:20,611 --> 00:24:22,279
+<i>Big bust from last year.</i>
+
+648
+00:24:22,347 --> 00:24:25,182
+<i>Scheduled for incineration</i>
+<i>today.</i>
+
+649
+00:24:25,250 --> 00:24:26,283
+(Siren wails)
+
+650
+00:24:29,987 --> 00:24:31,088
+(Alarm halts)
+
+651
+00:24:31,989 --> 00:24:33,122
+<i>Raf:</i>
+<i>(Snorted breath)</i>
+
+652
+00:24:33,190 --> 00:24:34,590
+We're going in circles here,
+man.
+
+653
+00:24:34,658 --> 00:24:36,692
+(Multiple alarms blare)
+
+654
+00:24:38,429 --> 00:24:39,828
+Boss, they're playing with us.
+
+655
+00:24:40,964 --> 00:24:42,465
+Boss, what is it?
+Two exits from here?
+
+656
+00:24:42,533 --> 00:24:43,599
+Yeah, buddy.
+
+657
+00:24:43,667 --> 00:24:45,568
+Yeah, the one you came in on...
+
+658
+00:24:45,635 --> 00:24:47,236
+And one on the other side.
+
+659
+00:24:47,304 --> 00:24:48,704
+No way they passed us
+in the hall.
+
+660
+00:24:48,772 --> 00:24:50,305
+All right,
+we regroup on the far side.
+
+661
+00:24:50,373 --> 00:24:51,440
+We gotta get these guys
+
+662
+00:24:51,507 --> 00:24:52,674
+before they make it
+to the perimeter.
+
+663
+00:24:52,741 --> 00:24:54,342
+How're we doing with cameras?
+
+664
+00:24:54,410 --> 00:24:55,777
+I'm locked out.
+
+665
+00:25:05,454 --> 00:25:07,588
+Parker: - Eddie.
+Ed: - Boss...
+
+666
+00:25:07,655 --> 00:25:11,358
+Alarms 3, 49, 6.
+
+667
+00:25:11,426 --> 00:25:12,793
+3-4-9-6.
+
+668
+00:25:12,860 --> 00:25:14,295
+That's Spike's badge number.
+
+669
+00:25:14,362 --> 00:25:16,197
+<i>Parker:</i>
+<i>And then 10-33.</i>
+
+670
+00:25:16,264 --> 00:25:17,598
+Officer in need of assistance.
+
+671
+00:25:17,665 --> 00:25:19,633
+<i>Ed:</i>
+<i>We gotta find Spike fast!</i>
+
+672
+00:25:19,701 --> 00:25:21,101
+<i>Jules:</i>
+<i>Unless this is Spike's work,</i>
+
+673
+00:25:21,168 --> 00:25:23,470
+because only an inside guy
+can hack into the system.
+
+674
+00:25:23,537 --> 00:25:25,438
+Then set off an alarm
+intentionally.
+
+675
+00:25:25,506 --> 00:25:26,839
+To get his team here.
+
+676
+00:25:26,907 --> 00:25:28,274
+Okay, obviously
+he's under duress.
+
+677
+00:25:28,342 --> 00:25:30,376
+<i>We need to locate him ASAP.</i>
+
+678
+00:25:30,444 --> 00:25:31,811
+Okay, guys,
+who talked to him last?
+
+679
+00:25:31,878 --> 00:25:33,279
+Boss, Spike had a couple
+calls today.
+
+680
+00:25:33,347 --> 00:25:34,914
+Check the auto-transcripter,
+
+681
+00:25:34,982 --> 00:25:36,949
+maybe we can get at least
+his half of the conversation.
+
+682
+00:25:37,017 --> 00:25:38,617
+<i>Parker:</i> <i>All right, that's good.
+</i> <i>Winnie, you take it.</i>
+
+683
+00:25:38,684 --> 00:25:39,751
+<i>Winnie:</i>
+<i>Copy that.</i>
+
+684
+00:25:41,421 --> 00:25:42,588
+Police!
+Stop right there!
+
+685
+00:25:42,655 --> 00:25:44,756
+<i>Ed:</i>
+<i>Right there!</i>
+
+686
+00:25:46,792 --> 00:25:48,560
+Hollings:
+Come on! Come on!
+
+687
+00:25:48,628 --> 00:25:50,229
+Kenton: These guys are on our tail.
+We gotta slow 'em down.
+
+688
+00:25:50,296 --> 00:25:52,197
+You heard him,
+we don't have time!
+
+689
+00:25:52,265 --> 00:25:53,864
+Help me with this.
+
+690
+00:25:53,932 --> 00:25:55,366
+<i>David:</i> <i>Guys, what the
+hell</i> <i>are you doing?</i>
+
+691
+00:25:55,434 --> 00:25:56,167
+<i>Kenton:</i> <i>I grabbed some
+C4</i> <i>from the locker.</i>
+
+692
+00:25:56,235 --> 00:25:57,201
+C4.
+
+693
+00:25:57,269 --> 00:25:58,202
+Good idea.
+
+694
+00:25:58,270 --> 00:25:59,437
+No, that's bad idea.
+
+695
+00:25:59,505 --> 00:26:01,172
+That stuff,
+it's really unstable.
+
+696
+00:26:01,240 --> 00:26:02,973
+David: He's worked with it before,
+he knows what he's doing.
+
+697
+00:26:03,041 --> 00:26:04,175
+No, listen,
+there's another route.
+
+698
+00:26:04,243 --> 00:26:05,443
+(Stammers, frantic)
+Just... close...
+
+699
+00:26:05,511 --> 00:26:06,910
+They're like almost outside.
+Listen to me.
+
+700
+00:26:06,978 --> 00:26:08,579
+Shut up! Shut up!
+
+701
+00:26:08,647 --> 00:26:09,212
+<i>David:</i> <i>Guys, just do</i>
+<i>what you have to do.</i>
+
+702
+00:26:09,280 --> 00:26:10,013
+Just do it fast.
+
+703
+00:26:37,607 --> 00:26:38,840
+Before I got
+
+704
+00:26:36,685 --> 00:26:38,119
+David, no.
+You don't have to do this.
+
+705
+00:26:38,187 --> 00:26:39,387
+Listen to me, David.
+
+706
+00:26:39,454 --> 00:26:40,688
+David:
+Almost there...
+
+707
+00:26:40,756 --> 00:26:43,023
+<i>They're just outside</i> <i>the door.</i>
+
+708
+00:26:43,091 --> 00:26:44,091
+Wait for it.
+
+709
+00:26:48,163 --> 00:26:49,196
+Ed:
+Let's go.
+
+710
+00:26:50,731 --> 00:26:51,965
+Please, David, no.
+
+711
+00:26:52,033 --> 00:26:53,767
+<i>David: - Almost...</i>
+<i>Spike: - No.</i>
+
+712
+00:26:53,835 --> 00:26:55,135
+Guys, let's go.
+
+713
+00:26:59,273 --> 00:27:00,673
+<i>Spike: - David, stop.</i>
+<i>David: - One more second.</i>
+
+714
+00:27:00,740 --> 00:27:01,908
+Spike:
+David...
+
+715
+00:27:03,043 --> 00:27:05,377
+Spike: - No!
+David: - Almost...
+
+716
+00:27:07,981 --> 00:27:08,915
+<i>Ed:</i>
+<i>Let's go.</i>
+
+717
+00:27:08,982 --> 00:27:11,250
+Ed, Ed...
+
+718
+00:27:12,152 --> 00:27:14,153
+Ed: - Tar!
+Sam: - C4! Move, move, move!
+
+719
+00:27:14,221 --> 00:27:15,753
+Spike: - No!
+David: - Do it! Do it now!
+
+720
+00:27:15,822 --> 00:27:17,689
+Spike:
+No! No!
+
+721
+00:27:17,756 --> 00:27:18,824
+(Explosion booms)
+
+722
+00:27:23,595 --> 00:27:24,662
+Eddie!
+
+723
+00:27:27,266 --> 00:27:28,633
+<i>Anyone? Status?</i>
+
+724
+00:27:28,701 --> 00:27:31,202
+<i>Team one,</i> <i>somebody talk to me!</i>
+
+725
+00:27:31,269 --> 00:27:32,569
+(Muffled cries)
+
+726
+00:27:37,943 --> 00:27:38,642
+Hey.
+
+727
+00:27:38,710 --> 00:27:40,444
+Hey, hey, hey!
+
+728
+00:27:42,480 --> 00:27:43,613
+Why did you do that?
+
+729
+00:27:43,681 --> 00:27:45,115
+I did everything
+that you wanted!
+
+730
+00:27:45,183 --> 00:27:46,150
+It's not over yet.
+
+731
+00:27:46,218 --> 00:27:48,718
+- It is for me.
+- Get them out.
+
+732
+00:27:48,785 --> 00:27:49,886
+Why should I?
+
+733
+00:27:49,954 --> 00:27:50,954
+You already killed four cops,
+
+734
+00:27:51,021 --> 00:27:53,655
+what else can you do?!
+
+735
+00:27:53,723 --> 00:27:55,623
+Go ahead, threaten me,
+
+736
+00:27:55,691 --> 00:27:57,092
+it's done.
+
+737
+00:27:59,128 --> 00:28:00,329
+(Muffled screams)
+
+738
+00:28:00,396 --> 00:28:01,596
+Spike:
+No!
+
+739
+00:28:02,498 --> 00:28:04,032
+Albin: - David!
+Spike: - Leave her alone!
+
+740
+00:28:04,100 --> 00:28:06,268
+Natalie:
+(Muffled scream)
+
+741
+00:28:06,336 --> 00:28:08,069
+No! Let her go!
+
+742
+00:28:08,136 --> 00:28:09,237
+Albin: - David!
+Spike: - Leave her alone!
+
+743
+00:28:09,304 --> 00:28:10,938
+David, let's get outta here.
+
+744
+00:28:11,006 --> 00:28:12,773
+Finish what you started.
+
+745
+00:28:12,841 --> 00:28:14,675
+Finish what you started!
+
+746
+00:28:14,743 --> 00:28:16,810
+(Breathing heavily, seething)
+
+747
+00:28:18,280 --> 00:28:20,014
+(Irate)
+Agh! Aggghhhhh!
+
+748
+00:28:20,082 --> 00:28:22,683
+Team one, talk to me!
+Come on.
+
+749
+00:28:23,618 --> 00:28:26,219
+<i>Ed:</i>
+<i>(Coughs) Boss, no harm.</i>
+
+750
+00:28:27,188 --> 00:28:31,191
+Sam got us out in time,
+he got the door closed.
+
+751
+00:28:31,259 --> 00:28:32,592
+It's good to hear.
+
+752
+00:28:33,527 --> 00:28:34,928
+There's debris,
+but we can get through.
+
+753
+00:28:34,996 --> 00:28:38,131
+Okay, you got an exit
+east wing hall...
+
+754
+00:28:38,199 --> 00:28:39,632
+<i>One flight up.</i>
+
+755
+00:28:39,700 --> 00:28:40,766
+Okay, Sam, Jules,
+
+756
+00:28:40,833 --> 00:28:41,934
+circle around from the outside.
+
+757
+00:28:42,002 --> 00:28:43,802
+Raf, you and me.
+
+758
+00:28:43,870 --> 00:28:45,237
+Okay, me and you here.
+
+759
+00:28:45,305 --> 00:28:46,405
+Slow and careful.
+
+760
+00:28:46,472 --> 00:28:48,840
+(Keys clack, computer beeps)
+
+761
+00:28:54,147 --> 00:28:55,147
+They're on the move.
+
+762
+00:28:55,215 --> 00:28:56,381
+What?
+
+763
+00:28:56,448 --> 00:28:58,682
+<i>Albin:</i>
+<i>They're closing in.</i>
+
+764
+00:28:59,618 --> 00:29:01,052
+We're done.
+We're done.
+
+765
+00:29:01,120 --> 00:29:02,653
+It's time to cut our losses,
+David.
+
+766
+00:29:02,721 --> 00:29:04,022
+David: No-no-no-no-no-no.
+We're almost there.
+
+767
+00:29:04,089 --> 00:29:05,456
+We just,
+we gotta see this through!
+
+768
+00:29:05,524 --> 00:29:06,791
+What? No...
+(Stammers)
+
+769
+00:29:06,858 --> 00:29:08,293
+No, David,
+we're not almost there,
+
+770
+00:29:08,360 --> 00:29:09,193
+this is a mess.
+
+771
+00:29:09,261 --> 00:29:10,261
+No, it's not a mess.
+
+772
+00:29:10,329 --> 00:29:11,896
+We can't be here, David.
+
+773
+00:29:11,963 --> 00:29:13,496
+We're out of time.
+
+774
+00:29:13,564 --> 00:29:14,664
+<i>You know, they're probably</i>
+<i>already tracking us.</i>
+
+775
+00:29:14,732 --> 00:29:16,633
+Listen to me, okay?
+We can still do this.
+
+776
+00:29:16,700 --> 00:29:17,867
+Albin:
+No, I said we're done!
+
+777
+00:29:17,936 --> 00:29:20,137
+You are not calling the shots
+here, okay!
+
+778
+00:29:20,204 --> 00:29:22,672
+Oh yeah?
+It's time to call it a day.
+
+779
+00:29:22,740 --> 00:29:25,208
+<i>David:</i> <i>Hey! Hey!
+</i> <i>We still need him!</i>
+
+780
+00:29:25,276 --> 00:29:26,810
+Albin: - Shut up!
+Spike: - You don't wanna do this!
+
+781
+00:29:26,877 --> 00:29:28,377
+David:
+We're not through, Albin!
+
+782
+00:29:28,445 --> 00:29:29,511
+<i>Albin:</i>
+<i>Him first, then her.</i>
+
+783
+00:29:29,579 --> 00:29:31,547
+Put the gun down!
+Put the gun down!
+
+784
+00:29:31,614 --> 00:29:32,982
+No! We're doing this
+my way!
+
+785
+00:29:33,050 --> 00:29:35,151
+Put the gun down!
+(Gunshot pops)
+
+786
+00:29:45,161 --> 00:29:47,963
+This doesn't change anything.
+
+787
+00:29:48,030 --> 00:29:49,564
+I bought you five minutes.
+
+788
+00:29:49,631 --> 00:29:51,899
+<i>Get them out.</i>
+<i>Get them out!</i>
+
+789
+00:29:53,202 --> 00:29:55,003
+Team one, I've got Spike's
+last phone conversation
+
+790
+00:29:55,071 --> 00:29:56,338
+from the auto-transcripter.
+
+791
+00:29:56,405 --> 00:29:57,973
+Give it to us, Winnie!
+
+792
+00:29:58,040 --> 00:29:59,407
+<i>Winnie:</i> <i>Okay, I was only
+able</i> <i>to get his half,</i>
+
+793
+00:29:59,475 --> 00:30:01,909
+so I'm not sure how much sense
+this is gonna make.
+
+794
+00:30:01,977 --> 00:30:04,378
+It starts,
+"hey, it still isn't you."
+
+795
+00:30:04,446 --> 00:30:06,681
+Then, "I can come by
+after shift."
+
+796
+00:30:06,748 --> 00:30:08,148
+<i>Then, "who's David?"</i>
+
+797
+00:30:08,216 --> 00:30:10,184
+<i>Then, "get you?</i>
+<i>Are you in trouble?</i>
+
+798
+00:30:10,251 --> 00:30:11,218
+<i>I'm gonna tell Sam."</i>
+
+799
+00:30:11,286 --> 00:30:12,419
+<i>Sam:</i>
+<i>Natalie...</i>
+
+800
+00:30:12,488 --> 00:30:13,821
+Jules: - Who's David?
+Sam: - I know him.
+
+801
+00:30:13,889 --> 00:30:15,089
+<i>He's trouble.</i>
+<i>What else did Natalie say?</i>
+
+802
+00:30:15,156 --> 00:30:16,357
+<i>Winnie:</i>
+<i>Spike was getting directions.</i>
+
+803
+00:30:16,424 --> 00:30:17,524
+He said,
+"that's near Witchwood, right?"
+
+804
+00:30:17,592 --> 00:30:19,359
+Well, it narrows it down
+to a neighbourhood.
+
+805
+00:30:19,426 --> 00:30:20,360
+Okay, it's a place to start.
+
+806
+00:30:20,427 --> 00:30:21,995
+I'm on my way.
+
+807
+00:30:22,062 --> 00:30:23,930
+<i>Winnie, you get me some more</i>
+<i>by the time I get there.</i>
+
+808
+00:30:23,998 --> 00:30:25,064
+Sam:
+Boss, I'm coming with you.
+
+809
+00:30:25,132 --> 00:30:26,766
+Sam, can you do this with me?
+
+810
+00:30:26,834 --> 00:30:27,934
+She's my sister.
+
+811
+00:30:28,002 --> 00:30:29,302
+Okay, Sam,
+you're with the boss.
+
+812
+00:30:29,370 --> 00:30:31,671
+Jules, command post
+in case we get our eyes back.
+
+813
+00:30:31,739 --> 00:30:32,771
+Raf, it's you and me.
+
+814
+00:30:32,839 --> 00:30:33,672
+They're armed to the teeth.
+
+815
+00:30:33,740 --> 00:30:35,007
+So are we.
+
+816
+00:30:38,011 --> 00:30:40,679
+Kenton: 'Kay, pop this thing.
+Let's go.
+
+817
+00:30:40,747 --> 00:30:41,914
+Why's that door locked?
+
+818
+00:30:41,982 --> 00:30:43,281
+The locks must've reset.
+
+819
+00:30:43,349 --> 00:30:44,383
+Unset them.
+
+820
+00:30:46,285 --> 00:30:47,820
+It's no use, it's manual.
+
+821
+00:30:47,888 --> 00:30:49,153
+We shoot this,
+the unis know we're here.
+
+822
+00:30:49,221 --> 00:30:50,354
+<i>Kenton:</i>
+<i>We need another exit.</i>
+
+823
+00:30:50,422 --> 00:30:51,288
+Scarlatti, this exit's no good.
+
+824
+00:30:51,356 --> 00:30:52,456
+They need something different.
+
+825
+00:30:52,525 --> 00:30:55,059
+I'm looking.
+(Computer trills)
+
+826
+00:30:59,565 --> 00:31:01,198
+(Computer beeps)
+
+827
+00:31:01,934 --> 00:31:04,168
+<i>Sam:</i> <i>Natalie was
+traveling</i> <i>for three years.</i>
+
+828
+00:31:04,236 --> 00:31:06,537
+She had her freedom,
+she was happy, you know?
+
+829
+00:31:06,604 --> 00:31:09,806
+And the day she's coming home
+we get a call from Bogota,
+
+830
+00:31:09,874 --> 00:31:11,474
+she's in jail.
+
+831
+00:31:11,543 --> 00:31:13,510
+Apparently she's unaware
+that this guy she met,
+
+832
+00:31:13,578 --> 00:31:15,913
+David, had packed her suitcase
+with heroin.
+
+833
+00:31:15,980 --> 00:31:17,147
+Luckily for her,
+
+834
+00:31:17,214 --> 00:31:19,382
+his fingerprints
+were all over the place.
+
+835
+00:31:19,450 --> 00:31:22,317
+So my dad pulled
+every string he had.
+
+836
+00:31:22,385 --> 00:31:23,619
+As long as she testified
+against him,
+
+837
+00:31:23,687 --> 00:31:24,921
+the charges would be dropped.
+
+838
+00:31:24,988 --> 00:31:26,689
+There's no love lost
+between this David
+
+839
+00:31:26,757 --> 00:31:28,724
+and Natalie then.
+
+840
+00:31:28,792 --> 00:31:30,292
+<i>Sam:</i> <i>I'm guessing he'd be happy</i>
+<i>to see her out of the picture.</i>
+
+841
+00:31:30,360 --> 00:31:32,161
+Hey, Eddie,
+we have to stall for time.
+
+842
+00:31:32,228 --> 00:31:34,964
+<i>We need them</i>
+<i>to need Spike alive.</i>
+
+843
+00:31:35,032 --> 00:31:36,331
+Copy that.
+
+844
+00:31:36,399 --> 00:31:37,532
+Let's move.
+
+845
+00:31:38,500 --> 00:31:39,768
+<i>Spike:</i>
+<i>Okay, right there.</i>
+
+846
+00:31:39,835 --> 00:31:41,269
+They can backtrack
+the way they came in.
+
+847
+00:31:41,336 --> 00:31:42,270
+That doesn't work.
+
+848
+00:31:42,337 --> 00:31:43,504
+That's the best I got.
+
+849
+00:31:43,573 --> 00:31:44,439
+<i>David:</i>
+<i>Find something else.</i>
+
+850
+00:31:44,506 --> 00:31:45,540
+Everything else is a dead end.
+
+851
+00:31:45,608 --> 00:31:47,141
+Find another way.
+
+852
+00:31:50,012 --> 00:31:52,447
+It's okay, looks like
+we're going in heavy.
+
+853
+00:31:52,514 --> 00:31:53,681
+How's this work?
+
+854
+00:31:53,748 --> 00:31:55,115
+They said the perimeter's
+would be thin.
+
+855
+00:31:55,183 --> 00:31:57,284
+These are hollow point,
+more effective.
+
+856
+00:31:57,351 --> 00:31:59,119
+We're gonna bust right through.
+
+857
+00:32:01,155 --> 00:32:02,957
+Boss, I think I got something.
+
+858
+00:32:03,024 --> 00:32:05,158
+Figured it had to be somebody
+who knew what to look for.
+
+859
+00:32:05,226 --> 00:32:07,962
+Vince Albin,
+mid-level soldier working for...
+
+860
+00:32:08,029 --> 00:32:09,328
+<i>Parker:</i>
+<i>Karl Morse.</i>
+
+861
+00:32:09,396 --> 00:32:10,463
+<i>Sam:</i>
+<i>So he knew about the dope.</i>
+
+862
+00:32:10,530 --> 00:32:12,298
+There's gotta be dozen guys
+who did.
+
+863
+00:32:12,365 --> 00:32:13,967
+<i>Jules:</i>
+<i>Yeah, but according to customs,</i>
+
+864
+00:32:14,034 --> 00:32:15,768
+when David Fleming flew back
+into the country last month,
+
+865
+00:32:15,836 --> 00:32:17,136
+he flew back in with Albin.
+
+866
+00:32:17,204 --> 00:32:18,404
+They have a history?
+
+867
+00:32:18,472 --> 00:32:20,306
+That doesn't tell us
+where they are.
+
+868
+00:32:20,373 --> 00:32:21,741
+<i>Jules:</i> <i>Well, maybe it does.
+</i> <i>'Cause after Morse got busted,</i>
+
+869
+00:32:21,809 --> 00:32:24,143
+all his assets were seized,
+went into foreclosure,
+
+870
+00:32:24,211 --> 00:32:25,677
+including a bunch of houses.
+
+871
+00:32:25,745 --> 00:32:26,878
+Any near Witchwood?
+
+872
+00:32:26,946 --> 00:32:27,980
+Sending you the number
+right now.
+
+873
+00:32:31,183 --> 00:32:33,451
+Ed:
+Police! Stay where you are!
+
+874
+00:32:33,519 --> 00:32:35,754
+<i>End of the line.</i>
+<i>Time to put the guns down.</i>
+
+875
+00:32:35,822 --> 00:32:37,656
+<i>Do it now.</i>
+<i>That's it, slow and careful.</i>
+
+876
+00:32:38,992 --> 00:32:40,758
+Sorry about this.
+(Gunshot pops)
+
+877
+00:32:40,826 --> 00:32:45,162
+<i>Hollings:</i> <i>Agghhh! You shot me!
+</i> <i>What're you doing?!</i>
+
+878
+00:32:45,230 --> 00:32:46,964
+Kenton:
+Now, I have a hostage.
+
+879
+00:32:47,032 --> 00:32:48,599
+Kenton, what the hell
+just happened?
+
+880
+00:32:48,667 --> 00:32:49,600
+What's going on?
+
+881
+00:32:49,668 --> 00:32:51,468
+You have a hostage?
+
+882
+00:32:51,536 --> 00:32:53,137
+<i>Kenton:</i>
+<i>I shot Hollings.</i>
+
+883
+00:32:53,204 --> 00:32:55,506
+<i>The cop was getting too close;</i>
+<i>I had to improvise.</i>
+
+884
+00:32:58,442 --> 00:33:00,710
+David:
+(Exasperated sigh)
+
+885
+00:33:00,778 --> 00:33:03,847
+SRU caught up.
+Kenton took Hollings hostage.
+
+886
+00:33:05,883 --> 00:33:07,083
+This was not the plan.
+
+887
+00:33:07,151 --> 00:33:08,718
+This was quick and clean,
+in and out.
+
+888
+00:33:09,553 --> 00:33:10,920
+No one even knows.
+
+889
+00:33:12,523 --> 00:33:13,622
+(Cocks gun)
+
+890
+00:33:14,524 --> 00:33:17,059
+David, this could still work.
+
+891
+00:33:17,127 --> 00:33:20,262
+Your guy is right;
+The team has to negotiate now,
+
+892
+00:33:20,329 --> 00:33:21,530
+<i>that's the protocol,</i>
+
+893
+00:33:21,597 --> 00:33:23,331
+and I can do it for you.
+Gimme the mic.
+
+894
+00:33:25,769 --> 00:33:26,902
+Raf, that gate...
+
+895
+00:33:26,970 --> 00:33:27,903
+Raf:
+Out flank 'em?
+
+896
+00:33:27,971 --> 00:33:29,003
+Go, now.
+
+897
+00:33:31,940 --> 00:33:33,975
+Hollings:
+(Quick, tight breaths)
+
+898
+00:33:34,043 --> 00:33:36,844
+Give me the mic,
+I can get them out.
+
+899
+00:33:36,912 --> 00:33:39,246
+<i>But they have to do exactly</i>
+<i>what I tell 'em to say.</i>
+
+900
+00:33:39,314 --> 00:33:40,514
+You have a gun.
+
+901
+00:33:40,582 --> 00:33:42,717
+If I don't get them out,
+you can use it.
+
+902
+00:33:56,798 --> 00:33:58,732
+Hey, can you hear me?
+
+903
+00:33:58,800 --> 00:34:00,200
+Mm-hm.
+
+904
+00:34:00,267 --> 00:34:01,701
+That was a smart thing
+you did there,
+
+905
+00:34:01,768 --> 00:34:03,135
+grabbing a hostage;
+
+906
+00:34:03,203 --> 00:34:04,269
+it changes the game.
+
+907
+00:34:04,337 --> 00:34:05,871
+Now, I can get you outta there,
+
+908
+00:34:05,939 --> 00:34:07,139
+<i>but you have to say exactly</i>
+<i>what I tell you to say.</i>
+
+909
+00:34:07,207 --> 00:34:08,140
+<i>Do you understand?</i>
+
+910
+00:34:08,208 --> 00:34:09,374
+Uh-huh.
+
+911
+00:34:09,442 --> 00:34:11,977
+Start with,
+"I just want to talk."
+
+912
+00:34:12,045 --> 00:34:13,645
+Kenton:
+I just wanna talk.
+
+913
+00:34:14,581 --> 00:34:16,848
+Okay. You mind telling me
+your name?
+
+914
+00:34:16,916 --> 00:34:18,016
+Trying to make
+a personal connection.
+
+915
+00:34:18,084 --> 00:34:19,050
+Tell him,
+"I'll tell you my name,
+
+916
+00:34:19,118 --> 00:34:20,218
+if you tell me yours."
+
+917
+00:34:20,285 --> 00:34:21,385
+Kenton:
+You tell me yours,
+
+918
+00:34:21,453 --> 00:34:22,420
+I'll tell you mine.
+
+919
+00:34:22,487 --> 00:34:23,588
+<i>Ed:</i>
+<i>No problem.</i>
+
+920
+00:34:23,655 --> 00:34:25,223
+Ed Lane,
+Strategic Response Unit.
+
+921
+00:34:25,290 --> 00:34:26,891
+<i>Spike:</i> <i>Ask him how long</i>
+<i>he's been on the force.</i>
+
+922
+00:34:26,959 --> 00:34:28,860
+How long you been
+in uniform, Ed?
+
+923
+00:34:28,928 --> 00:34:30,294
+Come on now,
+
+924
+00:34:30,362 --> 00:34:31,763
+you're not here to talk
+about that, are you?
+
+925
+00:34:31,831 --> 00:34:32,996
+<i>Spike:</i> <i>Hey, Ed,</i>
+<i>let's not rush things.</i>
+
+926
+00:34:33,064 --> 00:34:34,531
+We got all the time
+in the world.
+
+927
+00:34:34,599 --> 00:34:35,966
+No need to rush things, Ed.
+
+928
+00:34:36,034 --> 00:34:38,102
+<i>We got all the time</i>
+<i>in the world.</i>
+
+929
+00:34:38,169 --> 00:34:39,103
+<i>Ed:</i>
+<i>Hey, I'm not in any rush.</i>
+
+930
+00:34:39,170 --> 00:34:40,470
+<i>I'm just saying,</i>
+
+931
+00:34:40,538 --> 00:34:41,605
+<i>you got an injured colleague</i>
+<i>here.</i>
+
+932
+00:34:41,672 --> 00:34:43,006
+<i>I need to know he's okay.</i>
+
+933
+00:34:43,074 --> 00:34:44,041
+<i>Kenton:</i> <i>He's okay.</i> <i>He's fine.</i>
+
+934
+00:34:44,109 --> 00:34:45,508
+<i>Right, buddy?</i>
+
+935
+00:34:45,576 --> 00:34:46,643
+<i>Ed:</i> <i>Okay, good.</i> <i>Now, listen.</i>
+
+936
+00:34:46,711 --> 00:34:48,345
+<i>My team can hear</i>
+<i>what's going on.</i>
+
+937
+00:34:48,412 --> 00:34:50,346
+<i>They know your friend's gonna</i>
+<i>need medical attention ASAP.</i>
+
+938
+00:34:50,413 --> 00:34:52,448
+<i>Kenton:</i> <i>One paramedic
+,</i> <i>send in just one.</i>
+
+939
+00:34:52,515 --> 00:34:53,616
+<i>And everyone else</i>
+<i>keep their distance.</i>
+
+940
+00:34:53,683 --> 00:34:55,118
+Parker: - Spike...
+<i>Ed: - No problem.</i>
+
+941
+00:34:55,185 --> 00:34:56,185
+<i>Ed:</i> <i>We just wanna
+stop</i> <i>the bleeding.</i>
+
+942
+00:34:56,253 --> 00:34:57,253
+<i>We'll take it from there.</i>
+
+943
+00:34:57,320 --> 00:34:58,988
+<i>Kenton:</i>
+<i>Okay.</i>
+
+944
+00:34:59,056 --> 00:35:00,489
+'Kay, boss,
+you go through here.
+
+945
+00:35:00,557 --> 00:35:02,558
+I'm going high; Fire escape then down.
+Copy that.
+
+946
+00:35:02,626 --> 00:35:03,860
+<i>Ed:</i> <i>Can you tell me
+your name</i> <i>again?</i>
+
+947
+00:35:03,927 --> 00:35:05,727
+<i>Kenton:</i>
+<i>I didn't tell you my name.</i>
+
+948
+00:35:05,795 --> 00:35:07,595
+Okay.
+
+949
+00:35:07,663 --> 00:35:11,233
+You mind telling me
+what you're doing here?
+
+950
+00:35:11,300 --> 00:35:13,135
+Kenton: I don't wanna
+talk about that.
+
+951
+00:35:13,202 --> 00:35:15,237
+<i>I want you</i>
+<i>to not do anything rash,</i>
+
+952
+00:35:15,304 --> 00:35:17,105
+or people could get hurt.
+
+953
+00:35:17,173 --> 00:35:19,241
+This guy's talking
+like a negotiator.
+
+954
+00:35:19,308 --> 00:35:21,842
+<i>Sam:</i> <i>It might be Spike</i>
+<i>in his headset, boss.</i>
+
+955
+00:35:21,910 --> 00:35:24,444
+It's gotta be.
+He's dragging it out.
+
+956
+00:35:24,512 --> 00:35:25,980
+Ed, do not take this guy down.
+
+957
+00:35:26,047 --> 00:35:28,649
+Repeat, do everything you can
+to keep this going.
+
+958
+00:35:28,716 --> 00:35:30,651
+We do that, that hostage
+is gonna bleed out, boss.
+
+959
+00:35:30,718 --> 00:35:33,453
+<i>Parker:</i> <i>And we do anything
+else</i> <i>and they kill Spike.</i>
+
+960
+00:35:39,113 --> 00:35:40,146
+Okay...
+
+961
+00:35:42,450 --> 00:35:43,750
+How's your buddy doing there?
+
+962
+00:35:43,818 --> 00:35:45,251
+Kenton:
+He's gonna be just fine
+
+963
+00:35:45,319 --> 00:35:48,088
+as long as you do everything
+I ask you to do, Ed.
+
+964
+00:35:49,457 --> 00:35:50,824
+(Lock clicks)
+
+965
+00:35:56,530 --> 00:35:57,597
+Sam?
+
+966
+00:35:58,966 --> 00:36:00,032
+Almost there.
+
+967
+00:36:05,572 --> 00:36:08,140
+Now, calmly state your demands.
+
+968
+00:36:09,675 --> 00:36:10,709
+(Muffled sobs)
+
+969
+00:36:14,380 --> 00:36:16,381
+Stay back.
+Stay back!
+
+970
+00:36:16,448 --> 00:36:17,983
+Ed:
+All right.
+
+971
+00:36:18,050 --> 00:36:19,384
+Kenton:
+We need a way outta here, Ed,
+
+972
+00:36:19,451 --> 00:36:20,819
+me and my friend.
+
+973
+00:36:20,887 --> 00:36:22,687
+Well, I think your friend
+needs medical assistance.
+
+974
+00:36:22,755 --> 00:36:24,322
+<i>Raf:</i> <i>In position,</i>
+<i>just give me a signal.</i>
+
+975
+00:36:24,390 --> 00:36:26,289
+What we need is a car.
+
+976
+00:36:38,670 --> 00:36:40,037
+In position.
+
+977
+00:36:40,104 --> 00:36:41,470
+Ed:
+All right, Raf,
+
+978
+00:36:41,539 --> 00:36:42,939
+<i>on my mark.</i>
+
+979
+00:36:43,007 --> 00:36:44,674
+Kenton: Stay back.
+Don't come any closer!
+
+980
+00:36:44,742 --> 00:36:46,042
+Ed: - Now.
+Kenton: - My friend, Ed...
+
+981
+00:36:46,109 --> 00:36:47,911
+Raf:
+Freeze!
+
+982
+00:36:47,978 --> 00:36:50,013
+Ed: Put the gun down!
+Turn around!
+
+983
+00:36:50,080 --> 00:36:52,448
+Ed: On your knees!
+To your knees!
+
+984
+00:36:52,516 --> 00:36:54,216
+We need an EMS
+to the rear loading bay
+
+985
+00:36:54,284 --> 00:36:55,552
+immediately.
+
+986
+00:36:55,619 --> 00:36:56,685
+(Device beeps)
+
+987
+00:36:58,521 --> 00:36:59,621
+Cops.
+
+988
+00:37:01,457 --> 00:37:02,390
+What did you do?
+
+989
+00:37:02,458 --> 00:37:04,826
+I didn't do anything.
+
+990
+00:37:04,894 --> 00:37:05,761
+Natalie:
+(Muffled screams)
+
+991
+00:37:05,828 --> 00:37:06,862
+<i>Spike:</i>
+<i>No! No!</i>
+
+992
+00:37:08,330 --> 00:37:10,331
+Police Strategic Response Unit.
+
+993
+00:37:10,399 --> 00:37:11,433
+Let her go!
+
+994
+00:37:11,500 --> 00:37:12,534
+<i>David:</i>
+<i>Back off!</i>
+
+995
+00:37:12,601 --> 00:37:14,001
+<i>Parker:</i>
+<i>I can't do that, sir.</i>
+
+996
+00:37:14,069 --> 00:37:15,402
+Now, you put the gun down
+and step away from the girl.
+
+997
+00:37:15,470 --> 00:37:16,771
+<i>Do it now, please.</i>
+
+998
+00:37:16,838 --> 00:37:18,105
+<i>David:</i>
+<i>We are walking out of here.</i>
+
+999
+00:37:18,173 --> 00:37:19,339
+You're not going anywhere.
+
+1000
+00:37:19,407 --> 00:37:20,741
+<i>How're you doing,</i> <i>Spike?</i>
+
+1001
+00:37:20,809 --> 00:37:21,609
+Spike: Could use a set
+of handcuff keys.
+
+1002
+00:37:21,677 --> 00:37:23,177
+Copy that.
+
+1003
+00:37:23,244 --> 00:37:24,311
+(Keys jingle)
+
+1004
+00:37:28,849 --> 00:37:30,050
+<i>Parker:</i> <i>Sir, I need you</i>
+<i>to put that gun down,</i>
+
+1005
+00:37:30,117 --> 00:37:32,351
+and step away from the girl.
+
+1006
+00:37:32,419 --> 00:37:33,620
+You're not going anywhere.
+
+1007
+00:37:33,688 --> 00:37:35,154
+Please, I need you
+to listen to me.
+
+1008
+00:37:35,222 --> 00:37:36,322
+Spike:
+No! Don't listen to him!
+
+1009
+00:37:36,390 --> 00:37:37,657
+(Chair clatters)
+
+1010
+00:37:37,725 --> 00:37:39,392
+(Riled up) Listen to me!
+
+1011
+00:37:40,561 --> 00:37:42,295
+Maybe you get past us.
+
+1012
+00:37:43,263 --> 00:37:46,799
+Maybe by some miracle
+you get outta the country.
+
+1013
+00:37:47,734 --> 00:37:49,234
+You know what?
+
+1014
+00:37:49,302 --> 00:37:50,235
+Doesn't matter.
+
+1015
+00:37:50,303 --> 00:37:51,369
+Spike, that's enough.
+
+1016
+00:37:52,305 --> 00:37:53,973
+I don't care
+
+1017
+00:37:54,040 --> 00:37:57,476
+what third-world jungle
+you hide out in,
+
+1018
+00:38:00,546 --> 00:38:01,813
+I will find you.
+
+1019
+00:38:02,615 --> 00:38:06,918
+<i>Whatever I have to do,</i>
+<i>I will do.</i>
+
+1020
+00:38:08,687 --> 00:38:10,388
+Device is set, ready for entry.
+
+1021
+00:38:10,456 --> 00:38:12,790
+I will never forget you.
+
+1022
+00:38:12,858 --> 00:38:15,860
+<i>Not after what you did</i>
+<i>my friend's sister,</i>
+
+1023
+00:38:15,928 --> 00:38:17,761
+and not after what you did
+to my team.
+
+1024
+00:38:17,829 --> 00:38:18,929
+Back off!
+
+1025
+00:38:20,532 --> 00:38:21,499
+<i>Spike:</i>
+<i>Why?</i>
+
+1026
+00:38:21,566 --> 00:38:23,634
+Why, you wanna shoot me?
+
+1027
+00:38:25,003 --> 00:38:25,936
+<i>Go ahead.</i>
+
+1028
+00:38:26,004 --> 00:38:27,238
+Go ahead.
+
+1029
+00:38:27,305 --> 00:38:28,572
+Go ahead!
+
+1030
+00:38:28,640 --> 00:38:29,706
+Shoot me!
+
+1031
+00:38:32,277 --> 00:38:33,343
+Parker:
+Sam!
+
+1032
+00:38:33,410 --> 00:38:35,512
+(Blast pops, glass shatters)
+
+1033
+00:38:35,579 --> 00:38:37,180
+<i>Spike:</i> <i>You're okay.
+</i> <i>Natalie, it's okay.</i>
+
+1034
+00:38:37,248 --> 00:38:39,549
+Sam: You're done, dirtbag!
+On the ground!
+
+1035
+00:38:39,617 --> 00:38:41,050
+Natalie:
+(Crying)
+
+1036
+00:38:41,118 --> 00:38:42,519
+Spike: Okay, it's okay now.
+You're safe now.
+
+1037
+00:38:42,586 --> 00:38:44,820
+Natalie:
+(Frantic breaths)
+
+1038
+00:38:50,293 --> 00:38:52,161
+You're okay.
+
+1039
+00:38:52,228 --> 00:38:53,595
+You're okay.
+(Sobbing)
+
+1040
+00:39:00,770 --> 00:39:09,277
+♪
+
+1041
+00:39:09,278 --> 00:39:16,684
+♪
+
+1042
+00:39:16,751 --> 00:39:20,788
+♪ is this a mystic's
+deep dark spell ♪
+
+1043
+00:39:24,392 --> 00:39:28,928
+♪ or a joke to make us
+come undone and yell ♪
+
+1044
+00:39:31,832 --> 00:39:35,702
+♪ another blackness
+tries again ♪
+
+1045
+00:39:39,172 --> 00:39:42,841
+♪ to bend our will
+behind our backs ♪
+
+1046
+00:39:42,909 --> 00:39:44,710
+♪ and hold us down ♪
+
+1047
+00:39:44,777 --> 00:39:51,550
+♪ till we say when...
+Will this be over? ♪
+
+1048
+00:39:51,618 --> 00:39:53,651
+♪ when... ♪
+
+1049
+00:39:54,853 --> 00:39:59,657
+♪ will we be free in the end? ♪
+
+1050
+00:40:00,559 --> 00:40:02,327
+<i>Raf:</i>
+<i>(Laughs)</i>
+
+1051
+00:40:02,394 --> 00:40:04,295
+<i>My man.</i>
+
+1052
+00:40:04,363 --> 00:40:06,564
+Jules: "Whatever third-world
+jungle you may hide out in?"
+
+1053
+00:40:06,632 --> 00:40:09,866
+"I'll find you.
+I will never forget you?"
+
+1054
+00:40:09,934 --> 00:40:11,034
+- You good?
+- I'm good.
+
+1055
+00:40:12,169 --> 00:40:13,637
+How's Nat?
+
+1056
+00:40:13,705 --> 00:40:15,071
+I think she'll be fine.
+
+1057
+00:40:15,139 --> 00:40:16,273
+That was a lot for her today.
+
+1058
+00:40:16,341 --> 00:40:17,741
+You sure she should be alone?
+
+1059
+00:40:17,808 --> 00:40:19,109
+<i>Sam:</i>
+<i>As soon as we're done here,</i>
+
+1060
+00:40:19,176 --> 00:40:22,112
+I'm gonna go home,
+make her a nice dinner.
+
+1061
+00:40:22,179 --> 00:40:24,147
+Guys, I just wanna say...
+
+1062
+00:40:27,618 --> 00:40:29,518
+I'm sorry.
+
+1063
+00:40:29,586 --> 00:40:30,853
+<i>I made some choices today,</i>
+
+1064
+00:40:30,920 --> 00:40:32,121
+I pulled you guys into trouble.
+
+1065
+00:40:32,188 --> 00:40:33,789
+Yeah, but you didn't choose
+that trouble.
+
+1066
+00:40:33,857 --> 00:40:36,659
+I didn't know what else to do,
+so I turned to you.
+
+1067
+00:40:36,727 --> 00:40:39,428
+<i>Jules:</i> <i>Someone needed
+you</i> <i>and you reached out.</i>
+
+1068
+00:40:39,496 --> 00:40:41,329
+Where's the part
+where you made the wrong choice?
+
+1069
+00:40:41,397 --> 00:40:43,898
+This is gonna sound crazy,
+but I think of Lou...
+
+1070
+00:40:45,834 --> 00:40:47,034
+And my dad,
+
+1071
+00:40:47,102 --> 00:40:50,004
+<i>and today I nearly lose</i>
+<i>you guys.</i>
+
+1072
+00:40:50,072 --> 00:40:53,375
+And I start thinking...
+Anybody who gets close to me-
+
+1073
+00:40:53,442 --> 00:40:55,410
+Parker:
+Spike.
+
+1074
+00:40:55,478 --> 00:40:56,878
+Without you around...
+
+1075
+00:40:56,945 --> 00:40:58,746
+(Chuckles warmly)
+Buddy, we'd fall apart.
+
+1076
+00:41:03,818 --> 00:41:04,885
+You hear me?
+
+1077
+00:41:05,987 --> 00:41:07,187
+<i>Been a long day.</i>
+
+1078
+00:41:07,255 --> 00:41:08,789
+What do you say
+we debrief tomorrow,
+
+1079
+00:41:08,856 --> 00:41:10,391
+go to the goose, grab a beer,
+
+1080
+00:41:10,458 --> 00:41:11,458
+call our loved ones?
+
+1081
+00:41:11,526 --> 00:41:12,859
+What do you think, boss?
+
+1082
+00:41:14,628 --> 00:41:15,928
+Call my loved ones.
+
+1083
+00:41:16,863 --> 00:41:19,666
+♪ Clear water, clear ♪
+
+1084
+00:41:22,169 --> 00:41:26,673
+♪ so deep that
+we can all come clean ♪
+
+1085
+00:41:28,165 --> 00:41:32,000
+Sync and corrections by n17t01
+www.addic7ed.com
+

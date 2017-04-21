@@ -21,7 +21,7 @@ function onYouTubeIframeAPIReady() {
   player = new YT.Player('player', {
     height: '550',
     width: '800',
-    videoId: 'M7lc1UVf-VE',
+    videoId: youtId,
 //    origin: 'http://localhost:8080',
     wmode: 'opaque',
     events: {
@@ -38,4 +38,15 @@ function onPlayerReady(event) {
 
 function stopVideo() {
   player.stopVideo();
+}
+
+function updateStatus(status) {
+	var src = "/admin/movie/update-status/" + youtId + "/" + status;
+
+	$
+			.get(
+					src,
+					function(myContentFile, status) {
+						console.log(status);
+					});
 }

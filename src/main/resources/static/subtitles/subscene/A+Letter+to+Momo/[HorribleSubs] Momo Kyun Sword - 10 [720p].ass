@@ -1,0 +1,269 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Narration,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000028,&H00000028,0,1,0,0,100,100,0,0,1,2,1,2,13,13,24,1
+Style: Momo_Ep_Title,Open Sans Semibold,33,&H00020302,&H000000FF,&H00A6AEB2,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,373,13,33,1
+Style: Momo_Location,Open Sans Semibold,42,&H00020302,&H000000FF,&H0093908D,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,13,13,33,1
+Style: Momo_Possession,Open Sans Semibold,45,&H00000000,&H000000FF,&H00A87963,&H009A5237,1,0,0,0,100,100,0,0,1,2,2,8,13,13,27,1
+Style: Momo_Show_Title,Open Sans Semibold,42,&H005DDDFF,&H000000FF,&H00FFFFFF,&H00C635FE,1,1,0,0,100,100,0,0,1,4,2,8,13,13,67,1
+Style: Momo_Next_Ep_Title,Open Sans Semibold,36,&H00000000,&H000000FF,&H00E1E3E3,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,13,353,320,1
+Style: Preview_Item_Top,Open Sans Semibold,45,&H00000000,&H000000FF,&H00000000,&H00FFFFFF,1,0,0,0,100,100,0,0,1,0,2,7,67,13,67,1
+Style: Preview_Item_Bottom,Open Sans Semibold,45,&H00000000,&H000000FF,&H00000000,&H00FFFFFF,1,0,0,0,100,100,0,0,1,0,2,1,77,13,107,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:07.61,0:00:09.49,Momo_Main,Mo,0000,0000,0000,,It sure is coming down.
+Dialogue: 0,0:00:11.53,0:00:13.99,Momo_Main,D,0000,0000,0000,,So what have the demons \Nbeen up to since then?
+Dialogue: 0,0:00:14.31,0:00:17.56,Momo_Main,Gi,0000,0000,0000,,It's been more than 10 days \Nbut we haven't seen anything.
+Dialogue: 0,0:00:17.56,0:00:22.00,Momo_Main,Gi,0000,0000,0000,,They've got the core of the Michimi Peach.
+Dialogue: 0,0:00:22.00,0:00:26.50,Momo_Main,Gi,0000,0000,0000,,I thought they would do \Nsomething immediately.
+Dialogue: 0,0:00:26.91,0:00:28.91,Momo_Main,Gi,0000,0000,0000,,It's actually creepy.
+Dialogue: 0,0:00:29.63,0:00:32.01,Momo_Main,Gi,0000,0000,0000,,I can only predict evil things coming.
+Dialogue: 0,0:00:32.41,0:00:34.81,Momo_Main,P,0000,0000,0000,,And not just the Michimi Peach Fragments.
+Dialogue: 0,0:00:35.26,0:00:39.02,Momo_Main,P,0000,0000,0000,,We did possession fusion and we still lost.
+Dialogue: 0,0:00:39.52,0:00:41.45,Momo_Main,P,0000,0000,0000,,To that demon named Tekki...
+Dialogue: 0,0:00:47.81,0:00:51.83,Momo_Main,D,0000,0000,0000,,His defeat at the hands of \NMomoko-sama made him stronger.
+Dialogue: 0,0:00:52.26,0:00:55.65,Momo_Main,Mo,0000,0000,0000,,We can't just let him win and walk away!
+Dialogue: 0,0:00:55.65,0:00:57.26,Momo_Main,Mo,0000,0000,0000,,We need to do something, right?
+Dialogue: 0,0:01:06.04,0:01:08.07,Momo_Flashback,O,0000,0000,0000,,Th-Then...
+Dialogue: 0,0:01:08.07,0:01:09.65,Momo_Flashback,O,0000,0000,0000,,Momoko and I...
+Dialogue: 0,0:01:10.40,0:01:12.28,Momo_Flashback,M,0000,0000,0000,,...are twins?
+Dialogue: 0,0:01:13.42,0:01:14.69,Momo_Main,M,0000,0000,0000,,Onihime...
+Dialogue: 0,0:01:16.74,0:01:18.97,Momo_Main,T,0000,0000,0000,,There you guys are.
+Dialogue: 0,0:01:22.11,0:01:23.33,Momo_Main,Gi,0000,0000,0000,,Toutetsu-chan?
+Dialogue: 0,0:01:23.79,0:01:26.30,Momo_Main,Gi,0000,0000,0000,,It's rare to see you alone.
+Dialogue: 0,0:01:26.30,0:01:30.37,Momo_Main,T,0000,0000,0000,,Seimei-sama has something \Nimportant to talk to you about.
+Dialogue: 0,0:01:31.63,0:01:34.30,Momo_Main,T,0000,0000,0000,,Will you come with me?
+Dialogue: 0,0:01:40.91,0:01:45.38,Momo_Show_Title,,0000,0000,0000,,{\fad(1200,1)}Momo {\c&H93A5FF&}Kyun {\c&HC736FF&}Sword
+Dialogue: 0,0:03:08.76,0:03:11.68,Momo_Ep_Title,,0000,0000,0000,,{\fad(455,430)}Episode 10 \N{\fs20}Shocking! Onigashima's Counterattack!!
+Dialogue: 0,0:03:12.15,0:03:16.08,Momo_Location,,0000,0000,0000,,{\fad(365,490)}Land of Yamashiro - Kyoto
+Dialogue: 0,0:03:16.52,0:03:21.56,Momo_Main,S,0000,0000,0000,,It's well known that the Michimi Peach \Nis a source of incredible energy,
+Dialogue: 0,0:03:22.17,0:03:26.95,Momo_Main,S,0000,0000,0000,,But do you know how that power can be used?
+Dialogue: 0,0:03:33.82,0:03:35.78,Momo_Main,M,0000,0000,0000,,A Michimi Peach Fragment!
+Dialogue: 0,0:03:35.78,0:03:37.59,Momo_Main,Gi,0000,0000,0000,,You had one, too?
+Dialogue: 0,0:03:37.59,0:03:41.72,Momo_Main,S,0000,0000,0000,,Just holding it gives you \Na good amount of energy,
+Dialogue: 0,0:03:41.72,0:03:47.46,Momo_Main,S,0000,0000,0000,,but you need special technology \Nand science to utilize it fully.
+Dialogue: 0,0:03:47.46,0:03:54.61,Momo_Main,S,0000,0000,0000,,Which means that without that technology, \Nno amount of peach fragments are a threat.
+Dialogue: 0,0:03:55.59,0:03:57.34,Momo_Main,M,0000,0000,0000,,What is this?
+Dialogue: 0,0:03:58.21,0:04:01.61,Momo_Main,S,0000,0000,0000,,In order to draw out the Peach's power \None must have technology from
+Dialogue: 0,0:04:01.61,0:04:05.78,Momo_Main,S,0000,0000,0000,,a civilization far more advanced than our own.
+Dialogue: 0,0:04:06.45,0:04:13.23,Momo_Main,S,0000,0000,0000,,We humans don't possess such technology, \Nnor does the Celestial World or the Oni.
+Dialogue: 0,0:04:14.43,0:04:15.90,Momo_Main,S,0000,0000,0000,,Except one person...
+Dialogue: 0,0:04:16.97,0:04:18.86,Momo_Main,Gi,0000,0000,0000,,Who is that?
+Dialogue: 0,0:04:19.69,0:04:21.79,Momo_Main,S,0000,0000,0000,,Her name is Kaguya.
+Dialogue: 0,0:04:22.37,0:04:24.63,Momo_Main,S,0000,0000,0000,,A scientist from the moon.
+Dialogue: 0,0:04:25.12,0:04:25.98,Momo_Main,M,0000,0000,0000,,The moon?
+Dialogue: 0,0:04:26.60,0:04:28.74,Momo_Main,Gi,0000,0000,0000,,You mean the one in the sky?
+Dialogue: 0,0:04:30.99,0:04:36.09,Momo_Main,S,0000,0000,0000,,Kaguya came to Japan to research \Nthe human world in a special ship.
+Dialogue: 0,0:04:36.68,0:04:42.03,Momo_Main,S,0000,0000,0000,,But the ship's reactor broke \Nand stranded her here.
+Dialogue: 0,0:04:44.26,0:04:47.95,Momo_Main,S,0000,0000,0000,,And so the court made a deal with Kaguya.
+Dialogue: 0,0:04:48.67,0:04:55.50,Momo_Main,S,0000,0000,0000,,We'd help her return, and she'd give us the \Ntechnology to employ the power of the Peach.
+Dialogue: 0,0:04:55.50,0:04:57.98,Momo_Main,Gi,0000,0000,0000,,Then she created these plans?
+Dialogue: 0,0:05:00.46,0:05:03.17,Momo_Main,S,0000,0000,0000,,It's a reactor to utilize \Nthe power of the Peach.
+Dialogue: 0,0:05:03.66,0:05:06.30,Momo_Main,S,0000,0000,0000,,We would gather the Michimi Peach Fragments,
+Dialogue: 0,0:05:06.30,0:05:08.76,Momo_Main,S,0000,0000,0000,,she would provide us with \Nthe reactor technology,
+Dialogue: 0,0:05:08.76,0:05:10.64,Momo_Main,S,0000,0000,0000,,and we would use the Peach \Nto send her to the moon.
+Dialogue: 0,0:05:11.96,0:05:13.25,Momo_Main,S,0000,0000,0000,,That was the deal.
+Dialogue: 0,0:05:13.93,0:05:14.68,Momo_Main,S,0000,0000,0000,,But...
+Dialogue: 0,0:05:15.07,0:05:16.57,Momo_Flashback,K,0000,0000,0000,,Don't hate me for this.
+Dialogue: 0,0:05:17.13,0:05:18.22,Momo_Flashback,K,0000,0000,0000,,Goodbye.
+Dialogue: 0,0:05:23.82,0:05:27.39,Momo_Main,Gi,0000,0000,0000,,Seimei-san, you're hiding \Nsomething important, aren't you?
+Dialogue: 0,0:05:28.27,0:05:29.63,Momo_Main,S,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:05:29.87,0:05:35.31,Momo_Main,Gi,0000,0000,0000,,Why is it the court wanted technology \Nto use the Michimi Peach Fragments?
+Dialogue: 0,0:05:35.78,0:05:38.64,Momo_Main,Gi,0000,0000,0000,,What were they trying to do with it?
+Dialogue: 0,0:05:38.64,0:05:44.41,Momo_Main,S,0000,0000,0000,,We wanted to um... \Nresearch new forms of energy!
+Dialogue: 0,0:05:44.75,0:05:46.00,Momo_Main,S,0000,0000,0000,,Yeah...
+Dialogue: 0,0:05:48.30,0:05:50.71,Momo_Main,T,0000,0000,0000,,You should just say it.
+Dialogue: 0,0:05:50.71,0:05:55.15,Momo_Main,T,0000,0000,0000,,We wanted to use the power of the Peach to \Nrule the Celestial World and Onigashima.
+Dialogue: 0,0:05:56.42,0:05:57.66,Momo_Main,S,0000,0000,0000,,Hey, Toutetsu!
+Dialogue: 0,0:05:57.87,0:05:59.69,Momo_Main,M,0000,0000,0000,,That's what you were planning?
+Dialogue: 0,0:05:59.69,0:06:00.79,Momo_Main,Gi,0000,0000,0000,,That's horrible!
+Dialogue: 0,0:06:00.79,0:06:02.06,Momo_Main,Gi,0000,0000,0000,,You're a dick!
+Dialogue: 0,0:06:02.06,0:06:03.56,Momo_Main,Gi,0000,0000,0000,,I'm disappointed in you!
+Dialogue: 0,0:06:03.79,0:06:05.57,Momo_Main,S,0000,0000,0000,,We didn't have a choice.
+Dialogue: 0,0:06:05.86,0:06:08.81,Momo_Main,S,0000,0000,0000,,We humans aren't as powerful, so we've
+Dialogue: 0,0:06:08.81,0:06:12.66,Momo_Main,S,0000,0000,0000,,always been looked down upon by the \NCelestial Maidens and Oni, and oppressed.
+Dialogue: 0,0:06:12.66,0:06:17.11,Momo_Main,S,0000,0000,0000,,So we need to combat your \Npower with our own, don't we?
+Dialogue: 0,0:06:20.30,0:06:22.61,Momo_Main,M,0000,0000,0000,,Fight power with power...
+Dialogue: 0,0:06:26.38,0:06:28.70,Momo_Main,T,0000,0000,0000,,Will you forgive him?
+Dialogue: 0,0:06:28.70,0:06:32.09,Momo_Main,T,0000,0000,0000,,He's told you everything \Nand asked for your help
+Dialogue: 0,0:06:32.31,0:06:35.33,Momo_Main,T,0000,0000,0000,,because the situation is that serious.
+Dialogue: 0,0:06:37.43,0:06:38.33,Momo_Main,S,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:06:39.86,0:06:40.60,Momo_Main,Gi,0000,0000,0000,,What is this?
+Dialogue: 0,0:06:53.31,0:06:54.94,Momo_Main,M,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:06:54.94,0:06:55.92,Momo_Main,S,0000,0000,0000,,What's this?
+Dialogue: 0,0:07:00.75,0:07:02.86,Momo_Main,Gi,0000,0000,0000,,Are those all...
+Dialogue: 0,0:07:03.29,0:07:05.86,Momo_Main,Gi,0000,0000,0000,,Michimi Peach Fragments?
+Dialogue: 0,0:07:06.76,0:07:08.99,Momo_Main,S,0000,0000,0000,,The Core has activated.
+Dialogue: 0,0:07:09.46,0:07:10.63,Momo_Main,M,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:07:11.34,0:07:13.63,Momo_Main,S,0000,0000,0000,,Kaguya once told me that the fragments
+Dialogue: 0,0:07:14.62,0:07:20.01,Momo_Main,S,0000,0000,0000,,of the Michimi Peach resonate with each \Nother because they're trying to reform.
+Dialogue: 0,0:07:20.64,0:07:25.14,Momo_Main,S,0000,0000,0000,,If the core is activating all the \Nother fragments will gather at it.
+Dialogue: 0,0:07:25.36,0:07:27.38,Momo_Main,S,0000,0000,0000,,The Michimi Peach will become one.
+Dialogue: 0,0:07:27.66,0:07:29.46,Momo_Main,M,0000,0000,0000,,Th-Then...
+Dialogue: 0,0:07:42.47,0:07:43.76,Momo_Main,K,0000,0000,0000,,Celestial Maiden Sumeragi-sama!
+Dialogue: 0,0:07:46.30,0:07:48.69,Momo_Main,Gi,0000,0000,0000,,The time has come at last...
+Dialogue: 0,0:07:51.91,0:07:55.87,Momo_Main,Gi,0000,0000,0000,,If the Michimi Peach is trying to reform,
+Dialogue: 0,0:07:55.87,0:07:59.24,Momo_Main,Gi,0000,0000,0000,,the core must be where \Nthe fragments are going.
+Dialogue: 0,0:07:59.24,0:08:00.08,Momo_Main,S,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:00.08,0:08:03.49,Momo_Main,S,0000,0000,0000,,And that is the Oni's castle.
+Dialogue: 0,0:08:03.49,0:08:04.57,Momo_Main,S,0000,0000,0000,,Onigashima!
+Dialogue: 0,0:08:28.91,0:08:34.08,Momo_Main,Y,0000,0000,0000,,Kaguya-sama, the fragments are \Nall gathering at the core!
+Dialogue: 0,0:08:37.18,0:08:38.54,Momo_Main,K,0000,0000,0000,,Of course they are.
+Dialogue: 0,0:08:38.54,0:08:41.82,Momo_Main,K,0000,0000,0000,,I tuned it so that would happen.
+Dialogue: 0,0:08:52.07,0:08:55.41,Momo_Location,,0000,0000,0000,,{\fad(410,425)}Country of Bizen
+Dialogue: 0,0:08:56.44,0:09:00.24,Momo_Flashback,Gi,0000,0000,0000,,Fortunately the Michimi \Npeach isn't complete yet.
+Dialogue: 0,0:09:00.24,0:09:04.84,Momo_Flashback,Gi,0000,0000,0000,,We'll attack Onigashima \Nbefore its powers activate,
+Dialogue: 0,0:09:05.19,0:09:07.11,Momo_Flashback,Gi,0000,0000,0000,,and steal back the fragments.
+Dialogue: 0,0:09:12.64,0:09:13.69,Momo_Main,Gi,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:09:15.73,0:09:17.41,Momo_Main,Gi,0000,0000,0000,,Ringo, I'm sorry.
+Dialogue: 0,0:09:17.83,0:09:19.62,Momo_Main,Gi,0000,0000,0000,,Give me just a little time.
+Dialogue: 0,0:09:19.86,0:09:21.06,Momo_Main,D,0000,0000,0000,,Momoko-sama!
+Dialogue: 0,0:09:24.24,0:09:25.12,Momo_Main,D,0000,0000,0000,,That's...
+Dialogue: 0,0:09:25.92,0:09:27.01,Momo_Main,Gi,0000,0000,0000,,Tourikyou...
+Dialogue: 0,0:09:40.49,0:09:43.14,Momo_Main,Gi,0000,0000,0000,,Do we have time for this?
+Dialogue: 0,0:09:43.50,0:09:45.66,Momo_Main,Gi,0000,0000,0000,,Momoko looked okay,
+Dialogue: 0,0:09:46.19,0:09:49.15,Momo_Main,Gi,0000,0000,0000,,but I think she was actually \Nworried the whole time.
+Dialogue: 0,0:09:49.48,0:09:55.65,Momo_Main,Gi,0000,0000,0000,,She learned who she was and so she \Ndidn't know what to do from now on...
+Dialogue: 0,0:09:56.20,0:10:00.79,Momo_Main,Gi,0000,0000,0000,,If that wasn't the case there \Nwas no way she'd lose to an Oni.
+Dialogue: 0,0:10:03.13,0:10:04.90,Momo_Main,Gi,0000,0000,0000,,Will she come back?
+Dialogue: 0,0:10:05.34,0:10:06.44,Momo_Main,Gi,0000,0000,0000,,Let's wait.
+Dialogue: 0,0:10:07.62,0:10:10.58,Momo_Main,Gi,0000,0000,0000,,That's all we can do.
+Dialogue: 0,0:10:22.94,0:10:23.78,Momo_Main,M,0000,0000,0000,,Grandpa!
+Dialogue: 0,0:10:23.78,0:10:24.92,Momo_Main,M,0000,0000,0000,,Grandma!
+Dialogue: 0,0:10:27.70,0:10:28.69,Momo_Main,Gu,0000,0000,0000,,Momoko!
+Dialogue: 0,0:10:32.06,0:10:33.55,Momo_Main,Gi,0000,0000,0000,,Are you doing well?
+Dialogue: 0,0:10:37.77,0:10:39.55,Momo_Main,M,0000,0000,0000,,I heard the truth.
+Dialogue: 0,0:10:40.33,0:10:43.93,Momo_Main,M,0000,0000,0000,,That I'm the child of a \NCelestial Maiden and an Oni.
+Dialogue: 0,0:10:57.68,0:10:59.92,Momo_Main,,0000,0000,0000,,Momo Kyun Sword.
+Dialogue: 0,0:11:13.56,0:11:17.17,Momo_Main,Gu,0000,0000,0000,,We didn't have any children.
+Dialogue: 0,0:11:18.99,0:11:23.66,Momo_Main,Gu,0000,0000,0000,,So when you came out of the \Npeach that grandma found,
+Dialogue: 0,0:11:23.66,0:11:27.33,Momo_Main,Gu,0000,0000,0000,,we were surprised, but we were so happy.
+Dialogue: 0,0:11:27.33,0:11:34.18,Momo_Main,Gi,0000,0000,0000,,Yes, it was like we had a real child. \NWe were so happy.
+Dialogue: 0,0:11:34.18,0:11:41.46,Momo_Main,Gu,0000,0000,0000,,Even when they came and told us \Neverything our feelings didn't change.
+Dialogue: 0,0:11:41.76,0:11:46.46,Momo_Main,Gu,0000,0000,0000,,Whether you were born from a peach or the \Nchild of a Celestial Maiden and an Oni,
+Dialogue: 0,0:11:46.46,0:11:49.96,Momo_Main,Gu,0000,0000,0000,,you were still our child.
+Dialogue: 0,0:11:51.07,0:11:52.34,Momo_Main,M,0000,0000,0000,,Grandpa...
+Dialogue: 0,0:11:52.34,0:11:53.47,Momo_Main,M,0000,0000,0000,,Grandma...
+Dialogue: 0,0:11:53.47,0:11:56.17,Momo_Main,D,0000,0000,0000,,Once again, we thank you.
+Dialogue: 0,0:11:56.17,0:12:01.48,Momo_Main,D,0000,0000,0000,,Even after you learned the truth, \Nyou've raised Momoko-sama this far...
+Dialogue: 0,0:12:03.93,0:12:07.52,Momo_Main,Gu,0000,0000,0000,,Momoko, if you know the truth now,
+Dialogue: 0,0:12:07.52,0:12:10.48,Momo_Main,Gu,0000,0000,0000,,you can do whatever you want.
+Dialogue: 0,0:12:10.94,0:12:15.99,Momo_Main,Gu,0000,0000,0000,,Where you go and what you do is up to you.
+Dialogue: 0,0:12:16.21,0:12:20.29,Momo_Main,Gi,0000,0000,0000,,But remember this.
+Dialogue: 0,0:12:20.29,0:12:23.23,Momo_Main,Gi,0000,0000,0000,,This is your home.
+Dialogue: 0,0:12:23.44,0:12:25.60,Momo_Main,Gi,0000,0000,0000,,It's everyone's home.
+Dialogue: 0,0:12:26.05,0:12:29.37,Momo_Main,Gi,0000,0000,0000,,You can come home whenever you want.
+Dialogue: 0,0:12:32.61,0:12:35.50,Momo_Main,M,0000,0000,0000,,Grandpa, Grandma!
+Dialogue: 0,0:12:48.33,0:12:49.58,Momo_Main,M,0000,0000,0000,,Thank you.
+Dialogue: 0,0:12:50.17,0:12:54.90,Momo_Main,M,0000,0000,0000,,Grandpa, Grandma, I love you!
+Dialogue: 0,0:13:01.68,0:13:03.38,Momo_Main,Gu,0000,0000,0000,,Be careful.
+Dialogue: 0,0:13:03.38,0:13:06.91,Momo_Main,Gi,0000,0000,0000,,We'll always be waiting for you.
+Dialogue: 0,0:13:06.91,0:13:09.69,Momo_Main,M,0000,0000,0000,,When it's all over I'm coming back.
+Dialogue: 0,0:13:10.33,0:13:11.64,Momo_Main,M,0000,0000,0000,,To this home...
+Dialogue: 0,0:13:11.64,0:13:13.07,Momo_Main,Gu,0000,0000,0000,,Momoko!
+Dialogue: 0,0:13:14.30,0:13:15.65,Momo_Main,M,0000,0000,0000,,Okay, I'm off!
+Dialogue: 0,0:13:24.57,0:13:25.89,Momo_Main,S,0000,0000,0000,,She's late.
+Dialogue: 0,0:13:25.89,0:13:27.47,Momo_Main,S,0000,0000,0000,,Is this going to be okay?
+Dialogue: 0,0:13:40.05,0:13:41.59,Momo_Main,M,0000,0000,0000,,I'm back, everybody!
+Dialogue: 0,0:13:41.59,0:13:43.67,Momo_Main,Gi,0000,0000,0000,,Momoko, are you ready to go?
+Dialogue: 0,0:13:43.88,0:13:45.68,Momo_Main,M,0000,0000,0000,,Yeah, I'm fine now.
+Dialogue: 0,0:13:46.70,0:13:47.94,Momo_Main,Gi,0000,0000,0000,,I'm glad.
+Dialogue: 0,0:13:47.94,0:13:50.10,Momo_Main,Gi,0000,0000,0000,,You kept us waiting too long.
+Dialogue: 0,0:13:50.10,0:13:52.95,Momo_Main,Gi,0000,0000,0000,,You're going to pay us back for that.
+Dialogue: 0,0:13:52.95,0:13:55.95,Momo_Main,Gi,0000,0000,0000,,So let's go to Onigashima.
+Dialogue: 0,0:13:56.38,0:13:58.64,Momo_Main,O,0000,0000,0000,,There are fewer fragments in the sky.
+Dialogue: 0,0:13:58.64,0:14:00.46,Momo_Main,O,0000,0000,0000,,There's no time left.
+Dialogue: 0,0:14:00.79,0:14:01.44,Momo_Main,M,0000,0000,0000,,Yeah.
+Dialogue: 0,0:14:11.18,0:14:13.33,Momo_Main,Gi,0000,0000,0000,,The fragments are going under the sea?
+Dialogue: 0,0:14:14.00,0:14:14.81,Momo_Main,M,0000,0000,0000,,Ringo!
+Dialogue: 0,0:14:21.63,0:14:22.90,Momo_Main,M,0000,0000,0000,,It's over there...
+Dialogue: 0,0:14:26.24,0:14:27.46,Momo_Main,M,0000,0000,0000,,Onigashima!
+Dialogue: 0,0:14:54.62,0:14:56.74,Momo_Main,Y,0000,0000,0000,,So this is the Michimi Peach...
+Dialogue: 0,0:14:57.04,0:14:58.88,Momo_Main,K,0000,0000,0000,,The complete form is extremely powerful.
+Dialogue: 0,0:14:58.88,0:15:00.57,Momo_Main,K,0000,0000,0000,,Its energy is incredible.
+Dialogue: 0,0:15:01.80,0:15:03.44,Momo_Main,J,0000,0000,0000,,Is it done?
+Dialogue: 0,0:15:08.07,0:15:10.94,Momo_Main,Y,0000,0000,0000,,O-Oh, Jakiou-sama!
+Dialogue: 0,0:15:13.37,0:15:15.26,Momo_Main,J,0000,0000,0000,,You have my thanks, Kaguya.
+Dialogue: 0,0:15:28.04,0:15:31.04,Momo_Main,K,0000,0000,0000,,Energy transmission to the engine is at 100%.
+Dialogue: 0,0:15:31.93,0:15:33.41,Momo_Main,K,0000,0000,0000,,120%...
+Dialogue: 0,0:15:33.85,0:15:34.88,Momo_Main,K,0000,0000,0000,,It's ready to go!
+Dialogue: 0,0:15:35.22,0:15:38.44,Momo_Main,J,0000,0000,0000,,Activate Onigashima!
+Dialogue: 0,0:15:50.50,0:15:51.90,Momo_Main,M,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:16:21.37,0:16:23.28,Momo_Main,M,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:16:23.28,0:16:24.93,Momo_Main,Gi,0000,0000,0000,,Onigashima...
+Dialogue: 0,0:16:24.93,0:16:26.22,Momo_Main,S,0000,0000,0000,,This power...
+Dialogue: 0,0:16:26.68,0:16:29.29,Momo_Main,S,0000,0000,0000,,The Michimi Peach is complete?
+Dialogue: 0,0:16:35.17,0:16:38.97,Momo_Main,J,0000,0000,0000,,It's been many years since \Nthat horrible battle.
+Dialogue: 0,0:16:40.49,0:16:43.83,Momo_Main,J,0000,0000,0000,,And at last we have returned to Earth!
+Dialogue: 0,0:16:43.83,0:16:49.69,Momo_Main,J,0000,0000,0000,,With the power of the Michimi Peach, \Nwe have nothing to fear!
+Dialogue: 0,0:16:50.17,0:16:55.07,Momo_Main,J,0000,0000,0000,,The world belongs to the Oni!
+Dialogue: 0,0:17:14.51,0:17:15.83,Momo_Main,D,0000,0000,0000,,How horrible!
+Dialogue: 0,0:17:15.83,0:17:18.21,Momo_Main,Mo,0000,0000,0000,,They're just attacking at random!
+Dialogue: 0,0:17:18.58,0:17:20.48,Momo_Main,M,0000,0000,0000,,That's so mean!
+Dialogue: 0,0:17:26.00,0:17:29.99,Momo_Main,J,0000,0000,0000,,There you are, Celestial Maiden Sumeragi!
+Dialogue: 0,0:18:13.10,0:18:16.08,Momo_Main,J,0000,0000,0000,,It's been a long time, \NCelestial Maiden Sumeragi.
+Dialogue: 0,0:18:16.54,0:18:18.34,Momo_Main,J,0000,0000,0000,,Has it been since that day?
+Dialogue: 0,0:18:18.34,0:18:21.78,Momo_Main,Gi,0000,0000,0000,,Jakiou, why—
+Dialogue: 0,0:18:21.78,0:18:23.75,Momo_Main,J,0000,0000,0000,,Why?
+Dialogue: 0,0:18:23.75,0:18:25.29,Momo_Main,J,0000,0000,0000,,You would ask me that?
+Dialogue: 0,0:18:25.92,0:18:33.69,Momo_Main,J,0000,0000,0000,,That day, you sent us Oni to the bottom of \Nthe Earth with your overwhelming power.
+Dialogue: 0,0:18:34.02,0:18:36.23,Momo_Main,J,0000,0000,0000,,And you would ask me why?
+Dialogue: 0,0:18:38.94,0:18:44.11,Momo_Main,J,0000,0000,0000,,The Celestial World refused \Nto allow rule by force,
+Dialogue: 0,0:18:44.59,0:18:50.07,Momo_Main,J,0000,0000,0000,,and so we sent Onigashima to the \Nsky with an incomplete reactor.
+Dialogue: 0,0:18:58.25,0:19:05.93,Momo_Main,J,0000,0000,0000,,But you used even greater power to fight us!
+Dialogue: 0,0:19:30.75,0:19:32.98,Momo_Main,J,0000,0000,0000,,Isn't it ironic?
+Dialogue: 0,0:19:33.31,0:19:38.62,Momo_Main,J,0000,0000,0000,,You denied the use of power, \Nand in the end you relied on it.
+Dialogue: 0,0:19:39.14,0:19:40.38,Momo_Main,Gi,0000,0000,0000,,No!
+Dialogue: 0,0:19:40.38,0:19:43.20,Momo_Main,Gi,0000,0000,0000,,Rule by force invites greater force.
+Dialogue: 0,0:19:43.20,0:19:45.76,Momo_Main,Gi,0000,0000,0000,,There's no future there.
+Dialogue: 0,0:19:46.19,0:19:49.99,Momo_Main,J,0000,0000,0000,,That is the world we Oni desire.
+Dialogue: 0,0:19:50.51,0:19:56.77,Momo_Main,J,0000,0000,0000,,The Michimi Peach that destroyed \NOnigashima that day is now in our hands.
+Dialogue: 0,0:19:57.09,0:20:01.76,Momo_Main,J,0000,0000,0000,,Resist all you like, just as we did then!
+Dialogue: 0,0:20:01.76,0:20:06.01,Momo_Main,J,0000,0000,0000,,And then bow before this power!
+Dialogue: 0,0:20:19.17,0:20:20.38,Momo_Main,Gi,0000,0000,0000,,The Celestial World...
+Dialogue: 0,0:20:20.38,0:20:22.54,Momo_Main,Mo,0000,0000,0000,,Those jerks!
+Dialogue: 0,0:20:22.54,0:20:25.79,Momo_Main,S,0000,0000,0000,,The only way to stop those attacks \Nis to enter Onigashima
+Dialogue: 0,0:20:25.79,0:20:27.46,Momo_Main,S,0000,0000,0000,,and retrieve the Michimi Peach,
+Dialogue: 0,0:20:27.46,0:20:29.53,Momo_Main,S,0000,0000,0000,,or destroy it.
+Dialogue: 0,0:20:29.97,0:20:31.17,Momo_Main,Gi,0000,0000,0000,,Let's go.
+Dialogue: 0,0:20:31.17,0:20:33.81,Momo_Main,Gi,0000,0000,0000,,At this rate the Celestial World \Nand the Human World
+Dialogue: 0,0:20:33.81,0:20:35.54,Momo_Main,Gi,0000,0000,0000,,will end up belonging to the Oni.
+Dialogue: 0,0:20:35.95,0:20:36.67,Momo_Main,M,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:43.77,0:20:44.55,Momo_Main,Y,0000,0000,0000,,That's...
+Dialogue: 0,0:20:51.34,0:20:52.79,Momo_Main,J,0000,0000,0000,,Intercept them.
+Dialogue: 0,0:20:52.79,0:20:53.53,Momo_Main,All,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:20:58.74,0:20:59.95,Momo_Main,E,0000,0000,0000,,Princess?
+Dialogue: 0,0:21:06.86,0:21:07.70,Momo_Main,O,0000,0000,0000,,Father.
+Dialogue: 0,0:21:08.79,0:21:10.22,Momo_Main,O,0000,0000,0000,,I need to talk to you.
+Dialogue: 0,0:21:19.02,0:21:20.31,Momo_Main,,0000,0000,0000,,Hot! Hot! Hot!
+Dialogue: 0,0:21:24.40,0:21:26.06,Momo_Main,M,0000,0000,0000,,Ringo, are you okay?
+Dialogue: 0,0:21:26.06,0:21:27.86,Momo_Main,Gi,0000,0000,0000,,I'm fine.
+Dialogue: 0,0:21:27.86,0:21:29.46,Momo_Main,Gi,0000,0000,0000,,I can't lose this fight!
+Dialogue: 0,0:21:49.53,0:21:50.91,Momo_Main,M,0000,0000,0000,,Let's go, everyone!
+Dialogue: 0,0:21:50.91,0:21:52.09,Momo_Main,All,0000,0000,0000,,Yeah!
+Dialogue: 0,0:23:25.90,0:23:28.53,Momo_Main,All,0000,0000,0000,,Next time we'll be fighting at Onigashima!
+Dialogue: 0,0:23:28.53,0:23:29.54,Momo_Main,All,0000,0000,0000,,I have a bad feeling.
+Dialogue: 0,0:23:28.69,0:23:31.68,Preview_Item_Bottom,,0000,0000,0000,,{\fad(235,285)}Oni Manju?
+Dialogue: 0,0:23:29.54,0:23:31.02,Momo_Main,All,0000,0000,0000,,What are they famous for?
+Dialogue: 0,0:23:31.02,0:23:31.86,Momo_Main,All,0000,0000,0000,,Manju?
+Dialogue: 0,0:23:31.41,0:23:33.91,Preview_Item_Top,,0000,0000,0000,,{\fad(285,245)}Oni Manju?
+Dialogue: 0,0:23:31.86,0:23:32.96,Momo_Main,All,0000,0000,0000,,Big trouble!
+Dialogue: 0,0:23:32.96,0:23:35.42,Momo_Main,All,0000,0000,0000,,Oh, right, Onigashima's famous big trouble!
+Dialogue: 0,0:23:33.68,0:23:36.18,Preview_Item_Bottom,,0000,0000,0000,,{\fad(250,280)}Oni Manju
+Dialogue: 0,0:23:35.42,0:23:37.74,Momo_Main,All,0000,0000,0000,,Pay attention!
+Dialogue: 0,0:23:35.91,0:23:40.95,Momo_Next_Ep_Title,,0000,0000,0000,,{\fad(290,1)}Next time: \NThe Last Battle! \NMomoko vs. Jakiou!!
+Dialogue: 0,0:23:37.74,0:23:40.95,Momo_Main,,0000,0000,0000,,I'm in big trouble, too!

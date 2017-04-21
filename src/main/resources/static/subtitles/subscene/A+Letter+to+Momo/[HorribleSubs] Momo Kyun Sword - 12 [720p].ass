@@ -1,0 +1,345 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Flashback_Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: Momo_Narration,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000028,&H00000028,0,1,0,0,100,100,0,0,1,2,1,2,13,13,24,1
+Style: Momo_Ep_Title,Open Sans Semibold,33,&H00020302,&H000000FF,&H00949592,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,344,13,33,1
+Style: Momo_Location,Open Sans Semibold,42,&H00020302,&H000000FF,&H00C1C3BC,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,13,13,33,1
+Style: Momo_Possession,Open Sans Semibold,45,&H00000000,&H000000FF,&H00A87963,&H009A5237,1,0,0,0,100,100,0,0,1,2,2,8,13,13,27,1
+Style: Momo_Show_Title,Open Sans Semibold,42,&H005DDDFF,&H000000FF,&H00FFFFFF,&H00C635FE,1,1,0,0,100,100,0,0,1,4,2,8,13,13,67,1
+Style: Momo_Next_Ep_Title,Open Sans Semibold,36,&H00000000,&H000000FF,&H00E1E3E3,&H00000000,1,0,0,0,100,100,0,0,1,2,0,3,13,293,320,1
+Style: Preview_Item_Top,Open Sans Semibold,45,&H00000000,&H000000FF,&H00000000,&H00FFFFFF,1,0,0,0,100,100,0,0,1,0,2,7,67,13,67,1
+Style: Preview_Item_Bottom,Open Sans Semibold,45,&H00000000,&H000000FF,&H00000000,&H00FFFFFF,1,0,0,0,100,100,0,0,1,0,2,1,77,13,107,1
+Style: building_18:35,Open Sans Semibold,30,&H001E2332,&H000000FF,&H00526985,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,13,13,27,1
+Style: End,Open Sans Semibold,51,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,80,13,107,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:22.96,0:00:24.04,Momo_Main,O,0000,0000,0000,,Father...
+Dialogue: 0,0:00:26.83,0:00:30.01,Momo_Main,J,0000,0000,0000,,You would still call me father?
+Dialogue: 0,0:00:30.61,0:00:33.98,Momo_Main,O,0000,0000,0000,,I don't know what to do!
+Dialogue: 0,0:00:34.70,0:00:37.18,Momo_Main,O,0000,0000,0000,,I don't even know who I am.
+Dialogue: 0,0:00:37.71,0:00:40.26,Momo_Main,O,0000,0000,0000,,Am I an Oni? A celestial maiden?
+Dialogue: 0,0:00:40.26,0:00:41.52,Momo_Main,O,0000,0000,0000,,Or...
+Dialogue: 0,0:00:41.87,0:00:43.85,Momo_Main,J,0000,0000,0000,,You are a fool, girl.
+Dialogue: 0,0:00:44.72,0:00:49.26,Momo_Main,J,0000,0000,0000,,No matter who you are, there is \None thing that will never change.
+Dialogue: 0,0:00:50.24,0:00:52.36,Momo_Main,J,0000,0000,0000,,You are you.
+Dialogue: 0,0:00:54.94,0:00:57.13,Momo_Main,O,0000,0000,0000,,I am me?
+Dialogue: 0,0:00:57.63,0:01:01.40,Momo_Main,J,0000,0000,0000,,There is nothing left to tie you down.
+Dialogue: 0,0:01:01.72,0:01:03.80,Momo_Main,J,0000,0000,0000,,Live as you like.
+Dialogue: 0,0:01:05.69,0:01:07.97,Momo_Main,O,0000,0000,0000,,Wait, I...
+Dialogue: 0,0:01:08.49,0:01:09.50,Momo_Main,O,0000,0000,0000,,I...
+Dialogue: 0,0:01:39.89,0:01:43.92,Momo_Main,Gi,0000,0000,0000,,Power is a mirror that reveals \Nthe heart of he who wields it.
+Dialogue: 0,0:01:45.04,0:01:49.00,Momo_Main,Gi,0000,0000,0000,,Jakiou, your heart is warped and twisted;
+Dialogue: 0,0:01:49.00,0:01:51.90,Momo_Main,Gi,0000,0000,0000,,it could never defeat \NMomoko-san and the others.
+Dialogue: 0,0:01:52.59,0:01:55.38,Momo_Main,Gi,0000,0000,0000,,Why didn't you realize that?
+Dialogue: 0,0:02:04.71,0:02:10.00,Momo_Main,Y,0000,0000,0000,,So long as I possess this, \Nmy power will be amplified!
+Dialogue: 0,0:02:10.33,0:02:13.77,Momo_Main,Y,0000,0000,0000,,These wounds will heal quickly!
+Dialogue: 0,0:02:16.58,0:02:18.01,Momo_Main,S,0000,0000,0000,,Stop it, Youki!
+Dialogue: 0,0:02:19.50,0:02:20.91,Momo_Main,Y,0000,0000,0000,,You're too late!
+Dialogue: 0,0:02:20.91,0:02:24.89,Momo_Main,Y,0000,0000,0000,,The power of the Michimi Peach \Nnow belongs to me!
+Dialogue: 0,0:02:28.61,0:02:29.79,Momo_Main,Y,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:02:38.17,0:02:39.68,Momo_Main,Y,0000,0000,0000,,What is this?
+Dialogue: 0,0:02:39.68,0:02:41.30,Momo_Main,Y,0000,0000,0000,,What's going on?
+Dialogue: 0,0:02:41.63,0:02:43.22,Momo_Main,K,0000,0000,0000,,Foolish man.
+Dialogue: 0,0:02:45.49,0:02:46.67,Momo_Main,Y,0000,0000,0000,,Kaguya!
+Dialogue: 0,0:02:47.02,0:02:51.26,Momo_Main,K,0000,0000,0000,,The Michimi Peach has fused once \Nagain and activated its power.
+Dialogue: 0,0:02:51.26,0:02:55.36,Momo_Main,K,0000,0000,0000,,Its power is too great, \Nand it has become unstable.
+Dialogue: 0,0:02:55.94,0:02:57.32,Momo_Main,K,0000,0000,0000,,Did I forget to tell you?
+Dialogue: 0,0:02:58.76,0:03:00.82,Momo_Main,Y,0000,0000,0000,,You little—
+Dialogue: 0,0:03:01.53,0:03:03.38,Momo_Main,Y,0000,0000,0000,,I won't give up!
+Dialogue: 0,0:03:03.38,0:03:09.06,Momo_Main,Y,0000,0000,0000,,If I can master this power \NI will surpass even Jakiou!
+Dialogue: 0,0:03:18.36,0:03:22.82,Momo_Main,Y,0000,0000,0000,,Wh-What... incredible power!
+Dialogue: 0,0:03:22.82,0:03:25.70,Momo_Main,Y,0000,0000,0000,,What wonderful power!
+Dialogue: 0,0:03:29.33,0:03:32.28,Momo_Main,Y,0000,0000,0000,,My wounds are healing!
+Dialogue: 0,0:03:38.92,0:03:40.64,Momo_Main,Y,0000,0000,0000,,What? What's going on?
+Dialogue: 0,0:03:41.61,0:03:42.19,Momo_Main,Y,0000,0000,0000,,This is...
+Dialogue: 0,0:03:46.01,0:03:49.51,Momo_Main,Y,0000,0000,0000,,My body is disappearing!
+Dialogue: 0,0:03:49.51,0:03:51.44,Momo_Main,Y,0000,0000,0000,,Th-Th-Th-That's...
+Dialogue: 0,0:03:51.44,0:03:53.55,Momo_Main,Y,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:03:55.72,0:03:58.21,Momo_Main,K,0000,0000,0000,,What a fool.
+Dialogue: 0,0:04:15.26,0:04:16.78,Momo_Main,Ku,0000,0000,0000,,Onigashima!
+Dialogue: 0,0:04:16.78,0:04:18.66,Momo_Main,Gi,0000,0000,0000,,No! If nobody stops it...
+Dialogue: 0,0:04:28.12,0:04:29.39,Momo_Main,Gu,0000,0000,0000,,Wh-What's going on?
+Dialogue: 0,0:04:29.39,0:04:30.99,Momo_Main,Gi,0000,0000,0000,,What's happening?
+Dialogue: 0,0:04:31.87,0:04:32.68,Momo_Main,Gi,0000,0000,0000,,This is...
+Dialogue: 0,0:04:36.53,0:04:37.35,Momo_Main,Gi,0000,0000,0000,,It can't be!
+Dialogue: 0,0:04:38.27,0:04:39.61,Momo_Main,Gi,0000,0000,0000,,We need to go, too!
+Dialogue: 0,0:04:39.61,0:04:40.68,Momo_Main,Gi,0000,0000,0000,,Yeah!
+Dialogue: 0,0:04:47.78,0:04:51.46,Momo_Main,Gi,0000,0000,0000,,That power is great enough \Nto float all of Onigashima.
+Dialogue: 0,0:04:51.46,0:04:55.41,Momo_Main,Gi,0000,0000,0000,,A single Oni couldn't contain it.
+Dialogue: 0,0:04:57.39,0:04:59.47,Momo_Main,Gi,0000,0000,0000,,I've got to start all over again.
+Dialogue: 0,0:05:00.97,0:05:02.34,Momo_Main,M,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:05:02.62,0:05:07.65,Momo_Main,Gi,0000,0000,0000,,The Michimi Peach that was keeping \NOnigashima afloat is gone.
+Dialogue: 0,0:05:07.65,0:05:09.37,Momo_Main,Gi,0000,0000,0000,,Now it's going to fall.
+Dialogue: 0,0:05:09.37,0:05:12.59,Momo_Main,Gu,0000,0000,0000,,I-Is now the time for calm explanations?
+Dialogue: 0,0:05:12.59,0:05:13.85,Momo_Main,Gu,0000,0000,0000,,We need to get out of here!
+Dialogue: 0,0:05:26.64,0:05:27.90,Momo_Main,M,0000,0000,0000,,Onihime...
+Dialogue: 0,0:05:34.84,0:05:39.32,Momo_Show_Title,,0000,0000,0000,,{\fad(1200,1)}Momo {\c&H93A5FF&}Kyun {\c&HC736FF&}Sword
+Dialogue: 0,0:06:59.20,0:07:02.77,Momo_Ep_Title,,0000,0000,0000,,{\fad(435,430)}Episode 12: \NPeach Fantasy! Momo Kyun Sword
+Dialogue: 0,0:07:09.23,0:07:11.43,Momo_Main,E,0000,0000,0000,,Hey, what happened?
+Dialogue: 0,0:07:12.54,0:07:13.55,Momo_Main,E,0000,0000,0000,,Princess!
+Dialogue: 0,0:07:14.77,0:07:17.06,Momo_Main,O,0000,0000,0000,,I haven't settled things with you.
+Dialogue: 0,0:07:17.85,0:07:19.47,Momo_Main,O,0000,0000,0000,,Fight me, Momoko!
+Dialogue: 0,0:07:19.82,0:07:22.81,Momo_Main,M,0000,0000,0000,,Now's not the time for this!
+Dialogue: 0,0:07:22.81,0:07:24.77,Momo_Main,M,0000,0000,0000,,Onigashima is falling!
+Dialogue: 0,0:07:24.77,0:07:25.74,Momo_Main,M,0000,0000,0000,,We need to escape—
+Dialogue: 0,0:07:25.74,0:07:26.68,Momo_Main,O,0000,0000,0000,,Shut up!
+Dialogue: 0,0:07:31.15,0:07:32.89,Momo_Main,O,0000,0000,0000,,Here I come, Momoko!
+Dialogue: 0,0:07:33.45,0:07:37.12,Momo_Main,O,0000,0000,0000,,As a princess of the Oni, I'll defeat you!
+Dialogue: 0,0:07:40.06,0:07:41.21,Momo_Main,M,0000,0000,0000,,Stop it!
+Dialogue: 0,0:07:41.21,0:07:43.13,Momo_Main,M,0000,0000,0000,,We're sisters!
+Dialogue: 0,0:07:43.85,0:07:46.12,Momo_Main,M,0000,0000,0000,,There's no reason for us to fight!
+Dialogue: 0,0:07:46.12,0:07:47.00,Momo_Main,O,0000,0000,0000,,Shut up!
+Dialogue: 0,0:07:49.00,0:07:50.27,Momo_Main,O,0000,0000,0000,,Shut up! Shut up!
+Dialogue: 0,0:07:50.51,0:07:53.00,Momo_Main,O,0000,0000,0000,,I'm the daughter of Jakiou, Onihime!
+Dialogue: 0,0:07:53.53,0:07:57.57,Momo_Main,O,0000,0000,0000,,With my father gone, \NI'm the leader of the Oni now!
+Dialogue: 0,0:07:57.57,0:07:58.77,Momo_Main,O,0000,0000,0000,,Prepare yourself!
+Dialogue: 0,0:07:59.35,0:08:00.41,Momo_Main,M,0000,0000,0000,,No...
+Dialogue: 0,0:08:01.29,0:08:03.85,Momo_Main,M,0000,0000,0000,,But... but I...
+Dialogue: 0,0:08:03.85,0:08:05.80,Momo_Main,O,0000,0000,0000,,Shut up! Shut up!
+Dialogue: 0,0:08:06.99,0:08:09.35,Momo_Main,O,0000,0000,0000,,Stop running, and fight me!
+Dialogue: 0,0:08:11.47,0:08:13.04,Momo_Main,O,0000,0000,0000,,What's wrong, Momoko?
+Dialogue: 0,0:08:13.04,0:08:14.36,Momo_Main,O,0000,0000,0000,,Come and get me!
+Dialogue: 0,0:08:14.77,0:08:15.96,Momo_Main,M,0000,0000,0000,,Onihime...
+Dialogue: 0,0:08:27.27,0:08:28.53,Momo_Main,D,0000,0000,0000,,Momoko-sama?
+Dialogue: 0,0:08:28.53,0:08:29.27,Momo_Main,Mo,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:08:29.99,0:08:32.23,Momo_Main,M,0000,0000,0000,,I'll fight on my own now.
+Dialogue: 0,0:08:33.36,0:08:35.01,Momo_Main,P,0000,0000,0000,,Wh-What are you saying?
+Dialogue: 0,0:08:35.80,0:08:39.26,Momo_Main,M,0000,0000,0000,,Onihime is throwing all of \Nher feelings into this fight.
+Dialogue: 0,0:08:39.79,0:08:41.58,Momo_Main,M,0000,0000,0000,,So I need to do the same.
+Dialogue: 0,0:08:42.18,0:08:43.78,Momo_Main,M,0000,0000,0000,,Come on, Onihime!
+Dialogue: 0,0:08:44.74,0:08:46.17,Momo_Main,O,0000,0000,0000,,Sounds good to me.
+Dialogue: 0,0:08:54.53,0:08:57.46,Momo_Main,D,0000,0000,0000,,Why do they have to fight?
+Dialogue: 0,0:08:57.46,0:08:59.39,Momo_Main,D,0000,0000,0000,,They're sisters!
+Dialogue: 0,0:08:59.39,0:09:01.21,Momo_Main,P,0000,0000,0000,,That's why.
+Dialogue: 0,0:09:01.80,0:09:04.82,Momo_Main,P,0000,0000,0000,,Onihime is suffering now that she \Nknows the secret of her birth.
+Dialogue: 0,0:09:05.27,0:09:09.26,Momo_Main,P,0000,0000,0000,,And Momo understands how she \Nfeels better than anybody!
+Dialogue: 0,0:09:09.26,0:09:13.40,Momo_Main,Mo,0000,0000,0000,,So she's trying to tackle \Nher feelings head-on?
+Dialogue: 0,0:09:13.40,0:09:14.55,Momo_Main,Mo,0000,0000,0000,,That's like Momoko!
+Dialogue: 0,0:09:31.93,0:09:33.43,Momo_Main,M,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:09:33.43,0:09:35.57,Momo_Main,M,0000,0000,0000,,You can't defeat me like this!
+Dialogue: 0,0:09:36.40,0:09:39.20,Momo_Main,O,0000,0000,0000,,I'm just getting started!
+Dialogue: 0,0:09:39.57,0:09:42.53,Momo_Main,Gi,0000,0000,0000,,Their swords are crying!
+Dialogue: 0,0:09:42.53,0:09:46.21,Momo_Main,Gi,0000,0000,0000,,But Momoko is accepting everything.
+Dialogue: 0,0:09:46.21,0:09:47.51,Momo_Main,Gi,0000,0000,0000,,Her rage...
+Dialogue: 0,0:09:47.51,0:09:48.57,Momo_Main,Gi,0000,0000,0000,,Her sadness...
+Dialogue: 0,0:09:49.67,0:09:52.25,Momo_Main,Gi,0000,0000,0000,,It's pure and honest.
+Dialogue: 0,0:09:52.25,0:09:54.06,Momo_Main,Gi,0000,0000,0000,,That's who Momoko is.
+Dialogue: 0,0:09:54.06,0:09:58.09,Momo_Main,Gi,0000,0000,0000,,My... what a bothersome sisters' quarrel.
+Dialogue: 0,0:09:58.49,0:10:01.33,Momo_Main,S,0000,0000,0000,,What are they doing at a time like this?
+Dialogue: 0,0:10:01.33,0:10:03.34,Momo_Main,Gi,0000,0000,0000,,I can't understand it at all.
+Dialogue: 0,0:10:03.85,0:10:05.60,Momo_Main,T,0000,0000,0000,,That's right.
+Dialogue: 0,0:10:06.30,0:10:08.75,Momo_Main,Gu,0000,0000,0000,,What Onihime-sama said back there...
+Dialogue: 0,0:10:09.86,0:10:12.34,Momo_Main,Gu,0000,0000,0000,,Jakiou-sama must already be...
+Dialogue: 0,0:10:12.34,0:10:13.60,Momo_Main,E,0000,0000,0000,,So it seems.
+Dialogue: 0,0:10:14.02,0:10:16.97,Momo_Main,E,0000,0000,0000,,But we don't need to worry, right?
+Dialogue: 0,0:10:18.83,0:10:21.28,Momo_Main,E,0000,0000,0000,,Because look.
+Dialogue: 0,0:10:21.28,0:10:23.98,Momo_Main,E,0000,0000,0000,,We've got a wonderful heir.
+Dialogue: 0,0:10:24.89,0:10:28.97,Momo_Main,E,0000,0000,0000,,No matter what happens, \Nthe princess is the princess, right?
+Dialogue: 0,0:10:30.41,0:10:31.23,Momo_Main,Gu,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:31.23,0:10:34.26,Momo_Main,E,0000,0000,0000,,Hang in there, Princess!
+Dialogue: 0,0:10:34.62,0:10:36.08,Momo_Main,O,0000,0000,0000,,I know!
+Dialogue: 0,0:10:37.07,0:10:39.53,Momo_Main,Mo,0000,0000,0000,,Momoko-sama! Fight!
+Dialogue: 0,0:10:39.53,0:10:41.33,Momo_Main,D,0000,0000,0000,,If you lose there's no dinner for you!
+Dialogue: 0,0:10:41.64,0:10:42.35,Momo_Main,M,0000,0000,0000,,Right!
+Dialogue: 0,0:10:42.35,0:10:43.28,Momo_Main,,0000,0000,0000,,Go!
+Dialogue: 0,0:10:44.29,0:10:46.14,Momo_Main,P,0000,0000,0000,,You can do it!
+Dialogue: 0,0:10:53.60,0:10:54.84,Momo_Main,Gu,0000,0000,0000,,The collapse stopped?
+Dialogue: 0,0:10:56.56,0:10:58.75,Momo_Main,Gi,0000,0000,0000,,Could this be...
+Dialogue: 0,0:11:08.05,0:11:11.43,Momo_Main,Gi,0000,0000,0000,,We'll stop Onigashima from falling!
+Dialogue: 0,0:11:11.43,0:11:13.13,Momo_Main,Gi,0000,0000,0000,,Everyone, hurry and escape!
+Dialogue: 0,0:11:13.47,0:11:16.00,Momo_Main,Gi,0000,0000,0000,,It won't last that long!
+Dialogue: 0,0:11:19.93,0:11:22.42,Momo_Main,Gi,0000,0000,0000,,That's Celestial Maiden Sumeragi-sama for you.
+Dialogue: 0,0:11:22.42,0:11:26.52,Momo_Main,Gi,0000,0000,0000,,Her kindness resonates throughout \Nthe entire universe.
+Dialogue: 0,0:11:26.52,0:11:29.36,Momo_Main,Gi,0000,0000,0000,,Now's not the time for this.
+Dialogue: 0,0:11:29.36,0:11:30.77,Momo_Main,Gi,0000,0000,0000,,Calm down.
+Dialogue: 0,0:11:30.77,0:11:32.85,Momo_Main,Gi,0000,0000,0000,,We can fly.
+Dialogue: 0,0:11:33.42,0:11:36.38,Momo_Main,Gi,0000,0000,0000,,Let's take Seimei-san and \Nthe others and escape.
+Dialogue: 0,0:11:36.75,0:11:37.79,Momo_Main,Gu,0000,0000,0000,,Wait a second.
+Dialogue: 0,0:11:39.05,0:11:40.39,Momo_Main,Gu,0000,0000,0000,,Th-This is bad.
+Dialogue: 0,0:11:40.39,0:11:41.83,Momo_Main,Gu,0000,0000,0000,,We can't fly.
+Dialogue: 0,0:11:41.83,0:11:43.16,Momo_Main,Gu,0000,0000,0000,,How do we get out?
+Dialogue: 0,0:11:43.52,0:11:45.95,Momo_Main,E,0000,0000,0000,,Jeez, you're annoying.
+Dialogue: 0,0:11:45.95,0:11:50.14,Momo_Main,E,0000,0000,0000,,We just need to grab some rope from the \Nstorehouse and climb down or something.
+Dialogue: 0,0:11:50.14,0:11:51.84,Momo_Main,G,0000,0000,0000,,Oh, I see.
+Dialogue: 0,0:11:51.84,0:11:52.80,Momo_Main,G,0000,0000,0000,,I'll get started.
+Dialogue: 0,0:11:53.25,0:11:56.13,Momo_Main,E,0000,0000,0000,,You take command and ensure everyone escapes.
+Dialogue: 0,0:11:56.13,0:11:56.90,Momo_Main,E,0000,0000,0000,,Got it?
+Dialogue: 0,0:11:57.27,0:11:58.11,Momo_Main,G,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:59.07,0:12:00.54,Momo_Main,G,0000,0000,0000,,What about you, Enki?
+Dialogue: 0,0:12:00.84,0:12:02.22,Momo_Main,E,0000,0000,0000,,I...
+Dialogue: 0,0:12:03.81,0:12:05.91,Momo_Main,E,0000,0000,0000,,I'm going to watch this to the end.
+Dialogue: 0,0:12:06.30,0:12:09.42,Momo_Main,E,0000,0000,0000,,It'd be sad if it were only \Nthe princess left here.
+Dialogue: 0,0:12:09.42,0:12:11.40,Momo_Main,G,0000,0000,0000,,B-But...
+Dialogue: 0,0:12:11.40,0:12:12.64,Momo_Main,E,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:12:12.64,0:12:15.45,Momo_Main,E,0000,0000,0000,,I'll escape with the princess.
+Dialogue: 0,0:12:15.45,0:12:17.42,Momo_Main,E,0000,0000,0000,,Now get going.
+Dialogue: 0,0:12:17.42,0:12:18.83,Momo_Main,G,0000,0000,0000,,O-Okay.
+Dialogue: 0,0:12:22.35,0:12:24.29,Momo_Main,Gi,0000,0000,0000,,I'm staying here.
+Dialogue: 0,0:12:24.29,0:12:25.95,Momo_Main,Gi,0000,0000,0000,,You guys escape.
+Dialogue: 0,0:12:26.85,0:12:28.67,Momo_Main,Gi,0000,0000,0000,,Wh-What are you saying?
+Dialogue: 0,0:12:28.67,0:12:30.44,Momo_Main,Gi,0000,0000,0000,,Don't you understand the situation?
+Dialogue: 0,0:12:30.79,0:12:31.96,Momo_Main,Gi,0000,0000,0000,,I do.
+Dialogue: 0,0:12:31.96,0:12:33.81,Momo_Main,Gi,0000,0000,0000,,That's why I'm staying!
+Dialogue: 0,0:12:33.81,0:12:38.58,Momo_Main,Gi,0000,0000,0000,,When Momoko wins, she'll need \Nsomeone to take her home, right?
+Dialogue: 0,0:12:39.35,0:12:41.26,Momo_Main,Gi,0000,0000,0000,,Ringo, you...
+Dialogue: 0,0:12:41.78,0:12:44.80,Momo_Main,Gi,0000,0000,0000,,We don't know for sure that Momoko will win.
+Dialogue: 0,0:12:45.72,0:12:46.59,Momo_Main,Gi,0000,0000,0000,,She will.
+Dialogue: 0,0:12:46.59,0:12:47.46,Momo_Main,Gi,0000,0000,0000,,I know it.
+Dialogue: 0,0:12:48.12,0:12:50.09,Momo_Main,Gi,0000,0000,0000,,I believe in her.
+Dialogue: 0,0:12:51.49,0:12:52.91,Momo_Main,Gi,0000,0000,0000,,Very well.
+Dialogue: 0,0:12:52.91,0:12:54.73,Momo_Main,Gi,0000,0000,0000,,Take care of things, then.
+Dialogue: 0,0:12:55.03,0:12:55.87,Momo_Main,Gi,0000,0000,0000,,Yeah!
+Dialogue: 0,0:12:55.87,0:12:57.76,Momo_Main,Gi,0000,0000,0000,,Make sure you come back!
+Dialogue: 0,0:12:57.76,0:12:59.23,Momo_Main,Gi,0000,0000,0000,,We'll be waiting!
+Dialogue: 0,0:12:59.54,0:13:04.81,Momo_Main,Mo,0000,0000,0000,,Now then, let's see the \Nresults of your training!
+Dialogue: 0,0:13:04.81,0:13:07.09,Momo_Main,M,0000,0000,0000,,No! You need to escape!
+Dialogue: 0,0:13:07.09,0:13:08.81,Momo_Main,D,0000,0000,0000,,What are you talking about?\N
+Dialogue: 0,0:13:08.81,0:13:13.60,Momo_Main,D,0000,0000,0000,,We three will stay with you forever.
+Dialogue: 0,0:13:13.60,0:13:15.49,Momo_Main,P,0000,0000,0000,,Let us stay with you.
+Dialogue: 0,0:13:15.49,0:13:16.48,Momo_Main,P,0000,0000,0000,,Okay, Momo?
+Dialogue: 0,0:13:16.78,0:13:17.80,Momo_Main,M,0000,0000,0000,,Inugami!
+Dialogue: 0,0:13:17.80,0:13:18.93,Momo_Main,M,0000,0000,0000,,Sarugami!
+Dialogue: 0,0:13:18.93,0:13:20.13,Momo_Main,M,0000,0000,0000,,Kijigami!
+Dialogue: 0,0:13:21.29,0:13:22.35,Momo_Main,M,0000,0000,0000,,Thanks!
+Dialogue: 0,0:13:30.33,0:13:33.00,Momo_Main,G,0000,0000,0000,,Calm down and go down one by one!
+Dialogue: 0,0:13:33.22,0:13:34.50,Momo_Main,G,0000,0000,0000,,Don't panic!
+Dialogue: 0,0:13:44.72,0:13:46.41,Momo_Main,Gi,0000,0000,0000,,I can't hold it anymore!
+Dialogue: 0,0:14:01.86,0:14:03.43,Momo_Main,O,0000,0000,0000,,Wh-Why you...
+Dialogue: 0,0:14:03.64,0:14:05.24,Momo_Main,M,0000,0000,0000,,You're too slow, Onihime!
+Dialogue: 0,0:14:05.24,0:14:07.53,Momo_Main,M,0000,0000,0000,,Did you think you could beat me like that?
+Dialogue: 0,0:14:08.33,0:14:09.45,Momo_Main,O,0000,0000,0000,,Shut up!
+Dialogue: 0,0:14:09.45,0:14:10.76,Momo_Main,O,0000,0000,0000,,I'm still coming!
+Dialogue: 0,0:14:16.81,0:14:19.15,Momo_Main,M,0000,0000,0000,,There's too big an opening after you attack.
+Dialogue: 0,0:14:19.15,0:14:20.04,Momo_Main,M,0000,0000,0000,,Thirty points.
+Dialogue: 0,0:14:20.32,0:14:21.64,Momo_Main,O,0000,0000,0000,,What?
+Dialogue: 0,0:14:24.23,0:14:26.44,Momo_Main,M,0000,0000,0000,,You're telegraphing your attacks.
+Dialogue: 0,0:14:26.44,0:14:27.18,Momo_Main,M,0000,0000,0000,,Zero points!
+Dialogue: 0,0:14:28.61,0:14:29.45,Momo_Main,O,0000,0000,0000,,Shut up!
+Dialogue: 0,0:14:30.67,0:14:31.79,Momo_Main,O,0000,0000,0000,,Shut up! Shut up!
+Dialogue: 0,0:14:33.06,0:14:35.83,Momo_Main,M,0000,0000,0000,,You think you can lead the Oni like that?
+Dialogue: 0,0:14:35.83,0:14:37.19,Momo_Main,M,0000,0000,0000,,Aren't you embarrassed?
+Dialogue: 0,0:14:38.19,0:14:38.69,Momo_Main,O,0000,0000,0000,,Shut up!
+Dialogue: 0,0:14:38.97,0:14:40.70,Momo_Main,O,0000,0000,0000,,Shut up! Shut up!
+Dialogue: 0,0:14:41.33,0:14:43.25,Momo_Main,O,0000,0000,0000,,Here I come, Momoko!
+Dialogue: 0,0:14:43.72,0:14:46.12,Momo_Main,O,0000,0000,0000,,I'll put all my power into this attack!
+Dialogue: 0,0:14:46.62,0:14:47.66,Momo_Main,O,0000,0000,0000,,Here I come!
+Dialogue: 0,0:14:47.66,0:14:49.97,Momo_Main,M,0000,0000,0000,,I accept your challenge, Onihime!
+Dialogue: 0,0:14:53.07,0:14:53.84,Momo_Main,P,0000,0000,0000,,Momo!
+Dialogue: 0,0:15:00.31,0:15:01.72,Momo_Main,M,0000,0000,0000,,I win.
+Dialogue: 0,0:15:04.04,0:15:06.35,Momo_Main,M,0000,0000,0000,,Come at me as many times as you like.
+Dialogue: 0,0:15:06.35,0:15:08.86,Momo_Main,M,0000,0000,0000,,I'll fight you as much as you want!
+Dialogue: 0,0:15:15.00,0:15:16.80,Momo_Main,Gi,0000,0000,0000,,You did it, Momoko!
+Dialogue: 0,0:15:21.15,0:15:22.86,Momo_Main,G,0000,0000,0000,,Is there anybody left?
+Dialogue: 0,0:15:30.66,0:15:32.28,Momo_Main,Gi,0000,0000,0000,,Everyone, hurry!
+Dialogue: 0,0:15:40.36,0:15:42.42,Momo_Main,Gi,0000,0000,0000,,Everybody, we're getting out of here!
+Dialogue: 0,0:15:42.65,0:15:44.42,Momo_Main,Gi,0000,0000,0000,,Hurry, Princess!
+Dialogue: 0,0:15:46.95,0:15:47.73,Momo_Main,M,0000,0000,0000,,Onihime!
+Dialogue: 0,0:15:50.86,0:15:52.97,Momo_Main,O,0000,0000,0000,,M-Momoko?
+Dialogue: 0,0:15:58.24,0:15:59.13,Momo_Main,All,0000,0000,0000,,Momo!
+Dialogue: 0,0:15:58.24,0:16:00.49,Momo_Main,All,0000,0000,0000,,Momoko-sama!
+Dialogue: 0,0:15:59.13,0:16:00.49,Momo_Main,All,0000,0000,0000,,Princess!
+Dialogue: 0,0:16:06.13,0:16:07.95,Momo_Main,,0000,0000,0000,,Momo Kyun Sword!
+Dialogue: 0,0:16:15.47,0:16:18.10,Momo_Main,Gi,0000,0000,0000,,It's been months since the \Nincident at Onigashima.
+Dialogue: 0,0:16:18.74,0:16:21.84,Momo_Main,Gi,0000,0000,0000,,The recovery in the human world \Nis still lagging behind schedule.
+Dialogue: 0,0:16:22.27,0:16:25.78,Momo_Main,Gi,0000,0000,0000,,You must help the people.
+Dialogue: 0,0:16:25.78,0:16:28.70,Momo_Main,Gi,0000,0000,0000,,Understood, Celestial Maiden Sumeragi-sama!
+Dialogue: 0,0:16:29.28,0:16:33.40,Momo_Main,Gi,0000,0000,0000,,I'm counting on you, members of \Nthe new Celestial Maiden Squad!
+Dialogue: 0,0:16:33.82,0:16:34.57,Momo_Main,Gi,0000,0000,0000,,Right!
+Dialogue: 0,0:16:40.43,0:16:41.80,Momo_Main,Gi,0000,0000,0000,,Celestial Maiden Sumeragi-sama!
+Dialogue: 0,0:16:47.26,0:16:49.59,Momo_Main,Gi,0000,0000,0000,,Oh, my! It's the members of the \Nold Celestial Maiden Squad!
+Dialogue: 0,0:16:49.95,0:16:52.26,Momo_Main,Gi,0000,0000,0000,,Stop calling us the old squad.
+Dialogue: 0,0:16:52.26,0:16:54.73,Momo_Main,Gi,0000,0000,0000,,We're still working.
+Dialogue: 0,0:16:54.98,0:16:56.44,Momo_Main,Gi,0000,0000,0000,,That's right.
+Dialogue: 0,0:16:57.93,0:17:02.74,Momo_Main,Gi,0000,0000,0000,,You girls, help the human world recover, too.
+Dialogue: 0,0:17:02.74,0:17:03.54,Momo_Main,Gi,0000,0000,0000,,Right!
+Dialogue: 0,0:17:07.21,0:17:09.59,Momo_Main,Gi,0000,0000,0000,,Um, Celestial Maiden Sumeragi-sama,
+Dialogue: 0,0:17:09.59,0:17:13.88,Momo_Main,Gi,0000,0000,0000,,you should sacrifice me to ensure \Nthe prosperity of the human world...
+Dialogue: 0,0:17:14.41,0:17:17.07,Momo_Main,Gi,0000,0000,0000,,By the way, I wanted to ask you something.
+Dialogue: 0,0:17:17.91,0:17:21.02,Momo_Main,Gi,0000,0000,0000,,Would you like to be idols again?
+Dialogue: 0,0:17:24.82,0:17:29.07,Momo_Main,Gi,0000,0000,0000,,Look, I've already made new outfits,
+Dialogue: 0,0:17:29.07,0:17:32.17,Momo_Main,Gi,0000,0000,0000,,and I've ordered a new song from Flying Dog!
+Dialogue: 0,0:17:32.78,0:17:37.21,Momo_Main,Gi,0000,0000,0000,,It's time for the second stage of the \Nidols of the Celestial Maiden Squad!
+Dialogue: 0,0:17:40.14,0:17:42.44,Momo_Main,Gi,0000,0000,0000,,She didn't learn a thing.
+Dialogue: 0,0:17:42.44,0:17:46.84,Momo_Main,Gi,0000,0000,0000,,But I love her anyway!
+Dialogue: 0,0:17:46.84,0:17:50.31,Momo_Main,Gi,0000,0000,0000,,I have a horrible feeling about this...
+Dialogue: 0,0:17:54.22,0:17:59.09,Momo_Main,Gu,0000,0000,0000,,Then you don't intend to complete \Nthe Michimi Peach again?
+Dialogue: 0,0:17:59.53,0:18:00.70,Momo_Main,Gi,0000,0000,0000,,That's right.
+Dialogue: 0,0:18:01.31,0:18:04.24,Momo_Main,Gi,0000,0000,0000,,That power was too much for me, too.
+Dialogue: 0,0:18:04.24,0:18:07.10,Momo_Main,Gi,0000,0000,0000,,I can't control it either like that.
+Dialogue: 0,0:18:07.10,0:18:08.45,Momo_Main,Gu,0000,0000,0000,,I see.
+Dialogue: 0,0:18:08.45,0:18:12.10,Momo_Main,Gi,0000,0000,0000,,But I can control it when it's fragmented.
+Dialogue: 0,0:18:13.65,0:18:17.66,Momo_Main,Gi,0000,0000,0000,,As long as I don't mess up the energy \Nratio and the amount of fragments,
+Dialogue: 0,0:18:17.66,0:18:19.47,Momo_Main,Gi,0000,0000,0000,,I should be able to return to the moon.
+Dialogue: 0,0:18:20.20,0:18:22.35,Momo_Main,Gi,0000,0000,0000,,There's more to research.
+Dialogue: 0,0:18:22.35,0:18:24.48,Momo_Main,Gu,0000,0000,0000,,Glad to hear it, Kaguya.
+Dialogue: 0,0:18:24.48,0:18:27.48,Momo_Main,Gu,0000,0000,0000,,The court will continue to help you.
+Dialogue: 0,0:18:28.02,0:18:29.40,Momo_Main,T,0000,0000,0000,,Jeez...
+Dialogue: 0,0:18:35.82,0:18:38.71,building_18:35,,0000,0000,0000,,Second Onigashima Building Grounds
+Dialogue: 0,0:18:41.35,0:18:45.16,Momo_Main,G,0000,0000,0000,,Don't slack off, or the harvest will be late!
+Dialogue: 0,0:18:45.16,0:18:48.60,Momo_Main,E,0000,0000,0000,,You may be better off doing this.
+Dialogue: 0,0:18:48.84,0:18:51.11,Momo_Main,G,0000,0000,0000,,There's nobody else to do it.
+Dialogue: 0,0:18:51.11,0:18:52.47,Momo_Main,G,0000,0000,0000,,Will you do it?
+Dialogue: 0,0:18:52.47,0:18:53.66,Momo_Main,E,0000,0000,0000,,No.
+Dialogue: 0,0:18:53.66,0:18:55.05,Momo_Main,E,0000,0000,0000,,It looks annoying.
+Dialogue: 0,0:18:57.56,0:19:01.79,Momo_Main,G,0000,0000,0000,,Enki's like this, and Tekki's \Noff training by himself...
+Dialogue: 0,0:19:12.14,0:19:16.46,Momo_Main,G,0000,0000,0000,,It's going to take a long time to \Nget Onigashima off the ground again.
+Dialogue: 0,0:19:16.69,0:19:18.58,Momo_Main,E,0000,0000,0000,,Isn't that fine?
+Dialogue: 0,0:19:18.58,0:19:20.57,Momo_Main,E,0000,0000,0000,,There's no reason to hurry.
+Dialogue: 0,0:19:20.57,0:19:24.51,Momo_Main,E,0000,0000,0000,,Though one of us certainly is.
+Dialogue: 0,0:19:24.51,0:19:25.56,Momo_Main,G,0000,0000,0000,,That's right.
+Dialogue: 0,0:19:33.63,0:19:38.72,Momo_Main,Gu,0000,0000,0000,,Welcome back, Inugami, Sarugami, Kijigami.
+Dialogue: 0,0:19:39.82,0:19:40.72,Momo_Main,O,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:19:40.94,0:19:42.99,Momo_Main,Gu,0000,0000,0000,,Oh, hello.
+Dialogue: 0,0:19:44.26,0:19:46.13,Momo_Main,Mo,0000,0000,0000,,You're back?
+Dialogue: 0,0:19:46.13,0:19:47.49,Momo_Main,P,0000,0000,0000,,You never learn.
+Dialogue: 0,0:19:47.49,0:19:49.42,Momo_Main,O,0000,0000,0000,,Shut up, animals.
+Dialogue: 0,0:19:50.14,0:19:51.53,Momo_Main,O,0000,0000,0000,,Where is she?
+Dialogue: 0,0:19:51.53,0:19:54.73,Momo_Main,O,0000,0000,0000,,Today's the day I finish this!
+Dialogue: 0,0:19:57.49,0:20:00.89,Momo_Main,M,0000,0000,0000,,Jeez, you're here every single day!
+Dialogue: 0,0:20:00.89,0:20:02.01,Momo_Main,M,0000,0000,0000,,Give up already!
+Dialogue: 0,0:20:02.42,0:20:04.37,Momo_Main,O,0000,0000,0000,,"Come at me as many times as you like."
+Dialogue: 0,0:20:04.37,0:20:07.19,Momo_Main,O,0000,0000,0000,,"I'll fight you as much as you want!"
+Dialogue: 0,0:20:07.19,0:20:09.79,Momo_Main,O,0000,0000,0000,,That's what you said, right?
+Dialogue: 0,0:20:09.79,0:20:12.25,Momo_Main,O,0000,0000,0000,,Now, fight me as much as I want!
+Dialogue: 0,0:20:12.65,0:20:14.06,Momo_Main,M,0000,0000,0000,,You brat...
+Dialogue: 0,0:20:14.06,0:20:16.75,Momo_Main,M,0000,0000,0000,,You've lost 99 of our last 99 fights!
+Dialogue: 0,0:20:17.00,0:20:17.99,Momo_Main,O,0000,0000,0000,,No!
+Dialogue: 0,0:20:17.99,0:20:20.39,Momo_Main,O,0000,0000,0000,,There were 99 fights and 99 ties!
+Dialogue: 0,0:20:20.91,0:20:24.80,Momo_Main,O,0000,0000,0000,,Our 100th fight will be \Nwhen I finally defeat you!
+Dialogue: 0,0:20:25.90,0:20:28.54,Momo_Main,M,0000,0000,0000,,You mean it'll be the 100th \Ntime I beat you, right?
+Dialogue: 0,0:20:32.27,0:20:33.77,Momo_Main,M,0000,0000,0000,,Here I go, Onihime!
+Dialogue: 0,0:20:37.53,0:20:39.78,Momo_Main,D,0000,0000,0000,,Good luck, both of you!
+Dialogue: 0,0:20:41.53,0:20:44.65,Momo_Main,Mo,0000,0000,0000,,Your millet dumplings are so good, grannie.
+Dialogue: 0,0:20:46.16,0:20:47.60,Momo_Main,Gi,0000,0000,0000,,Thanks.
+Dialogue: 0,0:20:48.18,0:20:49.44,Momo_Main,Gi,0000,0000,0000,,Momoko!
+Dialogue: 0,0:20:49.44,0:20:50.59,Momo_Main,Gi,0000,0000,0000,,Onihime-chan!
+Dialogue: 0,0:20:51.12,0:20:53.32,Momo_Main,Gi,0000,0000,0000,,I've got some for both of you!
+Dialogue: 0,0:20:54.20,0:20:55.59,Momo_Main,O,0000,0000,0000,,Thanks for always making those for me!
+Dialogue: 0,0:20:55.92,0:20:57.43,Momo_Main,M,0000,0000,0000,,You're such a brat!
+Dialogue: 0,0:20:57.43,0:20:59.27,Momo_Main,M,0000,0000,0000,,You should know better!
+Dialogue: 0,0:20:59.27,0:21:01.49,Momo_Main,O,0000,0000,0000,,I don't want to hear that from you.
+Dialogue: 0,0:21:01.49,0:21:02.15,Momo_Main,O,0000,0000,0000,,Okay!
+Dialogue: 0,0:21:02.15,0:21:05.10,Momo_Main,O,0000,0000,0000,,Whoever wins gets all the dumplings, then.
+Dialogue: 0,0:21:05.10,0:21:05.91,Momo_Main,M,0000,0000,0000,,Fine!
+Dialogue: 0,0:21:05.91,0:21:07.74,Momo_Main,M,0000,0000,0000,,I won't lose!
+Dialogue: 0,0:21:27.42,0:21:28.29,Momo_Main,Gi,0000,0000,0000,,You saw, didn't you?
+Dialogue: 0,0:21:31.09,0:21:32.66,Momo_Main,Gi,0000,0000,0000,,What a stupid man.
+Dialogue: 0,0:21:46.36,0:21:48.21,Momo_Main,O,0000,0000,0000,,Here I go, Momoko!
+Dialogue: 0,0:21:48.55,0:21:49.79,Momo_Main,M,0000,0000,0000,,I won't lose!
+Dialogue: 0,0:21:56.46,0:22:02.10,Momo_Italics,Gi,0000,0000,0000,,And so Momoko and her friends \Nlived happily ever after.
+Dialogue: 0,0:22:03.29,0:22:05.49,Momo_Italics,Gi,0000,0000,0000,,The end!
+Dialogue: 0,0:22:08.14,0:22:10.50,End,,0000,0000,0000,,{\fad(1,783)}The End
